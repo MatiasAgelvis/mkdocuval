@@ -1,0 +1,2644 @@
+# Davidson 1990 De la verdad y de la interpretación
+
+ 
+## 27
+DAVIDSON, Donald \(1984\-1990:27\)\. * De la verdad y de la interpretación\. Fundamentales contribuciones a la     filosofía del lenguaje\. *Barcelona: Gedisa
+
+ Capítulo 1  __Teorías del significado y lenguajes aprendidos__
+
+ A los filósofos les encanta hacer observaciones respecto a las propiedades que debe tener un lenguaje para poder ser, aun en principio, aprendible\. … A diferencia de algunas opiniones balbuceantes acerca de cómo aprendemos un lenguaje, propongo alguno que me parece un aspecto claramente necesario de __un lenguaje aprendible__: debe ser posible dar una explicación constructiva del significado de las oraciones en el lenguaje\. Llamo a esa explicación una teoría del significado para el lenguaje y sugiero que una teoría del significado que entre en conflicto con esta condición … no puede ser una teoría de un lenguaje natural  … una cantidad de teorías del significado usuales choca con esta condición o la ignora\.
+
+ Primariamente aprendemos unos pocos sujetos y predicados que se aplican a objetos físicos queribles o comestibles de tamaño medio en el primer plano de los sentidos o del interés; el aprendizaje tiene lugar mediante un proceso condicionante en el que interviene la ostensión\.\. Luego siguen predicados complejos y términos singulares para objetos no necesariamente ya observados, o permanentemente fuera de la vista debido al tamaño, fecha, atenuación o inexistencia\. A continuación siguen términos teóricos, quizás aprendidos mediante “postulados de significado” o a fuerza de hallarse enclavados en un discurso apropiadamente científico\.
+
+
+## 28
+DAVIDSON, Donald \(1984\-1990:28\)\. De la verdad y de la interpretación\. Fundamentales
+
+En algún punto temprano de este juego se da el gran salto del término a la oración, si bien cómo se lo da puede resultar oscuro al diluirse la transición por la existencia de oraciones de una sola palabra: “Mamá”, “Fuego”, “Baba”, “Cabeza”, etcétera\.
+
+… Esta teoría hoy ha perdido crédito en casi todos sus detalles\. Por una parte, no hay razones obvias para pensar que el orden de aprendizaje se relaciona con la prioridad epistemológica\. … En algunos casos, se puede sostener que el orden de aprendizaje es inverso al orden epistemológico: los datos de los sentidos pueden ser la base de nuestro conocimiento de los *sense\-data* … mucho después de que se consigue hablar de los objetos físicos\. Por último, la epistemología subyacente, con sus supuestos de psicología asociacionista y sus simple y reduccionista teoría del significado, ya no resulta atractiva para la mayoría de los filósofos\. …
+
+ P\. F\. Strawson ha destacado la conocida opinión de Quine de que “toda la categoría de los términos singulares es teóricamente superflua” Strawson concede … que dentro de un lenguaje que ya contiene términos singulares, __podemos parafrasear “todo cuanto hoy decimos mediante uso de términos singulares, con formas de palabras que no contengan términos singulares__”\. Lo que Strawson niega es que de esta suposición se infiera la posibilidad teórica de que podamos hablar un lenguaje sin términos singulares, “… __en la cual nunca los habríamos usado__, en el cual la __categoría de los términos singulares simplemente no existiera__, pero en el cual seríamos capaces, no obstante, de decir todo lo que ahora somos capaces de decir mediante el uso de términos singulares”\. Strawson luego se aboca a establecer independientemente la imposibilidad teórica de tal lenguaje\. 
+
+
+## 29
+DAVIDSON, Donald \(1984\-1990:29\)\. De la verdad y de la interpretación\. Fundamentales
+
+… no tengo interés en responder a dos ideas de Strawson: éstas son, a grandes rasgos, que la *eliminabilidad* de los términos singulares no se infiere de la parafraseabilidad y que la eliminabilidad, tal como se la describe, es imposible\. Ambas cuestiones son discutibles … mi interés se centra exclusivamente en el argumento principal que Strawson utiliza en el intento de desacreditar la tesis de eliminabilidad de Quine\. Las siguientes son dos ideas esenciales de este argumento:
+
+\(1\) Para que los predicados puedan ser comprendidos, algunos predicados deben aprenderse ostensivamente o por “confrontación directa”;
+
+\(2\) para que dicho aprendizaje tenga lugar, la situación de aprendizaje ostensivo debe estar “articulada en el lenguaje” por un elemento demostrativo que elija o identifique entidades de la clase a la cual se aplica el predicado\.
+
+Quine ha contestado que \(1\) y \(2\) no bastan para establecer la necesidad de términos singulares, pues los demostrativos pueden interpretarse como términos generales\. Esto bien puede ser verdad; mi interés, sin embargo, reside en que \(1\) y \(2\) implican que las cuestiones sustantivas acerca del aprendizaje del lenguaje pueden resolverse sobre fundamentos puramente a priori\.
+
+ Resumiendo su propio argumento, Strawson dice: “Algunos términos universales deben estar conectados con nuestra experiencia, para que éstos puedan ser comprendidos\. Y estos términos universales deben estar relacionados con porciones o segmentos particulares de nuestra experiencia\. De ahí que, deben aprenderse como *predicados particulares*, deben aprenderse como predicados demostrativamente identificados”\. … 
+
+
+## 29\-30
+DAVIDSON, Donald \(1984\-1990:29\-30\)\. De la verdad y de la interpretación\. Fundamentales
+
+Strawson aparentemente *iguala* el aprendizaje ostensivo de un predicado con el aprendizaje por “confrontación directa”\. Uno puede imaginar dos motivos por los cuales este proceso se considera como algo más especial que aprender el significado de un predicado escuchando oraciones que lo asocien a términos demostrativos singulares\. __Uno es que el aprendizaje ostensivo puede requerir por parte del maestro una intención de que determinado objeto llame la atención del alumno__\. Sin embargo, parece que __tal intención no es necesaria, y en efecto la mayor parte del aprendizaje de un lenguaje probablemente se debe más a la observación e imitación por parte del alumno que a cualquier propósito didáctico por parte de aquéllos observados e imitados__\. Una segunda diferencia es que la confrontación directa … requiere la presencia de un objeto apropiado, en tanto que el uso correcto de un término demostrativo singular no la requiere\. Pero no es una verdad a priori, y probablemente ni siquiera sea una verdad, que una persona no podría aprender su primer lenguaje en un entorno hábilmente falsificado\. Pensar de otra manera sería, como dice Strawson … limitar demasiado el poder de la imaginación humana”\.
+
+ Al defender \(2\) Strawson revela lo que, a mi parecer, es la confusión … no hay ninguna razón por la cual el aprendizaje ostensivo de predicados debe estar “articulado en el lenguaje” de una forma en lugar de otra: __no hay razón por la cual la referencia a particulares … deba darse por medio de demostrativos\.__
+
+
+## 31
+DAVIDSON, Donald \(1984\-1990:31\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Con respecto a la __interdependencia conceptual__, Quine parece concordar … y escribe que: “el término general y singular demostrativo son, junto a la __identidad__, instrumentos interdependientes que el niño de nuestra cultura debe domesticar en un solo revoltillo alocado”\. __Si estas pretensiones de interdependencia son defendibles, sigue siendo cierto que no podríamos aprender un lenguaje en el cual los los predicados significan lo que significan los predicados en nuestro lenguaje y en el cual no hubiera términos singulares demostrativos__\. No podríamos aprender tal lenguaje pues, de acuerdo con los supuestos, no podría haber un lenguaje así\. La lección totalmente negativa para las teorías del aprendizaje del lenguaje, aunque no carente de importancia: en la medida en que tomemos seriamente el carácter “orgánico” del lenguaje, no podemos describir con exactitud los primeros pasos hacia la conquista como un aprender parte del lenguaje; es más bien una cuestión de aprendizaje en parte\.
+
+ No resulta apropiado esperar que consideraciones lógicas dicten la vía o el mecanismo de adquisición del lenguaje, pero estamos autorizados a considerar anticipándonos al estudio empírico lo que supondremos por conocer un lenguaje, __cómo describimos la habilidad o capacidad de una persona que ha aprendido a hablar un lenguaje__\. Una condición natural a imponer es que debemos ser capaces de definir un predicado de expresiones, basado únicamente en las propiedades formales de éstas, que revele la clase de expresiones significativas \(oraciones\), en base al supuesto de que diversas variantes psicológicas se mantienen constantes\. __Este predicado proporciona la gramática del lenguaje__\. Otra condición, aún más interesante, es que debemos ser capaces de especificar, __de un modo que dependa efectiva y únicamente de consideraciones formales__, lo que cada oración significa\. __Con los accesorios psicológicos adecuados__, __nuestra teoría debería equipararnos para determinar en una oración arbitraria lo que el hablante del lenguaje significa con esa oración \(lo que cree que ella significa\)__\.
+
+
+## 31\-32
+DAVIDSON, Donald \(1984\-1990:31\-32\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Con la guía de una teoría adecuada vemos cómo acciones y disposiciones de los hablantes inducen a una estructura semántica en las oraciones del lenguaje\. Si bien indudablemente relativizado a tiempos, lugares y circunstancia, el tipo de estructura requerido parece o muy similar al tipo que surge de *una* definición de la verdad según la línea iniciada por Tarski, pues esta definición proporciona un efectivo método para determinar el significado de cada oración \(por ejemplo, enumera las condiciones bajo las cuales es verdadera\)\. No intento sostener aquí la necesidad de ser capaces de extraer una definición de la verdad partir de una teoría adecuada \(si bien se requiere algo así\), pero__ una teoría cumple la condición que yo tengo en mente si podemos extraer de ella una definición de verdad; no se requiere en particular una noción de significado más fuerte que ésta__\.
+
+ Estas cuestiones parecen estar relacionadas con la posibilidad de aprender un lenguaje de una manera formal que ahora describo\. Cuando podemos considerar el significado de cada oración como una función de un número finito de rasgos de la oración, no sólo tenemos una percepción de lo que se puede aprender, también __comprendemos cómo una aptitud infinita puede abarcarse mediante logros finitos__\. Y bien, __supongamos que un lenguaje careciera de estas características__; entonces, no importa cuantas oraciones aprenda a generar y comprender el candidato a hablante, __siempre quedarán otras cuyos significados no respondan a las reglas conocidas__\. __Es natural concluir que un lenguaje así es inaprendible__\.  …
+
+
+## 32\-33
+DAVIDSON, Donald \(1984\-1990:32\-33\)\. De la verdad y de la interpretación\. Fundamentales
+
+ __Llamamos *primitivo semántico* __a __una expresión__ para la cual las reglas que determinan el significado de las oraciones en que ella no aparece no bastan para determinar el significado de las oraciones en que ella sí aparece\. Entonces podemos enunciar la condición en discusión diciendo: __un lenguaje aprendible tiene un número finito de primitivos semánticos__\. Por rústico que sea este enunciado de la condición, creo que es suficientemente claro como para sostener la idea de que una cantidad de teorías del significado reciente no son, ni siquiera en principio, aplicables a los lenguajes naturales, pues los lenguajes para los cuales tiene aplicación no son aprendibles en el sentido descrito\.
+
+Paso ahora a dar ejemplos\.
+
+Primer ejemplo\. *El signo de una cita: las comillas*\. Las comillas deberían intrigarnos más de lo que lo hacen… Puesto que el número de citas es infinito, aparentemente __nuestro conocimiento atesora una regla__\. \.\.\. __*Quine dice*__: “Comúnmente se indica el nombre de un nombre o de otra expresión colocando la expresión nombrada entre comillas simples … del todo, llamado *cita*, __denota__ su interior”\. __Tarski dice__ esencialmente lo mismo … Quine destaca que las citas tienen “ciertas características anómalas que “requiere una especial cautela\. Church llama “engañoso” a este recurso\. Lo engañoso es, quizás, que nos vemos tentados a considerar a cada par de comillas como una expresión funcional pues cuando encierra a una expresión el resultado denota dicha expresión\.
+
+
+## 33\-34
+DAVIDSON, Donald \(1984\-1990:33\-34\)\. De la verdad y de la interpretación\. Fundamentales
+
+Pero para despojar esta idea, debemos tratar a las expresiones entre comillas como __términos o variables singulares__\. Tarski señala que, en casos favorables, se llega a paradojas; en casos desfavorables, la expresión comprendida carece de significado\. __Debemos entonces dejar de lado la idea de que las citas son “expresiones sintácticamente compuestas, de las cuales son parte tanto las comillas como las expresiones que ellas encierran__”\. La única alternativa que nos ofrece Tarski es la siguiente:
+
+ Los nombres de una cita deben tratarse como palabras simples de un lenguaje y por lo tanto como expresiones sintácticamente simples\. Los constituyentes simples de estos nombres ―las comillas y las expresiones comprendidas entre ellas― cumplen la misma función que las letras y los complejos de letras sucesivas en las palabras simples\. De allí que no puedan poseer un significado independiente\. Cada nombre de una __cita__ es así un nombre individual constante de una expresión definida … y en efecto un nombre del nombre naturaleza como el nombre propio de un hombre\.
+
+ Aparentemente en la misma línea de pensamiento, Quine escribe que una expresión __entre comillas__ “se encuentra allí como un mero fragmento de un nombre más largo que contiene, aparte de este fragmento, las dos comillas, y compara la presencia de una expresión entre comillas con la presencia de “cat” en “cattle” y de “can” en “canary”\. … el hecho de que las mismas letras se presenten juntas y en el mismo orden en cualquier parte es irrelevante en cuestiones de significado\. … *Finalmente*, __cada cita es un primitivo semántico, y puesto que hay infinitas citas diferentes, un lenguaje que contiene citas es inaprendible__\.
+
+
+## 34
+DAVIDSON, Donald \(1984\-1990:34\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Cada cita es un primitivo semántico, y , puesto que hay infinitas citas diferentes, un lenguaje que contiene citas es inaprendible\.
+
+ Esta conclusión choca con nuestra intuición\. No hay problema en delinear una regla general para identificar citas en base a la forma \(toda expresión encerrada entre comillas\) … Puesto que estas reglas implican que las citas tienen estructura significativa, es difícil negar que deba haber una teoría semántica que la explote\. Tarski … parece insinuar que las citas tienen una estructura significativa cuando dice: “Es claro que podemos correlacionar un nombre estructural\-descriptivo con cada nombre\-comilla, uno que no está sujeto a comillas y posee la misma extensión \(por ejemplo, denota la misma expresión\) y viceversa” …
+
+ Quine lleva las cosas más allá cuando afirma que si bien las citas son “lógicamente inestructuradas, y desde luego las expresiones __se presentan de manera no referencial__ dentro de las comillas, aun esta última característica puede “desvanecerse por un sencillo cambio de notación” lo que nos deja con los recurso lógicamente estructurados del deletreo y la concentración …
+
+ En una teoría así ya no hay un número infinito de primitivos semánticos, a pesar del hecho de que no pueda demostrarse que las citas contengan partes con roles semánticos independientes\. Si aceptamos una teoría de este tipo, nos vemos forzados a admitir una especie de estructura que puede no merecer ser llamada “lógica”, pero que sin duda está directa e indisolublemente ligada a la estructura lógica, un tipo de estructura que falta en los nombres propios usuales\.
+
+
+## 35
+DAVIDSON, Donald \(1984\-1990:35\)\. De la verdad y de la interpretación\. Fundamentales
+
+Segundo ejemplo\. Scheffler y *el discurso indirecto*\. Israel Scheffler ha propuesto lo que él llama una __aproximación inscripcional al discurso indirecto__\. Carnap en una época analizó las oraciones del discurso indirecto considerando una relación \(elaborada en términos de __isomorfismo__ __intensional__\)\* \[sic\] entre un hablante y una oración\. Church objetó que el análisis de Carnap conllevaba una referencia implícita a un lenguaje que faltaba en las oraciones a ser analizadas, agregando que creía que cualquier análisis correcto interpretaría que la__ cláusula\-*that*__ hace referencia a una proposición\. … Scheffler se abocó a mostrar que un análisis correcto podría arreglárselas en menos, demostrando lo que podía hacerse con una ontología de inscripciones \(y de emisiones\)
+
+Para Scheffler el “__*that*__” __es un operador__ que se aplica a una oración para formar un término general compuesto\. … Pero no hay ninguna alusión respecto de cómo el significado de estos predicados depende de su estructura … Incluso la idea de __“*that*” es un operador de formación de predicados debe reconocerse como una observación puramente sintáctica que no tiene eco en la teoría del significado__\.
+
+\*”intensional” en el original en inglés: “Carnap at one time analysed sentences in indirect discourse as involving a relation \(elaborated in terms of a notion of intensional isomorphism\) berween a speaker and sentence,” p\. 11
+
+
+## 36
+DAVIDSON, Donald \(1984\-1990:36\)\. De la verdad y de la interpretación\. Fundamentales
+
+*Tercer ejemplo\. Quine y las oraciones de creencia\. *Siempre podemos cambiar problemas de ontología a raíz de expresiones y posiciones putativamente referenciales, por problemas de articulación lógica\. Si una expresión irrita por su supuesta referencia, no es necesario extirparla\. Basta con declararla una parte sin sentido de una expresión significativa\. Este tratamiento no será matar antes de curar; después de que todos los términos y posiciones singulares posibles de cuantificación hayan sido fijados a sus contextos, quedará la estructura lógica creada por el tratamiento de las oraciones como unidades inanalizables y por los conectivos oracionales puros\. Pero la semántica sin ontología no es muy interesante, y un lenguaje como el nuestro para el cual no pudiera hacerse algo mejor sería un paradigma de inaprensibilidad\.
+
+ 
+
+ 
+
+
+## 36
+DAVIDSON, Donald \(1984\-1990:36’\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Quine, desde luego, no ha llegado tan lejos … Próximo a la conclusión de una prolongada, brillante y desalentadora búsqueda de una teoría satisfactoria de las oraciones de creencia \(y de sus parientes cercanos: oraciones del discurso indirecto, oraciones acerca de dudas, asombros, miedos, deseos, etcétera\) Quine afirma que una vez renunciemos a tratar de cuantificar respecto de las cosas creídas:
+
+ … no hay ninguna necesidad de reconocer a “cree” y a verbos similares como términos emparentados; no hay necesidad de sostener su uso predicativo como “w cree x” \(comparado con “w cree que p”; no hay necesidad, por lo tanto, de ver a “que p” como un término\. De allí, una alternativa final que yo encuentro tan atractiva como cualquier otra es simplemente hacer caso omiso a los objetos de las actitudes proposicionales … Esto significa considerar a “Tom cree \(Cicerón denunció a Catilina\)” … como de la forma “Fa” donde a=Tom y “F” es compleja\. El verbo “cree” cesa aquí de ser un término y se vuelve parte de un operador “cree que”, aplicado a una oración, produce un término general absoluto compuesto de cual la oración se considera constituyente inmediato\.
+
+ En un aspecto, esto va un paso más allá que Scheffler, pues hasta el verbo principal \(“cree” en este caso\) se hace accesible al análisis lógico\. La referencia a constituyentes y operadores debe ser tomada, por supuesto, como puramente sintáctica, sin apoyo en la teoría semántica\.
+
+
+## 37
+__DAVIDSON__, Donald \(1984\-1990:__37__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Cuarto ejemplo\. Church y la Lógica del Sentido y la Denotación\. En los dos últimos ejemplos, la pérdida de un mínimo deseable de articulación de significado pareciera ser el resultado de un celo excesivo en la atención de los problemas de ontología\. Pero sería un error inferir que resolveríamos todos los problemas siendo pródigos con entidades intensionales\.\*
+
+ Frege nos pide que supongamos que ciertos verbos, como “cree” \(o “cree que”\), cumplan una doble función\. Primero crean un contexto en el cual las palabras que siguen pasan a referir su sentido o significado usual\. Segundo \(suponiendo que el verbo es el verbo principal de la oración\), cumplen un tipo de función normal al mapear personas y proposiciones con valores de verdad\. Esta doctrina parece ser bastante oscura, particularmente con respecto al primer punto, y Frege parece haberlo pensado\. Su punto de vista … que un lenguaje lógicamente más transparente se usaría palabras diferentes para referirse al sentido y a la denotación, aliviando así los verbos sobrecargados de su primera, y más oscura, tarea… 
+
+ No debe pensarse que habrá menos problemas con la sugerencia original de Frege\. Aun si supiéramos haber dado un sentido correcto a la idea de que ciertas palabras crean un contexto en el cual otras palabras toman nuevos significados \(una idea que sencillamente la hace aparecer como funtores\), restaría la tarea de reducir a la teoría la determinación de dichos significados: un número infinito, al menos para algunas palabras\. El problema no es cómo las expresiones individuales que conforman una oración gobernada por “cree”, dados los significados que tienen en el contexto tal, se combinan para denotar una proposición; el problema es más bien enunciar la regla que dé a cada una el significado que efectivamente tiene\.
+
+\* En el original en inglés: “But it would be mistake to infer that by being prodigal whit intensional entities we can solve all problems\. \(p\. 14\)\. Debe coincidir con el español intensión\. Hacia afuera, hacia la realidad exterior al término o a la proposición\.
+
+
+## 39
+DAVIDSON, Donald \(1984\-1990: 39\)\. De la verdad y de la interpretación\. Fundamentales
+
+Cap\. 2 Verdad y significados
+
+ La mayor parte de los filósofos del lenguaje, y recientemente algunos lingüistas, han aceptado que una teoría del significado satisfactorio debe dar cuenta de cómo los significados de las oraciones dependen del significado de las palabras\. Se argumenta que, a menos que pudiera rendirse cuenta de ello para un lenguaje particular, no habría forma de explicar el hecho de que podamos aprender el lenguaje; no se podría explicar el hecho de que, a través del dominio de un vocabulario finito y de un conjunto de reglas enunciadas de manera finita, estamos preparados para producir y comprender cualquier oración de la potencial infinitud de ellas\. No discuto estas vagas pretensiones, en las que veo algo más que una semilla de verdad\. En cambio, quiero cuestionar qué es para una teoría dar una explicación del tipo esbozado\. 
+
+
+## 40
+__DAVIDSON__, Donald \(1984\-1990:__40__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Nos corresponde entonces replantear nuestros requisitos para una teoría del significado satisfactoria de modo de __no insinuar que las palabras individuales deben tener significados, __ en algún sentido que trascienda al hecho de que aquellas tienen un efecto sistemático sobre los significados de las oraciones en que aparecen\. En realidad, para el caso que tenemos entre manos podemos ir aún más lejos al establecer el criterio de éxito: lo que queríamos, y lo que obtuvimos, es una teoría que implica a todas las oraciones de forma “t refiere a x” donde “t” es emplazada por una descripción estructural de un término singular, y “x” es reemplazada por ese término mismo\. Más aún, nuestra teoría logra esto sin apelar a ningún concepto semántico más allá de lo básico “refiere a” …
+
+ Una teoría con semejantes méritos evidentes merece una aplicación más amplia\. El recurso __propuesto por Frege a este efecto es de una simplicidad brillante: tomar a los predicados como un caso especial de expresiones funcionales, y a las oraciones como un caso especial de términos singulares complejos__\. \*
+
+\* ¿“expresiones funcionales” equivale a la noción de “enunciado” \(particular uso\) en oposición a “oración” \(estructura gramatical y de contenido semántico virtual, referencial\)? 
+
+
+## 40\-41
+__DAVIDSON__, Donald \(1984\-1990:__40\-41__\)\. De la verdad y de la interpretación\. Fundamentales
+
+Sin embargo, si queremos continuar en nuestro presente \(implícito\) camino de identificación de *un* término singular con su referencia, asoma una dificultad\. La dificultad surge tras hacer dos suposiciones razonables: __qué términos singulares lógicamente equivalentes tienen la misma referencia__, __y que un término singular no cambia por otro con la misma referencia__\. Pero supongamos ahora que “R” y “S” abrevien a dos oraciones cualesquiera iguales en valor de verdad\. Luego, las cuatro oraciones siguientes tienen la misma referencia:
+
+\(1\) R
+
+\(2\) x \(x= x\.R\) = x \(x= x\)
+
+\(3\) x \(x= x\.S\) = x \(x = x\)
+
+\(4\) S
+
+ Pues \(1\) y \(2\) son lógicamente equivalentes, como lo son \(3\) y \(4\), mientras que \(3\) difiere de \(2\) solamente porque contiene al término singular “x \(x = x \.S\)” donde \(2\) contiene a “x \(x = x\. R\) y ambas refieren a la misma cosa si S y R son iguales en valor de verdad\. __De aquí que dos oraciones cualesquiera tengan la misma referencia si tienen el mismo valor de verdad\.__ Y si el significado de una oración es lo que ella refiere, __todas las oraciones iguales en valor de verdad deben ser sinónimas: un resultado intolerable__\.
+
+
+## 41\-42
+__DAVIDSON__, Donald \(1984\-1990:__41\-42__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Aparentemente debemos abandonar este camino en nuestra búsqueda de una teoría del significado Este es el momento adecuado para buscar auxilio en la __distinción entre significado y referencia__\. El problema, se nos informa, es que l__as cuestiones de referencia las solucionan en general hechos extralingüísticos, no así las cuestiones de significado__, y los hechos pueden fusionar a las referencias de expresiones que no son sinónimos\. Si queremos una teoría que dé el significado \(diferenciado de la referencia\) de cada oración, debemos comenzar por el significado \(diferenciado de la referencia\) de las partes\.
+
+… ahora quisiéramos sugerir, hemos llegado a un *impasse*: __el paso de la referencia al significado no nos lleva a ninguna explicación útil del modo en que los significados de las oraciones dependen del significado de las palabras \(u otros rasgos estructurales\) que las componen\. __ 
+
+…* *__*es ocioso*__ __hablar de la estructura de la oración y de los significados de las palabras pues ello no cumplía ningún papel en la producción de la descripción dada del significado de la oración__\. 
+
+
+## 42\-43
+__DAVIDSON__, Donald \(1984\-1990:__42\-43__\)\. De la verdad y de la interpretación\. Fundamentales
+
+… __buscamos una teoría análoga a la teoría mínima de la referencia__ __de términos singulares __recién delineada, pero que a diferencia de ésta __trate con significados en lugar de tratar con referencias__\. Lo que la analogía requiere es una teoría que tenga por consecuencias a todas las oraciones de la forma “s significa m” donde “s” sea reemplazada por una descripción estructural de la oración y “m” sea reemplazada por un término singular que refiera al significado de dicha oración …
+
+Los significados como entidades, por el concepto afín de sinonimia, nos permiten formular la siguiente regla que relaciona a las oraciones con sus partes: son sinónimas de las oraciones cuyas partes correspondientes son sinónimas \(“correspondientes”, desde luego, requiere aquí una aclaración\) Y en teorías como la de Frege, los significados como entidades pueden, en ocasiones, cumplir funciones de referencias, perdiendo así su estatus de entidades diferenciadas de las referencias\. … Supongamos que tenemos para nuestro lenguaje una teoría satisfactoria de la sintaxis, que consiste en un método efectivo para determinar, para una expresión arbitraria, __si es o no independientemente significativa __\(por ejemplo una oración\), y pensamos como es usual que esto implica considerar que cada oración está compuesta, de una manera admisible, por elementos extraídos de una reserva finita y fija de elementos sintácticos atómicos \(esto es palabras\)\. La esperanza es que la sintaxis así concebida dará la semántica cuando agreguemos un diccionario que dé el significado de cada átomo sintáctico\. La esperanza se desvanecerá, sin *embargo*, si es que la semántica va a incluir una teoría del significado en el sentido que nosotros le damos a ésta, pues el conocimiento de las características estructurales que hacen significativa a la oración, más que el conocimiento de los significados de las partes últimas no dan por resultado el conocimiento de lo que significa una oración\.
+
+
+## 43
+__DAVIDSON__, Donald \(1984\-1990:__43__\)\. De la verdad y de la interpretación\. Fundamentales…
+
+Esto lo ilustran claramente las oraciones de creencia\. __Su sintaxis es relativamente sencilla__\. Pero el agregado de un diccionario no modifica el problema semántico normal, el cual es que ni siquiera podemos dar cuenta de las condiciones de verdad de tales oraciones partiendo de nuestro conocimiento de los significados de las palabras que contienen\. La situación no mejora mucho aunque podamos refinar el diccionario para indicar qué significado o significados asume una expresión ambigua en cada uno de los contextos posibles; el problema de las oraciones de creencia persiste aun después de resolver las ambigüedades\. El hecho de que la sintaxis recursiva sumada a un diccionario no sea necesariamente __semántica recursiva__ se ha visto oscurecido en algunos trabajos de lingüística recientes a raíz de la intrusión de criterios semánticos dentro de la discusión de teorías sustancialmente sintácticas\. 
+
+
+## 43
+__DAVIDSON__, Donald \(1984\-1990:__43’__\)\. De la verdad y de la interpretación\. Fundamentales…
+
+S__i los criterios semánticos fueran claros, la cuestión se reduciría a una inofensiva diferencia sobre terminología__; pero no lo son\. __Si bien hay acuerdo en que la tarea principal de la semántica es dar la interpretación semántica \(el significado\) de cada oración del lenguaje, e__n ninguna parte de la literatura lingüística se podrá encontrar\. Al menos por cuanto yo se, una explicación llana del modo en que una teoría realiza su tarea, o el modo de determinar cuándo ella ha sido completada\.__ El contraste con la sintaxis es sorprendente\. La tarea principal de una modesta sintaxis es caracterizar la significatividad \(u oracionalidad\)__\. … ¿__Que tarea y comprobación tan claras y análogas existen para la semántica__?__ \*__
+
+__\*__Para una exposición reciente acerca del papel de la semántica en la lingüística, véase Noam Chomsky, “Topics in the Theory of Grammar”\. En este artículo, Chomsky \(1\) insiste en la importancia crucial de la semántica en la teoría lingüística, \(2\) sostiene la superioridad de la gramáticas transformacionales sobre las gramáticas estructurales de frase sobre todo en base a que, si bien, las gramáticas estructurales de frase pueden ser adecuadas para definir la oracionalidad para \(al menos\) algunos lenguajes naturales, resultan inadecuadas como base de la semántica, y \(3\) hace referencia repetidamente al “estado más bien primitivo” de los conceptos de semántica y señala que la noción de interpretación semántica “aún resiste a cualquier análisis profundo”\.
+
+
+## 43\-44
+__DAVIDSON__, Donald \(1984\-1990:__43\-44__\)\. De la verdad y de la interpretación\. Fundamentales\.\.\.
+
+ Decidimos algo más atrás no suponer que __las partes de las oraciones tienen significados__, excepto en el sentido ontológicamente neutro de efectuar una contribución sistemática al significado de las oraciones en las que aparecen\. Dado que postular el significado no ha sido útil, volvamos a aquella idea\. Una de las direcciones hacia la que apunta es una cierta __v__i__sión holística del significado__\. Si el significado de las oraciones *depende* de su estructura, y entendemos el significado de cada ítem de la estructura sólo como una abstracción de la totalidad de las oraciones en las que éste aparece, entonces podemos dar al significado de cualquier oración \(o palabra\) __solamente dando el significado de todas las oraciones \(y palabra\) del lenguaje__\. __Frege dijo que una palabra tiene significado sólo en el contexto de una oración__; siguiendo esta idea debería haber agregado que __sólo en el contexto del lenguaje de una oración \(y por lo tanto una palabra\) tiene significado\.__
+
+ Este grado de holismo ya estaba implícito en la sugerencia de que una teoría del significado adecuada debe implicar a todas las oraciones de la forma “s significa m”\. Pero ahora que no hemos encontrado en los significados de las oraciones mayor ayuda que la que nos daban los significados de las palabras, __la pregunta es si podremos deshacernos de los problemáticos términos singulares que supuestamente reemplazan a “m” y refieren a los significados__\. En un sentido, nada podría ser más fácil: tan sólo escríbase “__s significa que p__”, e imagínese a “p” reemplazado por una oración\. Las oraciones, como hemos visto, no pueden nombrar significados, y las oraciones con “que” prefijado no son nombres en absoluto , a menos que nosotros lo decidamos\.
+
+
+## 44
+__DAVIDSON__, Donald \(1984\-1990:__44__\)\. De la verdad y de la interpretación\. Fundamentales
+
+Pero parece que surgen problemas por otro frente, pues es razonable esperar que el forcejeo con la lógica del aparentemente no extensional “significa que” encontraremos problemas tan difíciles como, si no idénticos a, los problemas que nuestra teoría intenta resolver\.
+
+ La única amanera de tratar con esta dificultad que yo conozco es simple y extrema\. Nos brota la inquietud de estar atrapados en lo intensional por usar palabras “significa que “ como relleno entre la descripción de la oración y la oración, pero puede ser que el éxito de nuestra misión dependa no del relleno sino de lo que éste rellena\. La teoría habrá cumplido su tarea si proporciona, para cada oración s del lenguaje de estudio, una oración compañera \(para reemplazar a “p”\) que, de algún modo todavía por aclarar, “dé el significado” de s\. Un candidato obvio a oración compañera es justamente la propia s, __si el lenguaje objeto está contenido en el metalenguaje__; __si no, una traducción de s en el metalenguaje__\. Como un audaz último paso, intentemos tratar extensionalmente la posición ocupada por “p”: para implementar esto, barramos al oscuro “significa que”, proveyamos a la oración que reemplaza a “p” con un conectivo oracional apropiado, y suministremos su propio predicado a la descripción que reemplaza a “s”\. El resultado posible es: 
+
+ \(T\) s es T si y sólo si p\.
+
+ Lo que que requeriremos de una teoría del significado para un lenguaje L es que, sin apelar a \(más\) nociones semánticas, aplique suficientes restricciones al predicado “es T” como para implicar a todas las oraciones obtenidas del esquema T cuando “s” es reemplazada por una descripción estructural de una oración de L y “p” es reemplazada por esa oración\.
+
+
+## 45
+__DAVIDSON__, Donald \(1984\-1990:__45__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Hemos recorrido un tortuoso sendero para llegar hasta este punto \[la Convención T de Tarski, que pone a prueba la adecuación de una definición semántica formal de verdad\] pero la conclusión puede establecerse con sencillez: __una teoría del significado para un lenguaje L muestra “cómo los significados de las oraciones dependen de los significados de las palabras__” si contiene una definición \(recursiva\) de la verdad para L\. Y, al menos hasta ahora, no tenemos otras ideas para resolver el problema\. __Vale la pena destacar que el concepto de verdad no jugó ningún papel ostensible cuando enunciamos nuestro problema original__\. __Ese problema, una vez pulido, nos llevó a ver que una teoría del significado adecuada debe caracterizar a un predicado que reúna ciertas condiciones__\. Era propio de un descubrimiento el que tal predicado fuera exactamente aplicable a las oraciones verdaderas\. Espero que cuanto estoy diciendo pueda describirse en parte como una defensa de la importancia filosófica del concepto de verdad de Tarski …
+
+ No hay necesidad de suprimir, desde luego, la obvia conexión entre una definición de verdad del tipo que __Tarski__ mostró cómo construir y el concepto de significado\. La conexión es la siguiente: la definición funciona __dando condiciones necesarias y suficientes para la verdad de cada oración, y dar condiciones de verdad es una forma de dar el significado de una oración__\. __Conocer el concepto semántico de verdad para un lenguaje es conocer qué es una oración —cualquier oración— ser verdadera, equivale, en un buen sentido de frase, a comprender el lenguaje__\.
+
+
+## 45\-46
+__DAVIDSON__, Donald \(1984\-1990:__45\-46__\)\. De la verdad y de la interpretación\. Fundamentales
+
+… En todo caso, ésta es mi escusa por una característica de la presente discusión capaz de sacudir viejos expertos: el libre uso que *doy* a la palabra “significado”, por lo cual lo que llamo teoría del significado terminó después de todo por no dar uso alguno a los significados, tanto de oraciones como de palabras\. Ciertamente, dado que una definición de verdad del tipo de Tarski provee todo cuanto hemos exigido hasta ahora de una teoría del significado, resulta claro que una teoría así entra cómodamente dentro de lo que Quine denomina “teoría de referencia”, que se distingue de lo que él denomina “teoría del significado”\. …
+
+ __Una teoría del significado … es una teoría empírica__, y su ambición es dar cuanta del funcionamiento de un lenguaje natural … sólo necesitamos averiguar … si lo que la teoría declara como condiciones de verdad de una oración realmente lo son\. Un caso de prueba típico podría ser decidir si la oración “La nieve es blanca” es verdadera si y sólo si la nieve es blanca \.\.\. __La teoría no dice nada nuevo acerca de las condiciones bajo las cuales una oración individual es verdadera__; no hace aparecer a esas condiciones más claramente que lo que la oración misma lo hace\. La tarea de la teoría es relacionar las condiciones de verdad conocidas de cada oración con aquellos aspectos \(“palabras”\) de la oración que se repiten en otras oraciones, a las que pueden asignarse idénticos papeles en otras oraciones\. __El poder empírico de una teoría de este tipo depende de su éxito en recuperar la estructura de una capacidad muy complicada: la capacidad de hablar y comprender un lenguaje__\. 
+
+
+## 47
+__DAVIDSON__, Donald \(1984\-1990:__47__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ Las afirmaciones del último párrafo sólo son de aplicación directa para el caso especial en que se supone que el lenguaje para el cual está caracterizando la verdad es parte del metalenguaje que usa y comprende el caracterizador … No obstante, este hecho no debería confundirnos y hacernos pensar que una teoría que incluya a “’La nieve es blanca’” es verdadero si y sólo si la nieve es blanca” es más correcta que una que en cambio incluya a \(S\) “La nieve es blanca” es verdadero si y sólo si el césped es verde, descontando, desde luego, que estamos tan seguros de la verdad de \(S\) como lo estamos de la verdad de su más cercana predecesora\. Pero \(S\) puede no alentar la misma confianza de que una teoría del significado\.
+
+ … No es fácil ver cómo \(S\) podría ser partícipe de un emprendimiento tal, pero si lo fuera —esto es, si \(S\) resultara de una caracterización del predicado “es verdadero” que hubiera llevado a un nivel apareamiento de verdades con verdades y de falsedades con falsedades— entonces, pienso yo, no habría nada esencial a la idea del significado que restara capturar\. 
+
+ Lo que aparece a la derecha del bicondicional en oraciones de la forma “s es verdadera si y sólo si p” cuando dichas oraciones son consecuencias de una teoría de la verdad juega su papel en la determinación del significado de s no pretendiendo una sinonimia sino agregando una pincelada más a la imagen que, tomada como un todo, nos dice qué es posible saber del significado de s; la pincelada se puede agregar en virtud del hecho de que la oración que reemplaza a “p” es verdadera si y sólo si s lo es\.
+
+
+## 47\-48
+__DAVIDSON__, Donald \(1984\-1990:__47\-48__\)\. De la verdad y de la interpretación\. Fundamentales…
+
+ Puede ayudar a reflejar que \(S\) sea aceptable, si lo es, el que estemos independientemente seguros de la verdad de “La nieve es blanca” y de “El césped es verde”; pero en casos en que no estemos seguros de la verdad de una oración, podemos tener confianza en una caracterización *del* predicado de verdad sólo si se aparea esa oración con otra de la que tenemos buenas razones para considerar equivale\. Sería un error que alguien que tuviera una duda al respecto del color de la nieve o del césped aceptara una teoría que produjera a \(S\), aun si sus dudas fueran de igual grado, a menos que pensara que el color de una estuviera supeditado al color del otro\. __La omnisciencia puede obviamente deparar más teorías del significado fantásticas que la ignorancia__; __por otra parte, la omnisciencia tiene menos necesidad de comunicación__\. 
+
+
+## 48
+__DAVIDSON__, Donald \(1984\-1990:__48__\)\. De la verdad y de la interpretación\. Fundamentales…
+
+ Como antes, __la meta de la teoría será una correlación infinita de oraciones similares en verdad__\. Pero no se deberá suponer esta vez que el constructor de la teoría tiene una percepción directa de las equivalencias probables entre su propia lengua y la extranjera\. … Cierta __caridad__ en la interpretación de las palabras y pensamientos de los otros es inevitable también en otra dirección: así como debemos maximizar el acuerdo o arriesgarnos a no encontrar sentido a lo que el extranjero está diciendo, también debemos maximizar la autoconsistencia que le atribuimos, bajo pena de no entenderlo a él\. No emerge un único principio de caridad óptima; así, las restricciones no determinan una única teoría\. En una teoría de la traducción radical \(como la llama Quine\) no se desenmarañan completamente las cuestiones de lo que el extranjero significa de las cuestiones de los que cree\. __No sabemos lo que alguien significa a menos que sepamos lo que cree__; __no sabemos lo que alguien cree a menos que sepamos lo que significa__\. En esta interpretación radical estamos capacitados para entrar en este círculo, aunque sea en forma incompleta \.\.\.
+
+
+## 49
+__DAVIDSON__, Donald \(1984\-1990:__49__\)\. De la verdad y de la interpretación\. Fundamentales
+
+ En estas últimas páginas he inquirido acerca de cómo puede ser puesta a prueba empíricamente __una teoría del significado que toma la forma de una definición de verdad__, y he ignorado alegremente la cuestión crucial de si hay alguna posibilidad seria de proveer una teoría de ese tipo para un lenguaje natural\. ¿__Cuáles son las perspectivas para una teoría semántica formal de un lenguaje natural__? __Muy pobres, según Tarski__; y creo que para la mayor parte de los lógicos, filósofos del lenguaje y lingüistas concuerda\. Déjenme hacer lo que pueda para disipar ese pesimismo\. Lo que pueda de una manera general y pragmática …
+
+ Tarski concluye … sobre el concepto de verdad en los lenguajes formalizados con las siguientes afirmaciones…: 
+
+… la posibilidad misma de un uso consistente de la expresión “oración verdadera” que esté en armonía con las leyes de la lógica y con el espíritu del lenguaje diario parece ser muy cuestionable, y consecuentemente la misma duda se aplica a la posibilidad de construir una definición correcta de la expresión\. \.\.\.
+
+ … cuando el concepto de verdad \(al igual que otros conceptos semánticos\) se aplica al lenguaje coloquial en conjunción con las leyes normales de la lógica, lleva inevitablemente a confusiones y contradicciones\. Quien desee, a pesar de todas las dificultades, perseguir el dominio de la semántica del lenguaje coloquial con auxilio de métodos exactos, se verá conducido primero a encarar la ingrata tarea de una reforma del lenguaje\. Encontrará necesario definir su estructura, superar la ambigüedad de los términos que en él aparecen, y finalmente dividir el lenguaje en una serie de lenguajes de mayor y mayor extensión, cada una de los cuales estará vinculado con el siguiente en la misma relación con la cual un lenguaje formalizado se vincula con su metalenguaje\. Sin embargo, se puede dudar de que el lenguaje de la vida diaria, tras ser “racionalizado” de este modo, conserve su naturalidad y no tome en cambio las características de los lenguajes formalizados\.
+
+
+## 49\-50\-52
+__DAVIDSON__, Donald \(1984\-1990:__49\-50\-52__\)\. *De la verdad y de la interpretación*\. *Fundamentales*
+
+ Aquí emergen dos temas: que el carácter universal de los lenguajes naturales lleva a contradicción \(las paradojas semánticas\), y que los* lenguajes * naturales son demasiado confusos y amorfos para permitir la aplicación directa de métodos formales\. … Las paradojas semánticas surgen cuando el rango de los cuantificadores en el lenguaje objeto es demasiado generoso en ciertos aspectos…
+
+ __Creo que no es posible exagerar las ventajas que representan para la filosofía del lenguaje el tener presente la distinción entre cuestiones de forma o gramática lógicas, y el análisis de conceptos individuales__\. Otro ejemplo puede ayudarnos a explicitarlo\.
+
+ *Si suponemos* que las cuestiones de gramática lógica están resueltas, oraciones como “Bardot es buena” no generan problemas especiales para una definición de verdad\. Las profundas diferencias entre términos descriptivos y evaluativos \(emotivos, expresivos, etcétera\) no se manifiestan aquí\. Incluso si sostenemos que en algún sentido importante las oraciones morales o evaluativas carecen de un valor de verdad \(por ejemplo, porque no pueden verificarse\), no debemos retroceder ante ante “Bardot es buena” es verdadero si y sólo si Bardot es buena”; en una teoría de la verdad, esta consecuencia debe acompañar al resto, siguiendo la pista, como debe ser, de la situación semántica de tales oraciones en la totalidad del lenguaje \(de su relación con las generalizaciones, de su papel en oraciones compuestas como “Bardot es buena y Bardot es tonta”, y así sucesivamente\)\. Lo que es privativo de las palabras evaluativo aquí simplemente no se toca: el misterio se transfiere de la palabra “buena” en el lenguaje objeto a su traducción en el metalenguaje\.
+
+
+## 52\-53
+__DAVIDSON__, Donald \(1984\-1990:__52\-53__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Pero “buena”, tal como aparecen en “Bardot es una buena actriz”, es otra cosa\. El problema no es que la traducción de esta oración no esté en el metalenguaje; supongamos que lo está\. El problema es construir una definición de verdad tal que “’Bardot es una buena actriz’ es verdadero si y sólo si es una buena actriz” —y todas las otras oraciones como ésta— sean consecuencia\. Obviamente “buena actriz” no significa “buena actriz”\. Podríamos pensar en tomar a “es una buena actriz” como un predicado no analizado\. Esto borraría toda conexión entre “es una buena actriz” y “es una buena madre”, y no nos daría excusas para pensar que “buena”, en estos usos, es una palabra o elemento semántico\. Y peor aun, nos impediría construir cualquier definición de verdad, pues no hay límite a la cantidad de predicados que tendríamos que tratar como lógicamente simples \(y por lo tanto situar en cláusulas separadas en la definición de satisfacción\): “es una buena compañera para los perros”, “es una buena interlocutora de 28 años de edad”, etc\. El problema no es peculiar de este caso: es el problema de los adjetivos atributivos en general\.
+
+
+## 54
+__DAVIDSON__, Donald \(1984\-1990:__54__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+Me referiré ahora a otro asunto sumamente molesto: __el hecho de que una misma oración dicha por una persona o en determinado momento puede ser verdadera y dicha por otra persona en otro momento puede ser falsa\*__\. __Tanto los lógicos como los críticos de los métodos formales parecen estar aquí mayormente \(aunque de ninguna manera universalmente\) de acuerdo en que la semántica formal y la lógica son incapaces de habérselas con las perturbaciones que causan los demostrativos\. __ Los lógicos han reaccionado a menudo despreciando al lenguaje natural y tratando de mostrar cómo arreglárselas sin demostrativos; sus críticos reaccionan despreciando a la lógica y a la semántica formal\. Nada de esto puede alegrarme: resulta claro que los demostrativos no pueden eliminarse de un lenguaje natural sin un perjuicio o un cambio radical, por lo cual no hay otra alternativa que acomodar la teoría a ellos\. No surgen errores lógicos si simplemente tratamos a los demostrativos como constantes; tampoco aparecen problema si damos una definición de verdad semántica\. “’Yo soy sensato’ es verdadero si y sólo si yo soy sensato”, con su torpe indiferencia ante un elemento demostrativo en “Yo”, sale de la línea de montaje junto con “Sócrates es sensato” es verdadero si y sólo si Sócrates es sensato” con su torpe indiferencia ante el elemento demostrativo en “es sensato” \(en el tiempo\)\.
+
+\[\*Juan de Mairena de Machado: “La verdad es la verdad, dígala quien la diga\.” \-Agamenón: “De acuerdo”/ Su porquero: “No me convence”VA\]
+
+
+## 54\-55
+__DAVIDSON__, Donald \(1984\-1990:__54\-55__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Con este tratamiento de los demostrativos se resiste no la definición de predicado de verdad, sino la plausibilidad de la pretensión de que lo que se ha definido es la verdad\. Pues esta pretensión es aceptable solamente si el hablante y las circunstancias de emisión de cada oración mencionados en la definición son equiparables al hablante y a las circunstancias de emisión de la propia definición de verdad\. Bien podría señalarse además que forma parte de la comprensión de los demostrativos el conocer las reglas según las cuales ellos adaptan su referencia a la circunstancia; si asimilamos los demostrativos a los términos constantes esta observación queda reducida a nada\. …
+
+ __Podemos tomar la verdad como una propiedad__, __no de las oraciones, *sino* de las emisiones, o actos de habla__, o tríos ordenados de oraciones, tiempos y personas; pero más simple __ver a la verdad sólo como una relación entre una oración, una persona y un tiempo__\. Bajo este tratamiento, la lógica común tal como ahora se puede aplicar de manera usual, pero solamente a conjuntos de oraciones relativizadas al mismo hablante en diferentes tiempos; otras relaciones lógicas entre dichas en diferentes tiempos y por diferentes hablantes pueden articularse mediante nuevos axiomas\. Esto no me preocupa\. La teoría del significado sufre un cambio sistemático pero no confuso\.; a cada expresión con un elemento demostrativo debe corresponder en la teoría una frase que relacione las condiciones de verdad de oraciones en las cuales se presenta la expresión con los hablantes y tiempos cambiantes\. Así, la teoría implicará oraciones como la siguiente: “__Yo estoy cansado” es verdadera cuando es \(potencialmente\) dicha por p en t y sólo si p esta cansado en t__\.
+
+
+## 55
+__DAVIDSON__, Donald \(1984\-1990:__55__\)\. __De la verdad y de la interpretación\. Fundamentales__
+
+“Robaron ese libro” es verdadera cuando es \(potencialmente\) dicha por p en t si y sólo si el libro señalado por p en t fue robado antes de t\.
+
+ Evidentemente, este camino no muestra cómo eliminar a los demostrativos; por ejemplo, no se sugiere que “el libro señalado por el hablante” pueda sustituirse ubicuamente por “ese libro” *salva veritate*\. __El hecho de que los demostrativos estén sujetos a tratamiento formal debe alentar en gran medida las esperanzas de obtener una semántica seria del lenguaje natural,__ pues es posible que muchos enigmas notorios, como el análisis de citas o de oraciones acerca de actitudes proposicionales, puedan resolverse si reconocemos una construcción demostrativa oculta\.
+
+ Ahora que hemos relativizado la verdad a los tiempos y a los hablantes, es apropiado echar otra mirada al problema de poner a prueba empíricamente a una teoría del significado para una lengua extranjera\. La esencia del método era, recordemos, correlacionar oraciones consideradas verdaderas con oraciones consideradas verdaderas por medio de la definición de verdad, y dentro de los límites del error tangible\. Ahora debe elaborarse el cuadro para dar cabida al hecho de que las oraciones verdaderas y consideradas verdaderas, sólo a un hablante y a un tiempo\. Es obvio que las oraciones con demostrativos proveen un test muy sensible de la oración de una teoría del significado, y constituyen la ligazón más directa entre el lenguaje y los objetos microscópicos recurrentes de interés y atención humanos\.
+
+
+## 55\-56
+__DAVIDSON__, Donald \(1984\-1990:__55\-56__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ En este trabajo he supuesto que __los hablantes de un lenguaje pueden determinar efectivamente el significado o los significados de una expresión *arbitraria *__\(si es que tiene significado\), y que la tarea principal de una teoría del significado es mostrar __cómo es posible esto__\. He sostenido que una caracterización de un predicado de verdad describe el tipo de estructura requerido y proporciona un criterio claro y comprobable para una semántica adecuada a un lenguaje natural\. Sin duda, hay otros requerimientos … Pero una teoría que no hace otra cosa que definir la verdad para un lenguaje está mucho más próxima a constituir una teoría del significado completa que lo que un análisis superficial podría sugerir, esto es, al menos, lo que yo he afirmado\.
+
+ Dado que a mi parecer no hay otra alternativa, me he hecho una imagen optimista y programática de las posibilidades de una caracterización formal de un predicado de verdad para un lenguaje natural\. Pero debe admitirse que nos espera una apabullante lista de dificultades y acertijos\. Para nombrar a unos pocos: no conocemos la forma lógica de las oraciones contrafácticas o subjuntivas; tampoco las de las oraciones acerca de las probabilidades y acerca de las relaciones causales; no tenemos una buena idea del rol lógico de los adverbios, ni de los adjetivos atributivos; no tenemos una teoría para los términos masa como “fuego”, “agua” y “nieve”, ni para las oraciones de creencia, percepción e intención, ni para verbos de acción que implican propósito\. Y finalmente, están todas las oraciones que no parecen tener valor de verdad alguno: las imperativas, optativas, interrogativas y muchas otras\. __Una amplia teoría del significado para un lenguaje natural debe enfrentar con éxito cada uno de esos problemas__\.
+
+
+## 57
+__DAVIDSON__, Donald \(1984\-1990:__57__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ __Capitulo 3__ __Fiel a los hechos__
+
+ __Un enunciado verdadero es un enunciado fiel a los hechos__\. Esta observación parece incorporar el mismo tipo de juicio obvio y esencial acerca de la verdad como el siguiente acerca de la maternidad: una madre es una persona que es madre de alguien\. La *propiedad *de ser madre está explicada por la *relación *entre una mujer y su hijo; de manera similar, esto parece sugerir que la __propiedad de ser verdadero será explicada por una relación entre un enunciado y alguna otra cosa __… me tomaré la licencia de llamar __*teoría de correspondencia* de la verdad__ a cualquier consideración de este tipo\. __Las teorías de la correspondencia descansan sobre lo que parece ser una idea inevitable pero simple, aunque no han respondido bien al examen__\. La dificultad principal esta en encontrar una noción de hecho que explique todo, que no caiga, al estudiarla, en lo trivial o lo vacío\. Así, la discusión reciente se ocupa fundamentalmente de decidir si alguna forma de correspondencia es verdadera o trivial \(“ … la teoría de la verdad es una serie de verdades de Perogrullo”\)1 o, en tanto que sea confusa, simplemente vacía \(“__La teoría de correspondencia no requiere purificación, sino eliminación__”\)2\. Quienes han discutido el concepto semántico de la verdad en conexión con las teorías de la correspondencia, por lo general, han catalogado al concepto semántico como irrelevante o trivial\.
+
+1 y 2\. J\.L\. Austin y P\.F\. Strawson, simposio sobre “La verdad”\. Las observaciones citadas son de Austin y de Strawson, y aparecen en las páginas 115 y129\.
+
+
+## 57\-58
+__DAVIDSON__, Donald \(1984\-1990:__57\-58__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ En este trabajo defiendo una versión de la __teoría de la correspondencia__\. Pienso que __la verdad puede explicarse apelando a una relación entre el lenguaje y el mundo__, y que el análisis de esa relación ofrece una idea de cómo, al expresar oraciones, a veces logramos discernir lo que es verdadero\. El concepto semántico de verdad, que Tarski expuso por primera vez, desempeñará un papel especial en esta defensa\. Habrá posibilidades de probar que toda teoría o definición de la verdad que cumpla normas plausibles contiene necesariamente recursos conceptuales adecuados para definir un sentido de correspondencia\. … me sentiré satisfecho si puedo encontrar *una* interpretación natural de la relación de correspondencia que ayude a explicar la verdad\. __ Sin duda, sería consistente con el éxito de este intento hallar una fórmula para eliminar frases como “es verdad que” y “es verdadero” de muchos o todos los contextos__; teorías de correspondencia y de redundancia no necesariamente entran en conflicto\. No obstante, podemos hallar indicios del rol de la correspondencia estudiando los resultados que obtendríamos al reemplazar sistemáticamente oraciones con palabras o frases veritativas por oraciones sin ellas\.\*
+
+\[Según la pragmática, esos elementos léxicos constituyen un mecanismo metalingüístico veritativo que aporta manipulación y sustento \(“enfatizar convicción” dice 
+## 25
+Davidson p\. 60\) al enunciado que lo requiera según el interlocutor a que se refiera\. En pocas palabras, se requiere una herramienta interactiva para explicar ésto\. Putnam \(1999:25\) dice que es “vacuo” hablar de la teoría de la “correspondencia”\. VA\]
+
+
+## 58
+__DAVIDSON__, Donald \(1984\-1990:__58__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+La oración 
+
+\(1\) El enunciado de que el francés es la lengua oficial de Mauricio es verdadero\.
+
+es materia equivalente a “El francés es la lengua oficial de Mauricio” … Esto impulsa la idea de que las palabras que dan asiento a la oración anidada en \(1\) representa una __función veritativa de identidad__, con igual poder que la doble negación, pero carente de articulación significativa\. Según esta sugerencia, el que \(1\) consista en un término singular complejo y un predicado no sería más que __un capricho de la gramática\. __
+
+__ La teoría de la doble negación de la verdad tiene el problema__ __de que sólo es aplicable a oraciones que tienen oraciones anidadas__, como \(1\) y “Es verdadero que 2 \+ 2 = 5”\. La teoría no puede hacer frente directamente a:
+
+\(2\) El teorema d Pitágoras en verdadero\.
+
+\(3\) Nada que haya dicho Aristóteles es verdadero\.
+
+Podríamos sostener que la teoría de la doble negación es aplicable a \(1\) en tanto que dejaríamos a \(2\) y a \(3\) para un tratamiento por separado\. Pero es definitivamente plausible que las palabras “es verdadero” tangan diferentes significaciones en estos diferentes casos, sobre todo cuando parece haber simples inferencias que conectan oraciones de los dos tipos\. 
+
+\[Doble negación como en “La policía llegó para evitar que no pasara a mayores” donde hay una autorefutación no tiene oración anidada\]
+
+
+## 58
+__DAVIDSON__, Donald \(1984\-1990:__58__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Es tentador pensar que la teoría de la __doble negación__ puede extenderse de algún modo para cubrir oraciones como \(2\) y \(3\)\. El razonamiento podría ser así: __la teoría de la doble negación nos dice que para cada enunciado hay una oración que lo expresa__\. Pero entonces \(2\) es válida para el caso de que haya una oración verdadera que exprese el teorema de Pitágoras, y \(3\) es válida en caso de que ninguna oración verdadera exprese algo que haya dicho Aristóteles\. Se verá que la aparente necesidad de usar la palabra “verdadero” en esta explicación es inofensiva, al expresar \(2\) y \(3\) así: 
+
+ \(2’\) \(p\) \(El enunciado de que p = el teorema de Pitágoras → p\)
+
+ \(3’\) ~ \(Ǝp\)   \(Aristóteles dijo que p\. p\)
+
+ … En la teoría de la doble negación, la referencia putativa a enunciados y la predicación putativa de verdad fueron absorbidas en una expresión gramaticalmente compleja pero lógicamente simple, un conectivo oracional veritativo funcional\. En cambio, la teoría presente nos permite ver a “es verdadero” como un predicado genuino\. Ello nos proporciona el siguiente principio:
+
+84\) \(p\)  \(El enunciado de que p es verdadero ↔ p\)
+
+que lleva oraciones libres del predicado “es verdadero” y lógicamente equivalente a oraciones que lo contiene\. Aquí no se justifica la verdad como algo que pueda predicarse de los enunciados, sino que se la explica\.
+
+
+## 59\-60
+__DAVIDSON__, Donald \(1984\-1990:__59\-60__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+… Pero hay razones muy poderosas, como señaló Frege, para suponer que si las oraciones, cuando aparecen solas o en __contextos veritativos funcionales__, nombran algo, luego todas las oraciones verdaderas nombran la misma cosa\. Esto nos forzaría a concluir que el enunciado de que p es idéntico al enunciado de que q siempre y cuando p y q sean ambos verdaderos; presumiblemente un resultado inaceptable\. 
+
+… *El método* __Tarski__, sin embargo, introduce \(me atrevo a afirmarlo\) algo similar a la noción de __correspondencia__, y eso es precisamente lo que se suponía que las teorías que hemos estado explorando __deberían evitar__\. …
+
+ No he dicho nada acerca de los propósitos que se persiguen en una conversación \(no filosófica\) cuando se expresan oraciones que contienen “verdadero” y sus derivados\. Sin duda, la idea de que los enunciados que contienen la palabra “verdadero” son usados típicamente para expresar acuerdo, para enfatizar convicción o autoridad, para evitar repetición o para evitar responsabilidades, __sumaría muchos partidarios si pudiera ponerse en evidencia que las palabras veritativas siempre pueden eliminarse sin merma cognitiva mediante la aplicación de una simple fórmula\. __ No obstante, __sostengo que las teorías acerca de los fines extralingüísticos de las oraciones que se expresan son lógicamente independientes de la cuestión de su significado__; y es esto último lo que a mi me preocupa\.
+
+ __Lo que hace verdaderos los enunciados es la correspondencia entre lo que se dice y los hechos__\. Es natural, entonces, orientarse hacia los hechos en busca de ayuda\. …
+
+\[__Argumento contra la pragmática general__\]
+
+
+## 60\-61
+__DAVIDSON__, Donald \(1984\-1990:__60\-61__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+\(5\) El enunciado de que Thinka está en Kenia corresponde a los hechos
+
+*o* *de variantes* del tipo “Es un hecho que Thinka está en Kenia” … Aceptamos o no la idea de que la correspondencia con los hechos explica la verdad … Si \(5\) llega a tener un interés independiente, será porque __somos capaces de dar una explicación de los hechos y de la correspondencia que no lleva inmediatamente a la verdad__\. Una explicación así nos permitiría dar sentido a oraciones con esta forma:
+
+\(6\) El enunciado de que p corresponde al hecho de que q
+
+El paso a la verdad sería simple: __un enunciado es verdadero si hay un hecho al cual él corresponde__ \. \[\(5\) podría reescribirse “El enunciado de que Thinka está en Kenia corresponde a un hecho”\] ¿Cuando es válida \(6\)? Ciertamente cuando “p” y “q” son reemplazadas por la misma oración … El enunciado de que Nápoles está mucho más al norte de Red Bluff corresponde al hecho de que Nápoles está mucho más al norte de Red Bluff, pero también se podría decir que Red Bluff esta más al sur que Nápoles \(quizá ambos sean el mismo hecho\)\. También corresponde al hecho de que Red Bluff está mucho más al sur que la más grande ciudad italiana en un radio de cincuenta kilómetros de Ischia\. … entonces comenzamos a sospechar que__ si un enunciado corresponde a un hecho, corresponde a todos__\.  \[Ver HP 2001:107, 99, 91, 65, 6347, 46, y en general el verificacionismo\]
+
+
+## 61
+__DAVIDSON__, Donald \(1984\-1990:__61__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+Los principios son éstos: si un enunciado corresponde al hecho descrito por una expresión de forma “el hecho de que p”, luego corresponde al hecho descrito por el “hecho de que q” en tanto \(1\) las oraciones que reemplazan a “p” y a “q” sean lógicamente equivalentes, o \(2\) “p” difiera de “q” sólo en que el término singular ha sido reemplazado por un término singular coextensivo\. El argumento confirmatorio es el siguiente\. Supongamos que “s” abrevia alguna oración verdadera\. Luego, seguramente el enunciado de que s corresponde al hecho de que s\. Pero podemos sustituir a la segunda “s” por la lógicamente equivalente “\(x tal que x es idéntico a Diógenes y s\) es idéntico a \(x tal que x es idéntico a Diógenes\)”\. Aplicado al principio según el cual podemos sustituir términos singulares coextensivos, podemos sustituir “t” por “s” en la última oración consignada, siempre que “t” sea verdadera\. Finalmente, revirtiendo el primer paso concluimos que el enunciado de que s corresponde al hecho de que t, donde “s” y “t” son oraciones verdaderas cualesquiera\.
+
+
+## 62
+__DAVIDSON__, Donald \(1984\-1990:__62__\)\. * De la verdad y de la interpretación\. Fundamentales*
+
+ Dado que aparte de cuestiones de correspondencia no se ha propuesto forma alguna de distinguir los hechos, y dado que este test no logra descubrir una sola diferencia, podemos interpretar que el resultado de nuestros argumentos muestra que hay exactamente un hecho\. Descripciones como “el hecho de que hay stupas en Nepal”, si es que describen, describen la misma cosa: El Gran Hecho\. No quedan razones para distinguir entre diversos nombres del Gran Hecho cuando se lo escribe después de “corresponde a”; bien podemos recurrir a la frase: “corresponde a Gran Hecho” Este predicado inalterable arrastra consigo un redundante aire a ontología, __pero aparte de esto parece no haber más manera de distinguirlo de “es verdadero”\.__
+
+… Supongamos … que podemos distinguir los hechos tan claramente como lo hacemos con los enunciados\. Desde luego, __no todo enunciado tiene su hecho__; __sólo los verdaderos lo tienen\. __ Pero entonces, a menos que descubramos otra forma de distinguir los hechos, no podemos aspirar a explicar la verdad recurriendo a ellos\.
+
+ En los contextos que hemos considerado, la discusión acerca de hechos se reduce a una predicación de verdad; esto podría llamarse *teoría de redundancia* de los hechos\. Las predicaciones de verdad, por otra parte, no se han mostrado tan fáciles de eliminar\. __Si en esto no hay cabida para teorías de redundancia de la verdad, tampoco hay estímulo para teorías de correspondencia__\.
+
+
+## 62
+__DAVIDSON__, Donald \(1984\-1990:__62’__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Creo que nuestra frustración tiene una explicación bastante simple: hasta ahora no hemos tomado en cuenta el lenguaje\. __Los enunciados son verdaderos o falsos en razón de las palabras que se emplean en su construcción, y son las palabras las que tienen conexiones interesantes, detalladas, convencionales con el mundo__\. Cualquier teoría de la verdad seria debe entonces ocuparse de estas conexiones, y es precisamente aquí donde la __noción de__ __correspondencia__ puede tener algún predicamento\. Nos hemos estado autorrestringiendo a formas de especificar enunciados que no hacen mención aparente a las palabras\. Así “el enunciado de Jones de que el gato está sobre la alfombra” borra irremediablemente toda referencia a las particularidades del lenguaje de Jones que podrían conllevar una consideración no trivial de la verdad, y puede pensarse que en general una consideración no trivial de la verdad, y puede pensarse que en general esto sucede con la frase “el enunciado de p”\.
+
+
+## 62\-63
+__DAVIDSON__, Donald \(1984\-1990:__62\-63__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Las discusiones sobre la verdad pueden haber evitado el aspecto lingüístico debido a que resulta obvio que la verdad no puede depender *de* creaciones; pero si éste ha sido un motivo, es un motivo confuso\. Las oraciones no pueden ser verdaderas o falsas pues si lo fueran tendríamos que decir que “Je suis Titania” es verdadera \(si la dice o la canta Titania\), falsa \(si la dice cualquier otra persona\) y ninguna de ambas \(si la emite alguien que no habla francés\): Lo que este familiar argumento revela no es que __debemos dejar de hablar simultáneamente de oraciones y de verdad__, sino que debemos profundizar un poco más y hablar también del momento \(tiempo\) en que se emite la oración, y de su emisor\.
+
+ __La verdad__ \(en un lenguaje natural dado\) __no es una propiedad de las oraciones__\. __Es una relación entre oraciones, hablantes y fechas\.__ Verlo de esta manera no significa apartarse del lenguaje hacia mudas entidades eternas como proposiciones, enunciados, aserciones, sino relacionar el lenguaje con las ocasiones de la verdad en una forma que conduzca a la construcción de una teoría\.
+
+
+## 63\-64
+__DAVIDSON__, Donald \(1984\-1990:__63\-64__\)\. * De la verdad y de la interpretación\. Fundamentales*
+
+ Los dos últimos párrafos pueden sugerir que para tener una teoría competente acerca de la verdad debemos abandonar la idea de que los enunciados son los vehículos adecuados de la verdad\. Pero este no es el caso\. __Si yo estoy en lo cierto, las teorías de la verdad deben caracterizar o definir un predicado triádico “T s, u, t”\. __No interesará a la teoría que leamos que este predicado como “la oración es verdadera \(en castellano\) para el hablante u en el tiempo t” o como “el enunciado expresado por la oración s \(en castellano\) por el hablante u en t es verdadero”\. 
+
+… Hay excelentes razones para no predicar la verdad de oraciones, pero estas razones no son aplicables a actos de habla, emisiones o instancias particulares\. Se ha argumentado, y en forma convincente, que casi nunca decimos de un acto de habla, de una emisión o de una instancia particular, que es verdadero\.
+
+__No estoy seguro de que un enunciado sea siempre un acto de habla__, pero en todo caso podemos aceptar la conclusión de que __no se dice de los actos de habla que sean verdaderos__ … Sin duda no resulta la imposibilidad de explicar qué es hacer un enunciado verdadero en términos de las relaciones convencionales entre palabras y cosas que valen para cuando las palabras son usadas por agentes particulares en ocasiones particulares\. Pues si bien, __“mi enunciado” puede no referir, al menos para cuando se cuestiona la verdad, a un acto de habla, aún puede tener éxito en la identificación de su enunciado con sólo relacionarlo con un acto de habla__\. \(¿Qué lo convierte en “mi” enunciado?\)\.
+
+
+## 64
+__DAVIDSON__, Donald \(1984\-1990:__64__\)\. *De la verdad y de la interpretación\. Fundamentales *
+
+ Si alguien que habla español emite la oración “El sol está sobre el palo mayor”, ¿bajo qué condiciones ha hecho el enunciado de que el sol está sobre el palo mayor? Un rango de respuestas podría incluir estipulaciones tales como que intentaba transmitir a sus oyentes la impresión de que él creía que el sol estaba sobre el palo mayor, que su status \(sic\) lo autorizaba a producir información acerca de la posición del sol, etcétera\. Siguiendo esa línea de pensamiento, uno podría sostener que, si el hablante no tenía idea de la posición del sol, y quería anunciar que era hora de un trago, luego no hizo el enunciado de que el sol está sobre el palo mayor\. Pero también en cierto sentido tendríamos que decir que se hizo un enunciado, incluso bajo las condiciones que acabamos de mencionar, por cuanto el hombre habría hecho \(“literalmente”\) el enunciado de que el sol estaba sobre el palo mayor, y lo que él dijo era \(“literalmente”\) verdadero puesto que el sol estaba sobre el palo mayor en el momento en que él hablaba , aún cuando él no tenía razones para creerlo, y no le importaba que fuera verdadero\. En estos casos, no nos interesa lo que la persona quiso significar al emitir la oración, sino lo que la oración, tal como fue emitida, significaba\. Ambas nociones de significado son relativas a las circunstancias de la ejecución, pero __en el segundo caso hacemos abstracción de las intenciones extralingüísticas del hablante__\. __La comunicación por medio del lenguaje es la comunicación por medio del significado literal__; __así debe haber un sentido literal de hacer un enunciado, si es que hay otros__\. __La teoría de la verdad se ocupa del sentido literal\. __
+
+
+## 66
+DAVIDSON, Donald \(1984\-1990:66\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+… __la verdad de una oración compleja en general no pueda inferirse en términos de la verdad de sus partes__\.
+
+ Tarski nos enseñó a percibir el problema y nos dio una ingeniosa solución\. La solución depende de caracterizar primero una relación llamada __*satisfacción*__ y de __definir luego la verdad mediante ella__\. Las entidades que se satisfacen son oraciones tanto abiertas como cerradas: l__os satisfactores son funciones que relacionan las variables del lenguaje objeto con entidades que abarcan__: casi todo, si el lenguaje es el inglés \[nota a pie de pág: “Los satisfactores de Tarski son secuencias infinitas, no funtores…\] Una función satisface un predicado inestructurado n\-ádico con variables que sus n espacios si el predicado es verdadero para las entidades \(en orden\) que la función asigna a esas variables\. Así, si “x ama a y” es una oración abierta del tipo más simple, una función ƒ la satisface solo en caso de que la entidad que ƒ asigna a “x” ame a la entidad que ƒ asigna a “y”\. A su vez, la caracterización recursiva de la satisfacción debe pasar revista a todos los predicados primitivos\. Esto hace frente a los conectivos de manera obvia: así, una conjunción de dos oraciones s y t \(abiertas o cerradas\) es satisfecha por ƒ siempre que ƒ satisfaga a s y ƒ satisfaga a t\. La cuantificación universal de una oración abierta s con respecto a una variable v es satisfecha por ƒ en caso de que ƒ, y toda otra función como ƒ a excepción de aquello que ésta asigne a ⱱ, satisfaga a s\. 
+
+… __aquellas oraciones cerradas que son satisfechas por todas las funciones son verdaderas; aquellas que no son satisfechas por ninguna son falsas__…
+
+
+## 67
+__DAVIDSON__, Donald \(1984\-1990:__67__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+Si en cambio pensáramos en nombres propios, los satisfactores podrían acercarse más a los objetos ordinarios de nuestro discurso: es decir, serían n\-tuplos ordenados de ellos\. Así, “Dolores ama a Dagmar” sería satisfecha por Dolores y por Dagmar \(en ese orden\), siempre que Dolores amara a Dagmar\. Supongo que Dolores y Dagmar \(en ese orden\) no es también un hecho; el hecho que verifica a “Dolores ama a Dagmar” debe incluir de alguna forma el amor\. Este “de alguna forma” ha sido siempre la némesis de las teorías de la verdad basadas en los hechos\. Entonces el punto en cuestión no es que “s es satisfecha por todas las funciones” signifique exactamente lo mismo que pensábamos que significaba “s corresponde a los hechos”, sino que las dos frases tienen esto en común: __ ambas procuran expresar una relación entre el lenguaje y el mundo, y ambas son equivalentes a “s es verdadera” cuando s es una oración \(cerrada\)\.__
+
+__ La comparación entre teorías de correspondencia que explotan el concepto de satisfacción y aquellas que se apoyan en la correspondencia con los hechos tiene su pico máximo en las oraciones sin variables libres__\. … __sólo las oraciones cerradas tienen tradicionalmente hechos correspondientes\.__ Dado que diferentes asignaciones de entidades a las variables satisfacen diferentes oraciones abiertas y dado que las oraciones cerradas se construyen a partir de las abiertas, en la aproximación semántica la verdad se alcanza por diferentes caminos para diferentes oraciones\. Todas las oraciones verdaderas terminan en el mismo lugar, pero la historia de su arribo hasta allí son diferentes; __una teoría semántica de la verdad cuenta la historia para una oración particular recorriendo los pasos de consideración recursiva de la satisfacción apropiada para la oración__\. Y la historia constituye una prueba de un teorema bajo la forma de una instancia de esquema\.
+
+
+## 67\-68
+__DAVIDSON__, Donald \(1984\-1990__:67\-68__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ 
+
+Visto en retrospectiva el fracaso de las teorías de correspondencia *de* la verdad basadas en la noción de hecho puede remontarse a una fuente común: el deseo de incluir en la entidad a la cual corresponde una oración verdadera no sólo los objetos “acerca de los cuales” es la oración … sino también toda cosa que la oración diga acerca de ellos\. 
+
+… Hablar de oraciones, o mejor dicho enunciados, fieles a, o correspondientes a los hechos, es sin duda tan inofensivo como hablar de la verdad\. Incluso la sugerencia que encierran estas frases de que la verdad se debe a __una relación entre el lenguaje y el mundo puede llegar a justificarse__ … La estrategia de los hechos, a la que he venido atacando, es algo diferente: una teoría filosófica, y una de las malas\. __Sería una vergüenza desacreditar__ __a todas las teorías de correspondencia__, __y en particular a la aproximación semántica de Tarski, adjudicándoles las mismas imperfecciones que pululan en los intentos habituales de explicar la verdad en base a los hechos__\. 
+
+
+## 73
+__DAVIDSON__, Donald \(1984\-1990:__73__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+__Capítulo__ __4\.__ __Semántica para los lenguajes naturales__
+
+ Una teoría de la semántica de un lenguaje natural tiene por objeto dar el significado de toda expresión significativa … Puesto que el número de expresiones significativas parece no tener un límite claro, una teoría posible debe dar cuenta del significado de cada expresión sobre la base de la exhibición pautada de un número finito de rasgos\. Aunque haya un límite práctico para la longitud de las oraciones que una persona puede comprender al imitar y recibir, __una semántica satisfactoria necesita explicar la contribución de los rasgos repetibles al significado de las oraciones en que ellos aparecen__\.
+
+ Creo que una teoría de la verdad para un lenguaje sí hace, de un modo mínimo pero importante, lo que otros queremos, esto es proporciona los significados de todas las expresiones independientemente__ significativas en base a un análisis de su estructura\. … Pienso que los lingüistas como los filósofos interesados en los lenguajes naturales han pasado por alto la importancia fundamental de la teoría de la verdad __… en parte porque no se han dado cuenta de que la teoría de la verdad da una respuesta precisa, profunda y comprobable de la cuestión acerca de la forma en que __los recursos finitos resultan suficientes para explicar las infinitas capacidades semánticas del lenguaje,__ y en parte porque han exagerado las dificultades del proceso de construcción de una teoría para un lenguaje natural\.
+
+
+## 73\-74
+__DAVIDSON__, Donald \(1984\-1990:__73\-74__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Por teoría de la verdad entiendo un conjunto de axiomas que implica, para cada oración del lenguaje, un enunciado de las condiciones bajo las cuales ella es verdadera\. Obviamente, si tenemos una definición de *un* predicado de verdad que satisface la Convención T de Tarski, tenemos una teoría de la verdad, pero en general se requiere menos para la caracterización de una teoría de la verdad\. Si no se imponen más restricciones, algunas teorías de la verdad resultarán de poco interés intrínseco\. Por ejemplo, podríamos tomar simplemente por axiomas a todas las oraciones de forma “s es verdadero si y sólo si p” donde “s” sea reemplazada por una descripción estandarizada de una oración y “p” por esa oración … __Una teoría así no podría ofrecer una visión de la estructura del lenguaje y entonces tampoco daría un asomo de respuesta a la cuestión de la forma en que el significado de__ __una oración depende de su composición__\. Podríamos eliminar esta aberración en particular si estipulamos que los axiomas no lógicos deben ser finitos en número … __una teoría aceptable debería dar cuenta del significado \(o de las condiciones de verdad\) de toda oración analizando su composición, según formas de la verdad relevante, a partir de elementos tomados de un repertorio finito__\. 3\[Nota 3: a pie de pág: __Condiciones de verdad y significados no se considerarán equivalentes__; a lo sumo podemos decir que al dar las condiciones de verdad de una oración estamos dando su significado\. Pero esto también necesita clarificación…\]\. 
+
+
+## 74\-75
+__DAVIDSON__, Donald \(1984\-1990:__74\-75__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+__Un segundo requisito natural__ es que la teoría que proporcione un método para decidir, dada una orientación arbitraria, cuál es su significado\. \(De manera que satisfaga estas dos condiciones puede decirse que demuestra que el lenguaje que describe es *aprendible y escrutable*\)\. __Una tercera condición__ es que los enunciados de condiciones de verdad para oraciones individuales incluidas en la teoría deberían, de alguna manera todavía por precisar, hacer uso de los mismos conceptos que usan las oraciones cuyas condiciones de verdad estipulan… 
+
+Si el metalenguaje no contiene al lenguaje objeto, la satisfacción de este criterio parece menos obvia\. 
+
+Parece natural interpretar que la tercera condición prohibe la aparición *de * un término semántico en el enunciado de las condiciones de verdad de una oración a menos que la oración ya contenga al término semántico \(o la traducción de él\)\. No queda claro si esto excluirá o no un recurso explícito a conceptos semánticos en el enunciado de las condiciones de verdad para oraciones modales \(puesto que es incierta la determinación desde un principio de su naturaleza semántica\)\. Pero esta limitación más bien parece amenazar a las teorías que apelan a un concepto no analizado de lo que es denotar o nombrar, __así como a aquellas que convierten a la verdad en la noción semántica fundamental de un modelo__\. 
+
+
+## 75\-76
+__DAVIDSON__, Donald \(1984\-1990:__75\-76__\)\. *De la verdad y de la interpretación\. Fundamental*es
+
+ Mi interés actual no se centra … sino en destacar la importancia y la utilidad que en general redundaría en requerir a toda teoría del significado \(semántico\) que proporcione __una descripción recursiva de la verdad__\.\.\.
+
+ __Dar una teoría recursiva de la verdad para un lenguaje es mostrar que la sintaxis del lenguaje es formalizable__, al menos en el sentido de que al analizar todas las expresiones verdaderas se podrá determinar que están formadas por elementos \(el “vocabulario”\), una previsión finita de los cuales bastará para el lenguaje\. Pero aun si llegamos a suponer que la falsedad puede definirse en términos de la verdad, o que puede caracterizarse de manera independiente o similar, __no se desprende de ello que la oracionalidad o gramaticalidad puedan definirse recursivamente__\. Así, los argumentos destinados a establecer que no puede darse una descripción formal recursiva de la sintaxis \(oracionalidad o gramaticalidad\) de un lenguaje natural no necesariamente desacreditan el intento de proporcionar una teoría de la verdad … 
+
+__Una teoría de verdad para un lenguaje natural debe tener en cuenta *el* *hecho* de que muchas oraciones varían del tiempo en que se las dice, del hablante e incluso quizá de la audiencia\. Podemos dar cabida a este fenómeno sea declarando que son las emisiones particulares o los actos de habla, y no las oraciones las que tienen valores de verdad__, sea haciendo de la verdad una relación aplicable entre una oración, un hablante y un tiempo\. Adecuar de esta modo a los elementos deícticos, o demostrativos, en un lenguaje natural es aceptar un cambio conceptual radical en la forma en que puede definirse la verdad, como podrá apreciarse al reflejar la forma en que d__ebe revisarse la Convención T para hacer a la verdad sensible al contexto__\.
+
+
+## 76
+__DAVIDSON__, Donald \(1984\-1990:__76__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ __A menudo se expresa el temor de que una teoría formal de la verdad no sea capaz de sobrellevar los problemas de ambigüedad del lenguaje natural que tanta energía insumen a los lingüistas__\.\* Cuando se piensa en esto puede ser de ayuda distinguir dos opiniones\. Una es que la teoría de __la verdad no han sido concebidas por lo general para hacer frente a la ambigüedad __… Esta opinión está justificada y es inofensiva\. En general, las teorías de la verdad al estilo Tarski no tratan cuestiones de definición para el vocabulario primitivo … por otra parte, nada en una teoría de la verdad es enemigo del tratamiento satisfactorio de los problemas cuya solución se ha creado un léxico\. La segunda opinión dice que algunos tipos de ambigüedad impiden necesariamente que proporcionemos una teoría de la verdad … pienso que este asunto no puede resolverse citando unos cuantos casos problemáticos\.
+
+\* \[El itinerario que llevó a la lingüística a la pragmática tardó casi 50 años, desde las conferencias de Austin hasta los años 90, y constituyó un esfuerzo por ajustar las ideas de la filosofía del lenguaje a la teoría lingüística; igualmente costó dejar atrás el inmanentismo saussureano y las teorías behavioristas y cognitivistas del del siglo XX\]\.
+
+
+## 76
+__DAVIDSON__, Donald \(1984\-1990:__76’__\)\. *De la verdad y de la interpretación\. Fundamentales\.*
+
+ Bar\-Hillel da un ejemplo como éste: “Vinieron en lentos trenes y aviones”\. Podemos pensar que “lentos” modifica a la conjunción que le sigue, o sólo a “trenes”\. Por supuesto que una teoría adecuada descubriría la ambigüedad; una teoría de la verdad necesitaría en particular indicar cuándo una emisión de la oración podría ser verdadera bajo una interpretación y falsa bajo otra\. Hasta aquí no hay dificultades para una teoría de la verdad\. Pero __Bar\-Hillel hace una observación adicional de que el contexto de emisión podría resolver fácilmente la ambigüedad__ __para todo hablante normal del castellano, y aun así la resolución podrá depender de conocimientos generales en un modo que una teoría formal no podría \(al menos prácticamente\) capturar__\. Si reconocemos esto, como yo pienso que debemos hacer, __aceptamos una limitación en lo que podríamos esperar de una teoría de la verdad__\.
+
+\*\[ Javier Comas \(*Curiosidades del lenguaje*\) da un ejemplo ajustado a todo esta problemática de los significados abiertos más allá de lo presumible: Un hombre llega tarde a la estación del t tren y lo pierde con lo que pierde la cita que tenía en destino a una hora prefijada\. Entonces llama a los embarcados y dice que volverá mañana a tomar el tren a la misma hora\. Los embarcados del otro lado le responden que si vuelve mañana a la misma hora perderá de nuevo el tren\.
+
+
+## 78\-81
+__DAVIDSON__, Donald \(1984\-1990:__78\-81__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+… Y, por cierto, no sería posible dar las condiciones de verdad de todas las oraciones sin mostrar que __algunas oraciones son consecuencias lógicas de otras__; si consideramos que la estructura que revela una teoría de la verdad es gramática profunda, entonces la gramática y la lógica deben marchar codo a codo\.
+
+*Chomsky dice* que si bien las dos oraciones siguientes tienen la misma estructura de superficie, difieren en su estructura profunda:
+
+\(1\) I Persuaded Jhon to leave\. \[Persuadí a Juan de que se fuera\]
+
+\(2\) I Expected *Jhon to leave* \[Esperé que Juan se fuera\]
+
+La demostración descansa principalmente sobre la observación de que cuando transformamos a la voz pasiva una __oración anidada__ en una forma activa; pero una transformación similar no redunda en un resultado sinónimo para la análoga de \(1\)\. La observación es sin duda correcta, pero ¿cómo hace para demostrar que \(1\) y \(2\) tienen estructuras profundas radicalmente profundas? A lo sumo la evidencia sugiere que una teoría que asigna diferentes estructuras a \(1\) y a \(2\) puede ser más simple que una que no lo hace\. Pero __no queda claro cómo se han explotado nuestras intuiciones lingüísticas para notar aquí una diferencia__\.
+
+
+## 81
+__DAVIDSON__, Donald \(1984\-1990:__81__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Pero desde luego Chomsky tiene razón; hay un contraste entre \(1\) y \(2\), y éste emerge con toda fuerza en el momento en que comenzamos a pensar en la construcción de una teoría de la verdad\. Tanto es así que basta con preguntarnos por el rol semántico de la palabra “*Jhon”* en ambas oraciones\. En \(1\), “Jhon” puede reemplazarse por cualquier término correferente sin alterar el valor de verdad de \(1\); esto no ocurre con \(2\)\. La contribución de la palabra “Jhon” a las condiciones de verdad de \(1\) debe ser entonces totalmente diferente de su contribución a las condiciones de verdad de \(2\)\. Esta forma de expresar que hay una diferencia en la estructura semántica de \(1\) y de \(2\) no requiere apelar al “conocimiento tácito” de la gramática por parte del hablante ni a la “competencia intrínseca del hablante nativo idealizado”\. Descansa en el conocimiento explícito que todo hablante del inglés tiene de la forma en que \(1\) y \(2\) pueden variar su verdad en caso de sustituciones de la palabra “Jhon”\.
+
+
+## 82
+__DAVIDSON__, Donald \(1984\-1990:__82__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ __Cap\. 5 En defensa de la Convención T__
+
+ Supongamos que alguien dice “Hay un millón de estrellas esta noche”, y otro le contesta “__Eso es verdad__”, entonces nada más manifiesto que lo que el primero dijo es verdadero __si y sólo si lo que dijo el otro es verdadero__\. Este familiar efecto se debe a la reciprocidad de dos recursos, uno consiste en una forma de referir expresiones \(__tarea que aquí cumple el demostrativo “eso”__\), __el otro el concepto de verdad__\. El primer discurso nos lleva al mundo del discurso del lenguaje; el segundo nos trae de vuelta otra vez\. … Dado que las oraciones T … son tan obviamente verdaderas, algunos filósofos han pensado que el concepto de verdad, al menos en su aplicación a oraciones, es trivial\.\. Pero esto indudablemente es un error, tal como Ramsey lo señaló quizá por primera vez, pues __las oraciones T proveen una alternativa para hablar de la verdad sólo para algunos contextos\. Las oraciones T no nos serán útiles si buscamos equivalencias__ de “Toda oración que decía Aristóteles era falsa” o de “Lo que dijiste el martes pasado era verdad”\. 
+
+ __En consecuencia las oraciones T nos enseñan a vivir sin predicado de verdad; pero tomados en conjunto, si nos muestran cómo sería tener uno__\. Pues, dado que hay una oración T correspondiente a cada oración del lenguaje se cuestiona la verdad, __la totalidad de las oraciones T fija exactamente la extensión, entre las oraciones__, de todo predicado que juega el papel de las palabras “es verdadero”\. De esto resulta claro que si bien las oraciones T no no definen la verdad, puede usarse para definir la predicación de verdad: __todo predicado es un predicado de verdad que hace verdaderas a todas las oraciones T__\.
+
+
+## 82\-83
+__DAVIDSON__, Donald \(1984\-1990:__82\-83__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+P\. 82\-83
+
+ Las oraciones T iluminan la verdad … por medio del agotamiento de los casos, pero dado que para todo lenguaje interesante el número de casos es infinito, resulta instructivo averiguar cuáles son las propiedades que debe tener la verdad para poder actuar como las oraciones T dicen que lo hace\. Y hacer claras y *explícitas* las propiedades de una manera instructiva, digamos finita, equivale a proveer una teoría de la verdad\. Podemos pensar que una teoría de la verdad para un lenguaje L es simplemente una oración T que contiene un predicado t tal que T tiene por consecuencia lógica a todas las oraciones de la forma “s es verdadero si y sólo si p” donde “s” es reemplazada por una descripción canónica de una oración de L, “p” es reemplazada por esa oración \(o su traducción\), y “es verdadero” es reemplazado, en caso necesario, por t\. …
+
+ Creo que, a pesar de toda su familiaridad, los filósofos han pasado por alto un rasgo principal de la Convención T\. Es el siguiente: la convención T y las oraciones T proveen un único contacto entre verdades intuitivamente obvias acerca de la verdad y la semántica formal\. Sin la Convención T, no tendríamos razones para creer que la verdad es lo que Tarski nos ha enseñado cómo caracterizar…
+
+ 
+
+ La *semántica* es una disciplina que, en términos sencillos, se ocupa de ciertas relaciones entre las expresiones de un lenguaje y los objetos … “referidos” por dichas expresiones\. \(A\. Tarski: The Semantics Conception of Thruth” 345\)
+
+
+## 83\-84
+__DAVIDSON__, Donald \(1984\-1990:__83\-84__\)\. * De la verdad y de la interpretación\. Fundamentales*
+
+ Da como ejemplos los conceptos semánticos la *designación* \(denotación\), que relaciona a los términos singulares con lo que ellos denotan; la *satisfacción*, que se aplica entre una oración abierta y la entidad o entidades para las que es verdadera; y la *definición*, que relaciona una ecuación y un número que ella determina exclusivamente\. Continúa Tarski:
+
+ Mientras las palabras “*dessigna”*, “*satisface”* y “*define“ *expresan relaciones* …, *las palabras “verdadero” es de una naturaleza lógica diferente: *expresa una* propiedad \(o denota una clase\) de ciertas expresiones,* *cuales son las oraciones\.
+
+ Pasa a señalar que “__la forma más simple y natural” de definir la verdad es por medio de la satisfacción, y esto explica que este autor considere__ __la verdad como un concepto semántico__\. Pero no podemos dejar de notar que, a través de la propia explicación de Tarski, __la verdad no resulta ser un concepto semántico__\. Una mirada a la gramática lógica de las oraciones T muestra que es esencial que el predicado de verdad no exprese una relación: si lo hiciera, no podría producirse en el lado derecho de la bicondicional de la oración T la fundamental desaparición de todos los conceptos semánticos, y en general de todo lo que no sea la oración misma cuyas condiciones de verdad aquél establece \(o una traducción de dicha oración\)\. 
+
+
+## 87
+__DAVIDSON__, Donald \(1984\-1990:__87__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Las teorías de la verdad absoluta proveen necesariamente un análisis de la estructura relevante para la verdad y la inferencia\. Estas teorías ofrecen así una respuesta no trivial a la cuestión de qué implica ser la forma lógica de una oración\. Una teoría de la verdad no ofrece una definición de consecuencia lógica o de verdad lógica, pero proveerá la evidencia de que ciertas oraciones son verdaderas únicamente sobre la base de las propiedades asignadas a las constantes lógicas\. __Las constantes lógicas pueden identificarse como aquellos rasgos iterativos del lenguaje que requieren una cláusula recursiva en la caracterización de la verdad que satisfacen\.__ En esta consideración la forma lógica será, desde luego, relativa a la elección de un metalenguaje \(con su lógica\) y de una teoría de la verdad\. 
+
+__DAVIDSON__, Donald \(1984\-1990:\-__87__\-__88__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Todo lo que hasta ahora he dicho en defensa de la Convención T es que se la puede entender como una formulación clara de varios asuntos *problemáticos *de la filosofía del lenguaje, y que así entendida invita a solucionarse que gozan de méritos conspicuos\.\* Pero, ¿por qué tendríamos que verla así? ¿No puede haber una convención rival que formule una cosa mejor? Nos ocuparemos ahora de estas cuestiones\.
+
+ __El principal, si no el interés último de la filosofía del lenguaje es la comprensión de los lenguajes naturales__\. Hay muchos argumentos para restringir la palabra “lenguaje” a los sistemas de signos que son o han sido de uso real: los sistemas formales no interpretados no son lenguajes a raíz de su falta de significado, mientras que los sistemas formales interpretados se consideran más bien extensiones o fragmentos de los lenguajes naturales que les prestan vida\. __La meta inevitable de la teoría__ __semántica es una teoría de un lenguaje natural que descanse en un lenguaje natural __\(el mismo u otro\)\. Pero como lo señalara Tarski, podemos suponer casi hasta la obviedad que el empeño en esta meta conduce a una paradoja\. Este autor escribió:
+
+ Un rasgo característico del lenguaje coloquial… es su universalidad\. No armonizaría con el espíritu de este lenguaje la existencia de una palabra en algún otro lenguaje que no pudiera ser traducido a él; \.\.\.
+
+\*\[original en inglés p\. 71:”All that I have said so far in defense of Convention T is that may be taken as clearly formulating some troblesome inssues in the philodophy of language, and that if is taken this way, it invites solutions that have conspicuous merits\. But whay should we take it this way?\]\.
+
+
+## 88\-89
+__DAVIDSON__, Donald \(1984\-1990:__88\-89__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+podría sostenerse que “si podemos hablar acerca de cualquier cosa, también podemos hablar de ello en el lenguaje coloquial”\. Si es que vamos a seguir sosteniendo esta universalidad del lenguaje cotidiano en relación con las investigaciones semánticas, para mantener una coherencia debemos admitir también dentro del lenguaje, además de sus oraciones y expresiones, y las oraciones que contienen estos nombres, al igual que expresiones semánticas tales como “oración verdadera”…
+
+ Una vez admitido todo esto dentro del lenguaje, surgen las antinomias semánticas\. El ideal de una teoría de la verdad para un lenguaje natural en un lenguaje natural es entonces inalcanzable si nos limitamos a los métodos Tarski\. Luego surge la cuestión de cómo claudicar lo menos posible, y es aquí donde las teorías permitidas por la Convención T parecen óptimas desde muchos aspectos\. Estas teorías pueden conferir a un predicado de verdad las propiedades requeridas sin explotar recursos conceptuales que no formen parte del lenguaje para el cual el predicado es aplicable\. __Lo único que no puede estar en el lenguaje objeto es el propio predicado de verdad \(y el predicado de satisfacción\)__\. Aquí resulta esencial requerir nada más que una *teoría* de la verdad: ir más allá de eso hacia la definición explícita ensancharía la brecha entre recursos del lenguaje objeto y los del metalenguaje\. Pero si buscamos nada más que una teoría del tipo que hemos estado discutiendo, entonces la ontología del metalenguaje puede ser la misma *que* la del lenguaje objeto, el incremento de ideología puede verse limitado a los conceptos semánticos\.
+
+
+## 89
+__DAVIDSON__, Donald \(1984\-1990:__89__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Tarski está en lo cierto, creo yo, cuando propone que entendamos a los __lenguajes naturales como esencialmente intertraducibles__ \(aunque no veo por qué esto deba requerir una traducción palabra por palabra\)\. La propuesta idealiza la flexibilidad y explicabilidad de los lenguajes naturales, pero puede justificarse mediante un argumento trascendental\.\. __ La Convención T exige que cada oración del lenguaje objeto tenga una traducción en el metalenguaje__\. La presión en la dirección opuesta deriva del deseo de dar cuenta, en lo posible, de los recursos lingüísticos que dominamos\.
+
+ Existen teorías expresadas en un metalenguaje enteramente extensional que intentan iluminar los rasgos semánticos de un lenguaje objeto intensional\. __El interés de tales teorías depende de la presunción de que el lenguaje objeto refleja rasgos importantes de un lenguaje natural__\. … cómo entendemos al metalenguaje\. Pues en un sentido claro el metalenguaje excede al poder expresivo del lenguaje objeto\. Para cada oración “intensional” del lenguaje objeto hay una oración extensional correspondiente \(acerca de mundos posibles, contrapartes, etcétera\) con las mismas condiciones de verdad en el metalenguaje; pero debe haber oraciones metalingüísticas que intuitivamente tienen el mismo tema sujeto y que no tienen oraciones correspondientes en el lenguaje objeto\. Estas teorías tratan a la intensionalidad como carencia de poder expresivo; una carencia que la misma teoría nos enseña a compensar… Y afortunadamente este sistema más rico no genera dificultades para una teoría de la verdad que satisfaga la Convención T, pues es extensional\.
+
+ Si una teoría semántica asegura ser aplicable, aunque sea esquemáticamente, a un lenguaje natural, entonces debe ser de carácter empírico y sujeta a comprobación\. 
+
+__DAVIDSON__, Donald \(1984\-1990:__89__\-__90__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Por supuesto, no se trata de una teoría de la verdad como si fuera empírica si su adecuación se juzga solamente en términos de las oraciones T que implica, y las __oraciones T se verifican sólo por su forma__; esto ocurre si *suponemos* que el lenguaje objeto está contenido en el metalenguaje\. Cuando esta suposición se mitiga, __la teoría puede tornarse empírica__\. Y esto se cumple en el momento en que se anuncia que la teoría es aplicable al habla de una persona o grupo particular\. El hecho de que el lenguaje objeto esté contenido en el metalenguaje no implica a la teoría *tener* contenido empírico: más bien este hecho puede calificarse como el hecho a ser verificado\.
+
+ … Pero entonces, ¿qué pasa con la Convención T? ¿Cómo se reconocerá a una oración T, por no hablar de reconocerla como verdadera?
+
+ Sugiero que puede bastar con requerir que las oraciones T sean verdaderas\. Está claro que con esto sólo alcanza para determinar correctamente la extensión del predicado de verdad\. Si consideramos una ración T cualquiera, esta proposición solamente requiere que si una oración verdadera es descrita como verdadera, luego sus condiciones de verdad están dadas por alguna oración verdadera\. Pero cuando consideramos la necesidad compulsiva de comprobar verdad con verdad a través de todo el lenguaje, nos damos cuenta de que toda __teoría aceptable según esta norma debe ofrecer efectivamente un manual de traducción utilizable del lenguaje objeto al metalenguaje__\. 
+
+ 
+
+
+## 90
+__DAVIDSON__, Donald \(1984\-1990:__90__\)\. *De la verdad y de la interpretación\. Fundamentales *
+
+Si caracterizamos a las oraciones T solamente por su forma, como lo hizo Tarski, es posible, usando los métodos de Tarski, definir la verdad sin usar conceptos semánticos\. Si consideramos a las oraciones T verificables, luego una teoría de la verdad expresa de qué modos podemos ir de la verdad hacia algo parecido al significado; lo suficientemente parecido al significado de manera que si alguien pudiera verificar una teoría para un lenguaje en la forma en que yo propongo, sería capaz de utilizar ese lenguaje para la comunicación\.
+
+ ¿Qué hace plausible que el rango de teorías aceptables según esta norma excluya intuitivamente a teorías sin valor? Uno de los méritos principales de esta aproximación, cual es que toca lo observable sólo cuando alcanza a las oraciones, parece dejar el análisis de la estructura interna simplemente fuera de alcance\. La articulación de oraciones en términos singulares, cuantificadores, predicados, conectivos, así como la vinculación de expresiones con entidades en la caracterización de la satisfacción, debe ser considerada como un exceso de construcción teórica, a comprobarse sólo a través de su éxito en la predicación de las condiciones de verdad de las oraciones\.
+
+
+## 90\-91
+__DAVIDSON__, Donald \(1984\-1990:__90\-91__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ Un factor importante y ciertamente esencial para convertir a una teoría de la verdad en una teoría creíble de la interpretación es la relativización al hablante y al tiempo\. __Cuando están presentes elementos deícticos o demostrativos, no se puede hablar de oraciones que son verda*deras* o falsas, sino sólo oraciones relativas a un hablante y a un tiempo__\. __Podemos tomar alternativamente a la verdad como una propiedad, no de las oraciones, sino de las emisiones o de los actos de habla__\. Estos a su vez pueden identificarse con ciertos triplos ordenados de oraciones, tiempos y hablantes\. La elección entre estas dos alternativas involucra algunos problemas sutiles, pero por el momento tengo que dejarlos de lado\. El punto ahora es que una teoría que determine como verdaderas a las oraciones correctas en los tiempos correctos y para los hablantes correctos estará mucho más próxima a una teoría que interpreta correctamente las oraciones que una que puede ignorar los parámetros adicionales\. En efecto, podremos saber algo directamente relacionado con la extensión de una oración abierta Fx” cuando conozcamos las condiciones de verdad de “Eso es una x tal que Fx”\.
+
+ La oración metalingüística que da las condiciones de verdad \(relativizadas\) de una oración con deícticos no puede tener forma de una oración T, aunque abandonemos el requisito de un criterio puramente sintáctico para la relación entre oración descrita y oración usada\. El problema es que las variables que tratan personas y tiempos, las variables introducidas para dar lugar a la relativización, deben aparecer en el enunciado de las condiciones de verdad\. La verdad relativa a un tiempo y a una persona parecería encontrarse en las mismas condiciones que la verdad en un modelo\.
+
+\[He aquí la razón por la que el Distribucionalismo renunció a considerar el entorno y al mentalismo para su modelo lingüístico\]
+
+
+## 91
+__DAVIDSON__, Donald \(1984\-1990:__91__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+ De ello se desprende que la interesante diferencia entre una teoría de la verdad en un modelo y una teoría de la verdad “absoluta” no puede describirse, como lo he estado intentando, diciendo que en la segunda pero no en la primera, la vedad está caracterizada para cada oración s sin apelar a recursos que no estén en la misma\. La razón, como acabamos de verlo, es que la verdad “absoluta” se torna relativa cuando se la aplica a un lenguaje natural\. Sin embargo permanece una diferencia, a lo que yo adjudicaría mucha importancia\. La verificación de las instancias de las oraciones T, o más bien de sus sustitutas en una teoría relativizada a hablantes y a tiempos, continúa siendo respetablemente empírica\. __Sin duda entrará en juego algún concepto pragmático de *demostración* entre hablantes, tiempos y objetos__\. Pero podemos esperar explicar tal concepto sin recurrir a nociones como verdad, significado, sinonimia o traducción\. No puede decirse lo mismo de la verdad en un modelo\. La __Convención T, aun cuando deba torcerse para adecuarse a las torpes forma del lenguaje natural, señala el camino hacia una teoría radical de la interpretación\.__
+
+
+## 95
+DAVIDSON, Donald \(1984\-1990:95\)\. * De la verdad y de la interpretación\. Fundamentales contribuciones a la filosofía del lenguaje\.\. Barcelona: Gedisa\.*
+
+* *Capítulo* 6 La cita*
+
+ La cita es un recurso usado para referir formas tipográficas o fonéticas mediante la exhibición de muestras, esto es, inscripciones o emisiones que tienen esas formas\. …
+
+ En la cita, el lenguaje no sólo se vuelve hacia sí mismo sino que lo hace palabra por palabra y expresión por expresión, y este giro reflexivo es inseparable de la conveniencia y aplicabilidad universal del recurso\.
+
+
+## 95\-96
+DAVIDSON, Donald \(1984\-1990:95\-96\)\. De la verdad y de la interpretación\. 
+
+ Quine escribe en *Mathematical Logic*: “Un uso escrupuloso de las *comillas* es la principal medida práctica para evitar confundir los objetos con sus nombres \.\.\.”, pero agrega que la cita:
+
+… tiene cierta característica anómala que requiere especial cautela: desde el punto de vista del análisis lógico, cada cita completa debe entenderse como una única palabra o signo, cuyas partes no cuentan más que los *serifs* o las sílabas\. Una cita no es una descripción sino un jeroglífico; designa a su objeto no sólo describiéndolo en términos de otros objetos, sino también ilustrándolo\. El significado del todo no depende de los significados de las palabras constituyentes\.
+
+ Y Church, mientras elogia a Frege por su cuidadoso empleo de la cita para no caer en equivocaciones, declara evitar la cita por ser “confusa”, “torpe en la práctica” … y expuesta a desafortunados abusos y malinterpretaciones”\. \(sic\)
+
+
+## 96\-97
+DAVIDSON, Donald \(1984\-1990:96\-97\)\. De la verdad y de la interpretación\. \.\.\.
+
+ Se dice a menudo que en la cita, las expresiones citadas son mencionadas y no usadas\. La primera parte de esta afirmación es relativamente clara\. La segunda parte, la que dice que las expresiones citadas no son usadas, parece sospechosa\. ¿Por qué la incorporación a una cita no es un uso de una expresión? Una respuesta admisible sería que, por supuesto, en algún sentido el material citado se usa pero su uso en la cita no se relaciona con su significado en el lenguaje; luego el material citado no se usa como una pieza de lenguaje\.
+
+ Esta respuesta puede no satisfacer por completo nuestras dudas\. Para empezar, están los casos problemáticos en los que es conveniente tanto como usar como mencionar la misma expresión diciendo o inscribiendo una única instancia particular de la expresión …
+
+ Quine dice que la cita “… tiene cierta característica anómala”\.
+
+ ¿Las palabras citadas se usan o se mencionan? Obviamente se mencionan, dado que las palabras son de Quine y yo quiero resaltar este *hecho*\. Pero igualmente obvio es que las palabras son usadas; si no lo fueran, lo que designa la palabra “cita” sería un término singular, y esto no puede ocurrir si he producido una oración gramatical\.
+
+
+## 97
+DAVIDSON, Donald \(1984\-1990:97\)\. De la verdad y de la interpretación\. \.\.\.
+
+He aquí otro caso mixto de uso y mención que no resulta fácil de discriminar:
+
+ Dhaulagiri está próximo a Anapurna, la montaña cuya conquista Maurice Herzog describió en su libro del mismo nombre\.
+
+ La última frase “del mismo nombre” no puede significar del mismo nombre que la montaña, pues la montaña tiene muchos nombres\. Más bien significa del mismo nombre de la montaña empleada antes en la oración\. Llamaría a esto un caso genuino de cita, pues la oración refiere una expresión mediante la exhibición de una instancia particular de dicha expresión; pero es un caso que se las arregla sin comillas\. …
+
+ Si dejamos momentáneamente de lado estos últimos ejemplos por considerarlos patológicos y tal vez curables, hay una manera, hoy estándar, de respaldar la idea de que en la cita el material citado no se usa\. Es la interpretación de la cita que Tarski propone como la última defendible\. Según ella una cita, consistente en una expresión flanqueada por comillas es como una única palabra y debe considerarse lógicamente simple\. Las letras y espacios dentro del material citado se ven como accidentes en el deletreo de una palabra más larga y por lo tanto carecen de significado e forma aislada\. El nombre de una comilla es así, dice Tarski, como el nombre propio de un hombre\. Llamaré a esto la teoría del nombre propio de la cita\.
+
+
+## 98
+DAVIDSON, Donald \(1984\-1990: 98\)\. De la verdad y de la interpretación\. \.\.\.
+
+P\. 98
+
+ Quine ha promovido repetidamente y en términos muy coloridos la idea de la cita como término singular inestructurado\. No sólo niega … que las citas sean descripciones, sino también afirma que las letras dentro de las comillas en una cita se presentan allí “… como un mero fragmento de un nombre más largo que contiene, además de este fragmento, las comillas” … Si aceptamos esta teoría, nada se perdería si sustituyésemos cada nombre\-comilla por algún nombre no relacionado, pues ésta es la característica de los nombres propios\. Y así no queda ningún rastro, por cuanto respecta a la teoría de la cita, las reglas informales que gobiernan la cita y que parecen tan claras: que si uno quiere formar un nombre\-comilla de una expresión, tiene que flanquear dicha expresión con comillas; y que un nombre\-comilla refiere “su interior” … Nada queda de la noción intuitivamente atractiva de que una cita en cierto modo ilustra de qué trata\. 
+
+ Estas objeciones son suficientes en sí mismas para despertar dudas respecto de la afirmación de Tarski de que esta interpretación de la cita es “… la más natural y está en completo acuerdo con la forma acostumbrada de usar las comillas \.\.\.”
+
+
+## 98\-99
+DAVIDSON, Donald \(1984\-1990:98\-99\)\. De la verdad y de la interpretación\. …
+
+ Nada queda de la noción intuitivamente atractiva de que una cita en cierto modo ilustra de qué se trata\.
+
+ Estas objeciones son suficientes en sí mismas para despertar dudas respecto a la afirmación de Tarski de que esta interpretación de la cita es “… la más natural y está en completo acuerdo con la forma acostumbrada de usar comillas…” Pero hay otra objeción que yo considero decisiva, cual es que en base a esta teoría no podemos dar una explicación satisfactoria de las condiciones bajo las cuales una oración arbitraria que contiene una cita es verdadera\. Es una teoría adecuada, *se interpreta* que cada oración debe su verdad o falsedad a la forma en que se la construyó a partir de una cantidad finita de partes mediante la repetida aplicación de un número finito de modos de combinación\. Hay por supuesto, un número finito de modelos de nombres\-comilla, puesto que cada expresión tiene su propio nombre\-comilla y un número infinito de expresiones\. Pero en la teoría que estamos considerando, los nombres comilla no tienen estructura significativa\. __De allí que una teoría de la verdad no podría abarcar en general a las oraciones que contienen citas\. Debemos rechazar la interpretación de la cita con un nombre propio si es que queremos una teoría satisfactoria para un lenguaje que contiene citas__\.
+
+
+## 99
+__DAVIDSON__, Donald \(1984\-1990:__99__\)\. *De la verdad y de la interpretación\. Fundamentales*
+
+Me referiré ahora a una teoría de la cita muy diferente, que podría ser llamada teoría pictórica de la cita\. … esto es, la expresión nombrada más las comillas, lo que refiere la expresión, sino más bien, la expresión misma\. El papel de las comillas es indicar cómo debemos considerar la expresión en su interior: las comillas constituyen un medio ambiente lingüístico dentro del cual las expresiones hacen algo especial\. Este fue el punto de vista de Reichenbach, quien dijo que las comillas “… transforman un signo en un nombre de ese signo”\. Quine también sugiere esta idea cuando escribe que una cita “… designa su objeto … ilustrándolo”, pues naturalmente sólo del interior de una cita podría decirse que es como la expresión referida \(las comillas no están en la ilustración: son su marco\)\. Y Church … también juega con la noción de que en la teoría de Frege “… una palabra encerrada entre comillas simples será tratada como una palabra diferente” en cuanto es usada “autónomamente”, es decir, para nombrarse a si misma\. 
+
+
+## 101
+DAVIDSON, Donald \(1984\-1990:101\)\. De la verdad y de la interpretación\. …
+
+ Un defecto central de la teoría del nombre propio de la cita consiste en que, si bien veía a las citas como expresiones bien formadas del lenguaje, no proporcionaba una teoría articulada que mostrara cómo cada infinitud de tales expresiones debía su referencia a su estructura\. … es posible tratar a las citas como poseedoras de una estructura semánticamente significativa\. Avancemos en esta dirección\.
+
+ Geach ha insistido largamente en que las citas son en realidad descripciones, y por lo tanto tienen estructura y ha criticado a la teoría del nombre propio tal como yo lo he hecho … Su teoría … es la siguiente:\. Una única palabra entre comillas se nombra a sí misma; esto es un nuevo ítem del vocabulario, y no es semánticamente complejo … Hasta ahora, la teoría es igual a la teoría del nombre propio\. Pero una expresión más larga que se cita representa una descripción estructurada\. Así, “’Alicia’ dormía’”, abrevia a “’Alicia’ ‘dormía’”, que se lee “la expresión obtenida de escribir “’Alicia’ seguido de “’dormía’”\. Esta teoría tiene las ventajas de la teoría fregeana precedente, y es mucho más simple y natural \(Se la podría llamar teoría del deletreo de la cita\)\.
+
+
+## 104\-105
+DAVIDSON, Donald \(1984\-1990:104\-105\)\. De la verdad y de la interpretación\. …
+
+… Pienso que deberíamos concluir que la teoría del deletreo de la cita no tiene conexión con la idea de que entendemos a las citas como expresiones ilustrativas\. …
+
+Un uso importante de la cita en el lenguaje natural consiste en introducir nuevas notaciones por medio de su exhibición entre comillas; esto resulta imposible en la teoría del deletreo en caso de que la nueva notación no esté compuesta de elementos que tengan nombres\. … no podemos aceptar la teoría del deletreo como portadora de una descripción de la cita en el lenguaje natural\. …
+
+ *Es* natural suponer que __las palabras que aparecen dentro de los límites de una oración son partes legítimas de la oración__; y en el caso de las citas, hemos acordado que las palabras dentro de las comillas nos ayudan a referir dichas palabras\. Sin embargo, __lo que yo propongo es que esas palabras entre comillas no son, desde el punto de vista semántico, parte de la oración__\. De hecho, __ya es confuso decir que ellas son palabras__\. 
+
+
+## 105
+__DAVIDSON__, Donald \(1984\-1990:__105__\)\. *De la verdad y de la interpretación\.* …
+
+Lo que aparece entre comillas, en una* inscripción*, no es una forma, y lo que necesitamos de ella es que ayude a referir su forma\.* *__*En mi teoría, que podemos llamar *teoría *demostrativa*__* * de la cita, la inscripción interior no se refiere a nada, ni es parte de ninguna expresión que lo haga\. __Son más bien comillas las que efectúan todo ese referir, y ayudan a referir una forma señalando algo que la tiene__\. Esta teoría demostrativa, ni la cita como un todo \(las comillas más su contenido\) ni el contenido sólo son, excepto por accidente, un __término singular\.__ El término singular esta en las comillas, y se lo podrá leer como “la expresión de la cual una instancia particular está aquí”\. O, para mostrar la forma en que quede decirse ahora genuinamente que la ilustración toma parte: “la expresión con la forma ilustrada aquí”\.
+
+
+## 105\-106
+DAVIDSON, Donald \(1984\-1990:105\-106\)\. De la verdad y de la interpretación\. …
+
+__En mi teoría, que podemos llamar *teoría demostrativa* de la cita, la inscripción interior no refiere a nada, ni es parte de ninguna expresión que lo haga__\. … La cita es un recurso para señalar inscripciones \(o emisiones\) y puede usarse … para señalar inscripciones o emisiones espacial o temporalmente exteriores a la oración citativa\.
+
+ *Imaginemos* la instancia particular de “esto” reforzada con dedos índices señalando hacia la instancia partículas de “Alicia dormía”\. 
+
+Descuento que resulta obvio que la teoría __demostrativa__ __asigna a las oraciones que contienen citas una estructura que una teoría de la verdad puede manipular sin complicacione__s \(naturalmente se supone que hay alguna manera de dar cabida a demostrativos, y a este respecto ya he tratado de indicar que no existe ninguna dificultad real para hacer un lugar a elementos demostrativos o deícticos dentro de una teoría formal de la verdad\)\.
+
+
+## 106
+DAVIDSON, Donald \(1984\-1990:106\)\. De la verdad y de la interpretación\. …
+
+ Por último, es obvio que se ha explotado y explicado la característica ilustrativa de la cita\. Por lo tanto, una teoría demostrativa también autoriza el uso de la cita para introducir nuevas partículas de tipografía y para lenguajes con nuevos alfabetos\.
+
+ He dicho que para la teoría demostrativa el material citado no forma parte, semánticamente, de la oración citativa\. … Cualquier instancia particular puede servir de blanco a las flechas de la cita, por lo que en particular una oración citativa puede, después de todo, contener por causalidad una instancia particular con la forma requerida para los propósitos de la cita\. Tales instancias particulares cumplen entonces una doble tarea, una como engranajes significativos en la máquina de la oración, otra como objetos semánticamente neutrales con una forma útil\. De este modo:
+
+ Quine dice que la cita “… tiene cierta característica anómala”\.
+
+Puede transformarse más explícitamente en:
+
+Quine dice, empleando las palabras de las cuales éstas son una instancia particular, que la cita tiene cierta característica anómala\.
+
+
+## 108
+DAVIDSON, Donald \(1984\-1990:108\)\. De la verdad y de la interpretación\. …
+
+ Cap\. 7 Al decir that\*
+
+\[\* Nota p\.p\. p\. 35 El autor usa el término inglés that en sus dos sentidos, que en castellano se traducen por “que” y “eso”, en este capítulo y en referencia \.\.\.\[T\]\.
+
+ “Ojalá hubiera dicho that”, dijo Oscar Wilde al alabar una de las agudezas de Whistler\. Este que tenía una una opinión poco favorable respecto a la originalidad de Wilde, replicó: “Lo harás, Oscar, lo harás”\. Esta anécdota nos recuerda que una expresión como “Whistler dijo that” en ocasiones puede servir como una oración gramaticalmente completa\. Sugiero que tenemos aquí la clave de un análisis correcto del discurso indirecto … 
+
+Si aceptamos que la gramática de superficie es una guía hacia la forma lógica, veremos que “Galileo dijo that la Tierra se mueve” contiene la oración “la Tierra se mueve”, y que a su vez esta oración consiste en el término singular “la Tierra”, y en un predicado, “se mueve”\. Pero si “la Tierra” es, en este contexto, un término singular, se lo puede reemplazar, en lo que a la verdad o falsedad de la oración continente respecta, por cualquier otro término singular que refiera a la misma cosa\. No obstante, los que parecen ser reemplazantes apropiados pueden alterar la verdad de la oración original\.
+
+
+## 108\-109
+DAVIDSON, Donald \(1984\-1990:108\-109\)\. De la verdad y de la interpretación\. …
+
+ La notoria invalidez aparente de esta jugada \(ver ficha p\. 108\) sólo puede ser aparente, pues la regla en la que se basa no hace sino echar luz sobre lo que envuelve a la idea de un término \(lógicamente\) singular\. Basta, entonces, con unas pocas palabras a modo de explicación: nos hemos equivocado en la forma lógica, o nos hemos equivocado con la referencia del término singular\.
+
+ *Lo* que parece un comportamiento anómalo por parte de los que parecen términos singulares dramatiza el problema de dar una explicación ordenada del __discurso indirecto__\. Pero el problema es más agudo\. Puesto que lo que toca a términos singulares toca a todo lo que ellos tocan, y esto viene a ser todo: cuantificadores, variables, predicados, conectivos\. Los términos singulares refieren, o pretenden referir, a las entidades sobre las cuales actúan las variables de cuantificación, y son éstas las entidades respecto a las cuales los predicados son o no son verdaderos\. Por lo tanto no deberíamos sorprendernos que, si podemos tropezar con problemas en la oración “*Scott dijo *that* Venus es un planeta inferior” si sustituimos “Venus” por “La Estrella del Atardecer”*, igualmente podemos tropezar con problemas como sustituir “es idéntico a Venus o a Mercurio” en lugar del coextensivo “es un planeta inferior”\. Las dificultades con el discurso indirecto no se pueden resolver simplemente aboliendo los términos singulares\.
+
+
+## 109
+DAVIDSON, Donald \(1984\-1990:109\)\. De la verdad y de la interpretación\. …
+
+ ¿Qué deberíamos esperar de una consideración adecuada de la forma lógica de una oración? Por encima de todo, diría yo, tal consideración debe llevarnos a ver que el carácter semántico de la oración —su verdad o falsedad— se debe a cómo ella está compuesta: por un número finito de recursos que satisfacen al lenguaje como un todo, a partir de elementos que se extraen de una reserva finita \(el vocabulario\) que satisface al lenguaje como un todo\. Ver una oración bajo esta luz es ver a la luz de una teoría para su lenguaje, una teoría que da la forma de cada oración en ese lenguaje\. Una manera de proporcionar una teoría así es mediante la caracterización recursiva de un predicado de verdad, según las pautas de Tarski\.
+
+
+## 109
+DAVIDSON, Donald \(1984\-1990:109’\)\. De la verdad y de la interpretación\. …
+
+ Dos consideraciones estrechamente relacionadas sostienen la idea de que la estructura de una teoría de la verdad al estilo de Tarski otorga a una oración merece ser llamada forma lógica de la oración … el lenguaje, si bien consiste en un número indefinidamente grande de oraciones, puede ser comprendido por una creatura con poderes finitos\. Puede decirse que una teoría una la verdad provee una explicación efectiva del rol semántico de cada expresión significativa para cada vez que ella aparece\. Armados de la teoría, siempre podemos responder a la pregunta: “¿Qué están haciendo aquí estas palabras familiares?”, diciendo en qué forma contribuyen a las condiciones de verdad de la oración\. \(Esto no es asignar un “significado”, y mucho menos una referencia, a cada expresión significativa\)\.
+
+ A menudo se ve el estudio de la forma lógica de las oraciones a la luz de otro interés, el de dar curso a la referencia\. Desde este punto de vista, dar la forma lógica de una oración es catalogar las características que son de importancia para su localización en la escena lógica, las características que determinan de qué oraciones es ella una consecuencia lógica, y qué oraciones tiene como consecuencias lógicas\. Una notación canónica codifica gráficamente la información relevante, lo que vuelve simple a la teoría de la inferencia, y mecánica a la práctica donde fuera posible\. 
+
+
+## 110\-111
+__DAVIDSON__, Donald \(1984\-1990:__110\-111__\)\. *De la verdad y de la interpretación*\. …
+
+ … Toda teoría de la verdad que satisfaga los criterios de Tarski debe tener en cuenta todos los recursos iterativos del lenguaje que afectan la verdad\. En los lenguajes familiares para los cuales sabemos cómo definir la verdad los recursos iterativos básicos son reducibles a los conectivos oracionales, el aparato de cuantificación y el operador de descripción si es primitivo\. Donde una oración sea una consecuencia lógica de otra sólo en base a la estructura cuantificacional, una teoría de la verdad implicará entonces que si la primera oración es verdadera, la segunda lo es\.
+
+… Estamos ahora en condiciones de explicar nuestra aporía del discurso indirecto: ocurre que la relación entre verdad y consecuencia que acabamos de delinear parece desmoronarse … 
+
+Luego, si queremos *dar* las condiciones de verdad para todas las oraciones así, no podemos hacerlo oración por oración, sino sólo descubriendo una estructura articulada que nos permita considerar que cada oración esta compuesta de un número finito de recursos que efectúan una contribución enunciada a sus condiciones de verdad\. 
+
+ 
+
+
+## 111\-113
+__DAVIDSON__, Donald \(1984\-1990:__111\-113__\)\. *De la verdad y de la interpretación*\. …
+
+… A este respecto, se ha propuesto ver las palabras que siguen a “dijo that” como si operaran entre comillas ocultas, siendo su única función ayudar a referir una oración, y una inactividad semántica explicada mediante una consideración de cita\. … las consideraciones de la cita … deben estar equivocadas; y yo pienso que es así\. 
+
+ … __Simplemente véase las citas como abreviaciones__ de lo que uno obtiene siguiendo estas instrucciones: a la derecha de la primera letra que tiene comillas iniciales a su izquierda escríbase comillas …\. hasta alcanzar el cierre de las comillas\. Lo que uno tiene ahora es un término singular complejo que da lo que Tarski llama descripción estructural de una expresión\. 
+
+ … *Ni los lenguajes* que Frege sugiere como modelos para los lenguajes naturales ni los lenguajes que describe Church están sujetos a la teoría en el sentido de una definición de la verdad que responda a los requisitos de Tarski\. Lo que se interpone en el camino para el caso de Frege es que cada expresión referente tiene un número infinito de entidades que puede referir, dependiendo del contexto, y no hay ninguna regla que dé la referencia en contextos más complejos sobre la base de la referencia en otros más simples\.
+
+
+## 114
+__DAVIDSON__, Donald \(1984\-1990:__114__\)\. *De la verdad y de la interpretación*\. 
+
+En los lenguajes de Church, hay un número infinito de expresiones primitivas; esto entorpece directamente la posibilidad de caracterizar recursivamente un predicado de verdad que satisfaga los requerimientos de Tarski\.
+
+ Las cosas podrían emparcharse si se sigue una idea central de *Meaning and Necessity* de Carnap, y se limita a nivel semántico a dos: extensiones e intensiones \(de primer nivel\)\. Así, una estrategia atractiva podría ser dar vuelta a Frege, simplificando de ese modo, dejando que cada término singular refiera su sentido o intensión, y proveyendo una función de realidad … __para relacionar intensiones con extensiones__\. Bajo este tratamiento nuestra oración de prueba emergería de esta manera: “La realidad de Galileo dijo *that* la Tierra se mueve”\. Aquí debemos suponer que “la Tierra” nombra un concepto individual al cual la función referida por “se mueve” relaciona con la proposición de que la Tierra se mueve; la función referida por “dijo *that”* por su parte relaciona a Galileo y la proposición de la que la tierra se mueve con un valor de verdad\. Por último, el nombre “Galileo” refiere a un concepto individual al cual que está relacionado por la función referida por “la realidad de” con Galileo__\. Si se aplica este ingenio, tal vez pueda lograrse que esta teoría haga un lugar a cuantificadores que liguen variables tanto dentro como fuera de los contextos que crean verbos como “dijo” y “cree”\. __
+
+
+## 114\-115
+DAVIDSON, Donald \(1984\-1990:114\-115\)\. *De la verdad y de la interpretación\.* …
+
+__ No hay ningún problema especial para definir la verdad para un lenguaje así: todo demuestra ser puramente extensional salvo en su ontología\. __Parece que cada teoría podría hacer todo lo que hemos pedido\. Escrúpulos nominalistas al margen, ¿por qué no aceptarla?
+
+ *Supongamos* que alguien dice \(y ahora el discurso es directo\): “Hay un hipopótamo en la nevera”, … “Es redondo, tiene la piel arrugada, no le molesta que lo toquen\. Tiene sabor agradable, al menos su jugo, y cuesta pocos centavos\. Exprimo dos o tres para el desayuno\.” … queda claro que él significa algo distinto, al menos con alguna de sus palabras, de lo que yo significo\. La hipótesis mas simple llegados a este punto es que mi palabra “hipopótamos” ya no traduce su palabra “hipopótamo”; mi palabra “naranja” lo haría mejor … 
+
+ __Nada de esto demuestra que no cabe la posibilidad de relatar correctamente, mediante el discurso indirecto, lo que otro ha dicho__\. … Y esto es suficiente para justificar nuestra impresión de que hay algo espurio en torno al rigor que las cuestiones de significado deben tener en principio si los significados son entidades\. …\.
+
+\[Sanfermines jóvenes entrevistados por la tv española: “¿Cómo la estáis pasando?”, a lo cual responden: “De puta madre”\. Como la transmisión es en vivo, la periodista toma la palabra y traduce: “Dicen que de maravilla” o Agamenon y su porquero\]\.
+
+
+## 116
+__DAVIDSON__, Donald \(1984\-1990:__116__\)\. *De la verdad y de la interpretación*\. …
+
+ El rodeo ha sido largo; vuelvo ahora al tratamiento que da Quine a la aproximación citativa en *World and Objet*\. … Quine rechaza la relativización a un lenguaje con el argumento de que el principio de individualización de los lenguajes es correcto, y el beneficio irrelevante para el discurso indirecto cuando los lenguajes son idénticos\. El autor sugiere ahora que en lugar de interpretar que la oración\-contenido del discurso indirecto tiene lugar en el lenguaje la interpretación como dicha por un hablante en el tiempo\. El hablante \(y el tiempo\) en relación con el cual la oración\-contenido necesita comprensión es, desde luego, __el hablante de esa oración__, quien de ese modo está atribuyendo indirectamente un dicho a otro\. … “Galileo dijo *that* la Tierra se mueve” viene ahora a significar lago así como “Galileo habló una oración que en sus labios significaba o que “’La Tierra se mueve’ significaba ahora en los míos”  … pienso que es casi correcta, en tanto que las alternativas preferidas por Quine padecen de serios defectos\.
+
+
+## 116\-117
+*DAVIDSON, Donald \(1984\-1990:*__*116\-117*__*\)\. *De la verdad y de la interpretación\. …
+
+ La primera de estas alternativas es la __teoría inscripcional* de Scheffler*__* \[“An Inscripcional Approach to Indirect Quotation”\]\.* Este sugiere que las oraciones del discurso indirecto relacionan un hablante y una emisión: el rol de la oración\-contenido consiste en ayudar a transmitir de qué tipo de emisión se trataba\. Lo que obtenemos de esta manera es, “Galileo habló una emisión *that* \-la\-Tierra\-se\-mueve” el predicado “x” es\-una emisión\-*that*\-la\-Tierra\-se\-mueve” tiene, por cuanto a las teorías de la verdad y de la referencia respecta, la forma de un predicado inestructurado monódico, Quine no presenta la cuestión de esta manera, y podría resistirse a mi aproximación de los términos “forma lógica” y “estructura” para propósitos que excluyen la aplicación al predicado de Scheffler\. __Quine llama “compuesto” al predicado y al describirlo dice que se compone de un operador y de una oración__\. Estas son cuestiones de terminología; la sustancia, respecto a la cual no tendría que haber discrepancias, es que en la teoría de Scheffler las oraciones en *oratio obliqua* no tienen relaciones lógicas que dependen de una estructura dentro del predicado, y un predicado *de* verdad que sea aplicable a todas esas oraciones no puede ser caracterizado según el estilo de Tarski\. La razón es sencilla: hay un número infinito de predicados con la sintaxis “x es\-una\-emisión\- —“ cada uno de los cuales no está relacionado con el resto según el punto de vista de la teoría semántica\.
+
+
+## 117
+__DAVIDSON__, Donald \(1984\-1990:__117__\)\. *De la verdad y de la interpretación*\. …
+
+ Quine ha tomado una de las puntas del dilema\. Dado que atribuir estructura semántica a las oraciones\-contenido del discurso indirecto aparentemente nos fuerza a establecer relaciones lógicas que no queremos, __Quine renuncia a la estructura__\. Esto da por resultado el abandono de otro *desiderátum* de la teoría, definir la verdad\. … Quine contempla un paso adicional; escribe: “… una alternativa final que encuentro tan atractiva como cualquier otra es simplemente __prescindir de los objetos de la actitudes proposicionales__”\. Donde Scheffler aún veía “dijo *that*” como un predicado diádico que relaciona hablantes y emisiones, pero unificando las oraciones\-contenido en predicados monádicos de una sola pieza válidos para las emisiones, Quine ahora concibe una oración\-contenido y “dijo *that*” unificados directamente para formar el predicado monádico “x dijo\-*that*\-la\-tierra\-se mueve”, válido para personas\.
+
+ … Desafortunadamente, esta manera de eliminar inferencias indeseables elimina casi toda la estructura requerida por la teoría de la verdad\. Por ello vale la pena volver a dar otra mirada a la propuesta previa de analizar el discurso indirecto en términos de un predicado que relaciona un hablante original, una oración, y el presente hablante de una oración en el discurso indirecto … Pero existe una sutil falla\. \.\.\.
+
+
+## 118\-119
+__DAVIDSON__, Donald \(1984\-1990:__118\-119__\)\. *De la verdad y de la interpretación*\. …
+
+ … Ahora bien, la falla es ésta\. Si yo digo meramente digo que Galileo y yo somos igual\-dicentes, todavía tengo que hacer que lo seamos; ¿y cómo puedo llegar a eso? Obviamente, diciendo lo que él dijo; no usando sus palabras \(necesariamente\), sino usando palabras del mismo valor aquí y ahora que las de él allá y entonces\. Pero esto es precisamente lo que no puedo hacer en la teoría\. Pues la teoría presenta a la oración\-contenido encerrada entre comillas, y en cualquier teoría estándar de la cita esto significa que la oración\-contenido __es mencionada y no usada__\. Al emitir las palabras “La Tierra se mueve” yo, de acuerdo con esta idea, no digo nada realmente parecido a lo que se atribuye a Galileo haber dicho; de hecho, no digo nada\.
+
+ *Aquí el “that”* es un término __demostrativo singular que refiere una emisión__ \(no una oración\)\-
+
+Esta fórmula tiene una pequeña desventaja de que deja al oyente en el aire con respecto al propósito que se persigue al decir “La Tierra se mueve” hasta que el acto haya sido ejecutado\. Esto es como si yo contara la historia y luego agregara: “Así era en una época” \.
+
+
+## 120
+__DAVIDSON__, Donald \(1984\-1990:__120__\)\. *De la verdad y de la interpretación\.* …
+
+ … Lo que sigue da el contenido del dicho del sujeto, pero no tiene una conexión lógica o semántica con la atribución original de un dicho\. Esto último constituye sin duda la novedad, y de ello depende todo: desde un punto de vista semántico la oración\-contenido del discurso indirecto no está contenida en la oración cuya verdad cuenta, es decir, la oración que termina con “*that*”\.
+
+ __Al tratar con este sujeto, nos convendría hablar de inscripciones y emisiones y actos de habla__, y evitar la referencia a oraciones \[Nota 16 pie de pág\. “Doy por sentado que una teoría de la verdad para un lenguaje que contiene demostrativos debe aplicarse estrictamente a emisiones y no a oraciones, pues si no tratará a la verdad como una relación entre oraciones, hablantes y tiempos\] Y esto porque lo que hace una emisión de “Galileo dijo *that*” es enunciar otra emisión\. Como toda emisión, esta primera puede ser seria o tonta, asertiva o traviesa; pero si es verdadera, debe estar seguida de una emisión sinónima de alguna otra\. La segunda emisión, el acto presentado, también puede ser verdadera o falsa, hecha a modo de aserción o de travesura\. …\. __Tales expresiones podrían ser llamadas realizativos__, pues se les emplea para anunciar realizaciones por parte del hablante\. …
+
+
+## 123
+__DAVIDSON__, Donald \(1984\-1990:__123__\)\. *De la verdad y de la interpretación*\. …
+
+ __Modos y ejecuciones__
+
+ __Frege sostuvo__ que una aplicación adecuada del lenguaje requiere que atendamos a tres características de las oraciones: __referencia, sentido y fuerza__\. En toda oportunidad he insistido en que una teoría de la verdad diseñada en base a una definición de verdad del tipo Tarski no dice todo lo que necesitamos saber acerca del sentido\. Si contamos a la verdad dentro del dominio de la referencia, como lo hizo Frege,__ el estudio del sentido se reduce de este modo al estudio de la referencia__\.
+
+ Pero, __¿qué hay de la fuerza?__ En ente trabajo pretendo considerar a la fuerza en la única forma bajo la cual estoy seguro de que ella es un rasgo de las oraciones, esto es, en tanto sirve para distinguir los modos\. La pregunta que me interesa es, __¿puede una teoría de la verdad explicar las diferencias entre los modos?__ … __Yehoshua Bar\-Hillel \.\.\. algunos años atrás me preguntó cómo sería posible representar el modo dentro de los confines de una teoría de la verdad__\.
+
+ El análisis del modo es interesante, entre otras razones, porque __nos obliga a prestar atención a las relaciones entre lo que las oraciones significan y sus usos\.__ Tenemos por un lado la distinción sintáctica, y presumiblemente semántica, entre modos \(como indicativo, imperativo, optativo, interrogativo\), y, por el otro lado la distinción entre usos de las oraciones \(como: hacer aserciones, dar órdenes, expresar deseos, hacer preguntas\)\. 
+
+
+## 123\-124
+__DAVIDSON__, Donald \(1984\-1990:__123\-124__\)\. * De la verdad y de la interpretación*\. …
+
+ __Los modos clasifican oraciones, mientras que los usos clasifican emisiones;__ pero los modos clasifican indirectamente a las emisiones, pues todo aquello que distingue a las oraciones puede emplearse para distinguir a las emisiones de ellas\. Entonces podemos preguntar, ¿cuál es la relación entre dos formas de clasificar emisiones; cómo se relacionan las aserciones con las emisiones de oraciones imperativas?
+
+ *La sugerencia* más simple sería que las clases asociadas de emisiones son idénticas: las emisiones de imperativas son órdenes, las emisiones de interrogativas son preguntas, etc\. Esta idea parece encontrar sustento en arte al trabajo de Dummett\. Es así como __Dummett__ explica el uso que da Frege al signo de aserción o __rasgo de juicio__:
+
+ __El rasgo de juicio es propiamente el signo de aserción, aquel que lleva la fuerza asertiva__\. Por ello no es una expresión funcional, o parte de una: no podemos inquirir cuál es su sentido, o cual es su referencia; contribuye al significado del símbolo oracional complejo de un modo muy diferente … sólo de la oración a la que se prefija el rasgo de juicio puede decirse que expresa un sentido o que sostiene un valor de verdad: la expresión toda con el rasgo de juicio no expresa nada ni sostiene nada, __*afirma* algo__; esto es, afirma que el pensamiento expresado por lo que sigue al rasgo de juicio es verdadero\.
+
+
+## 124
+__DAVIDSON__, Donald \(1984\-1990:__124__\)\. *De la verdad y de la interpretación*\. …
+
+ __Aquí Dummett dice que son las oraciones las que hacen aserciones__, en tanto que __yo pienso que sería más natural decir que una aserción es una emisión, y es el hablante quien hace la aserción__\. No obstante, esto puede no ser más que un mal terminológico; lo que me preocupa es la pretensión implícita de que la aserción y el modo indicativo puedan identificarse tan próximamente entre sí\. __Y esto porque hay muchas emisiones de oraciones indicativas que no son aserciones, por ejemplo las oraciones indicativas emitidas como juego, simulación, broma y ficción__; y por supuesto que pueden hacerse aserciones emitiendo oraciones en otros modos\. \(Emisiones de “¿Notaste que Susana lleva nuevamente su sombrero violeta?” o “Fíjate que Susana lleva nuevamente su sombrero violeta\)\. E igualmente para los demás modos; podemos hacer una pregunta con una indicativa o una imperativa \(“Dime quién ganó la tercera carrera”, “Quisiera saber tu número de teléfono”\), o efectuar una orden con una indicativa \(“En esta casa nos quitamos los zapatos antes de entrar”\)\.
+
+
+## 124\-125
+__DAVIDSON__, Donald \(1984\-1990:__124\-125__\)\. *De la verdad y de la interpretación*\. …
+
+ Es innecesario decir que __Dummett__ sabe todo esto, y si provisoriamente se permite pasar por alto todo esto, y si provisoriamente se permite pasar por alto estos casos en favor de una idea mayor, es sólo porque cree en un sentido claro los contra\-ejemplos producen desviaciones\. ¿Pero, cuál es este sentido? __Austin__ hizo una distinción entre lo que él __llamó los usos “normales” o “serios” de una oración y de los usos “descoloridos” o “parásitos__”\. Si una distinción de este tipo pudiera hacerse de una manera no circular, y resultara así que el uso normal o serio de las indicativas fuera a hacer aserciones, el de las imperativas dar órdenes, el de las interrogativas hacer preguntas y así sucesivamente, __entonces se habría establecido la conexión deseada entre los modos y los usos de las oraciones\.__
+
+ __*Seguramente* hay alguna conexión importante entre los modos y sus usos__, y eso nos hace pensar que hay algo natural, serio o normal en el uso de una oración en cierto modo para ejecutar un acto “correspondiente”\. La cuestión es si esta sensación puede articularse en una forma que arroje luz sobre la naturaleza de los modos\. Es fácil ver que apelar a lo “serio” o “normal” no va más allá de una apelación a la intuición\. __El que una orden se emita en el imperativo en vez del indicativo no nos da ninguna clave de su seriedad__; igualmente, una pregunta seria puede expresarse en el modo imperativo en vez del interrogativo\.
+
+\[Leech 1997:¿? pone un ejemplo de una falsa imperativa, la llama cortesía: *Tiene que tomarse otro whisky\.* EL verdadero modo está tomado desde las condiciones situacionales y no en los modos gramaticales\]\.
+
+
+## 125
+__DAVIDSON__, Donald \(1984\-1990:__125__\)\. *De la verdad y de la interpretación*\. …
+
+ Y si “normal” significa usual, o estadísticamente más frecuente, resulta por cierto dudoso que la mayoría de los indicativas se emitan como aserciones\. Hay demasiadas historias, repeticiones memorizadas, ilustraciones, suposiciones, parodias, charadas, salmos, y cumplidos conspicuamente impensados\. Y en todo caso el análisis del modo no puede descansar de manera plausible sobre los resultados de este tipo de estudio estadístico\.
+
+ La solución de Dummett consiste en pasar de lo serio o normal a los convencional: una aserción es una indicativa emitida bajo condiciones especificadas por convención; una orden es un imperativa emitida bajo otras condiciones dadas convencionalmente, y así sucesivamente\. Escribe entonces el autor: “… la aserción consiste en la emisión \(deliberada\) de una oración a la cual, por su forma y contexto, se reconoce como siendo usada de acuerdo con una cierta convención general \.\.\.” Y de las imperativas, “… la emisión de una oración de una forma determinada, a menos que circunstancias especiales alejen a este acto de su significado usual, constituye en sí misma dar una orden\. Agrega esta advertencia acerca de cómo aproximarse al tema de las relaciones entre los modos y sus usos:
+
+ … la aproximación correcta equivale a considerar que las emisiones están demarcadas convencionalmente en tipos según la forma de las expresiones lingüísticas empleadas, y luego a inquirir acerca de las convenciones que gobiernan el uso de los varios tipos de emisión\.
+
+__DAVIDSON__, Donald \(1984\-1990:__125__\-__126__\)\. *De la verdad y de la interpretación*\. …
+
+ La opinión de Dummett de que las acciones lingüísticas como la aserción y la orden consisten en emitir oraciones en los modos indicativo o imperativo bajo condiciones específicas convencionalmente es esencial para su idea del lenguaje junto con la tesis de que hay una convención adicional según la cual las aserciones se hacen con la intención de decir lo que es verdadero\. Y esto porque la unión de estas dos ideas establecería una conexión directa entre los lenguajes tal como se los usa en formas convencionales y un cierto propósito global \(decir lo que es verdadero\)\.
+
+ Concuerdo en que debemos encontrar conexiones entre la forma en que se usan las oraciones y lo que ellas significan si es que queremos dar una consideración fundacional del lenguaje\. Tengo mis dudas, de que algunos de los eslabones de la cadena Dummett sea válido\. No puedo discutir ahora el segundo eslabón, la supuesta convención de que se trata de decir lo que es verdadero\. Pero en el presente contexto es relevante tratar acerca de la presunción de que la emisión de una oración indicativa bajo condiciones convencionales constituye una aserción\.
+
+ 
+
+
+## 126
+__DAVIDSON__, Donald \(1984\-1990:__126__\)\. *De la verdad y de la interpretación*\. …
+
+ Hay una dificultad que es obvia pero que puede ser superable: si es que vamos a lograr una explicación *general* de la aserción en estos términos, tendrá que haber convenciones que expliquen __cómo hacer aserciones emitiendo oraciones que no estén en el modo indicativo__\. Pero quizá sea plausible que, si hay convenciones que relacionan indicativas y aserciones, haya convenciones adicionales que relacionen otros modos con las aserciones\. 
+
+ El problema es que las convenciones requeridas no existen\. Desde luego, es verdad que si una indicativa se emite bajo las condiciones correctas se habrá hecho una aserción\. __Hasta podríamos llegar a especificar condiciones que son necesarias y suficientes para hacer una aserción__: por ejemplo, yo pienso que para hacer una aserción un hablante debe representarse a sí mismo como creyendo lo que dice\. Pero __nada de esto sugiere que las condiciones sean de naturaleza convencional__\.
+
+ 
+
+
+## 126
+__DAVIDSON__, Donald \(1984\-1990:__126’__\)\. *De la verdad y de la interpretación*\. …
+
+ __También se debe admitir que los intérpretes y los hablantes de un lenguaje son generalmente capaces de determinar cuándo se ha hecho una aserción, y que esta capacidad es una parte esencial de su competencia lingüística__\. Más aun, el conocimiento de las convenciones lingüísticas y de otros tipos desempeña un papel clave en la producción y detección de aserciones\. La moda, la actitud, el tono, la función, el rol y el gesto tienen, o pueden tener, aspectos convencionales, y todos estos elementos pueden hacer una contribución crucial a la __fuerza __de una emisión\. Podemos admitir fácilmente todo esto sin aceptar que tan sólo siguiendo una convención las emisiones indicativas o imperativas se convierten en aserciones u órdenes\. 
+
+ __Pienso que hay poderosas razones para rechazar la idea de que hacer una aserción \(o dar una orden, o hacer una pregunta\) es ejecutar una acción puramente convencional__\. Una de las razones es, como lo he estado sugiriendo, que resulte tan difícil decir, cuál es la convención\. \(Por ejemplo, __si un asertor necesariamente se representa a sí mismo creyendo lo que dice, uno tendría que describir las convenciones siguiendo la forma en que uno puede representarse a sí mismo creyendo lo que uno dice__\)\. Una segunda cuestión es la siguiente\. Muy a menudo comprendemos una emisión en todos los aspectos relevantes, excepto en que no sabemos si es o no una aserción\. Una manera de engañar consiste en dejar abierto en la mente del engañado el tema de la aserción; las novelas históricas, o los *romans\-à\-clefi, *nos dejan deliberadamente confundidos\. 
+
+
+## 126\-127
+__DAVIDSON__, Donald \(1984\-1990:__126\-127__\)\. * De la verdad y de la interpretación*\. …
+
+¿Se omite algún aspecto convencional de la aserción? ¿Cuál? Y* si* pudiéramos decirlo, entonces ¿por qué el engañador o el escritor de estas novelas no incluiría ese mismo item en su emisión?
+
+ Todo aquello acerca de la aserción que sea convencional puede convertirse en palabras, o convertirse de algún modo en una parte explícita de la oración\. Supongamos ahora que este no es el caso, por lo cual el signo de aserción de Frege no es precisamente el equivalente formal del modo indicativo, sino una expresión más completa del elemento convencional de la aserción\. Es fácil ver que el mero decir una oración en ese modo reforzado no implica que de ello resulte una aserción; __todo bromista, embustero y actor__ aprovecharía de inmediato el modo reforzado para simular una aserción\. No tiene sentido, entonces, hablar de modo reforzado; el indicativo que tenemos disponible hace todo lo que el lenguaje puede hacer al servicio de la aserción\. Pero __dado que el indicativo no es tan poderoso como para que su mero empleo constituya una aserción, lo que debe agregarse para producir aserción no puede ser una simple cuestión de convención lingüística__\.
+
+
+## 127
+__DAVIDSON__, Donald \(1984\-1990:__127__\)\. * De la verdad y de la interpretación*\. …
+
+ Lo que este argumento ilustra es una cualidad básica del lenguaje, que puede llamarse__ autonomía del significado lingüístico\. Una vez que un rasgo del lenguaje ha obtenido expresión convencional, puede ser usado para servir a muchos fines extralingüísticos__; __la representación simbólica necesariamente rompe toda relación próxima con propósitos extralingüísticos__\. Aplicado al presente caso, __esto significa que no puede haber forma de discurso que, sólo a fuerza de su significado convencional__, pueda usarse solamente para un propósito dado, tal como hacer una aserción o formular una pregunta\.
+
+ 
+
+
+## 127
+__DAVIDSON__, Donald \(1984\-1990:__127 ‘__\)\. *De la verdad y de la interpretación*\.
+
+ El argumento tiene una forma simple: __el modo no es un signo convencional de la aserción o de la orden__\. __La razón de esto, debe recalcarse, no reside en que la fuerza ilocutoria de un acto de habla sea un aspecto puramente mental, interior o intencional del acto__\. Por supuesto que la aserción o la orden debe ser __intencional__, como debe serlo el significado en el sentido restringido\. __Pero es parte de la intención el que el acto deba ser interpretado como asertivo o imperativo__ y, por lo tanto es también parte de la intención el que algo públicamente aparente deba invitar a la interpretación apropiada\.
+
+ Sería fácil verse envuelto en una disputa acerca del grado en que la intención de un hablante de ejecutar un acto que será interpretado como asertivo debe verificarse antes de que su acto sea correctamente identificado como una aserción\. Es excesivo insistir en que una aserción se ha hecho sólo si es realmente interpretada como una aserción; es demasiado poco requerir solamente que la intención esté presente\. No necesitamos dejar establecida la cuestión de hasta qué punto un sector debe tener éxito en su intención; todo lo que aquí interesa es si un asertivo o quien da la orden debe pretender que su oyente reconozca su intención a través del empleo que da a lo que conoce o cree ser una convención lingüística\. 
+
+
+## 128
+__DAVIDSON__, Donald \(1984\-1990:__128__\)\. * De la verdad y de la interpretación*\. …
+
+ __Si hubiera tal convención, tendría que resultarnos fácil decir qué es__ y, en la gran mayoría de los casos, decir si se le ha observado o no\. Pero si bien podemos determinar usualmente si se ha hecho o no una aserción, en general __no podemos decir qué convención se ha seguido__\. La razón de que no podamos decir qué es, como ya lo he manifestado, que __no existe tal convención__\. 
+
+ __Sería un error concluir que no hay una conexión convencional entre los modos y sus usos__\. Sin duda no existiría tal conexión si ciertos análisis de los modos fueran correctos\. David __Lewis__, por ejemplo, ha sugerido con audacia que t__odas las oraciones no indicativas pueden ser “tratadas como paráfrasis de los realizativos correspondientes__, con una misma estructura de base, significado, intención y valor de verdad”\. Luego “Hierve ese huevo” equivaldría en análisis a “Yo ordeno que tú hiervas ese huevo”\. Lewis piensa que las dos oraciones podrían tener un rango de usos distinto, , pero dudo que esta diferencia de significado, su teoría simplemente niega que el modo tenga alguna significatividad convencional\.
+
+
+## 128
+__DAVIDSON__, Donald \(1984\-1990:__128 ‘__\)\. *De la verdad y de la interpretación*\. …
+
+ Un análisis con igual consecuencia fue propuesto … por Herbert Bohnert\. Este proponía que los imperativos tienen la estructura de cierto tipo de disyunciones\. Así “Hierve ese huevo” se transformaría en “O hierves ese huevo, o X sucederá”, donde X es algo que se presume indeseado por la persona a la cual se habla\.
+
+ Esta teoría encuentra su fuerza en el hecho de que podemos \(y a menudo lo hacemos\) usar indicativos para efectuar la tarea que s__egún cree Dummett convencionalmente se asigna a los otros modos__\. Y en efecto si queremos ir en esa dirección, disponemos de una teoría más simple y a mi parecer mejor, la cual es asignar a los imperativos el mismo análisis semántico que se asigna al indicativo más directamente correspondiente \(“trátese a “Hierve ese huevo” tal como se trata a “Tú hervirás ese huevo”\)\.
+
+
+## 128\-129
+__DAVIDSON__, Donald \(1984\-1990:__128\-129__\)\. *De la verdad y de la interpretación*\. …
+
+ Una virtud de estas teorías es que tornan evidente el hecho de que tener un valor de verdad no es un obstáculo para que use una oración para dar una orden o para formular una pregunta\. Pero el mérito de las teorías reductivas también explica su fracaso, pues el simple reducir los imperativos o los interrogativos a indicativos nos deja sin considera*ción* alguna de las diferencias entre los modos\. Si alguna de las teorías reductivas es correcta, entonces, el modo es tan irrelevante para el significado como a menudo se dice que lo es la voz\.__ Si el modo no afecta el significado, ¿cómo podemos tener esperanzas de explicar la conexión entre el modo y el uso, sea cual fuere esa conexión?__ 
+
+
+## 129
+__DAVIDSON__, Donald \(1984\-1990:__129__\)\. *De la verdad y de la interpretación\.* …
+
+ Estamos ahora en posición de enumerar __las características que debe tener una teoría del modo satisfactoria\.__
+
+\(1\) Debe mostrar o preservar las relaciones entre los indicativos y las oraciones correspondientes en los otros modos; debe, por ejemplo, articular el sentido en el cual “Te quitarás los zapatos”, “Quítate los zapatos” y “¿Te quitarás los zapatos”? __Tienen un elemento común__\.
+
+\(2\) Debe asignar un elemento de significado a las emisiones en un modo dado que no esté presente en emisiones en otros modos\. Y este elemento __debe conectarse con la diferencia de fuerza entre aserciones, preguntas y órdenes de tal manera que explique nuestra intuición de una relación convencional entre modo y uso__\.
+
+\(3\) Finalmente, la teoría __debe ser semánticamente tratable__\. Si la teoría responde a los requerimientos de una teoría de la verdad, entonces diré que todo está bien\. Y por el otro lado __si__, como creo que sostuvo Bar\-Hillel, puede demostrarse que una teoría estándar de la verdad es incapaz de explicar el modo, entonces la teoría de la verdad es inadecuada como una teoría general del lenguaje\.
+
+
+## 129
+__DAVIDSON__, Donald \(1984\-1990:__129 ‘__\)\. *De la verdad y de la interpretación*\. …
+
+ La dificultad de alcanzar los tres requisitos es obvia\. Las primeras dos condiciones sugieren que el modo debe estar representado por operadores que gobiernan oraciones, siendo __oraciones gobernada__s __indicativas__ \(en cuyo caso no se necesita un operador para el modo indicativo\) o neutrales \(en cuyo caso se necesita un operador para cada modo\)\. La tercera condición, sin embargo, parece prohibir todos los operadores menos los oracionales veritativos funcionales, y esta claro que que __los operadores veritativos funcionales no pueden servir para dar una interpretación plausible del modo\.__
+
+ Me parece que __Dummett__ está en lo cierto cuando dice que la expresión sintáctica del modo no es igual a una expresión funcional, que no podemos inquirir cuál es su sentido de referencia, y que \(entonces\) una oración con un indicador de modo “ni expresa nada ni sostiene nada”\. Como dice Geach, un indicador de modo no es igual a ninguna otra parte del habla; “… es necesariamente *sui generis*\. Pues cualquier otro signo lógico, si no es superfluo, modifica de alguna manera el contenido de una proposición; en tanto que éste no modifica el contenido \.\.\.”
+
+ 
+
+
+## 129\-130
+__DAVIDSON__, Donald \(1984\-1990:__129\-130__\)\. *De la verdad y de la interpretación*\. …
+
+ Dummett y Geach hacen estas declaraciones negativas a partir de lo que a mí me parecen razones parcialmente equivocadas o confusas\. Dummett piensa que una oración con un indicador de modo no puede expresar o sostener nada porque la oración “… afirma algo … esto es, que *el* pensamiento expresado por lo que sigue al rasgo de juicio es verdadero”\. Yo he insistido en que esto es algo que ninguna expresión puede hacer; pero la idea también parece equivocada por otra razón\. Si el signo de aserción afirma que el pensamiento expresado por el resto de la oración es verdadero, luego el signo imperativo debe afirmar que el pensamiento expresado por el resto de la oración es verdadero, pasará a ser verdadero\. Pero esta proposición elimina la distinción entre aserción y orden\. Geach dice en cambio que el indicador de modo \(entendiendo tal como lo entendió Frege \) “… muestra que la proposición está siendo afirmada”\. Esta proposición preserva la distinción necesaria\.
+
+
+## 130
+__DAVIDSON__, Donald \(1984\-1990:__130__\)\. *De la verdad y de la interpretación*\. …
+
+ He argumentado en contra tanto de Geach como de Dummett, que ningún indicador de modo puede mostrar o afirmar o de __ningún otro modo determinar convencionalmente qué fuerza tiene su emisión__\. Pero si esto es así, no nos quedamos con ninguna idea clara acerca de cuál es el modo que contribuye al significado\. __Ciertamente parece que nos encontramos ante una paradoja__\. El modo debe contribuir de alguna manera al significado \(punto 2 más atrás\), pues resulta claro que __el modo es una característica convencional de las oraciones__\. Sin embargo, __no puede combinarse con o modificar el significado del resto de la oración en ninguna forma conocida\.__
+
+ Vayamos en busca del auxilio de los que __Austi__n dio en llamar “__realizativos explícitos__”\. Hemos rechazado la idea presentada por David Lewis de que los imperativos sean reducidos a realizativos explícitos, pero ella permanece abierta para explotar analogías\. Austin llamó la atención sobre el hecho de que “… en ocasiones podemos usar la emisión ‘Ve’ para obtener prácticamente lo mismo que obtenemos con la emisión “Te ordeno ir”\. Pero, ¿cómo serán analizados los realizativos explícitos? 
+
+
+## 130
+__DAVIDSON__, Donald \(1984\-1990:__130 ‘__\)\. *De la verdad y de la interpretación*\. …
+
+ Austin sostuvo que los realizativos no tienen valor de verdad en base a que emitir una oración como “Te ordeno ir” no equivale típicamente a describir el acto de habla propio de uno sino más bien a dar una orden\. Esta es tal vez una explicación exacta del modo en que caracterizaríamos muchos actos de habla que consisten en emitir realizativos explícitos\. Pero como una explicación de lo que significan las palabras que se emiten, este punto de vista introduce una discrepancia intolerable entre la semántica de ciertos verbos en primera persona del tiempo presente y sus variantes en otras personas de otros tiempo\. Y el problema es adventicio, puesto que lo que resulta especial en los realizativos explícitos se explica mejor como consecuencia de un uso especial de palabras con un significado común que como consecuencia de un significado especial\.
+
+\[Levinson \(2004\) dice que son implicaturas *predecibles, cancelables, reforzables no separables\. *Son actos de habla funcionales: emisiones, no se resuelven en el plano oracional, semántico\]\. Una emisión necesita cooperación en el plano interactivo, de lo contrario no cambia de un modo a otro: una declarativa en realidad funciona en el acto como una directiva\. VA
+
+ 
+
+
+## 130\-131
+__DAVIDSON__, Donald \(1984\-1990:__130\-131__\)\. *De la verdad y de la interpretación*\. …
+
+ Si aceptamos cualquiera de las semánticas usuales para los realizativos explícitos, sin embargo, la dificultad recurre en una forma que es difícil de evitar\. Según las consideraciones usuales del asunto, en una *oración* como “Jones ordenó a Smith que fuera” las palabras finales \(“a Smith que fuera”\) sirven para nombrar o describir la oración, o una proposición, o el sentido de una oración\. Para mostrar la __oración anidada relevante__, podemos remodelar el todo así: “Jones ordenó a Smith que fuera en caso que Smith va”\. Y ahora, para las consideraciones usuales, la oración “Smith va” no puede, en este texto, tener nada que ver con su significado ordinario\.Por lo tanto, tampoco puede tener nada que ver con su su espectro de usos ordinario\. Pero “Te ordeno ir” \(o, reconstruida, “Te ordeno que sea el caso que tú vas”\) tiene la misma forma que “Jones ordenó a Smith que fuera”, __y entonces debería tener el mismo análisis con los cambios apropiados de personas y tiempo__\. Se sigue que al emitir “Te ordeno ir” yo no puedo significar con las palabras “tú vas” nada parecido a lo que significaría con ellas si estuvieran solas; en el contexto presente, estoy usando estas palabras meramente para referir una oración o una proposición que ella expresa\. Parecería imposible, entonces, que si cualquier análisis usual de dichas palabras es correcto, una emisión de “Te ordeno ir” pudiera ser una orden de ir\.
+
+\[La gracia no esta en equivaler una oración a la otra sino que los significados no tengan equivalencia y no hay manera de conseguir marca alguna en el enunciado que guie la derivación inferencial  VA\]
+
+
+## 131
+__DAVIDSON__, Donald \(1984\-1990:__131__\)\. * De la verdad y de la interpretación\.* …
+
+ O, para decir lo mismo respecto a la aserción: una forma de establecer el hecho de que estoy afirmando que está lloviendo cuando emito las palabras “Está lloviendo” es prefijar las palabras Jones afirmó *that*”\. De acuerdo con la mayoría de los análisis de estas oraciones, debe esperarse el mismo efecto si prefijo las palabras “Yo afirmo *that*”\. \[ver capítulo 7 de este libro\]
+
+ Esta dificultad es una entre las dificultades usuales que me han llevado a urgir una aproximación enteramente distinta a la semántica del __discurso indirecto__, __de las oraciones de creencia__, de las oraciones acerca de órdenes, esperanzas, expectativas, y así sucesivamente: todo el profano abanico de las locuciones atributivas de actitudes\. … __mi propuesta es la siguiente\.__ Al tener en mente que en todo caso son emisiones, no oraciones, las que tienen un valor de verdad y una semántica específicos, deberíamos estar satisfechos con un análisis de las condiciones de verdad de emisiones de palabras como “Jones afirmó *that *está lloviendo”\. __Sugiero que consideremos tal emisión como la emisión de dos oraciones__: “Jones afirmó *that*” y luego “Está lloviendo”\. Si yo afirmo que Jones afirmó que está lloviendo, lo hago cuando afirmo “Jones afirmó *that* y luego lo emito, usualmente en forma no asertiva , la oración que da el contenido de la aserción de Jones; en este caso, “Está lloviendo”\. __La función “*that*” en una emisión de “Jones afirmó *that*” es referir a la emisión siguiente, la cual da el contenido__\. Así, para expresar la idea en una forma recargada pero sugestiva: una emisión de “Jones afirmó *that *está lloviendo” tiene el efecto de dos emisiones: 
+
+Jones hizo una emisión cuyo contenido está dado por mi próxima emisión\. Esta lloviendo\.
+
+
+## 132
+__DAVIDSON__, Donald \(1984\-1990:__132__\)\. *De la verdad y de la interpretación*\. …
+
+ Este análisis da cuenta del habitual fracaso de la sustantividad en las atribuciones de actitud que no invocan alguna semántica no estándar, pues la referencia del “*that*” cambia con cualquier cambio en la emisión siguiente\. También permite que la segunda emisión consista en ocasiones, en hacer una aserción, como lo hará si yo digo realmente, “Hago una aserción cuyo contenido está dado por mi próxima aserción”\. De manera similar, puedo estar dando una orden al decir “Vas tú” aun si estas palabras siguen a una emisión de “Yo ordeno *that*”, o “Esto es una orden”\.
+
+ Propongo tratar a los modos no indicativo de una manera muy parecida a como se trata a los realizativos explícitos, pero no reduciendo los otros modos al indicativo\. He aquí la idea\. Bien podemos dejar solos a los indicativos, puesto que no hemos encontrado ningún uso inteligible para un signo de aserción\. Seguiremos adelante, como es nuestra costumbre, a veces __usando oraciones indicativas para hacer aserciones, a veces usándolas para hacer otras cosas; y continuaremos usando oraciones en otros modos para hacer aserciones cuando podamos y lo encontremos atractivo__\.
+
+
+## 132
+__DAVIDSON__, Donald \(1984\-1990:__132‘__\)\. *De la verdad y de la interpretación*\. …
+
+ __En inglés se señalan los modos no indicativos en varias formas, ocasionalmente ambiguas, mediante cambios en el verbo, en el orden de las palabras, en la puntuación o en la entonación__\. Podemos pensar, entonces, que las oraciones no indicativas son __oraciones indicativas más una expresión que representa sintácticamente la transformación__ apropiada; llamemos a esta expresión el __*fijador de modo*__\. Y así como una oración no indicativa puede descomponerse en una oración indicativa y un fijador de modo, del mismo modo una emisión de una oración __no indicativa puede descomponerse en dos actos de habla distintos__, uno la emisión de una oración indicativa, y el otro la emisión de un fijador de modo\. __No debemos preocuparnos porque de hecho usualmente no ejecutemos estos actos uno tras otros sino más o menos simultáneamente__\. Sólo piénsese en alguien que se restriega el vientre con una mano y se rasca la cabeza con la otra\.
+
+
+## 132
+__DAVIDSON__, Donald \(1984\-1990:__132’’__\)\. *De la verdad y de la interpretación*\. …
+
+ Hemos visto que el fijador de modo no puede ser tratado semánticamente como un operador de modo de ningún tipo común, y que parecería imposible ofrecer una consideración admisible como el significado de una oración no indicativa puede ser el resultado de combinar el significado de una indicativa con el significado del fijador de modo\. Sugiero que aceptemos la independencia semántica entre las indicativas y los fijadores de modo que las acompañan evitando incorporar el fijador de modo a una oración simple en el indicativo\. Está la oración indicativa por un lado, y luego, o al mismo tiempo, el fijador de modo\.\. O todavía mejor, si pensamos en la emisión del elemento indicativo, y está /quizá simultáneamente\) la emisión del fijador de modo\. __La emisión de una no indicativa puede de esta manera descomponerse siempre en la ejecución de dos actos de habla__\.
+
+\[VA :Para el caso de emisiones políticas que parecen declarativas cuando son en realidad comisivas o directivas, parece que el proceso __comienza por el final__, por la implicatura\. Se hace una oración implicada y se emite luego una oración declarativa para cumplir con las formalidades de situaciones rectoras como el ideal de paz o de democracia\. El fijador lo impone la situación y el *discurso de campaña\. *De cualquier manera esto sería mentalismo, improbable\. Finalmente lo que se busca con la implicatura directiva no es fuerza ilocutiva sino perlocutiva\]\.
+
+
+## 132\-133
+__DAVIDSON__, Donald \(1984\-1990:__132\-133__\)\. *De la verdad y de la interpretación*\. …
+
+ Hasta ahora, la propuesta no es claramente compatible con las propuestas de Geach, Dummett, y tal vez otros\. Por cierto, he dejado de lado al signo de aserción, pero eso puede considerarse mayormente una *cuestión* notacional\. También he descartado una explicación del significado del operador de modo en términos de un indicador convencional de la fuerza con la cual se hace una emisión particular\. Se produce así un vacío en el centro de mi descripción; __no he podido decir qué significa el indicador de modo__\.
+
+ Geach señaló que lo que yo llamo __fijador de modo__ no puede verse como cualquier otra parte del habla\. Esto obedece a que él interpretó como una parte de una oración más larga, y se dio cuenta de que __no tenía las propiedades semánticas de un operador oracional__\. Hemos extraído en indicador de modo de la oración indicativa que acompaña\. La única forma que el indicador de modo puede tener —la función que puede ejecutar— es la de una oración\. Se comporta como una oración, de la cual una emisión refiere una emisión de una oración indicativa\. Si fuéramos a representar una forma lineal de emisión de, digamos, la oración imperativa “Ponte el sombrero”, resultaría ser una emisión de una oración como “Mi próxima emisión es imperativa en cuanto a su fuerza”, seguida por una emisión de “Te pondrás en sombrero”\.
+
+Geach, P\.T\. “*Asertion Act*\. Routledge and Kegan Paul\. Londres, 1957 / “iWQuotation anf Quantification*”, en Logic Matters, Blackwell, Oxford, 1972\. P*ara mí \(VA\) el *fijador de modo* es eminentemente pragmático, del entorno y sus hablantes\. Son los hablantes los que “adivinan”, “cogen en el aire” las intenciones del emisor de dar otros significado parasitario del convencional\. 
+
+
+## 133
+__DAVIDSON__, Donald \(1984\-1990:__133__\)\. *De la verdad y de la interpretación*\. …
+
+ Esto da una idea de la situación semántica, pero la sintaxis no funciona\. __El fijador de modo no puede ser ninguna oración real del castellano__, __puesto que representa una cierta transformación__\. __Yo no quiero afirmar que las oraciones imperativas sean dos oraciones indicativas\.__ Más bien, podemos dar la semántica de la emisión de una oración imperativa si consideramos los \[las\] especificaciones de condiciones de verdad\., las condiciones de verdad de la emisión de una oración indicativa obtenida al transformar la imperativa original, las condiciones de verdad del fijador de modo\. El fijador de modo de una emisión de “Ponte el sombrero” es verdadero si y sólo si la emisión del __núcleo indicativo__ es imperativa en cuanto a su fuerza\.
+
+ Los __fijadores de modo__ caracterizan a una emisión en cuanto __poseedora de una cierta fuerza ilocutoria__; __no afirman que ella tenga esa fuerza, puesto que solamente los hablantes hacer aserciones__\. Pero si alguien desea dar una orden, bien puede hacerlo emitiendo el fijador de modo imperativo asertivamente\. Luego las condiciones de verdad del fijador de modo son válidas \(si lo que ha afirmado el hablante es verdadero\), su emisión del núcleo indicativo constituirá el dar una orden\. Hay una gran cantidad de otras formas en que ese alguien puede dar la misma orden; por ejemplo, si afirma “esto es una orden”, o “En este acto ordeno que “; o simplemente se emite “Te quitarás el sombrero” como una orden\. Creo que esta respuesta satisface los tres requisitos que enumeramos para un análisis satisfactorio de los modelos\.
+
+\[VA: Vimos en Levinson o Leech que una imperativa como “Te tienes que tomar otro whisky” es en realidad cortés y comisiva y no imperativa\- La noción de cortesía y fuerza ilocutiva aclaran\]\.
+
+
+## 133\-134
+__DAVIDSON__, Donald \(1984\-1990:__133\-134__\)\. *De la verdad y de la interpretación*\. …
+
+ __Primero__, en la propuesta hay un elemento común a los modos\. Sintácticamente consiste en el núcleo indicativo, que está transformado en los modos no indicativos\. Semánticamente consiste en las condiciones de verdad de este núcleo indicativo\.
+
+ __Segundo__, el modo está representado sistemáticamente por el __fijador de modo__ \(o por su __ausencia en el caso del indicativo__\)\. Los fijadores de modo __funcionan semánticamente como oraciones__, de las cuales hay emisiones que son verdaderas o falsas según la emisión del núcleo indicati*vo*, __tenga o no tenga la fuerza ilocutoria__ especificada\. __El significado del fijador de modo es convencional__ en cualquier sentido en que el significado en general lo sea, pero no se sugiere que este significado determine la fuerza ilocutoria de una emisión del fijador de modo, de su indicativa asociada, o del par\. __La conexión convencional entre modo y fuerza es__ más bien la siguiente: __el concepto de fuerza es parte del significado de modo__\. Una emisión de una oración imperativa, en efecto, dice de sí misma que tiene una cierta fuerza\. Pero este no es el “dice” del “afirma” \(excepto en ocasiones y como adición\)\. Lo que ella dice, en el sentido no afirmado, puede ser tanto falso como verdadero\. Este hecho no afecta la conexión conceptual entre modo y fuerza\.
+
+
+## 134
+__DAVIDSON__, Donald \(1984\-1990:__134__\)\. *De la verdad y de la interpretación*\. …
+
+ Tercero, una semántica frontal, basada en una teoría de la verdad para las emisiones, funcionará tan bien aquí como en cualquier otra parte\. En particular, todas las emisiones que la teoría considera básicas tienen un valor de verdad en el sentido habitual\. Por otra parte, si yo estoy en lo cierto, __no puede decirse que una emisión de una oración no indicativa tenga un valor de verdad__\. __Pues cada emisión de una no indicativa tiene su fijador de modo__, y por lo tanto desde le punto de vistas semántico __debe considerarse que consiste en dos emisiones__\. Cada una de las dos emisiones de una conjunción, y entonces no tiene un valor de verdad\.
+
+
+## 137
+__DAVIDSON__, Donald \(1984\-1990:__137__\)\. *De la verdad y de la interpretación*\. …
+
+ __Capítulo 9__ __Interpretación radical__
+
+Kurt emite las palabras *“Es regnet”* y bajo condiciones correctas nosotros sabemos que ha dicho que está lloviendo\. Si identificamos su emisión como __intencional y lingüística__, somos capaces de seguir adelante e interpretar sus palabras: podríamos decir lo que sus palabras, en esa ocasión, significaban\. ¿Qué podríamos saber que nos ayudaría a lograr esto? ¿Cómo podríamos haberlo dicho? La primera de estas preguntas no es igual a la pregunta de que sí sabemos que nos permite interpretar las palabras de otros\. Pues fácilmente puede haber algo que que podríamos saber y no sabemos, cuyo conocimiento bastaría para la interpretación, mientras que por otra parte no es completamente obvio que hay algo que realmente sepamos y que desempeñe un papel esencial en la interpretación…\. Es así una pregunta doblemente hipotética: __dada una teoría que haría posible la interpretación, ¿qué evidencia plausiblemente disponible para un intérprete potencial apoyaría la teoría hasta un punto razonable?__
+
+
+## 137
+__DAVIDSON, Donald \(1984\-1990:137’\)\. *De la verdad y de la interpretación*\. …__
+
+ El problema de la interpretación es tan foráneo como doméstico: surge entre los hablantes de un mismo lenguaje bajo la forma de la pregunta ¿cómo puede determinarse que el lenguaje es el mismo? __Los hablantes del mismo lenguaje pueden suponer que para ellos las mismas expresiones deben ser interpretadas de la misma manera__, pero esto no indica que justifica la suposición\.\* __Toda comprensión del discurso de otro involucra la interpretación radical\. Pero evitar que las suposiciones pasen desapercibidas centraremos nuestra atención en los casos donde más claramente se requiere interpretación__: __la interpretación en un idioma del hablante en otro idioma\.__
+
+H\.Putnam, \(1988, 1990, 2001\) insiste en la multiplicidad de interpretaciones que emergen a partir de un simple enunciado como: “*Hay muchos gatos en el vecindario”* y dice que esas interpretaciones suponen apelar a una teoría explicativa que tome en cuenta conceptos como imagen mental, referencia y la noción de generalización\. 
+
+
+## 137\-138
+__DAVIDSON__, Donald \(1984\-1990:__137\-138__\)\. *De la verdad y de la interpretación*\. …
+
+ ¿__Qué conocimiento serviría para la interpretación__? Una respuesta breve sería: conocimiento de lo que cada expresión significa*tiva\.* En alemán, esas palabras que dijo Kurt, significan que está lloviendo y Kurt estaba hablando alemán …
+
+ La propagación de cierto desencanto hacia los significados en cuanto interpretadores de una explicación viable de la comunicación o de la interpretación ayuda a explicar por qué algunos filósofos han tratado de arreglárselas dejando de lado no sólo los significados, sino también todo esbozo de una teoría seria\. Cuando los conceptos que convocamos para tratar de explicar la interpretación demuestran ser más desconcertantes que el *explanandum* __resulta tentador reflexionar que después de todo la comunicación verbal consiste nada más que en elaboradas perturbaciones en el aire que forman una ligazón causal entre las actividades no lingüísticas de los agentes humanos__\. 
+
+\[VA: Pensar en una lengua que conocemos deja de lado un asunto tan crucial como la segmentación\. Esos bordes silenciosos que establecen el significado en base a nuestra competencia para manejar el flujo continuo de sonidos y despejarlo por la segmentación; al aprender otra lengua es uno de los escollos que debemos superar para aprender una lengua: su oralidad\]\.
+
+
+## 138\-139
+__DAVIDSON__, Donald \(1984\-1990:__138\-139__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+Pero si bien los dichos interpretables no son sino \(es decir, son idénticos a\) acciones __ejecutadas con variadas intenciones no lingüísticas \(advertir, controlar, entrenar, distraer, insultar__\), y a su vez estas acciones no son sino \(son idénticas a\) __movimientos intencionales de los labios y de la laringe__, __esta observación no nos aproxima en lo más mínimo a una consideración general inteligible de lo que tendríamos que saber__ para poder redescubrir las emisiones ininterrumpidas como emisiones interpretadas correctas\. Otras teorías … “casuales” de Ogden y Richards y de Charles Morris … en base a datos conductistas … __Otros tipos de teorías parten de intentar conectar palabras, y no oraciones, con hechos no lingüísticos\.__
+
+\.\.\. __*parece* claro que las características semánticas de las palabras no pueden explicarse directamente sobre la base de los fenómenos no lingüísticos__\. La razón es simple\. Los fenómenos hacia los que debemos dirigirnos son los __intereses y actividades extralingüísticos a los que sirve el lenguaje__, y éstos son satisfechos por palabras sólo en tanto y en cuanto las palabras estén incorporadas en \(o en ocasiones resulten ser\) oraciones\. Pero entonces no hay posibilidad de dar una apreciación fundacional de las palabras sin dar antes una de las oraciones\.
+
+
+## 139
+__DAVIDSON__, Donald \(1984\-1990:__139__\)\. * De la verdad y de la interpretación*\. …
+
+ Por razones muy diferentes, __la interpretación radical no puede tener esperanzas de tomar como evidencia del significado de una oración a una explicación de las complejas y dedicadamente discriminadas intenciones con las cuales se emite típicamente la oración__\. No es fácil ver cómo una aproximación así puede vérselas con el rango estructural y recursivo del lenguaje que resulta esencial para explicar la forma en que serán entendidas las nuevas oraciones\. Pero la dificultad central es que no podemos esperar adjudicar un sentido a la atribución de intenciones finamente discriminadas independientemente de la interpretación del discurso\. La razón no es que no podamos formular preguntas necesarias, sino que __interpretar las intenciones de un agente, sus creencias y sus palabras son partes de un único proyecto,__ ninguna de cuyas partes puede suponer completa antes de que el resto lo esté\. __Si esto es correcto, no podemos convertir a toda la panoplia de __intenciones y creencias__ en la base probatoria para la teoría de la interpretación radical__\.
+
+\[Me asomo aquí a las razones antimentalistas que tuvo Bloomfield para forjar su modelo Distribucionalista sin acudir a “hechos prácticos que anteceden” o “siguen al acto de habla”\. Lenguaje\. UMSM:Lima, Perú: 1964:25\]
+
+
+## 139
+__DAVIDSON__, Donald \(1984\-1990:__139’__\)\. *De la verdad y de la interpretación*\. …
+
+ Estamos ahora en posición de decir algo más acerca de lo que serviría para hacer posible la preservación\. El intérprete debe ser capaz de comprender cualquiera de las infinitas oraciones que el hablante podría emitir\. Si queremos establecer explícitamente lo que el intérprete debería saber para estar en condiciones de hacerlo, debemos expresarlo en forma finita\. __Para que este requerimiento pueda cumplirse debe abandonarse toda esperanza de un método universal de interpretación__\. Lo máximo que puede esperarse es explicar cómo un intérprete podría interpretar las emisiones de hablantes __de un único lenguaje__ \(o de un numero finito de lenguajes\): no tiene sentido pedir una teoría que diera por fruto una interpretación explícita para cualquier emisión en cualquier \(posible\) lenguaje\.
+
+ 
+
+
+## 140
+__DAVIDSON__, Donald \(1984\-1990:__140__\)\. *De la verdad y de la interpretació*n\. …
+
+ __El segundo requerimiento general de la teoría de la interpretación es que debe apoyar o verificar mediante evidencia plausiblemente disponible para un intérprete__, … sería natural pensar que la evidencia en su favor consista en instancias de interpretaciones particulares __reconocidas como correctas__ … En la interpretación radical … se supone que la teoría provee una comprensión de emisiones particulares que no está dada de antemano, por lo que la evidencia última para la teoría __no puede consistir en interpretaciones correctas de muestras__\. Para entenderse con el caso general, la evidencia debe ser de una clase que estaría a disposición de alguien que aún no sabe cómo interpretar las emisiones que la teoría está preparada para cubrir: __debe tratarse de evidencias que pueda establecerse sin un uso fundamental de conceptos lingüísticos tales como significado, interpretación, sinonimia y similares\.__
+
+… Una teoría así consistiría en el enunciado de __un método efectivo para pasar de una oración arbitraria de la lengua extranjera a una oración de un lenguaje familiar__; de este modo satisfaría el requerimiento de un método finitamente enunciado aplicable a cualquier oración … un manual de traducción\.
+
+ \[Nota al pie: la idea de un manual de traducción con restricciones empíricas apropiadas como recurso para estudiar problemas en filosofía del lenguaje es, por supuesto, de Quine …\] \[Putnam 2001 dice que Davidson es un verificacionista: 2001:82 La trenza de los tres cabos\. Nota VA\]\.
+
+ 
+
+
+## 140\-141
+__DAVIDSON__, Donald \(1984\-1990:__140\-141__\)\. *De la verdad y de la interpretación*\. …
+
+… En el caso general, __una teoría de la traducción involucra tres lenguajes: el lenguaje objeto, el *lenguaje sujeto* y el metalenguaje__ \(los lenguajes del cual y hacia el cual pasa la traducción, y el lenguaje de la teoría, que dice cuáles expresiones si el lenguaje sujeto traducen cuáles expresiones del lenguaje objeto\)\. Y en este caso general, __podemos saber cuáles oraciones del lenguaje sujeto traducen cuáles oraciones del lenguaje objeto sin conocer qué significa cualquiera de las oraciones de ambos lenguajes__ \(en algún sentido, de todas maneras, eso permitiría a alguien que comprendiera la teoría interpretar oraciones del lenguaje objeto\)… Si el lenguaje sujeto resulta ser idéntico al lenguaje de la teoría, luego alguien que comprenda la teoría puede sin duda usar el manual de traducción para interpretar emisiones extrañas; pero esto tiene lugar porque esa persona se vale de dos cosas que conoce y que la teoría no enuncia: el hecho de que el lenguaje sujeto es también el suyo, y su conocimiento para interpretar emisiones en su propio lenguaje\.
+
+
+## 141
+__DAVIDSON__, Donald \(1984\-1990:__141__\)\. *De la verdad y de la interpretación*\. …
+
+ Es muy dificultoso tratar de hacer explícita la suposición de que una oración mencionada pertenece al lenguaje propio de uno\. … Una teoría de la traducción debe descubrir algún tipo de estructura dentro de las oraciones, pero no hay razón alguna para esperar que nos proporcione una idea de la forma en que los significados de las oraciones dependen de las estructuras\. 
+
+ Una teoría satisfactoria para interpretar emisiones de un lenguaje, incluido el nuestro, revelará una estructura semántica significativa; por ejemplo, que la interpretación de emisiones de __oraciones complejas depende de la interpretación de oraciones más simples__\. __Supóngase que a una teoría de la traducción fuésemos a agregarle una teoría satisfactoria de la interpretación para nuestro propio lenguaje\. Así tendríamos exactamente lo que queremos, pero en una forma innecesariamente voluminosa\.__ El manual de traducción produce mecánicamente, para cada oración del lenguaje a traducir, una oración en el lenguaje del traductor; la teoría de la interpretación da luego la interpretación de estas oraciones familiares\. Está claro que la referencia a__l idioma materno es superflua; es un intermediario no requerido__ entre la interpretación y el idioma extraño\. Las únicas expresiones que tiene que mencionar una teoría de la interpretación son aquellas que pertenecen al lenguaje a ser interpretado\.
+
+
+## 141\-142
+__DAVIDSON__, Donald \(1984\-1990:__141\-142__\)\. *De la verdad y de la interpretación*\. …
+
+ Puede entonces verse una teoría de la interpretación para un lenguaje objeto como el resultado de la fusión de una teoría de la interpretación para un lenguaje conocido que sea estructuralmente reveladora, y de un sistema de traducción del lenguaje desconocido al conocido\. La fusión hace que toda referencia al lenguaje conocido se vuelva ociosa; __cuando esta referencia se deja de lado, lo que queda es una teoría de la interpretación estructuralmente reveladora para el lenguaje objeto__ *\(apoyada*, por supuesto, en palabras familiares\)\. __Contamos con estas teorías a mi modo de ver, entre las teorías de la verdad del tipo que Tarski mostró por primera vez cómo producir__\.
+
+
+## 142
+__DAVIDSON__, Donald \(1984\-1990:__142__\)\. *De la verdad y de la interpretación*\. …
+
+ Lo que caracteriza a una teoría del estilo Tarski es que implica, __para cada oración s del lenguaje objeto, una oración de la formación__
+
+ s es verdadera \(en el lenguaje objeto\) si y sólo si p
+
+ Las instancias de la forma \(que llamamos __oraciones T__\) se obtienen al __reemplazar “s” por la descripción de s y “p” por una traducción de s\.__ __La noción semántica indefinida de importancia es la de__ __satisfacción__, la cual relaciona oraciones, abiertas o cerradas, con secuencias infinitas de objetos, los cuales pueden considerarse como pertenecientes al rango de variables del lenguaje objeto\. Los axiomas, que son finitos en número, son de dos tipos: algunos dan las condiciones bajo las cuales __una secuencia satisface una oración compleja en base a las condiciones de satisfacción de oraciones más simples__, otros dan las condiciones bajo las cuales se ven satisfechas las oraciones \(abiertas\) más simples\. L__a verdad se define para las oraciones cerradas en términos de la noción de satisfacción__\. Una teoría recursiva como ésta puede convertirse en una definición explícita según lineamientos familiares, tales como lo muestra Tarski, siempre que el lenguaje de la teoría contenga suficiente teoría de conjuntos …
+
+
+## 142\-143
+__DAVIDSON__, Donald \(1984\-1990:__142\-143__\)\. *De la verdad y de la interpretación*\. …
+
+ … __Tarski estaba interesado en los lenguajes formalizados que no contienen aspectos deícticos o demostrativos__\. Es así como pudo tratar a las oraciones como vehículos de la verdad; la extensión de la teoría a las emisiones es en este caso trivial\. Pero los lenguajes naturales están indispensablemente repletos de rasgos deícticos, como los tiempos verbales,__ y entonces sus oraciones pueden variar su verdad según el tiempo y el hablante__\. __El remedio es caracterizar la verdad para un lenguaje en relación a un tiempo y a un hablante\.__ La extensión a las emisiones se hace nuevamente directa\.
+
+ Lo que sigue es una defensa del argumento de que una teoría de la verdad, modificada para su aplicación a un lenguaje natural, puede usarse como teoría de la interpretación\. La defensa consistirá en intentos de responder a tres preguntas:
+
+1\. ¿Es razonable pensar en una teoría de la verdad del tipo descrito puede formularse para un lenguaje natural?
+
+2\. ¿Sería posible decir que la teoría es correcta en base a la evidencia plausiblemente disponible para un intérprete sin conocimiento previo del lenguaje a ser interpretado?
+
+3\. Si se supiera que la teoría es verdadera, ¿sería posible interpretar emisiones de hablantes del lenguaje?
+
+
+## 143
+__DAVIDSON__, Donald \(1984\-1990:__143__\)\. * De la verdad y de la interpretación*\. …
+
+1\. *¿Puede formularse una teoría de la verdad para un lenguaje natural?*
+
+ … De acuerdo con la Convención T de Tarski, un test de adecuación de una teoría consiste en que ella implique todas las oraciones T\. En apariencia, ese test no puede cumplirse sin asignar a las oraciones del lenguaje algo muy parecido a una teoría cuantificacional estándar, y sin apelar en la teoría a una noción relacional de satisfacción\. __Pero lo que más impacta de las oraciones T es que sea cual fuere la maquinaria que debe funcionar para producirlas, y sea cuales fueren los engranajes ontológicos que deben girar, al final la oración T enuncia las condiciones de verdad de una oración usando recursos que no son más ricos que, pues son iguales a, aquellos de la oración misma__\. __A menos que la oración original mencione mundos posibles, entidades intencionales, propiedades o proposiciones, el enunciado de sus condiciones de verdad no lo hace__\. 
+
+ … La restricción que impone la exigencia de una teoría que satisfaga la Convención T parece ser considerable: __no se conoce hoy un método aceptado en general para tratar__, dentro de esas restricciones, con un espectro del problema, por ejemplo, oraciones que atribuyen actitudes, modalidades, enunciados causales generales, contrafácticos, adjetivos atributivos, cuantificadores como “La mayoría” y otros por el estilo\.
+
+\[VA: La heurística I de Levinson \(2004:30 y 63\): “Si se ha construido usando formas simples, breves y no marcadas; está indicándose que no hay nada especial, que la situación descrita tiene todas las propiedades esperadas, estereotípicas\.” P\. 63 I: “Lo que no se dice no está”\]
+
+
+## 144
+__DAVIDSON__, Donald \(1984\-1990:__144\)__\. *De la verdad y de la interpretación*\. …
+
+2\. *¿Puede verificarse una teoría de la verdad mediante el recurso a la evidencia disponible antes del comienzo de la interpretación?*
+
+ La Convención T dice que una teoría de la verdad es satisfactoria si genera una oración T para cada oración del lenguaje objeto\. … Las oraciones T sólo mencionan las __oraciones cerradas __\[*cloused sentences\]* del lenguaje, por lo que la evidencia relevante puede consistir exclusivamente en hechos acerca de la conducta y actitudes de los hablantes en relación con __la\(s\)\*__ oraciones \(sin duda por medio de emisiones\)\. Desde luego, una teoría que funciones debe tratar a las oraciones como concatenaciones de expresiones de longitud menos que la oracional, debe introducir nociones semánticas como __satisfacción y de objetos ordenados por secuencias__\. Todo este aparato* está *considerado correctamente como una construcción teórica, fuera del alcance de la verificación directa\. … Una teoría de la verdad reconcilia de esta manera la exigencia de una teoría que articule la estructura gramatical con la exigencia de una teoría que pueda ser probada sólo por lo que dice acerca de las oraciones\.
+
+\(\*sic\. Plural “*Sentences”* en el original inglés\)
+
+
+## 145
+__DAVIDSON__, Donald \(1984\-1990:__145__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ … Lo que yo propongo es invertir la dirección de la explicación: presumiendo la traducción, de Tarski estaba en condiciones de definir la verdad; la presente idea consiste en tomar a la verdad como básica y extraer una explicación de la traducción o interpretación; y la verdad tiene más aptitud para conectarse con actitudes más bien simples de los hablantes\.
+
+ No hay dificultad en reformular la Convención T sin apelar al concepto de traducción: __una teoría aceptable de la verdad debe implicar, por cada oración s del objeto lenguaje, una oración de la forma: s es verdad si y solo si p, donde “p” se reemplaza por cualquier oración que sea verdadera si y sólo si s lo es\.__ Dada esta formulación la teoría se pone a prueba mediante la evidencia de que las oraciones T son simplemente verdaderas; __hemos abandonado la idea de que también debemos decir si lo que reemplaza a “p” traduce a s\.__ …
+
+ Todavía debemos decir qué evidencia está disponible para un intérprete; evidencia, veamos ahora de que las oraciones T son verdaderas\. __La evidencia no puede consistir en descripciones detalladas de las creencias e intenciones del hablante__\. Dado que las atribuciones de actitudes, al menos cuando se requiere sutileza, exigen una teoría que deba descansar en una evidencia muy parecida a la de la interpretación\. La interdependencia de creencia y significado resulta evidente de esta manera: __un hablante__ sostiene que __una oración es verdadera debido a lo que la oración \(en su lenguaje\) significa, y debido a lo que él cree__\. 
+
+
+## 146
+__DAVIDSON__, Donald \(1984\-1990:__146__\)\. *De la verdad y de la interpretación*\. …
+
+ __Sabiendo que él toma a la oración por verdadera, y conociendo el significado, podemos inferir su creencia__; __suficiente información acerca de sus creencias, podemos tal vez inferir el significado__\. __Pero la interpretación radical debe descansar en evidencia que no presuma un conocimiento de significados o un conocimiento detallado de creencias\. __… Un buen punto de partida es la actitud de tomar a una oración por verdadera, de aceptarla como verdadera\. … Es posible considerar que un intérprete es capaz de identificar esta actitud antes de poder interpretar … sin tener la menor idea de qué verdad se trata\. __No es que la aserción sincera sea la única razón para suponer que una persona considera una oración como verdadera__\. __Mentiras, órdenes, historias, ironía, si son detectadas como actitudes, pueden revelar si un hablante considera sus oracione__s\. No hay razón para descartar otras solicitudes para con las oraciones, tales como desear su verdad, querer probar su verdad, creer que uno va a probar su verdad, y así por el estilo, pero me inclino a pensar que toda evidencia de esta clase puede agruparse en términos de considerar a las oraciones como verdaderas\.
+
+ Supóngase, entonces, que __la evidencia disponible consiste justamente en que los hablantes del lenguaje a ser interpretado sostienen que diversas oraciones son verdaderas en ciertos tiempos y bajo circunstancias específicas\.__ ¿Cómo puede emplearse esta evidencia para respaldar una teoría de la verdad?
+
+\-Dos más dos son cuatro, Verdad o mentira? / Responde: \- No se, con tan pocos datos\.\.\.
+
+
+## 146\-147
+__DAVIDSON__, Donald \(1984\-1990:__146\-147__\)\. *De la verdad y de la interpretación\. *… \*\*\*\*\*
+
+ Por un lado, tenemos oraciones T, de la forma:
+
+ \(T\) “*Es regnet*” es verdadero\-en\-alemán cuando está hablando por x en el tiempo t si y sólo si está lloviendo cerca de x en t\.
+
+Por otro lado, tenemos la evidencia, de la forma:
+
+ \(E\) Kurt pertenece a la comunidad de habla alemana y Kurt sostiene que es verdadero “Es regnet” el sábado al mediodía y está lloviendo cerca de Kurt el sábado al mediodía\.
+
+ Pienso que deberíamos considerar \(E\) como evidencia de que \(T\) es verdadera\. Puesto que \(T\) es condicional universalmente cuantificado, el primer paso sería reunir más evidencia para respaldar la afirmación de que:
+
+ 
+
+ \(GE\) \(x\) \(t\) \[si x pertenece a la comunidad de habla alemana luego \(x sostiene que es verdadero “Es regnet” en t si y sólo si está lloviendo cerca de x en t\)\]\.
+
+
+## 147
+__DAVIDSON__, Donald \(1984\-1990:__147__\)\. *De la verdad y de la interpretación*\. …
+
+ El proceso de conformación de una teoría de la verdad para una lengua nativa desconocida podría a grandes rasgos seguir los siguientes pasos\. Primero buscamos la mejor manera de ajustar nuestra lógica, hasta el punto requerido para obtener una teoría que satisfaga la Convención T, en el nuevo lenguaje; esto puede significar leer la estructura lógica de la teoría de cuantificación de primer orden \(más la identidad\) dentro del lenguaje, no tomando las constantes lógicas una por una, sino tratando a esta gran porción de lógica como una red que se instalará sobre el lenguaje en una única operación relámpago\. La evidencia consiste aquí en clases de oraciones que siempre se consideran falsas por casi todas las personas casi todo el tiempo \(verdades lógicas potenciales\) y en patrones de inferencia\. __El primer paso__ identifica predicados, términos singlares, cuantificadores, conectivos e identidad; en teoría, establece cuestiones de forma lógica\. __El segundo paso__ se concentra en oraciones con deícticos; aquellas oraciones que a veces consideradas verdaderas y a veces falsas de acuerdo con cambios descubribles en el mundo\. Este paso en conjunción con el primero limita las posibilidades de interpretar predicados individuales\. __El último paso__ se ocupa de las oraciones restantes, aquellas para las cuales no hay un acuerdo uniforme, o __cuyo valor de verdad considerado no depende sistemáticamente de cambios en el medio ambiente__\.
+
+
+## 148
+__DAVIDSON__, Donald \(1984\-1990:__148__\)\. *De la verdad y de la interpretación*\. …
+
+ __Este método pretende resolver el problema de las interdependencia de creencia y significado tomando a la creencia como constante hasta donde sea posible en tanto se resuelve el significado__\. Esto se consigue mediante la asignación de condiciones de verdad a oraciones extranjeras que hace que los hablantes nativos tengan razón cuando es plausiblemente posible, por supuesto según nuestro propio punto de vista de lo que es correcto\.
+
+… El consejo metodológico de interpretar en una forma que optimice el acuerdo no debe concebirse apoyado en una presunción __caritativa__ acerca de la inteligencia humana que podría resultar falsa\. … __No tenemos razones para considerar que esa creatura es racional, tiene creencias o dice algo\.__
+
+ 
+## 149
+__DAVIDSON__, Donald \(1984\-1990:__149__\)\. *De la verdad y de la interpretación*\. …
+
+3\. *Si sabemos que una teoría de la verdad satisface los criterios formales y empíricos descritos, ¿podemos interpretar emisiones del lenguaje para el cual es una teoría?*
+
+* *Una teoría del lenguaje implica una oración T para cada oración del lenguaje, y una oración T da condiciones de verdad\. Resulta tentador, por ello, decir simplemente que una oración T “da significado” de una oración\. Por supuesto, no diríamos que lo hace nombrando o describiendo una entidad que es un significado, sino simplemente diciendo bajo qué condiciones una emisión de la oración es verdadera\.
+
+ Pero tras reflexionar resulta claro que u__na oración T no da el significado de la oración a la cual concierne\. La oración T sí fija el valor de verdad relativo a ciertas condiciones__, __pero no dice que la oración del lenguaje objeto sea verdadera porque las condiciones son válidas__\. Empero, si se hiciera tanto caso a los valores de verdad, la oración T para “La nieve es blanca” bien podría decir que ésta es verdadera si y sólo sí el césped es verde o 2 \+ 2 = 4, como podrá decir que es verdadera si y sólo si la nieve es blanca\.” Podemos tener confianza, quizá, en que ninguna teoría satisfactoria de la verdad producirá oraciones T tan anómalas, pero esta confianza no nos da autorización para sacar más provecho de las oraciones T\.
+
+… una prueba canónica es fácil de construir, moviéndose como lo hace a través de una hilera de bicondicionales, y requiriendo para su singularidad solamente decisiones ocasionales para gobernar la precedencia de izquierda o de derecha\.
+
+
+## 151
+__DAVIDSON__, Donald \(1984\-1990:__151__\)\. *De la verdad y de la interpretación*\. …
+
+ __Capítulo 10 La creencia y el fundamento del significado__
+
+ __Significado y creencia desempeñan papeles interrelacionaldos y complementarios en la interpretación del discurso__\. Al poner énfasis en la conexión entre nuestras razones para atribuir creencias a los hablantes, y nuestras razones para asignar significados a sus emisiones, espero explicar algunos rasgos problemáticos tanto de la creencia como del significado\.
+
+Meaning and belief play __interlocking__ complementary roles in the interpretation of speech\. By enphasizing the connection between our gruonds for atributing beliefs to speakers, and our grounds for assigning meaning to their utterances, I hope to explain some problematic features both of beliefs and meaning\.
+
+__DAVIDSON__, Donald \(1984\-199:__151’__\)\. *De la verdad y de la interpretación*\. …
+
+ __Estamos interpretando un fragmento de conducta lingüística cuando decimos lo que las palabras de un hablante significan en una ocasión de uso__\. La tarea puede verse como una descripción\. Sabemos que las palabras “*Es schneit”* han sido emitidas en una ocasión particular y queremos redescribir \[__redescrib\*__\] esta emisión como un acto de decir que está nevando\. ¿Qué necesitamos saber para estar en condiciones de redescribir el habla de esta manera, es decir, para interpretar las emisiones de un hablante? Puesto que un intérprete competente puede interpretar cualquiera de las infinitas emisiones potenciales… __no podemos especificar lo que él conoce mediante un listado de casos\.__ __Sabe, por ejemplo, que al emitir “Es schneit” bajo ciertas condiciones y con una determinada intención__, Karl ha dicho que está nevando, pero hay una cantidad interminable de otros casos\. __Lo que debemos hacer entonces es enunciar una teoría finita a partir de la cual derivan las interpretaciones particulare__s\. La teoría puede usarse para describir un aspecto de la competencia del intérprete en la comprensión de lo que dice\. También podemos sostener, si lo deseamos, que hay un mecanismo en el intérprete que corresponde a la teoría\. Si esto significa solamente que hay alguno u otro mecanismo que ejecuta esa tarea, resulta difícil ver cómo la afirmación podría dejar de ser verdadera\.
+
+\* en original en inglés
+
+
+## 151\-152
+__DAVIDSON__, Donald \(1984\-1990:__151\-152__\)\. *De la verdad y de la interpretación*\. …
+
+__ La teoría de la interpretación es un trabajo común del lingüista, del psicólogo y del filósofo__\. El sujeto que trata es la conducta de un hablante o hablantes, y nos dicen qué significan determinadas emisiones de aquéllos\. Por último, la teoría puede usarse para describir lo __que cada intérprete sabe, esto es, un subconjunto infinito y especificable de las *verdades* de la teoría__\. … quiere poner el acento en la cuestión de cómo darse cuenta de que una teoría de este tipo es verdadera\.
+
+ Hay una respuesta que salta a la vista\. __La teoría es verdadera si sus implicaciones empíricas son verdaderas__; podemos verificar la teoría tomando muestras de sus implicaciones en busca de verdad\. En el caso presente, esto significa notar si las interpretaciones típicas que una teoría produce para las emisiones de un hablante son correctas o no\. Acordamos que todo intérprete competente sabe si las implicaciones relevantes son verdaderas; por lo tanto todo intérprete competente puede verificar una teoría de esta forma\. Esto no significa, desde luego, que encontrar una teoría verdadera sea trivial; si significa que dada una teoría, su puesta a prueba puede no necesitar requerimientos misteriosos\.
+
+ __La pregunta original, empero, es cómo sabemos que una interpretación particular es correcta__, y nuestra respuesta inmediata no está orientada hacia esta cuestión\.
+
+
+## 152
+__DAVIDSON__, Donald \(1984\-1990:__152’__\)\. *De la verdad y de la interpretación*\. …
+
+ … si el problema es determinar cuándo una interpretación es correcta, no sirve de nada respaldar la teoría que le da origen dando ejemplo de interpretaciones correctas\. En apariencia nos enfrentamos a un *impasse*; __necesitamos la teoría antes de poder reconocer evidencia a su favor__\.
+
+ El problema es grave pues las emisiones interpretadas parecen ser la base evidencial apropiada para una teoría del significado\. __Si una teoría aceptable pudiera respaldarse mediante tal evidencia, eso constituiría un progreso conceptual, pues la teoría sería de naturaleza específicamente__ __semántica__ __mientras que la evidencia estaría descrita en términos no semánticos__\. Un intento de acumular evidencia aun más elemental, digamos evidencia conductista, sólo podría complicar la tarea de construcción de una teoría, si bien podría tornarla más satisfactoria\.
+
+
+## 152
+__DAVIDSON__, Donald \(1984\-1990:__152’’__\)\. *De la verdad y de la interpretación*\. …
+
+ __Una fuente central de problemas es la forma en que creencias y significados conspiran contra la explicación de las emisiones__\. __Un hablante que considera que una oración es verdadera en una ocasión lo hace en parte por lo que él significa, o significaría, mediante una emisión de esa oración, en parte por lo que él cree__\. Sólo si podemos proseguir en base a emisión honesta, no podemos inferir la creencia sin conocer el significado, y t__enemos esperanza de inferir el significado sin la creencia__\.
+
+ Hay varias estrategias para romper este círculo que se postulan por sí mismas\. Una es encontrar evidencia de lo que significan las palabras que sea independiente de la creencia\. Tendría que ser independiente de las intenciones, deseos, reproches, apetencias, consentimiento y también convenciones, pues todos ellos tienen una componente de creencia\. Quizá haya quien piense que sería posible establecer la corrección de una teoría de la __interpretación sin conocer o establecer mucho acerca de las creencias, pero no es fácil imaginar cómo podría logarse esto__\.
+
+
+## 153
+__DAVIDSON__, Donald \(1984\-1990:__153__\)\. *De la verdad y de la interpretación\.* …
+
+ __Mucho más plausible es la idea de derivar una teoría de la interpretación a partir de información detallada acerca de las intenciones, deseos, creencias de los hablantes \(o intérpretes, o ambos\) Considero que ésta es la estrategia de aquellos que se abocan a definir o explicar el significado lingüístico sobre la base de intenciones, usos, propósitos, funciones y demás, de índole no lingüística: son estas las tradiciones de Mead y Dewey, de Wittgenstein y Grice\. Yo pienso que esta estrategia tampoco satisfaría las necesidades presentes\.__
+
+ Puede no haber nada erróneo, desde luego, en la máxima metodológica que dice que cuando surgen __problemas desconcertantes__ acerca de significados, referencia, sinonimia y demás, debemos recordar que estos conceptos, al igual que aquellos mismos de palabra, oración y lenguaje, nos abstraen de las transacciones y entornos sociales que les dan el contenido que tienen\. __Los conceptos lingüísticos y semánticos de todos los días son parte de una teoría intuitiva de organización de datos más primitivos__, por lo que puede resultar más confusión de un tratamiento de estos conceptos y de sus objetos supuestos como si tuvieran vida propia\. Pero esta observación no puede responder a la cuestión de cómo sabemos cuando una interpretación de una emisión es correcta\. 
+
+
+## 153
+__DAVIDSON__, Donald \(1984\-1990:__153’__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Si nuestros conceptos ordinarios sugieren una teoría confusa, debemos buscar una teoría mejor no dejar de lado la teorización\. Puede no encontrarse objeción en detallar la complicadas e importantes relaciones entre lo que las palabras de un hablante significan y sus intenciones y creencias no lingüísticas\. __Tengo mis dudas respecto a la posibilidad de definir el significado lingüístico en términos de intenciones y creencias no lingüísticas, pero esas dudas, si no las fuentes de esas dudas, son irrelevantes para el tema presente\.__
+
+ __El tema presente es de la naturaleza de la evidencia para la adecuación de una teoría de la interpretación__\. La evidencia debe ser descriptible en términos no semánticos o no lingüísticos si es que va a responder a la pregunta que hemos formulado; …
+
+Se presenta un obstáculo de principios, y no meramente práctico, en la verificación de la existencia de creencias e intenciones detalladas, generales y abstractas, cuando se es incapaz de determinar lo que significan las palabras del hablante\. Percibimos lo suficientemente bien el absurdo de tratar de comprender sin preguntarle a él si es que alguien cree que hay un objetivo mayor, o si es que él pretende, al hacer determinados ruidos, que alguien deje de fumar al reconocer ese alguien que los ruidos __se hacían con esa intención__\.
+
+__El absurdo descasa __no en el hecho de que sería muy difícil descubrir estas cosas sin lenguaje, sino el hecho de que no tenemos buena idea de cómo comenzar a autenticar la existencia de tales actitudes cuando la comunicación no es posible\.
+
+
+## 153\-154
+__DAVIDSON__, Donald \(1984\-1990:__153\-154__\)\. * De la verdad y de la interpretación*\. …
+
+ __Esta cuestión no queda expuesta de manera feliz diciendo que nuestras complejas creencias, intenciones y pensamientos son como emisiones silenciosas\.__ Mi afirmación consiste en que __dar un *sentido* detallado a las intenciones y creencias de una persona no puede ser independiente de dar sentido a sus emisiones__\. Si esto es así, luego un inventario de las creencias e intenciones complejas de un hablante no puede ser la evidencia de la verdad de una teoría para interpretar su conducta de habla\.
+
+… A menudo se argumenta que debemos presumir que la mayor parte de las emisiones de un hablante corresponden a oraciones que él considera verdaderas: si esto es correcto, la disponibilidad independiente de la base evidencial está asegurada\. __Pero presunciones más débiles también funcionarían, puesto que incluso el mentiroso compulsivo y el eterno bromista pueden ser descubiertos__\.
+
+
+## 154
+__DAVIDSON__, Donald \(1984\-1990:__154__\)\. * De la verdad y de la interpretación*\. …
+
+ El problema, entonces, es el siguiente: suponemos que conocemos qué oraciones un hablante considera verdaderas, y cuándo, y queremos conocer lo que significa y cree\. __Tal vez pudiéramos resolver el caso si conociéramos lo suficiente acerca de sus creencias e intenciones, pero eso no es posible sin un previo acceso a una teoría de la interpretación__\. Dadas las interpretaciones, podríamos extraer las creencias de la base evidencial, pero esto supone lo que queremos conocer\.
+
+
+## 154\-155
+__DAVIDSON__, Donald \(1984\-1990:__154\-155__\)\. *De la verdad y de la interpretación\.* …
+
+ Me ha impactado la analogía con un conocido problema de __teoría de la decisión__\. Supóngase que un agente se muestra indiferente entre obtener $5,00, y una apuesta que le ofrece $ 11,00 si una moneda que se arroja cae cara hacia arriba, y $ 0,00 si cae cruz\. Podríamos explicar \(digamos “interpretar”\) su indiferencia suponiendo que el dinero tiene para él una utilidad marginal en disminución: $ 5,00 está en la mitad de ca*mino* en su escala de valores subjetiva entre $ 0,00 y $11,00\. Llegamos a esto al presumir que la apuesta vale la suma de los valores de los posibles resultados moderada por sus posibilidades\. En este caso, presumimos que cara y cruz son igualmente probables\. Por desgracia, hay una explicación alternativa igualmente admisible: dado que obviamente $5,00 no está en la mitad de camino entre $0,00 y $11,00 el agente debe creer que es más probable que salga cruz que cara; si hubiera pensado que cara y cruz tienen igual probabilidad, ciertamente habría preferido la apuesta, que equivaldría entonces a una oferta directa de $ 5,50\.
+
+ La cuestión es obvia\. Las elecciones entre apuestas son resultado de dos factores psicológicos, los valores relativos que el elector adjudica a los resultados, y la probabilidad que asigna a esos resultados, condicional en su elección\. __Dadas las creencias del agente \(sus probabilidades subjetivas\) es fácil computar sus valores relativos a partir de sus elecciones__; __dado sus valores, podemos inferir sus creencias__\. Pero dadas solamente sus creencias, ¿cómo podemos obtener sus creencias y sus valores?
+
+
+## 155
+__DAVIDSON__, Donald \(1984\-1990:__155__\)\. *De la verdad y de la interpretación*\. …
+
+ El problema es muy parecido al problema de la interpretación\. La solución en el caso de la decisión es clara y satisfactoria; no se dispone de nada así en la teoría del significado\. … La propuesta de Frank Ramsey para enfrentar el problema de la teoría de la decisión\. … es el siguiente\. Supongamos que hay dos alternativas, obtener $ 11,00 y obtener $ 0,00, y que hay un suceso E tal que el agente es indiferente entre las dos apuestas siguientes\. Apuesta Uno: si E sucede el agente recibe $ 11,00; si E no sucede recibe $ 0,00\. Apuesta Dos: si E sucede obtiene $ 0,00; si E no sucede obtiene $ \!\!,00\. La indiferencia del agente hacia las apuestas muestra que él debe juzgar que es más probable que E ocurra como que no\. Pues si él pensara que es más probable que E , preferiría la primera apuesta que le promete $ 11,00 si E ocurre, y si pensara que E es más probable que no ocurra preferiría la segunda apuesta que premia en no acontecimiento de E con $ 11,00\. Esto resuelve, para la teoría de la decisión, el problema de cómo separar la probabilidad subjetiva, pues una vez que un suceso como E se descubre, es posible confeccionar una escala de otros valores, y luego determinar las probabilidades subjetivas de todos los sucesos\. 
+
+
+## 155\-156
+__DAVIDSON__, Donald \(1984\-1990:__155\-156__\)\. * De la verdad y de la interpretación*\. …
+
+ En esta versión de la teoría de la decisión, __la base evidencial consiste en preferencias entre alternativas__, algunas de ellas opuestas; l__a preferencia corresponde aquí a la actitud de considerar verdadero para el caso de la interpretación__, tal como yo presento el problema\. Las elecciones reales en la teoría de la decisión corresponden a emisiones reales en la interpretación\. __La explicación de una preferencia particular involucra la asignación de una clasificación comparativa de valores y una *evaluación* de probabilidades__\. El hecho de respaldar esta explicación no proviene de un tipo de visión de actitudes y creencias del agente, sino de un mayor número de observaciones de preferencias del mismo tipo a ser explicado\. En pocas palabras, para explicar \(digamos, interpretar\) una elección o preferencia particular, observamos otras elecciones o preferencias; éstas respaldarán una teoría sobre cuya base puede explicarse la elección o preferencia original\. Las atribuciones de valores y probabilidades subjetivas forman parte de la estructura teórica, y son formas convenientes de resumir hechos acerca de la estructura de las preferencias básicas; __y no hay modo de probarlos independientemente__\. En líneas generales, __mi idea es que debemos ver los significados y creencias como constructos interrelacionados de una única teoría tal como ya vemos a los valores y probabilidades subjetivas como constructos interrelacionados de la teoría de la decisión\.__
+
+
+## 156\-157
+__DAVIDSON__, Donald \(1984\-1990:__156\-157__\)\. * De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ No hay tan sólo una simple analogía entre una teoría de la decisión y la teoría de la interpretación, hay también una conexión\. Visto desde el lado de la teoría de la decisión, existe lo que Ward Edwards llamó una vez “problema de presentación” para las aplicaciones empíricas de la *teoría* *de* la decisión\. … Enfrentamos un problema que discutimos hace un momento en conexión con la interpretación; __no es razonable suponer que podemos interpretar la conducta verbal sin información en detalle acerca de creencias e intenciones__, ni tampoco es razonable imaginar que podemos justificar la atribución de preferencias entre opciones complejas a menos que podamos interpretar la conducta de habla\. __Una teoría radical de la decisión debe incluir una teoría de la interpretación y no puede presuponerla__\.
+
+ Visto desde el lado de la interpretación, se presenta la dificultad obvia de determinar cuándo una persona acepta una oración como verdadera\. __La teoría de la decisión, y las ideas de sentido común que la respaldan, ayudan a reforzar la visión de que las creencias se comprenden mejor en su función de racionalizar elecciones o preferencias\.__ Aquí estamos considerando solamente una clase especial de creencia, la creencia de que una oración es verdadera \. Pero aun en este caso, sería mejor si pudiéramos llegar, a través de la creencia, a una preferencia que podría mostrarse en una elección\. No dispongo de una propuesta detallada para indicar en este momento cómo podría o debería hacerse esto\.
+
+
+## 157
+__DAVIDSON__, Donald \(1984\-1990:__157__\)\. *De la verdad y de la interpretación*\. …
+
+ Richard Jeffrey ha dado un primer paso importante\. Él elimina algunas confusiones importantes de la teoría de Ramsey reduciendo la ontología más bien oscura de esta teoría, que trataba con sucesos, opciones y proposiciones, a una ontología de proposiciones solamente\. Así las preferencias entre proposiciones consideradas verdaderas pasan a ser la base evidencial, de tal manera que la teoría revisada nos permite hablar de grados de creencia en la verdad de las proposiciones, y de la fuerza relativa de los deseos de que las proposiciones sean verdaderas\. Tal como lo señala Jeffrey, para los propósitos de esta teoría los objetos de estas diversas actitudes también pueden tomarse como oraciones\. Si se realiza este cambio podemos unificar los sujetos de la teoría de la decisión y de la teoría de la interpretación\. Jeffrey supone, por supuesto, que los agentes y los constructores de la teoría entienden las oraciones de la misma manera\. Pero pueden unirse las dos teorías dejando de lado esta suposición\. La teoría para la cual debemos finalmente esforzarnos es aquella que tome como base evidencial las preferencias entre oraciones: __preferencias para considerar verdadera a una oración y no a otra__\. La teoría explicaría luego las preferencias individuales de este tipo atribuyendo creencias y valores al agente, y significados a sus palabras\.
+
+
+## 158
+__DAVIDSON__, Donald \(1984\-1990:__158__\)\. *De la verdad y de la interpretación*\. …
+
+ … vuelvo entonces al problema de interpretar emisiones en base a la información respecto de cuándo, y bajo qué circunstancias externas, las oraciones que ellas ejemplifican son consideradas verdaderas\. Las ideas centrales de __lo que he dicho hasta ahora pueden resumirse así: los hechos conductuales o de disposición que pueden ser descritos en formas que no suponen interpretaciones, pero sobre los cuales puede basarse una teoría de la interpretación, serán necesariamente vectores de significado y de creencia__\. Un resultado de esto es que para interpretar una emisión particular se necesita construir una amplia teoría para la interpretación de un número potencialmente infinito de emisiones\. La evidencia para la interpretación de una emisión particular tendrá que ser entonces una evidencia para la interpretación de todas las emisiones de un hablante o comunidad…
+
+ La apreciación de estas ideas, que debemos mayormente a Quine, representan uno de los pocos saltos verdaderos en el estudio del lenguaje … las diferencias entre nosotros son más bien cuestiones de énfasis que de sustancia\. Buena parte de los escritos de Quine se concentran … en demoler una confianza equivocada en la utilidad o inteligibilidad de conceptos como analiticidad, sinonimia y significado \.\.\.
+
+
+## 158\-159
+__DAVIDSON__, Donald \(1984\-1990:__158\-159__\)\. *De la verdad y de la interpretación*\. …
+
+ __Sugiero hacer la teoría de carácter explícitamente semántico; de *hecho*, debería tomar la forma de una teoría de la verdad al estilo de Tarski__\. Al estilo de Tarski, pero con modificaciones para ajustarse a los problemas presentes\. Por un lado estamos detrás de la teoría de una verdad, en tanto que Tarski se interesaba por una definición explícita\. … __El segundo término__, para hacer lugar a la presencia de elementos demostrativos en el lenguaje natural __es necesario relativizar la teoría de la verdad a tiempos y hablantes \(y posiblemente algunas otras cosas\)__\. __La tercera__ modificación es más seria y llega al corazón del tema de discusión\. La convención T de Tarski exige a una teoría de verdad que ponga condiciones a algún predicado como “es verdadero”, de tal modo que implique a todas las oraciones de una forma determinada\. Estas son precisamente aquellas oraciones con la forma familiar: “’La nieve es blanca’ es verdadero si y sólo si la nieve es blanca”\. En los lenguajes formalizados de los que habla Tarski, las oraciones T … se conocen por su sintaxis … Pero en la interpretación radical un test sintáctico de la verdad de las oraciones T carecería de carecería de valor, dado que tal test presupondría la comprensión del lenguaje objeto que uno pretende conseguir\. __La razón es simple: el test sintáctico está ideado meramente para formalizar la relación de sinonimia o traducción,__ y esta relación se considera no problemática en el trabajo de Tarski sobre la verdad\. Nuestro punto de vista invierte el de Tarski: nosotros queremos llegar a una comprensión del significado o de la traducción entendiendo un dominio previo de concepto de verdad\. Necesitamos, por tanto, una forma de juzgar la aceptabilidad de las oraciones T que no sea sintáctica y que no haga uso de los conceptos de traducción, significado o sinonimia, pero que sea tal que las oraciones T aceptables produzcan efectivamente interpretaciones\.
+
+
+## 159
+__DAVIDSON__, Donald \(1984\-1990:__159__\)\. *De la verdad y de la interpretación*\. …
+
+ Una teoría de la verdad será materialmente adecuada, esto es, determinará correctamente la __extensión del predicado verbal__, siempre y cuando implique, para cada oración s del lenguaje objeto, un teorema de la forma “s es verdadero si y sólo si p” donde “s” es reemplazado por una descripción de s y “p” es reemplazado por una oración que es verdadera si y sólo si s lo es\. Para propósitos de interpretación, sin embargo, la verdad en una oración T no es suficiente\. Una teoría de la verdad producirá interpretaciones sólo si sus oraciones T enuncian condiciones de verdad en términos de lo que puede verse como “dar el significado” de la oración del lenguaje objeto\. Nuestro problema es encontrar en la teoría restricciones que sean suficientemente fuertes como para garantizar que ella pueda emplearse para la interpretación\.
+
+
+## 160\-161
+__DAVIDSON__, Donald \(1984\-1990:__160\-161__\)\. * De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+… __Una teoría satisfactoria, según parece, no puede apartarse mucho de las estructuras cuentificacionales estándar o de la semántica usual de éstas__\. Debemos suponer que la teoría descansará sobre algo muy parecido al tipo de caracterización recursiva de la satisfacción de Tarski, y que describirá oraciones del lenguaje objeto en términos de__ pautas familiares creadas por cuantificación y referencia cruzada, predicación, conexiones funcionales de verdad, y otras por el estilo__ …
+
+*resulta* fácil ver cómo las oraciones T para oraciones con rasgos deícticos__ limitan netamente la elección de predicados interpretativos__; por ejemplo, la oración T para “Das ist weis” debe tener una forma parecida a ésta: “Para todos los hablantes del alemán x y para todos los tiempos t ‘Das its weiss’ es verdadero hablado por x en t si y sólo si el objeto señalado por x en t es blanco\. Como lo ha señalado __Quine en sus discusiones sobre la relatividad ontológica__, puede quedar espacio para ontologías alternativas, y entonces también para sistemas alternativos para interpretar los predicados del lenguaje objeto\. Creo que el __rango de teorías aceptables de la verdad puede reducirse__ al punto en que todas las teorías aceptables produzcan oraciones T que podamos tratar como portadoras de interpretaciones correctas, __mediante la aplicación de restricciones adicionales que resulten razonables y que no se valgan de principios__\. 
+
+ 
+## 161
+__DAVIDSON__, Donald \(1984\-1990:__161__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Propongo que tomemos el hecho de que a los hablantes de un lenguaje consideran que una oración es verdadera \(bajo circunstancias observadas\) como evidencia *prima facie* de que la oración es verdadera bajo esas circunstancias\. por ejemplo, instancias positivas de “hablantes \(de alemán\) consideran ‘es schneit’ verdadero cuando, y sólo cuando, está nevando” deberían tomarse para __confirmar__ no solo la generalización, sino también la oración T “ ’Es schneit’ es verdadero \(en alemán\) para un hablante x en un tiempo t y sólo si está nevando en t \(y cerca de x\)”
+
+ No puede esperarse que toda la evidencia se oriente de la misma forma\. Habrá diferencias de hablante a hablante, con respecto a las circunstancias bajo las cuales una oración es considerada verdadera\. La política general, sin embargo, consiste en elegir condiciones de verdad que funcionen mejor posible para hacer que los hablantes consideren verdaderas las oraciones cuando \(de acuerdo con la teoría y con la visión de los hechos del constructor de la teoría\) esas oraciones sean verdaderas\. …
+
+ __La construcción de la teoría __no puede ser__ una cuestión de decidirse por la oración T apropiada para una oración del lenguaje objeto por vez__ …
+
+
+## 162
+__DAVIDSON__, Donald \(1984\-1990:__162__\)\. *De la verdad y de la interpretación*\. …
+
+Y, desde luego, __el hecho de que__ __una teoría no erija a los hablantes en poseedores universales de verdades no representa una adecuación de la teoría__; __la meta no persigue el absurdo de hacer desaparecer el disenso y el error__\. La idea es más ben que sólo el acuerdo amplio da el marco dentro del cual pueden interpretarse disputas y errores\. La tarea de dar un sentido a las emisiones y conducta de los otros, aun a su conducta más aberrante, nos exige encontrar una gran dosis de razón y de verdad en ellos\. Ver un exceso de sinrazón en los otros es simplemente socavar nuestra capacidad de comprender a qué se debe que sean tan poco razonables\. __Si la basta dosis de acuerdo sobre temas corrientes que se supone en la comunicación escapa a la atención, esto es porque las verdades compartidas son demasiadas y demasiado insípidas como para ser dignas de mención\. Nosotros queremos hablar de lo que es nuevo, sorprendente, o está en disputa__\.
+
+ Una teoría para interpretar las emisiones de un único hablante, que no se basará en otra cosa que en sus actitudes hacia las oraciones, tendría, podemos estar seguros, muchas rivales igualmente elegibles, por__ las diferencias de interpretación podrían neutralizarse mediante apropiadas diferencias en las creencias que se atribuyen__\. Sin embargo, dada una comunidad de hablantes que aparentemente tiene el mismo repertorio lingüístico, el teórico hará lo posible por hallar una única teoría de la interpretación: esto reducirá grandemente su elección práctica de teorías preliminares para cada hablante individual\. \(En diálogo prolongado, uno comienza a la fuerza con una teoría socialmente aplicable, y la refina a medida que acumula evidencia peculiar del otro hablante\)\.
+
+
+## 162
+__DAVIDSON__, Donald \(1984\-1990:__162’__\)\. * De la verdad y de la interpretación*\. …
+
+ __Lo que hace posible una teoría social de la interpretación es que podemos construir una pluralidad de estructuras de creencia privadas__: la creencia se construye para llenar el vacío entre oraciones consideradas verdaderas por individuos y oraciones verdaderas \(o falsas\) según pautas públicas\. __La creencia es privada no porque sea accesible a una sola persona, sino porque puede ser idiosincrática__\. Las atribuciones de creencia son tan verificables públicamente como las interpretaciones, dado que se basan en la misma evidencia: s__i podemos comprender lo que una persona dice, podemos saber lo que cree__\. 
+
+ Si se encara la interpretación de la manera que he estado discutiendo, es improbable que se encuentre sólo una teoría satisfactoria\. La indeterminación de interpretación resultante es la contraparte de la indeterminación de traducción de Quine\. __En mi aproximación, el grado de indeterminación será, pienso, menor que lo que Quine contempla: esto se debe en parte a que yo abogo por la adopción del principio de caridad desde el principio hasta el final__ , y en parte a que la unicidad de la estructura cuantificacional está aparentemente asegurada si se satisface la Convención T\. 
+
+
+## 163
+__DAVIDSON__, Donald \(1984\-1990:__163__\)\. *De la verdad y de la interpretación*\. …
+
+ __Lo importante es que si, como lo he sugerido, creencia y significado están interrelacionados__, entonces la idea de que cada creencia tiene un objeto definido, y la idea de que __cada palabra y cada oración tienen un significado definido__, no pueden invocarse al describir el objetivo de una teoría exitosa\. Pues aun así, contrariamente a lo que puede ser razonable esperar, no hubiera indeterminación alguna, entidades como significado y objetos de creencia carecerían de interés independiente\. Podríamos, desde luego, inventar esas entidades con la conciencia limpia si estuviéramos seguros de que no hay variantes permisibles de teorías\. Pero si supiéramos esto, sabríamos cómo enunciar nuestras teorías sin mención de los objetos\.
+
+
+## 163
+__DAVIDSON__, Donald \(1984\-1990:__163’__\)\. *De la verdad y de la interpretación*\. …
+
+ Las teorías de creencia y de significado pueden no requerir objetos exóticos, pero sí usan conceptos que las colocan aparte de las ciencias físicas y de otras ciencias no psicológicas: c__onceptos como los de significado y creencia son fundamentalmente no reducibles a conceptos físicos__, __neurológicos, o incluso conductistas__\. Sin embargo, esta irreductibilidad no se debe a la indeterminación de significado o de traducción, pues si yo estoy en lo cierto, la indeterminación es importante sólo para llamar la atención respecto de cómo __la interpretación del habla debe marchar codo a codo con la interpretación en general, y por ende con la atribución de deseos y de creencias__\. Son más bien los métodos que debemos invocar al construir las teorías de creencia y de significado los que aseguran la irreductibilidad de los conceptos esenciales de esas teorías\. Cada interpretación y atribución de actitud es una jugada dentro de una teoría holística, una teoría necesariamente gobernada por un interés por la consistencia y coherencia general con la verdad, y es esto lo que separa para siempre a estas teorías de aquellas que describen objetos inanimados, o que describen los objetos como inanimados\.
+
+
+## 164\-165
+__DAVIDSON__, Donald \(1984\-1990:__164\-165__\)\. De la verdad y de la interpretación\. …
+
+ __Capítulo 11 __       __Pensamiento y habla__
+
+ ¿Cuál es la conexión entre el pensamiento y lenguaje? Es evidente que el habla depende del pensamiento, pues hablar es expresar pensamientos\. …
+
+ La cuestión está en el otro caso\. ¿puede haber pensamiento sin habla? … Allí está la experiencia, familiar y molesta, de no encontrar las palabras para expresar las ideas de uno\. …
+
+*La* suposición usual es que uno u otro, habla o pensamiento, son fáciles de comprender por comparación, y por lo tanto el más oscuro \(cualquiera que sea\) puede iluminarse analizándolo o explicándolo en términos del otro\.
+
+ Pienso que esta suposición es falsa: __ni el lenguaje ni el pensamiento pueden explicarse plenamente en términos del otro, y ninguno de ambos tiene prioridad conceptual\.__ Los dos, por cierto, están relacionados, en el sentido de que cada uno requiere del otro para su comprensión; pero la relación no es tan completa como para que alguno de ambos baste, incluso cuando se lo refuerza razonablemente, para explicar al otro\. Para llevar adelante esta idea se necesita ante todo __mostrar cómo el pensamiento depende de habla__, __y es ésta la tesis que quiero refinar y luego defender\.__
+
+
+## 165
+__DAVIDSON__, Donald \(1984\-1990:__165__\)\. *De la verdad y de la interpretación\. *…
+
+ Atribuimos un pensamiento a una creatura cada vez que empleamos asertivamente una oración positiva cuyo verbo principal es psicológico —en castellano “cree”, “sabe”, “espera”, “desea”, “piensa”, “teme” son ejemplos— seguida por una oración y precedida por el nombre o necesariamente al verbo\)\. __Algunas de esas oraciones atribuyen estados, otras dan cuenta de sucesos o procesos: “cree”, “piensa” y “quiere” señalan estados, mientras que “comenzó a creer”, “olvidó”, “concluyó”, “noto”, “comprueba” señalan\`sucesos o procesos\.__ Las oraciones que pueden usarse para atribuir un pensamiento lo hacen a menudo se da en llamar, o se analiza como, intencionalidad semántica, lo cual significa que la atribución puede cambiarse de verdadera a falsa, o de falsa a verdadera, mediante sustituciones en las oraciones contenidas que no alterarían el valor de verdad de la oración aislada\.
+
+ Yo doy por sentado que si una creatura tiene pensamiento, entonces nosotros podemos, con recursos del tipo recién delineado, atribuir correctamente ese pensamiento a ella\. Pero los pensamientos así atribuibles al menos constituyen un buen muestrario de la totalidad\. 
+
+ __Es dudoso que los diversos tipos de pensamiento puedan reducirse a uno, o aun a unos pocos: deseo, conocimiento, creencia, temor, interés__, para nombrar algunos casos importantes, probablemente son lógicamente independientes, al punto tal que ninguno puede ser definido usando los otros, ni siquiera con el agregado de nociones adicionales como verdad y causa\. No obstante, la creencia es esencial para todos los tipos de pensamiento\. … es necesario que haya innumerables creencias entrelazadas\.
+
+
+## 166\-167
+__DAVIDSON__, Donald \(1984\-1990:__166\-167__\)\. * De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Podemos decir, resumiendo … que un pensamiento está definido por un sistema de creencias, pero en sí mismo es autónomo respecto de la creencia\. 
+
+ Por lo general __pensamos que tener un lenguaje consiste mayormente en ser capaz de hablar, pero en lo que sigue el habla sólo jugará un papel indirecto__\. __En mi argumento lo esencial es la idea de un intérprete de otros __… 
+
+ __La tesis principal de este trabajo es que una creatura no puede tener pensamientos a menos que sea intérprete del habla de otro__\. Esta tesis no implica la posibilidad de reducción, conductista de otro tipo, de pensamiento a habla; __ciertamente la tesis no imputa prioridad epistemológica ni conceptual al lenguaje__\. La idea también difiere de ideas similares en cuanto admite que pueda haber pensamientos para los cuales el hablante no pueda encontrar palabras, o para los cuales no hay palabras\.
+
+ Un intérprete conoce las condiciones bajo las cuales emisiones de oraciones son verdaderas, y a menudo sabe que si determinadas oraciones son verdaderas, otras deben serlo\. … Las oracio*nes de un* lenguaje tienen una posición en el espacio lógico creado por el patrón de esas relaciones\. Resulta obvio que el patrón de relaciones entre oraciones es muy parecido al patrón de relaciones entre pensamientos\. … Es redundante tomar ambos patrones como básicos\. __Si los pensamientos son primarios, un lenguaje parece no servir a otro propósito que el de expresar o conducir pensamientos; mientras que si consideramos que el habla es primaria, resulta tentador analizar los pensamientos como disposiciones de habla …__
+
+
+## 167\-168
+__DAVIDSON__, Donald \(1984\-1990:__167\-168__\)\. *De la verdad y de la interpretación*\. …
+
+… Hacer referencia a creencias y deseos para explicar la acción es así una forma de ajustar una acción dentro de un patrón de conducta que tiene coherencia gracias a una teoría\. __Esto no significa, desde luego, que las creencias no sean otra cosa que patrones de conducta, ni que patrones relevantes puedan ser definidos sin usar los conceptos de creencia y deseo\.__ No obstante, en cierto sentido las atribuciones de creencia y deseo, y por lo tanto las explicaciones teleoló*gicas* de creencia y deseo, sobreviven a una conducta descrita en términos más amplios\.
+
+ Una característica de la explicación teleológica no compartida por la explicación en general es la forma en que ella apela al concepto de *razón*\. La creencia y el deseo que explican una acción deben ser tales que cualquiera que tuviera esa creencia y ese deseo tendría una razón para actuar de ese modo\. Lo que es más, __las descripciones de la creencia y del deseo que proporcionamos deben exhibir, en la explicación teleológica, la racionalidad de la acción a la luz del contenido de la creencia y de objeto del deseo__\.
+
+
+## 168
+__DAVIDSON__, Donald \(1984\-1990:__168__\)\. *De la verdad y de la interpretación*\. …
+
+ __La relevancia de una explicación teleológica descansa, como se señaló, en su capacidad de descubrir un patrón coherente en la conducta de un agente__\. Aquí la coherencia incluye la idea de racionalidad tanto en el sentido de la acción a ser explicada debe ser razonable a la luz de __los deseos y creencias asignadas__, como también en el sentido de que los deseos y creencias asignados deben ajustarse entre sí\. __La presunción metodológica de racionalidad no hace imposible atribuir pensamientos y acciones irracionales a un agente,__ __pero en cambio impone una cara sobre dichas atribuciones__\. Debilitamos la inteligibilidad de las atribuciones de pensamientos de todo tipo al punto que no logramos descubrir un patrón consistente de creencias y, finalmente, de acciones, puesto que sólo con referencia al encuadre de un patrón así podemos identificar pensamientos\. __Si vemos a un hombre tirando de ambos extremos de un trozo de cuerda,__ podemos decir que está luchando consigo mismo, que quiere mover la cuerda en direcciones incompatibles\. Tal explicación requeriría un respaldo elaborado\. No surge ningún problema si la explicación es que él quiere cortar la cuerda\.
+
+
+## 168\-169
+__DAVIDSON__, Donald \(1984\-1990:__168\-169__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Desde el punto de vista de alguien que da explicaciones teleológicas de las acciones de otro, está claro, está claro que __no tiene sentido asignar prioridad sea a los deseos o a las creencias__\. __Ambos son esenciales para la explicación de la conducta__, y ninguno está,más directamente abierto a la observación que el otro\. Esto crea problemas pues significa que la conducta, que es__ la principal base evidencial para las atribuciones de creencias y deseos racionalizará una acción,__ siempre es posible hallar una constelación muy diferente que funcionaría igualmente bien\. __Incluso un muestrario generosos de acciones amenaza con dejar abierto un número inaceptablemente grande de explicaciones alternativas__\.
+
+ Por fortuna disponemos de una teoría más refinada, una teoría firmemente basada en el sentido común: __la teoría de la preferencia__, __o de la toma de decisiones en condiciones de incertidumbre__\. Frank Ramsey precisó la teoría por primera vez … La teoría de Ramsey actúa cuantifican*do la fuerza* de la preferencia y el grado de creencia de manera tal que permite comprender la idea natural de que al elegir un curso de acción consideramos no sólo cuán deseables resultan diversos resultados, sino también cuán aptos para producir esos resultados son los cursos de acción posibles\. La teoría no supone que podamos juzgar los grados de creencias o hacer comparaciones numéricas de valor directamente\. Antes bien, __ella postula un razonable patrón de preferencias entre cursos de acción, y muestra cómo construir un sistema de creencias y deseos__ cuantificados para explicarlas elecciones\. Dadas las condiciones idealizadas que postula la teoría, el método Ramsey hace posible identificar únicamente las creencias y deseos relevantes\. …
+
+
+## 169
+__DAVIDSON__, Donald \(1984\-1990:__169__\)\. *De la verdad y de la interpretación*\. …
+
+ Volveremos ahora a la teoría de la decisión; es tiempo de inclinarnos hacia la cuestión de cómo se interpreta el habla\. La meta inmediata de una teoría de la interpretación es dar el significado de una emisión arbitraria de un miembro de una comunidad de lenguaje\. He discutido que para la interpretación es fundamental una teoría de la verdad que satisfaga la Convención T de Tarski \(modificada en ciertos aspectos para que sea aplicable al lenguaje natural\) …
+
+ __Una teoría de la interpretación, al igual que una teoría de la acción, nos permite redescribir ciertos sucesos de una manera reveladora\.__ Así como una teoría de la acción puede responder a preguntas acerca de qué está haciendo un agente cuando ha levantado el brazo redescribiendo el acto como un intento de llamar la atención de su amigo, igualmente un método de interpretación la emisión de ciertos sonidos como un acto de decir que la nieve es blanca\. Llegados a este punto, empero, la analogía se interrumpe\. Pues la teoría de la decisión también puede explicar acciones, mientras que no resulta nada claro de qué manera una teoría de la interpretación puede explicar por qué un hablante emite las palabras “La nieve es blanca”\. Pero esto, después de todo, era de esperar, pues __emitir palabras es una acción__, y__ por lo tanto debe recurrir a las creencias y los deseos para su explicación teleológica__\. __La interpretación no es irrelevante para la explicación teleológica del habla__, dado que para explicar por qué alguien dijo que necesitamos conocer, entre otras cosas, su propia interpretación de lo que dijo, esto es, lo que él cree que significan sus palabras en las circunstancias bajo las cuales habla\. Naturalmente esto involucrará algunas de sus creencias acerca de cómo los demás interpretarán sus palabras\.
+
+
+## 170
+__DAVIDSON__, Donald \(1984\-1990:__170__\)\. *De la verdad y de la interpretación*\. …
+
+ La interrelación de la teoría de la acción con la interpretación emergerá de otra manera si preguntamos cómo se pone a prueba un método de interpretación\. Al final, la respuesta debe ser que ayuda a poner orden en nuestra comprensión de la conducta\. Pero en esta etapa intermedia, podemos ver que la actitud de *considerar verdadero* *o aceptar como verdadero*, en referencia a las oraciones, debe desempeñar un papel central para darle forma a la teoría\. Por una parte, la mayoría de los usos del lenguaje nos dicen directamente, o arrojan luz a la cuestión, de si un hablante considera que una oración es verdadera\. __Si el propósito de un hablante es dar información, o hacer una aserción honesta, entonces normalmente el hablante cree que está emitiendo una oración verdadera bajo esas circunstancias__\. Si emite una orden, usualmente podemos entender que esto muestra que él considera que determinada oración \(cercanamente con la oración emitida\) es falsa; lo mismo ocurre para muchos casos de engaño\. Cuando se formula una pregunta, ella generalmente indica que el preguntador no sabe si determinada oración es verdadera; y así por el estilo\. Para inferir de esa evidencia que un hablante considera verdadera una oración necesitamos saber lo que significan las palabras\.
+
+
+## 170
+__DAVIDSON__, Donald \(1984\-1990:__170’__\)\. *De la verdad y de la interpretación*\. …
+
+ Por otra parte, el conocimiento de las circunstancias bajo los cuales alguien considera que ciertas oraciones son verdaderas es esencial para la interpretación\. Vimos en el caso de los pensamientos que si bien la mayor parte de los pensamientos no son creencias, __es el patrón de creencia lo que nos permite identificar cualquier pensamiento__; a__nálogamente, en el caso del lenguaje, si bien la mayor parte de las emisiones no conciernen a la verdad, es el parón de las oraciones consideradas verdaderas lo que da a las oraciones su significado__\.
+
+ La actitud de considerar verdadera una oración \(bajo circunstancias especificadas\) relaciona creencia e interpretación de una manera fundamental\. Podemos saber que un hablante considera que una oración es verdadera sin saber qué significa con ella o qué creencia ella expresa para él\. Pero sabemos que él considera verdadera la oración y sabemos cómo interpretarla, entonces podemos hacer una correcta atribución de creencia\. Simétricamente, si sabemos qué creencia expresa una oración considerada verdad, sabemos cómo interpretarla\. El problema metodológico de la interpretación consiste en ver, dadas las oraciones que un hombre acepta como verdaderas bajo circunstancias dadas, cómo determinar cuáles son las creencias y qué significan sus palabras\.
+
+
+## 170\-171
+__DAVIDSON__, Donald \(1984\-1990:__170\-171__\)\. *De la verdad y de la interpretación\.* …
+
+La situación es nuevamente similar a la situación de la teoría de la decisión donde, dadas las preferencias de un hombre entre cursos de acción alternativos, podemos discernir tanto sus creencias como sus deseos\. Por supuesto, no debería pensarse que una teoría de la interpretación se sostendría por sí sola pues, c__omo hemos visto, no hay posibilidad de determinar cuándo una oración es considerada verdadera si no somos capaces de atribuir deseos y de describir a las acciones como portadoras de intenciones complejas__\.
+
+ … Lo que es seguro es que todas las formas habituales de poner a prueba teorías de la decisión o de la referencia bajo condiciones de incertidumbre confían en el uso del lenguaje\. … se puede entender que ha expresado una preferencia ejecutando una acción, moviéndose directamente para alcanzar su fin, en vez de decir lo que quiere\. Pero esto no puede resolver la cuestión de lo que ha elegido\. \.\.\.
+
+ Todo esto esto sugiere poderosamente que la atribución de deseos y creencias \(y de otros pensamientos\) __debe avanzar mano a mano con la interpretación del habla, y que ni la teoría de la decisión ni la de la interpretación pueden desarrollarse exitosamente una sin la otra__\. Pero resta decir, más detallada y convincentemente, por qué la atribución de pensamiento depende de la interpretación del habla\. … Uno puede pretender la manzana que tiene en la mano sin pretender morder la única manzana que tiene dentro un gusano; … __La intencionalidad *que* comprendemos tan bien en la atribución de pensamientos es muy difícil de comprender cuando el habla no está presente\. __
+
+
+## 172
+__DAVIDSON__, Donald \(1984\-1990:__172__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Antes de proseguir quiero considerar una posible objeción a la línea general que he estado impulsando\. Supóngase que concedemos, dice el impugnador que la conducta muy compleja no observada en los infantes y en los elefantes resulta necesaria si es que queremos encontrar aplicación a todo el aparato disponible para la atribución de pensamientos\. Puede decirse aún que el esquema de cómo funciona la __interpretación__ no muestra que esta complejidad deba entenderse como relacionada con el lenguaje\. La razón está en que dicho esquema hace que sea demasiado lo que depende de la actitud especial de ser pensado como verdadero\. La evidencia más directa de la existencia de esta actitud es la aserción honesta\. __Pero entonces parecería que podríamos tratar como habla a la conducta de creaturas que nunca hicieron nada con el lenguaje excepto hacer aserciones honestas\.__\* Algunos filósofos efectivamente sueñan con semejantes tribus monocordes; pero ¿sería correcto decir que tienen lenguaje? Se ha perdido de vista lo que puede llamarse *autonomía del *significado\. __Una vez que una oración se ha comprendido, una emisión de ella puede usarse para servir a casi cualquier propósito extralingüístico__\. Un instrumento al que pudiera darse solamente un uso único carecería de autonomía de significado; esto equivale a decir que no debe ser tenido en cuenta como un lenguaje\. Por tanto, la complejidad de conducta que hace falta para dar la máxima extensión a las atribuciones de pensamiento no necesita, después de todo, tener exactamente la misma complejidad que admite, o requiere, la interpretación como un lenguaje\.
+
+\* Behig thear la película basada en libro de Jerzy Kosinski USA 1980\)
+
+
+## 172\-173
+__DAVIDSON__, Donald \(1984\-1990:__172\-173__\)\. *De la verdad y de la interpretación*\. …
+
+ Coincido con el hipotético impugnador en que la autonomía de signi*ficado* es esencial para el lenguaje; por cierto, __es esto mayormente lo que explica por qué el significado lingüístico no puede ser definido o analizado en base a intenciones y creencias extralingüísticas__\. Pero el impugnador no logra distinguir entre un lenguaje que podría usarse para un sólo propósito y uno que se usa para un solo propósito\. __Un instrumento que podría usarse para un solo propósito no sería lenguaje__\. Pero la aserción honesta, sola, podría producir una teoría de la interpretación, e igualmente un lenguaje al que, si bien capaz de más, nunca se le diera otros usos\. \(En la práctica, este suceso es impensable\. Alguien que conoce las condiciones bajo las cuales sus oraciones son socialmente verdaderas no puede dejar de echar mano a, y aprovecharse de, las posibilidades de aserción deshonestas: sea para bromear, contar historias, estimular, exagerar, insultar, y demás\)\.
+
+
+## 173
+__DAVIDSON__, Donald \(1984\-1990:__173__\)\. *De la verdad y de la interpretación*\. …
+
+ Un método de interpretación nos dice que hablantes del castellano una emisión de “Está lloviendo” por un hablante x en un tiempo t es verdadera si y sólo si está lloviendo \(cerca de x\)\. Estar provisto de esta información, y conocer que otros la conocen, __equivale a conocer lo que una emisión significa, independientemente del conocimiento de propósitos que le dieron impulso__\. __La autonomía del significado también puede ayudar a explicar cómo e posible, mediante el uso del lenguaje, atribuir pensamientos__\. Supongamos que alguien emite asertivamente la oración “La nieve es blanca”\. Conociendo las condiciones bajo las cuales dicha emisión es verdadera yo puedo agregar, si lo deseo, “Yo también creo *that*”, atribuyéndome de esa manera una creencia\. … Yo puedo aprovechar una emisión de otro para atribuirme una creencia … Primero emito una oración, tal vez, “La nieve es blanca”, y después agrego “El cree *that*”\. La primera emisión puede o no ser una aserción; en todo caso, no atribuye una creencia a nadie … Pero si mi observación “El cree *that*” es una aserción, he atribuido una creencia a alguien\. Finalmente, no hay ningún impedimento para que yo me atribuya una creencia diciendo primero, “La nieve es blanca” y agregando luego, “Yo creo *that*”\.
+
+
+## 173\-174
+__DAVIDSON__, Donald \(1984\-1990:__173\-174__\)\. *De la verdad y de la interpretación*\. …
+
+ En todos los ejemplos, tomo la palabra “*that”* para referir demostrativamente una emisión, sea una emisión del hablante del “*that*” o de otro hablante\. El “*that*” no puede referir una oración: tanto porque, como Church ha señalado en casos similares, la referencia entonces tendría que relativizarse a un lenguaje pues una oración puede tener diferentes significados en diferentes lenguajes, porque, de modo más obvio, la misma oración puede tener diferentes valores de verdad en el mismo lenguaje\.
+
+ Lo que la referencia demostrativa a emisiones hace en el tipo de caso que acabamos de considerar puede hacerlo igualmente cuando la estructura de superficie se ha alterado hacia algo como “Yo creo *that* la nieve es blanca” o “El cree *that* la nieve es blanca”\. __También pienso que en estas instancia debemos ver “*that*” como un demostrativo,__ refiriendo ahora una emisión a punto de producirse\. Así, la forma lógica de la atribuciones normales de actitud es la de dos emisiones unidas paratácticamente\. No hay conectivo, si bien la primera emisión contiene una referencia a la segunda\. …
+
+\[Fulano me mentó la madre” tr\. al it\. “Fulano ha menzionato la mia mama” no son equivalentes en creencia ,imagen mental ni en expresividad\.
+
+
+## 174
+__DAVIDSON__, Donald \(1984\-1990:__174__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+… El análisis propuesto relaciona directamente la característica autónoma del significado con nuestra capacidad de describir y atribuir pensamientos, __pues la emisión de una oración puede servir para la descripción de las actitudes de otros solamente por causa de la interpretación de una oración es independiente de su uso\.__ Si mi análisis es correcto, podemos olvidarnos de la improbable \(pero común\) opinión de que una oración encerrada dentro de una *cláusula “that*” necesita una interpretación completamente diferente de aquella que la satisface en otros contextos\. 
+
+ Aquí, una solución fácil a nuestro problema acerca de la relación entre pensamientos y habla se sugiere a sí misma\. Una forma de ver el __análisis paratáctico__, forma propuesta por Quine en *Word and Objet, *es la siguiente: cuando un hablante atribuye una actitud a una persona, lo que hace es imitar o remedar un acto de habla real o posible de esa persona\. El discurso indirecto es el mejor ejemplo, y otro buen ejemplo lo constituye la aserción\. 
+
+
+## 175\-176
+__DAVIDSON__, Donald \(1984\-1990:__175\-176__\)\. *De la verdad y de la interpretación\.* … \*\*\*\*\*
+
+ para poder llegar a la última cuestión importante, debo volver a aspectos de la interpretación que hasta ahora hemos dejado de lado\. Señalé que la actitud de considerar verdadero, dirigida a oraciones bajo circunstancias específicas, es la base de la interpretación, pero no dije de qué manera puede ella cumplir esta función\. La dificultad, se recordará, consiste en que una oración se considera verdadera por causa de dos factores: lo que el evaluador entiende que significa la oración, y lo que él cree\. Para que sea posible ordenar las cosas, necesitamos un método para mantener fijo un factor mientras se estudia el otro\.
+
+ __La condición de miembro de una comunidad de lenguaje depende de la capacidad de interpretar las emisiones de los miembros del grupo__, y disponemos de un método para lograrlo si uno tiene, y sabe que tiene, una teoría que provee condiciones de verdad, más o menos al estilo de Tarski, para todas las oraciones \(relativizadas, como siempre, a un tiempo y un hablante\)\. La teoría es correcta siempre y cuando implique, por medios finitamente enunciados, teoremas de una forma familiar: “’Está lloviendo’ es verdadero para un hablante x en un tiempo t si y sólo si está lloviendo \(cerca de x\) en t”\. La base evidencial para una teoría *así* interesa oraciones consideradas verdaderas … 
+
+
+## 176
+__DAVIDSON__, Donald \(1984\-1990:__176__\)\. *De la verdad y de la interpretación*\. …
+
+Sería posible generar una teoría correcta simplemente registrando como verdaderas las oraciones consideradas verdaderas, siempre que \(1\) hubiera una teoría que satisfaga las restricciones formales y fuera consistente de esta manera con la evidencia, y \(2\) todos los hablantes consideran que una teoría es verdadera precisamente cuando esa oración fuera verdadera; c__on la condición de que todas las creencias, al menos hasta donde pudiera expresarse, fueran correctas__\.
+
+ Pero naturalmente __no puede suponerse que los hablantes jamás tienen creencias falsas__\. El terror da su peculiaridad a la creencia\. Sin embargo podemos entender que la mayoría de las creencias es correcta\. La razón de esto es que __una creencia se identifica por su posición en un patrón de creencias; este patrón es el que determina la materia de la creencia, de qué trata la creencia__\. Antes de que un objeto en el mundo, o un aspecto del mundo, pueda formar parte de la materia de que se trata una creencia \(verdadera o falsa\) debe haber innumerables creencias verdaderas acerca de esa materia\. Las creencias falsas tienden a socavar la identificación de la materia, socavan, por lo tanto, la validez de una descripción de la creencia que la vincula a esa materia\. … No se trata de que cada creencia falsa destruya necesariamente nuestra capacidad de identificar otras creencias, sino de que la inteligibilidad de esas identificaciones debe depender de un entorno de __creencias verdaderas mayormente no mencionadas y no cuestionadas__\. Para decirlo de otra forma: cuanto para más cosas está en lo cierto el creyente, más definidos son sus errores\. __Un exceso de error simplemente empaña el foco\.__
+
+
+## 176\-177
+__DAVIDSON__, Donald \(1984\-1990:__176\-177__\)\. * De la verdad y de la interpretación\.* … \*\*\*\*\*
+
+ Lo que hace la interpretación posible, entonces, es el hecho de que podemos detectar, *a priori *la posibilidad de un error generalizado\. __No puede ser correcta una teoría de la interpretación que haga a un hombre sentir ante una gran cantidad de oraciones falsas__: generalmente debe darse el caso de que una oración es verdadera cuando un hablante sostiene que lo es\. __Tanto es así, que se computa a favor de un método de interpretación el que éste cuente a una oración como verdadera precisamente cuando los hablantes la consideran verdadera__\. Pero, desde luego, el hablante puede estar equivocado; y también puede estarlo el intérprete\. Entonces, __lo que finalmente debe contarse a favor de un método de interpretación es que el intérprete llegue a un acuerdo general con el hablante:__ según el método, el hablante considera verdadera a una oración bajo condiciones específicas, y estas condiciones se presentan, en la opinión del intérprete, precisamente cuando el hablante considera que la oración es verdadera\.
+
+ Ninguna teoría simple puede lograr que el hablante y el intérprete lleguen a un acuerdo perfecto, y por lo tanto una teoría practicable de vez en cuando debe suponer un error por parte de uno o de otro\. El precepto metodológico básico es, entonces, __una buena teoría de la interpretación maximice el acuerdo__\. O, dado que el número de oraciones es infinito, y dadas otras consideraciones por venir, una palabra mejor sería __*optimizar*__\. \.\.\.
+
+
+## 177\-178
+__DAVIDSON__, Donald \(1984\-1990:__177\-178__\)\. *De la verdad y de la interpretación*\. …
+
+ Si esta consideración de la interpretación radical es correcta, al menos en líneas generales, entonces deberíamos consignar que __los conceptos de verdad objetiva, y de error, necesariamente emergen en el contexto de la interpretación__\. La distinción entre una oración que se considera verdadera y una que es efectivamente verdadera es esencial para la existencia de un sistema interpersonal de comunicación y, cuando en casos individuales se presenta una diferencia, debe contarse con un error\. Dado que la actitud de considerar verdadero es la misma, sea la oración verdadera o no, aquélla corresponde directamente a la creencia\. __El concepto de creencia está aquí preparado para llenar el vacío entre la verdad objetiva y lo considerado verdadero, y llegamos a entenderlo precisamente en esta conexión__\.
+
+ Poseemos la idea de creencia solamente a partir del rol de la creencia en la interpretación del lenguaje, pues como actitud privada ella no es inteligible excepto como ajuste a la norma pública provista por el len*guaje\.* __De ahí se desprende que una creatura debe ser miembro de una comunidad de habla si es que va a poseer el concepto de creencia__\. Y dada la dependencia de otras actitudes respecto de la creencia, podemos decir, generalizando, que __sólo una creatura que pueda interpretar el habla puede poseer el concepto de un pensamiento__\.
+
+
+## 178
+__DAVIDSON__, Donald \(1984\-1990:__178__\)\. *De la verdad y de la interpretación*\. …
+
+ ¿Puede una creatura tener una creencia si no tiene el concepto de creencia? A mí me parece que no, y por esta razón\. __Una persona no puede tener una creencia a menos que comprenda la posibilidad de estar equivocada__, y esto requiere captar el contraste entre verdad y error: creencia verdadera y creencia falsa\. Pero, he argumentado, este contraste sólo puede emerger en el contexto de la interpretación, que por sí mismo __nos empuja hacia la idea de una verdad objetiva, pública__\.
+
+ __A menudo se piensa equivocadamente que el concepto semántico de verdad es redundante,__ que no hay diferencia entre afirmar que una oración s es verdadera y usar s para hacer una aserción\. Puede sí ser correcta una teoría de la redundancia de la creencia, que __creer que p pueda no distinguirse de la creencia de que p es verdadero\.__ Esta noción de verdad no es la noción semántica: el lenguaje no está directamente presente en la ilustración\.
+
+ Pero está justo fuera de la ilustración; es parte de su marco\. Pues la noción de una creencia verdadera depende de la noción de una emisión verdadera, y ésta a su vez no puede existir sin un lenguaje compartido\.
+
+
+## 189
+__DAVIDSON__, Donald \(1984\-1990:__189__\)\. *De la verdad y de la interpretación*\. …
+
+ __De la idea misma de un esquema conceptual    \(*On the Very Idea of Conceptual Scheme \(1974\)*__
+
+__* *__… Los esquemas conceptuales, nos dicen, son formas de organizar la experiencia; son sistemas de categorías que dan forma a los datos de las sensaciones; son puntos de vista desde los cuales individuos, culturas o períodos examinan los acontecimientos que se suceden\. Puede no haber traducción de un esquema a otro, en cuyo caso las creencias, deseos, esperanzas y porciones de conocimiento que caracterizan a una persona no tienen contrapartes verdaderas para quien suscribe otro esquema\. La realidad misma es relativa a un esquema: lo que cuenta como real en un sistema puede no hacerlo en otro\. …
+
+ El relativismo conceptual es una doctrina temeraria y exótica, o lo sería si pudiéramos comprenderla bien\. El problema es, como ocurre tan a menudo en la filosofía, que __resulta difícil mejorar la inteligibilidad manteniendo simultáneamente la atracción__\. Sea como fuere, __esto es lo que discutiré\.__
+
+ \.\.\.
+
+
+## 189\-190
+__DAVIDSON__, Donald \(1984\-1990:__189\-190__\)\. *De la verdad y de la interpretación*\. …
+
+ Whorf, cuando quiere demostrar que el hopi incorpora una metafísica tan extraña a nosotros que el hopi y en inglés, dice él, no pueden *“calibrarse”,* usa el inglés para conducir los contenidos de los ejemplos de oraciones hopi\. Khun expresa de una manera brillante cómo eran las cosas antes de la revolución usando ―¿de qué otro modo podría ser?― nuestro idioma posrevolucionario\. Quine nos ofrece una sensación de la “fase preindividualista en la evolución de nuestro esquema conceptual”, en tanto Bergson nos dice adónde podemos ir para disfrutar de un paisaje de montaña que no sufra la distorsión de una a otra perspectiva provincial\.
+
+ … Podemos aceptar la doctrina que asocia el tener un lenguaje con el tener un esquema conceptual\. __Puede suponerse que la relación es así: cuando los esquemas conceptuales difieren, también lo hacen los lenguajes__\. Pero hablantes de diferentes lenguajes pueden compartir un esquema conceptual siempre que haya una vía para traducir un lenguaje al otro\. __ El estudio de los criterios de traducción es por lo tanto una forma de poner el acento en los criterios de identidad de esquemas conceptuales__\.
+
+
+## 190\-191
+__DAVIDSON__, Donald \(1984\-1990:__190\-191__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Si los esquemas conceptuales no se hallan asociados a los lenguajes de este modo, el problema original se ve duplicado innecesariamente, pues entonces __tendríamos que imaginar a la mente, con sus categorías ordinarias, operando con un lenguaje con su estructura organizativa__\. Bajo tales circunstancias sin duda querríamos preguntar quién es el que manda\.
+
+ Como alternativa, está la idea de que todo lenguaje distorsiona la realidad, lo cual implica que a lo sumo la mente puede aprehender las cosas tal como realmente son sólo sin usar palabras\. Esto equivale a concebir el lenguaje como un medio inerte \(si bien necesariamente distorsionador\) independiente de los agentes humanos que lo emplean, una visión del lenguaje que seguramente no puede sostenerse\. __Mas si la mente puede aprehender sin distorsión de lo real, ella misma debe estar desprovista de categorías y conceptos__\. 
+
+˿ 
+
+
+## 191
+__DAVIDSON__, Donald \(1984\-1990:__191__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Esta caracterización sin rasgos propios es común a teorías de segmentos muy diferentes del espectro filosófico\. __Por ejemplo, hay teorías para las cuales la libertad consiste en decisiones tomadas al margen de todos los deseos, hábitos y disposiciones del agente; y hay teorías del conocimiento que sugieren que la men*te* puede observar la totalidad de sus propias percepciones e ideas__\. En cada caso la mente se halla divorciada de los rasgos que la constituyen; una conclusión ineludible a partir de ciertas líneas de razonamiento, como dije antes, pero que siempre debería persuadirnos de rechazar las premisas 
+
+ Podemos entonces identificar los esquemas conceptuales con los lenguajes, o mejor, admitiendo la posibilidad de que más de un lenguaje puede expresar el mismo esquema, con conjuntos de lenguajes intertraducibles\. No vamos a considerar que los lenguajes son separables de las almas; un hombre no puede perder la condición de hablar un lenguaje y retener al mismo tiempo el poder del pensamiento\. Por lo tanto no es posible que alguien pueda ocupar un punto de observación para comparar esquemas conceptuales desprendiéndose temporalmente de los suyos propios\. ¿Podemos decir entonces que dos personas tienen esquemas conceptuales diferentes si hablan lenguajes que carecen de intertraducibilidad?
+
+ 
+
+
+## 191
+__DAVIDSON__, Donald \(1984\-1990:__191’’__\)\. *De la verdad y de la interpretación*\. …
+
+ A continuación considero dos tipos de casos que podría esperarse que aparecieran: los fallos completo y parcial de la traducibilidad\. Se daría un fallo completo si ninguna clase significativa de oraciones en un lenguaje pudiera ser traducida al otro; el fallo sería parcial si alguna clase pudiera ser traducida al otro; el fallo sería parcial si alguna clase pudiera traducirse y alguna clase no \(dejaré de lado las posibles asimetrías\)\. Mi estrategia consistirá en argumentar que no podemos entender un fallo total, y luego examinaré brevemente casos e fallo parcial\.
+
+ Primero, entonces, los susodichos casos de fallo completo\. Ciertamente resulta tentador asumir una postura terminante: es dable decir que nada podría considerarse evidencia de que alguna forma de actividad no puede ser interpretada en nuestro lenguaje sin ser al mismo tiempo evidencia de que esa forma de actividad no puede ser una conducta de habla\. Si esto fuera correcto, probablemente nos veríamos obligados a sostener que una forma de actividad no puede interpretarse como lenguaje en nuestro lenguaje no es una conducta de habla\. Mas esto resulta satisfactorio, pues no va más allá de instituir la traducibilidad a una lengua familiar como criterio para la condición de lenguaje\. Además la tesis carece de la atracción que genera la autoevidencia; si es una verdad, como yo pienso que lo es, debería emerger como conclusión de un argumento\.
+
+
+## 191
+__DAVIDSON__, Donald \(1984\-1990:__191’’’__\)\. *De la verdad y de la interpretación*\. …
+
+ La credibilidad de esta posición se beneficia al verse reflejada en las estrechas relaciones entre el lenguaje y la atribución de actitudes como creencia, deseo e intuición\. __Por otro lado, está claro que el habla requiere una multitud de intenciones y creencias sutilmente discriminadas__\. Una persona que afirma que la perseverancia mantiene alto el honor debe, por ejemplo, representar que ella misma cree que la perseverancia mantiene alto el honor, y debe tratar de representarse a sí misma creyéndolo\. Por otro lado, parece improbable que podamos atribuir inteligiblemente a un hablante actitudes tan complejas como éstas, a menos que podamos traducir sus palabras a las nuestras\. No puede haber dudas de que la relación entre la capacidad de traducir el lenguaje de alguien y la capacidad de describir actitudes es muy cercana\.
+
+
+## 192
+__DAVIDSON__, Donald \(1984\-1990:__192__\)\. *De la verdad y de la interpretación*\. …
+
+ Según Kuhn, los científicos que operan en diferentes tradiciones científicas \(dentro de diferentes “paradigmas”\) “trabajan en diferentes mundos”\. La obra *The Bounds of Sicense* de Strawson comienza con la afirmación de que “__Es posible imaginar clases de mundos muy diferentes del mundo tal como lo conocemos nosotros__”\. Puesto que hay como mucho un mundo, estas pluralidades son metafóricas o meramente imaginadas\.  … Strawson nos invita a imaginar posibles mundos no reales, mundos que podrían describirse, usando nuestro lenguaje presente, mediante la redistribución de los valores de verdad para las oraciones según varias formas sistemáticas … Los muchos mundos imaginados de Strawson se ven o se escuchan o se describen desde el mismo punto de vista; el mundo único de Kuhn se ve desde diferentes puntos de vista\. Esta es la segunda metáfora sobre la que queremos trabajar\. 
+
+ 
+
+
+## 194
+__DAVIDSON__, Donald \(1984\-1990: __194__\)\. *De la verdad y de la interpretación*\. 
+
+ … La frase clave es: por cuanto yo sé\. Está claro que la retención de parte o de todo el viejo vocabulario no proporciona en sí misma una base para juzgar si el nuevo esquema es igual al viejo o diferente de él\. Así, lo que al principio sonaba como un descubrimiento estremecedor —__que la verdad es relativa a un esquema conceptua__l— __hasta ahora no ha podido demostrarse que sea algo más que el hecho pedestre y familiar de que la verdad de una oración es relativa \(entre otras cosas\) al lenguaje al cual ella pertenece__\. …  
+
+ El dejar de lado la distinción analítico\-sintética no ha probado ser de ayuda para comprender el relativismo conceptual\. La distinción analítico\-sintética se ve explicada no obstante en términos de algo que puede servir para apuntalar al relativismo conceptual, esto es, la idea de contenido empírico\. __El dualismo de lo sintético y lo analítico es un dualismo de oraciones, algunas de las cuales son verdaderas \(o falsas\) tanto por causa de lo que significan como por causa de su contenido empírico, mientras que otras son verdaderas \(o falsas\) sólo en virtud de su significado, careciendo de contenido empírico\.__
+
+
+## 194\-195
+__DAVIDSON__, Donald \(1984\-1990: __194\-195__\)\. *De la verdad y de la interpretación*\. 
+
+ Si descartamos el dualismo, abandonamos la concepción de significado que él conlleva, pero no tenemos que abandonar la idea de contenido empírico: podemos sostener, si queremos, que todas las oraciones tienen contenido empírico\. __El contenido empírico se explica a su vez por referencia a los hechos, al mundo, a la experiencia, a la sensación, a la totalidad de estímulos sensoriales, o algo similar__\. Los significados nos dieron una vía para hablar acerca de las categorías, de la estructura organizadora del lenguaje, y así por el *estilo*; pero es posible, como hemos visto, desechar los significados y la analiticidad mientras se conserva la idea de que el lenguaje engloba un esquema conceptual\. Así, en lugar del dualismo de lo sintético\-analítico tenemos el dualismo de esquema conceptual y contenido empírico\. __El nuevo dualismo crea los cimientos de un empirismo al que se han amputado los dogmas insostenibles de la distinción analítico\-sintética y del reduccionismo, aliviándolo, así, de la idea impracticable de que podemos asignar un contenido empírico individualmente, oración por oración__\.
+
+__DAVIDSON__, Donald \(1984\-1990:__ 195 \(2\)\)__\. *De la verdad y de la interpretación*\. 
+
+ El dualismo esquema\-contenido ha sido formulado de diferentes maneras\. He aquí algunos ejemplos\. El primero de ellos proviene de Whorf, quien trabaja sobre un tema de Sapir\. Whorf dice que:
+
+ … el lenguaje produce una organización de la experiencia\. Nos inclinamos por pensar que el lenguaje es simplemente una técnica de expresión, y no por entender que el lenguaje es ante todo una clasificación y organización del flujo de experiencia sensorial que resulta en un cierto orden del mundo\. En otras palabras, el lenguaje hace en una forma más cruda pero también más amplia y versátil lo mismo que hace la ciencia… Se nos presenta así un nuevo principio de relatividad, que sostiene que los observadores no están todos guiados por la misma evidencia física hacia una misma ilustración del universo, a menos que sus encuadres lingüísticos sean similares, o puedan ser calibrados de alguna manera\. \[B\.L\. Whorf, “The Punctual and Segmentavive Aspects of Verbs in Hopi”, 55\]
+
+ Tenemos aquí todos los elementos que se requiere: el lenguaje como la fuerza organizadora, que distingue claramente la ciencia; lo que es organizado, referido de varias maneras como “experiencia”, “el flujo de la experiencia sensorial”, y “evidencia física”, y finalmente, el fallo de intertraducibilidad \(“calibrador”\)\. El fallo de intertraducibilidad es una condición necesaria para diferenciar los esquemas conceptuales; se supone que lo que nos ayuda a comprender la afirmación de que cuando la traducción falla los que están bajo consideración son lenguaje o esquemas es la relación común con la experiencia o la evidencia\. Es esencial para esta idea que haya algo neutral y común situación fuera de todos los esquemas\.
+
+
+## 195\-196
+__DAVIDSON__, Donald \(1984\-1990:__195\-196__\)\. *De la verdad y de la interpretación*\. 
+
+ Es así que Kuhn ha escrito recientemente:
+
+ Los filósofos han abandonado hoy la esperanza de encontrar un lenguaje de puros *sensa\-data…* pero muchos de ellos continúan suponiendo que las t*eorías* pueden compararse mediante el recurso a un vocabulario básico que consista sólo en palabras vinculadas a la naturaleza de las maneras no problemáticas y, en grado necesario, independientes de la teoría … Feyerabend y yo hemos argumentado ampliamente que un tal vocabulario no es accesible\. En la transición de una teoría a la siguiente las palabras cambian sus significados o condiciones de aplicabilidad de un modo sutil\. Si bien los mismo signos se siguen usando en su mayor parte antes y después de una revolución —por ejemplo, fuerza, masa, elemento, compuesto, célula— la forma en que algunos de ellos se vinculan a la naturaleza cambia en alguna medida\. Decimos por esto que teorías sucesivas son inconmensurables\.
+
+ “Inconmensurable” es, por supuesto, la palabra de Kuhn y Feyerabend para decir “no intraducible”\. El contenido neutral que espera ser organizado lo proporciona la naturaleza\.
+
+ El propio Feyerabend sugiere que podamos comparar esquemas contrastantes mediante “elección de un punto de vista que esté fuera del sistema del lenguaje”\. Espera que podamos hacerlo pues “aún hay experiencia humana como proceso realmente existente” independiente de todos los esquemas\.
+
+
+## 196
+__DAVIDSON__, Donald \(1984\-1990:__196__\)\. *De la verdad y de la interpretación\.* 
+
+ Quine expresa pensamientos iguales o similares en muchos pasajes: “La totalidad de lo que damos en llamar __conocimiento o creencias__…__ es un tejido hecho por el hombre que tropieza con la experiencia sólo a lo largo de sus bordes__… “ \[T*wo Dogmas of Empiricism*” 42\] la ciencia en su totalidad es como un campo de fuerza cuyas condiciones límite son la experiencia”; “Como empirista… pienso que el esquema conceptual de la ciencia es una herramienta… para predecir la experiencia futura a la luz de la experiencia pasada” Y nuevamente:
+
+ Insistimos en descomponer de alguna manera la realidad en una multiplicidad de objetos identificables y discriminables… Hablamos tan inveteradamente de los objetos que decir que lo hacemos casi parece como no decir nada; pues, ¿hay otra manera de hablar? Es difícil decir de qué otra manera se puede hablar, no porque nuestro patrón de objetivación sea un rasgo invariable de la naturaleza humana, sino porque estamos constreñidos a adaptar a nuestro patrón propio todo patrón extraño en el proceso mismo de compresión o traducción de las oraciones extrañas\. \[Quine *“Speaking Objets*”, 1\]
+
+
+## 197
+__DAVIDSON__, Donald \(1984\-1990: __197__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ La idea es entonces que algo es un lenguaje, y se encuentra asociado a un esquema conceptual, podemos no traducirlo, si se encuentra en una cierta relación \(de predicción, de organización, de estudio, o de ajuste\) con la experiencia \(naturaleza, realidad, apuntes sensoriales\)\. El problema es decir qué es la relación, y dar una idea más clara de las entidades relacionadas\.
+
+ Las imágenes y metáforas se reúnen en dos grupos principales: los esquemas conceptuales \(lenguajes\) u *organizan* algo, o lo *ajustan* \(como en “reorienta su herencia científica para ajustar a sus incitaciones sensoriales”\) \[Quine “*Two Dogmas of Empiricism*” 46\]\. El primer grupo incluye también *sistematizar*, *distribuir*, \(el flujo de experiencia\); otros ejemplos de segundo grupo son *predecir, explicar, enfrentar* \(el tribunal de la experiencia\)\. En cuanto a las entidades que son organizadas, o que el esquema deben ajustar, pienso nuevamente que __podemos detectar dos ideas principales: o es la realidad \(el universo, el mundo, la naturaleza\) o es la experiencia \(los sucesos que se nos manifiestan, las irritaciones de superficie, las incitaciones sensoriales, los *sensa\-data*, lo dado\)__\.
+
+
+## 197\-198
+__DAVIDSON__, Donald \(1984\-1990: __197\-198__\)\. *De la verdad y de la interpretación…*
+
+ … ¿Qué hay del otro tipo de objetos, la experiencia? ¿Podemos pensar en un lenguaje que las organice? Vuelven a surgir dificultades parecidas\. La noción de organización sólo es aplicable a pluralidades\. Pero cualquiera sea la pluralidad en que a nuestro entender consista la exper*iencia* —sucesos como perder un botón o lastimarse un dedo, tener una sensación de calor o escuchar un oboe— t__endremos que individuar según principios familiares\. Un lenguaje que organice esas entidades debe ser un lenguaje muy parecido al nuestro__\.
+
+ La experiencia \(y sus colegas como las irritaciones de superficie, las sensaciones y los *sensa\-data*\) ponen también en una dificultad todavía más obvia a la idea organizadora\. Pues __¿cómo podría llamarse lenguaje a algo que organizara sólo experiencias, sensaciones, irritaciones de superficie o *sensa\-data*__? Seguramente los cuchillos y los tenedores, los ferrocarriles y las montañas, los repollos y las monarquías también necesitan organización\.
+
+
+## 198
+__DAVIDSON__, Donald \(1984\-1990: __198__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Esta última observación˿ sonará sin duda inapropiada como respuesta a la pretensión de que un __esquema conceptual es una manera de habérselas con la experiencia sensorial__; y estoy de acuerdo en que es así\. Pero __lo que estaba bajo consideración era la idea de *organizar* la experiencia, no la idea de *habérselas* con \(o ajustar o encarar\) la experiencia__\. La respuesta se dio a propósito del primer concepto, no del último\. … 
+
+ __Cuando pasamos de hablar de organización a hablar de ajuste orientamos nuestra atención del aparato referencial del lenguaje —predicados, cuantificadores, variables y términos singulares— a las oraciones completas__\. Son las oraciones las que predicen \(o se usan para predecir\), las que hacen frente a las cosas o tratan con ellas, las que ajustan nuestras incitaciones sensoriales, las que pueden compararse o confrontarse con la evidencia\. __Son las oraciones también, las que enfrentan al tribunal de la experiencia, aunque por supuesto deben enfrentarlo juntas__\. 
+
+__DAVIDSON__, Donald \(1984\-1990\) __198’__\)\. *De la verdad y de la interpretación\.* \*\*\*\*\*
+
+ La propuesta no dice que las experiencias, los *sensa\-data*, las irritaciones de superficie o las incitaciones sensoriales sean la única materia de superficie o las incitaciones sensoriales sean la única materia del lenguaje\. Allí está, es cierto, la teoría que sostiene que el habla acerca de las casas de ladrillos de Elm Street se construye en última instancia como si tratara de *sensa\-data* o de percepciones, pero tales visiones reduccionistas son tan sólo versiones externas e inadmisibles de la posición general que estamos considerando\. __Esta posición general sostiene que la experiencia sensorial provee toda *evidencia* para la aceptación de las oraciones __\(donde las oraciones pueden incluir teorías completas\)\. __Una oración o teoría se ajusta a nuestras incitaciones sensoriales, enfrenta con éxito al tribunal de la experiencia, predice la experiencia futura, o hace frente a los patrones de nuestras irritaciones de superficie, siempre que esté confirmada por la evidencia__\.
+
+__DAVIDSON__, Donald \(1984\-1990\) __198\-199__\)\. *De la verdad y de la interpretación\.* 
+
+ __En el curso normal de los acontecimientos, una teoría puede estar confirmada por la evidencia disponible y sin embargo ser falsa__\. Pero lo que aquí tenemos en vista no es sólo evidencia realmente disponible; es la totalidad de__ la evidencia sensorial posible pasada, presente y futura__\. No necesitamos detenernos a contemplar lo que esto podría significar\. __La cuestión es: que una teoría se ajuste o enfrente a la totalidad de la evidencia sensorial equivale a que esta teoría sea verdadera__\.
+
+Si una teoría científica sobre objetos físicos, números o conjuntos, lo *que* ella dice acerca de estas entidades es verdadero en tanto la teoría como un todo se ajuste a la evidencia sensorial\. Uno puede ver que, desde este punto de vista, dichas entidades pueden ser llamadas supuestos\. Es razonable decir que algo es un supuesto si se lo puede contrastar con algo que \[no\*\] lo es\. Aquí, el “algo que no lo es” es la experiencia sensorial; al menos ésa es la idea\.
+
+\*\[P\. 193 en original en inglés: “One can see how, front this point of view, such entities might be called posits\. It is reasonable to call something a posotivf it can be contrtasted whit something that is not\]\. Nota: en el original en inglés aparece con la negación, mientras que en la traducción aparece sin la negación “no”: “with something that is not\.”
+
+
+## 199
+__DAVIDSON__, Donald \(1984\-1990:__199__\)\. *De la verdad y de la interpretación*\. 
+
+ 
+
+ El problema es que la noción de ajustarse a la totalidad de la experiencia, como la noción de ajustarse a los hechos, o ser fiel a los hechos, no agrega nada inteligible al simple concepto de ser verdadero\. Hablar de experiencia sensorial en vez de hablar de evidencia, o simplemente de los hechos, expresa una visión acerca de la fuente o naturaleza de la evidencia, pero no sume una nueva entidad al universo respecto de la cual puedan ponerse a prueba los esquemas conceptuales\. __La totalidad de la evidencia sensorial es aquello que requerimos siempre y cuando sea toda la evidencia que existe; y es justo toda la evidencia existente lo que hace falta para que nuestras oraciones o teorías sean verdaderas__\.
+
+“ siempre y cuando sea la totalidad que existe” como evidencia? Ver Putnam 2001, 1988, 1990 sobre la data\-sense y los qualia\. Esta condición no es considerable\.\]
+
+ 
+
+
+## 199
+__DAVIDSON__, Donald \(1984\-1990: __199__\)\. *De la verdad y de la interpretación*\. 
+
+ S__in embargo, nada, ninguna cosa, hace verdaderas las oraciones y las teorías__: ni la experiencia, ni las irritaciones de superficie, ni el mundo pueden hacer verdadera una oración\. Que la experiencia toma un rumbo determinado, que nuestra piel es tibia o está lastimada, que el universo es finito, estos hechos, si queremos decirlo de esta manera, hacen que las oraciones y las teorías sean verdaderas\. __Pero esto se ve mejor sin hacer mención de los hechos__\. La oración “Mi piel es tibia” es verdadera si y sólo si mi piel es tibia\. __Aquí no hay referencia alguna a un hecho, un mundo, una experiencia, o una porción de evidencia__\.
+
+ __Nuestro intento de caracterizar los lenguajes o los esquemas conceptuales en términos de a noción de ajustarse a alguna entidad se ha reducido, entonces, al simple pensamiento de que algo es un esquema conceptual o teoría aceptable si es verdadero__\. Quizá sea mejor *mayormente* verdadero de manera de admitir que quienes comparten un esquema difieran en los detalles\. __Y el criterio de un esquema conceptual diferente del nuestro se convierte ahora en mayormente verdadero pero no traducible__\. La cuestión de que este sea o no un criterio útil es sólo una cuestión de cuán bien comprendamos la noción de verdad, aplicada al lenguaje, independientemente de la noción de traducción\. La respuesta es, pienso, que no la comprendemos en absoluto en forma independiente\.
+
+
+## 199\-200
+__DAVIDSON__, Donald \(1984\-1990:__199\-200__\)\. *De la verdad y de la interpretación*\. 
+
+ Reconocemos que oraciones como “’La nieve es blanca’ es verdadero si y sólo si la nieve es blanca” son trivialmente verdaderas\. Sin embargo, la totalidad de tales oraciones castellanas determinan singularmente la extensión del concepto de verdad para el castellano\. Tarski generalizó esta observación y la convirtió en un test de las teorías de la verdad: de acuerdo con la Convención T de Tarski, una teoría satisfactoria de la verdad para un lenguaje L debe implicar, para cada oración s de L, un teorema de la forma “s es verdadero si y sólo si p” donde “s” es reempla*zado* por una descripción de s y “p” por s mismo si L es castellano y, por una traducción de s al castellano si L no es castellano\. Esto no es, desde luego, una definición de la verdad, ni tampoco insinúa que haya una única definición teoría que sea aplicable a los lenguajes en general\. No obstante, la Convención T sugiere, si bien no puede enunciar, una característica importante común a todos los conceptos especializados de la verdad\. Este logro se debe al uso esencial que da a la noción de traducción a un lenguaje que conocemos\. Puesto que la Convención T encarna nuestra mejor intuición de la forma en que se usa en concepto de verdad, no parece haber mucho futuro para un test que busque probar que un esquema conceptual puede ser radicalmente diferente del nuestro si ese test depende de la presunción de que podemos separar la noción de verdad de la de traducción\.
+
+
+## 200
+__DAVIDSON__, Donald \(1984\-1990: __200\)__\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ … __Lo que necesitamos es una teoría de la traducción o de la interpretación que no efectúe suposiciones acerca de significados, conceptos o creencias compartidos__\.
+
+ La interdependencia de creencia y significado nace de dos aspectos de la interpretación de la conducta del habla: la atribución de creencias y la interpretación de oraciones\. Señalamos antes que a causa de estas dependencias podemos permitirnos asociar esquemas conceptuales con lenguajes\. Ahora podemos expresar el asunto de una manera algo más definida\. Admitimos que __el habla de un hombre sólo puede ser interpretado por alguien que conozca bastante acerca de lo que el hablante cree__ \(y pretende y quiere\), y que las distinciones finas entre creencias son imposibles sin la comprensión del habla: ¿cómo vamos entonces a interpretar el habla o a atribuir inteligiblemente creencias y otras actitudes? __Está claro que debemos tener una teoría que simultáneamente tenga en cuenta actitudes e interprete el habla, y que no suponga a ninguno de ambos__\.
+
+ __Sugiero, siguiendo el ejemplo de Quine__, que podemos aceptar, sin caer en circularidades ni presunciones sin garantías, __ciertas actitudes muy generales hacia las oraciones como evidencia básica para una teoría de la interpretación radical__\.
+
+
+## 201
+__DAVIDSON__, Donald \(1984\-1990: __201__\)\. *De la verdad y de la interpretación*\. 
+
+ … \(__Una más audaz tomaría también otras actitudes hacia las oraciones, tales como desear que sea verdadera, imaginarse si es verdadera, pretender hacer verdadera, y otras por el estilo__\)\. Por cierto, las actitudes se encuentran involucradas aquí, pero el hecho de que no se deje de lado el asunto central puede verse en esto: si nosotros meramente sabemos que alguien considera que una determinada oración verdadera, no sabemos ni lo que ese alguien significa con la oración ni qué creencia representa el hecho de que la considere verdadera\. __Su consideración de la oración como verdadera es así el vector de dos fuerzas: el problema de la interpretación es abstraer de la evidencia una teoría variable del significado y una teoría aceptable de la creencia\. __
+
+ La manera en que se resuelve este problema se aprecia mejor partiendo de ejemplos poco llamativos\. Si usted ve un yate navegando y su compañero dice, “Mira que hermoso bote”, usted puede enfrentarse a un problema de interpretación\. Una posibilidad natural es que su amigo haya confundido un yate con un bote, y se haya formado una creencia falsa\. Pero si la vista de él es buena y su punto de observación es favorable … __Todo el tiempo estamos efectuando este tipo de interpretaciones improvisadas, decidiendo en favor de la reinterpretación de palabras de manera de preservar una razonable teoría de la creencia__\. Como filósofos tenemos una peculiar tolerancia hacia el malapropismo sistemático, y somos prácticos en la interpretación de sus resultados\. __El proceso consiste en construir una teoría viable de la creencia y del significado a partir de oraciones consideradas verdaderas__\.
+
+
+## 202
+__DAVIDSON__, Donald \(1984\-1990: __202__\)\. * De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Dado que __la caridad no es una opción, sino una condición__ para tener una teoría practicable, carece de sentido sugerir que en caso de respaldarla podríamos caer en un error generalizado\. … __La caridad no es impuesta__; __nos guste o no, si queremos comprender a los demás, debemos darlos por acertados en la mayor parte de los asuntos__\.\.\. Si somos capaces de producir una teoría que reconcilie la caridad y las condiciones formales para una teoría, hemos hecho todo lo que puede hacerse para asegurar la comunicación\. No hay nada más que sea posible, ni hace falta nada más\.
+
+ Comprendemos al máximo las palabras y pensamientos de otros cuando interpretamos en una forma que optimice el acuerdo \(esto incluye un margen … para el error explicable, como por ejemplo las diferencias de opinión\)\. ¿Dónde deja esto un espacio para el caso del relativismo conceptual? La respuesta es, pienso yo, que mayormente debemos decir lo mismo de las diferencias de esquema conceptual que lo que decimos de las diferencias de creencia, incrementamos la claridad y el atractivo de las declaraciones de diferencia, sean de esquemas o de opinión, ampliando las bases del lenguaje compartido \(traducible\) o de la opinión compartida\. … Pero cuando otros piensen de manera diferente a nosotros, ningún principio general ni recurso a la evidencia nos podrá obligar a decidir que la diferencia descansa en nuestras creencias más que en nuestros conceptos\.
+
+\[Levinson, S\. \(2004 \(200\):27 habla de la “inexorable necesidad de los hablantes de entenderse” VA\]
+
+
+## 203
+__DAVIDSON__, Donald \(1984\-1990: __203__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ __Al dejar de lado la dependencia del concepto de una realidad ininterpretada__, de algo exterior a todos los esquemas y a toda la ciencia, __no estamos renunciando a la noción de verdad objetiva: todo lo contrario\.__ Dado un dogma de un dualismo de esquema y realidad, llegamos a la relatividad conceptual y a la verdad relativa a un esquema\. Sin este dogma, esta clase de relatividad se derrumba sin remedio\. D__amos por sentado que la verdad de las oraciones continúa siendo relativa al lenguaje,__ pero eso es todo lo objetivo que puede llegar a ser\. Al dejar de lado el dualismo de esquema y mundo sin mediaciones con los objetos familiares cuyas travesuras y extravagancias hace a nuestras oraciones y opiniones verdaderas o falsas\.
+
+
+## 204
+__DAVIDSON__, Donald \(1984\-1990: __204__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+__Capítulo 14__ __El método de la verdad metafísica__
+
+ Al compartir un lenguaje, cualquiera sea el sentido en que esto se requiere para la comunicación, compartimos una ilustración del mundo que, a sus rasgos más amplios, debe ser verdadera\. Se sigue que __cuando hacemos manifiestos los rasgos más amplios de nuestro lenguaje, estamos haciendo manifiestos los rasgos más amplios de la realidad__\. Por lo tanto, u__na manera de ir en pos de la metafísica consiste en estudiar la estructura general de nuestro lenguaje__\. Esto no es, desde luego, el único método verdadero de la metafísica; no existe tal cosa\. Pero es un método … Estos filósofos no se han puesto de acuerdo respecto de cómo se los puede estudiar y describir mejor\[la estructura general de nuestros lenguajes\]\.
+
+… __¿Por qué nuestro lenguaje —cualquier lenguaje— debe incorporar o depender de una visión mayormente correcta, compartida, de cómo son las cosas?__ Primero __consideraremos por qué aquellos que pueden entenderse mutuamente en el habla deben compartir una visión del mundo, sea o no correcta__ esa visión\. La razón es que afectamos a inteligibilidad de nuestras lecturas de las emisiones de otros cuando nuestro método de lectura coloca a los otros dentro de lo que tomamos como amplio error\.
+
+
+## 204\-205
+__DAVIDSON__, Donald \(1984\-1990: __204\-205__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Podemos dar un sentido correcto a las diferencias, pero sólo dentro de un marco de creencia compartida\. En general, lo que se comparte no mueve a comentarios; es demasiado insulso, trivial o familiar como para llamar la atención\. Pero sin un vasto terreno común, no hay *un* lugar donde los contendientes pueden llevar adelante su discusión
+
+ Las creencias se identifican y describen dentro de un denso patrón de creencias\. Yo puedo creer que una nube está pasando delante del sol… Si yo supongo que usted tiene el tipo correcto de patrón de creencias para sostener esa creencia, y estas creencias que yo presumo que usted tiene deben ser, para poder cumplir con su tarea de apoyo, lo __suficientemente parecidas a mis creencias como para justificar la descripción de su creencia de que una nube está pasando frente al sol__\. Si yo estoy en lo cierto cuando atribuyo la creencia a usted, luego usted debe tener un patrón de creencias parecido al mío\. __No es extraño, entonces, que yo pueda interpretar sus palabras correctamente sólo interpretando en una forma tal que nos ponga en un amplio acuerdo__\.
+
+
+## 205
+__DAVIDSON__, Donald \(1984\-1990:__205__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Puede parecer que hasta ahora el argumento solamente muestra que una buena interpretación engendra consenso… Y ciertamente, el acuerdo, no importa cual sea su amplitud, no garantiza la verdad\. Pero esta observación escapa al núcleo del argumento\. La idea básica consiste en que se necesita una gran comunidad de creencia para proporcionar una base para la comunicación o la comprensión; esta idea, expandida, tendrá que ser entonces que el error objetivo puede tener lugar sólo en un campo de creencia mayormente verdadera\. El acuerdo no hace la verdad, pero mucho de lo acordado debe ser verdadero si es que algo de lo acordado es falso\.
+
+ Así como el exceso de error atribuido expone al sujeto a quedarse sin su materia, igualmente un exceso de error real priva a una persona de cosas respecto a las cuales equivocarse\. __Cuando queremos interpretar, trabajamos sobre alguna suposición acerca del patrón general de acuerdo__\. Supongamos que mucho de lo que consideramos común es verdadero, pero, por supuesto, no podemos suponer que sabemos dónde descansa la verdad\. __No podemos interpretar en base a las verdades conocidas, no porque no conozcamos ninguna, sino porque no siempre sabemos cuáles son ellas\.__ No necesitamos ser omniscientes para interpretar, pero no hay nada de absurdo en la idea de que un intérprete omnisciente; __éste atribuye creencias a los otros, e interpreta su habla en base a sus propias creencias, tal como lo hacemos el resto de nosotros__\. 
+
+
+## 205\-206
+__DAVIDSON__, Donald \(1984\-1990: __205\-206__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+Dado __a que hace esto de la misma manera que nosotros, por fuerza encuentra tanto el acuerdo como haga falta para dar sentido a sus atribuciones e interpretaciones; y en este caso, desde luego, lo que se acuerda es verdadero por hipótesis__\. Pero ahora está claro por qué hablar de error genera*lizado* acerca del mundo es algo simplemente inteligible, pues suponerlo inteligible es suponer que podría haber un intérprete \(el intérprete omnisciente\) que interpreta correctamente que alguna otra persona está equivocada en general, y hemos demostrado que esto es imposible,
+
+ Una comunicación exitosa prueba la existencia de una visión del mundo compartida y mayormente verdadera\. __Pero lo que nos llevó a exigir una visión común fue el reconocimiento de que las oraciones consideradas verdaderas —los representantes lingüísticos de la creencia— determinan los significados de las palabras que contienen__\. De esta manera la visión común da forma al lenguaje compartido\. A esto se debe que sea plausible sostener que al estudiar los aspectos más generales del lenguaje estaremos estudiando los aspectos más generales de la realidad\.
+
+
+## 206
+__DAVIDSON__, Donald \(1984\-1990: __206__\)\. *De la verdad y de la interpretación*\. 
+
+ El lenguaje es un instrumento de comunicación debido a si dimensión semántica, a la potencialidad para la verdad o falsedad de sus oraciones, o, mejor, de sus emisiones e inscripciones\. El estudio de cuáles oraciones son verdaderas es en general una tarea de las diversas ciencias; pero __el estudio de las condiciones de verdad es el dominio de la semántica__\. Aquello a lo que debemos prestar atención en el lenguaje, si es que queremos poner de relieve las características generales del mundo, es qué significa en general para una oración del lenguaje ser verdadera\. La sugerencia dice que si las condiciones de verdad de las oraciones se encuentran __dispuestas en el contexto de una teoría de amplios alcances, la estructura lingüística que emerge reflejará rasgos importantes de la realidad\.__
+
+ La meta es una teoría de la verdad para una parte razonablemente poderosa y significativa de un lenguaje natural\. El campo de la teoría —qué proporción del lenguaje está captada por la teoría, y cuán convincente— será un factor del cual dependerá el interés de cualquier resultado metafísico\.
+
+La teoría debe mostrarnos cómo podemos observar como cada una de las infinitas oraciones potenciales está compuesta a partir de un repertorio finito de átomos semánticamente significativos \(es decir, palabras\) en base a su composición\. Puede decirse luego que la teoría explica las condiciones de verdad de una emisión de una oración en base a los roles d ellas palabras de la oración\.
+
+
+## 207
+__DAVIDSON__, Donald \(1984\-1990: __207__\)\. *De la verdad y de la interpretación*\. 
+
+ A Frege le preocupaban la estructuras semántica de las oraciones y las relaciones semánticas entre oraciones, en cuanto éstas generaban implicitaciones\. Pero no puede decirse que él haya concebido la idea de una amplia teoría formal de la verdad para un lenguaje como un todo\. Una consecuencia de ello fue su falta de interés en las paradojas semánticas\. Otra consecuencia fue un deseo aparente de aceptar una infinidad de significados \(sentidos\) y referentes para cada frase denotativa del lenguaje\.
+
+ Debido a que consideró que la aplicación de función de al argumento era el único modo de combinación semántica\. Frege se vio obligado a tratar las oraciones como una clase de nombre: el nombre de un valor de verdad\. Visto simplemente como un astuto equivale en el camino hacia la caracterización de las condiciones de verdad de las oraciones, este recurso de Frege es intachable\. Pero siento que las oraciones no operan en el lenguaje en forma en que lo hacen los nombres, la aproximación de Frege debilita toda confianza en que la ontología que él necesitaba para producir su semántica tenga alguna conexión directa con la ontología implícita en el lenguaje natural\.
+
+
+## 207
+__DAVIDSON__, Donald \(1984\-1990: __207’__\)\. *De la verdad y de la interpretación*\. 
+
+ Quine aportó un ingrediente esencial para el proyecto en cuestión cuando mostró la forma en que __una aproximación holística al problema de la compresión de un lenguaje proporciona la base empírica necesaria__\. Para poder obtener conclusiones metafísicas de una teoría de la verdad de la manera que yo propongo, la aproximación al lenguaje debe ser holística\. Sin embargo, el propio Quine pasa por alto esta significación metafísica tan directa del holismo, y ello por una cantidad de razones\. Primero, Quine no ha considerado esencial la teoría de la verdad ni como una clave de la ontología de un lenguaje, ni como un test de la forma lógica\. Segundo, él, como Frege, ve un lenguaje satisfactoriamente regimentado como un mejoramiento del lenguaje natural más que como una parte de la teoría acerca de él\. En un aspecto importante, Quuine parece ir más allá de Frege, pues donde Frege piensa que su notación conduce a un mejor lenguaje, Quine piensa que conduce también a una ciencia mejor\. Por consecuencia, Quine liga su metafísica a su notación canónica más que al lenguaje natural; tal como él lo dice: “La búsqueda de un modelo general de notación canónica de categorías última, una iluminación de los trazos más generales de la realidad” \(*Word and Objet*, 161\)
+
+
+## 208
+__DAVIDSON__, Donald \(1984\-1990: __208__\)\. *De la verdad y de la interpretación*\. 
+
+ Los lenguajes formales por los cuales yo me inclino —lenguajes de primer orden con lógica usual— son los mismos que prefiere Quine\. Pero nuestras razones para esta elección divergen en alguna medida\. Estos lenguajes gustaban a Quine porque su lógica es simple, y las porciones científicamente respetables del lenguaje natural pueden ser traducidas a ellos; y en esto yo estoy de acuerdo\. Pero dado que yo no estoy interesado en mejorar el lenguaje natural, sino en comprenderlo, entiendo los lenguajes formales o las notaciones canónicas como recursos para explorar la estructura del lenguaje natural\. Sabemos cómo dar una teoría de la verdad para el lenguaje formal; por lo tanto, si supiéramos también cómo transformar sistemáticamente las oraciones de un lenguaje formal, tendríamos una teoría de la verdad para el lenguaje natural\. Desde este punto de vista, los lenguajes formales usuales son recursos intermedios para ayudarnos a tratar a los lenguajes naturales como lenguajes formales más complejos\.
+
+
+## 208
+__DAVIDSON__, Donald \(1984\-1990: __208’__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+El trabajo de Tarski en torno de las definiciones de la verdad para los lenguajes formalizados sirve como inspiración para la clave de la teoría de la verdad que se quiere para los lenguaje naturales\. El método opera enumerando las __propiedades semánticas de los ítems de un vocabulario finito, y en base a esto caracteriza recursivamente la verdad para cada una de las infinitas oraciones__\. La verdad se alcanza desde ese punto de partida merced a la intervención de un concepto sutil y poderoso \(la satisfacción\) que relaciona tanto las oraciones como las expresiones no oracionales con objetos del mundo\. Un rasgo importante de la aproximación de Tarski es que sólo se acepta una caracterización de un predicado de verdad x es verdadera en L” si ella implica, para cada oración del lenguaje L, un teorema de la forma “x es verdadera en L si y sólo si…” donde “x se reemplaza por una descripción de la oración y los puntos se reemplazan por una traducción de la oración al lenguaje de la teoría\.
+
+
+## 208\-209
+__DAVIDSON__, Donald \(1984\-1990: __208\-209__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Resulta evidente que estos teoremas, que podemos llamar oraciones T, requieren un predicado que valga sólo para las oraciones verdaderas de L\. También salta a la vista, a partir del hecho de que de que las condiciones de verdad para una oración traducen esa oración \(por ejemplo, lo que aparece a la derecha de “si y sólo si” en una oración T traduce la oración descrita a la izquierda\), que __la teoría muestra cómo caracterizar la verdad para cualquier oración dada sin apelar a recursos conceptuales no disponibles en esa oración__\. 
+
+ Estas afirmaciones son correctas sólo a grandes rasgos\. Una teoría de la verdad para un lenguaje natural debe relativizar la verdad de una oración en las circunstancias de emisión, y cuando esto se ha hecho las condiciones de verdad dadas por la oración T ya no traducirán la oración descrita, ni será posible evitar el empleo de conceptos que son, quizá, semánticos, para dar las condiciones de verdad de oraciones con elementos deícticos\. Más importantes aun, la noción de traducción, que puede precisarse para los lenguajes artificiales a los cuales pueden im*ponerse* interpretaciones por decreto, no tienen una aplicación precisa y ni siquiera clara para los lenguajes naturales\. 
+
+
+## 209
+__DAVIDSON__, Donald \(1984\-1990: __209__\)\. *De la verdad y de la interpretación*\. 
+
+… \(como yo la concibo\) difiere ampliamente de las definiciones de la verdad de Tarski tanto en su finalidad como en su interés\. La precisión de su aplicación se pierde, y con ello la mayor parte de lo que concierne a matemáticos y lógicos: consecuencias para la consistencia, por ejemplo\. Tarski podría considerar que la traducción estaba sintácticamente especificada, y seguir adelante para definir la verdad\. Pero en la aplicación a un lenguaje natural tiene más sentido suponer una comprensión parcial de la verdad y usar la teoría para echar luz sobre el significado, interpretación y la traducción\. __La satisfacción de la Convención T de Tarski permanece como un desiderátum de una teoría__, pero ya no se halla disponible como test formal\.
+
+ Una teoría de la verdad logra revelar la estructura de un lenguaje natural\. Al tratar cada oración como compuesta de maneras explicables a partir de un número finito de palabras veritativas relevantes, ella articula esta estructura\. Cuando estudiamos términos y oraciones directamente, no a la luz de la teoría abarcadora__ debemos llevar metafísica al lenguaje; __asignamos roles a las palabras y las oraciones de acuerdo con categorías que postulamos independientemente en base a fundamentos epistemológicos o metafísicos\. __Al operar de esta manera, los filósofos ponderan cuestiones tales como si debe haber entidades, tal vez universales, que corresponden a predicados, o entidades no existentes que corresponden a nombres o descripciones no denotativos; o discuten si las oraciones corresponden o no a hechos o proposiciones\.__
+
+
+## 210
+__DAVIDSON__, Donald \(1984\-1990: __210__\)\. *De la verdad y de la interpretación*\. 
+
+ Sería fácil pasar de la tendenciosa oración T recién mencionada a la no comprometida y admisible “Sócrates es sabio” es verdadero si y sólo si Sócrates es sabio” si la teoría contuviera también como postulados enunciados de que el objeto nombrado por “Sócrates” es Sócrates y de que x pertenece a la clase determinada por el predicado “es sabio” si y sólo si x es sabio\. Si se dispone de la cantidad suficiente de tales postulados como para cuidar de todos los nombres propios y predicados primitivos, los resultados son claros\. Primero, __habría oraciones T libres de términos semánticos indeseables__ a disposición de todas las oraciones involucradas; __y los términos semánticos extra serían innecesarios__\. Pues tendría que haber un postulado para cada nombre y predicado, __y esto sólo podría ocurrir si la lista de nombres y predicados primitivos fuera finita__\. Pero si la lista fuera finito, sólo habría un número finito de oraciones consistentes en un nombre y un predicado monádico; y nadie se interpondría en el camino para dar directamente las condiciones de verdad de todas esas oraciones; las propias oraciones T podrían servir de axiomas\.
+
+
+## 210\-211
+__DAVIDSON__, Donald \(1984\-1990: __210\-211__\)\. *De la verdad y de la interpretación*\. 
+
+ El ejemplo ilustra a la forma en que el mantener finito el vocabulario puede dar lugar a la eliminación de conceptos semánticos; muestra también cómo la exigencia de una teoría satisfactoria tiene consecuencias ontológicas\. Aquí, la apelación a entidades que corresponden a predicados desaparece cuando se hace que la teoría produzca oraciones T sin un bagaje semántico excesivo, Ciertamente en el caso de marras la teoría no necesita en absoluto expresiones y objetos de una correspondencia explícita, y por lo tanto, no se incluye ontología alguna; pero esto se debe a que la provisión de oraciones cuyas condiciones de verdad deben darse es infinita\.
+
+ No es que una infinitud de oraciones requiera necesariamente ontología\. Dada ña provisión finita de oraciones con predicados inestructurales que hemos estado imaginando, es fácil proseguir hacia el infinito mediante la adición de uno o más recursos iterables para la construcción a partir de oraciones, como la negación, la conjunción o la alternación\. __Si no se requirió ontología para dar las condiciones de verdad de las oraciones más simples, estos recursos tampoco tendrán mayores necesidades\.__
+
+__ Sin embargo, por lo general la estructura semánticamente relevante *tiende a* demandar ontología\.__
+
+__DAVIDSON, Donald \(__1984\-1990:__ 211\)\. __*De la verdad y de la interpretación*\.__ __
+
+Considérese, por ejemplo, la idea de que las citas deben ser tratadas como átomos semánticos, a la par de los nombres propios en cuanto a su carencia de estructura significativa\. Dice Tarski que esta forma de ver la cita “parece ser más natural y en completa concordancia con la forma acostumbrada de usar las comillas” Este autor ofrece un argumento modelo para mostrar que las comillas no pueden ser tratadas como una expresión funcional ordinaria puesto que una cita no nombra una entidad que sea una función de algo nombrado por lo que las comillas encierran\. Sin duda Tarski tiene razón acerca de esto, poro la moraleja de la lección no puede ser que las citas son similares a los nombres propios; en cualquier caso, no lo será si es que puede darse una teoría de la verdad al estilo de Tarski para un lenguaje que contenga citas\. Pues está claro que hay infinitas citas\.
+
+ Puede extraerse una idea para una posible solución a partir de la afirmación de Quine de que las citas pueden reemplazarse por el deletreo \(Tarski casi dice lo mismo\)\. El deletreo sí tiene estructura\. Es una manera de dar una descripción semánticamente articulada de una expresión mediante el uso de un número finito de expresiones: el signo de concatenación, con paréntesis asociados, y los nombres \(propios\) de las letras\.
+
+
+## 211\-212
+__DAVIDSON__, Donald \(1984\-1990: __211\-212__\)\. *De la verdad y de la interpretación*\. 
+
+ Otra consecuencia es que al dar estructura a las citas tuvimos que reconocer en ellas “palabras” repetibles e independientes: nombres de las letras individuales y el signo de concatenación\. Estas “palabras” son, desde luego, finitas en número –tal era el requerimiento\-\- pero también revelan un hecho ontológico que no era aparente cuando se consideraba a las citas como nombres inestructurados: un compromiso con las letras\. Tenemos una teoría manejable cuando explicamos que las moléculas están hechas de átomos de un número finito de clases; pero también tenemos los átomos\. 
+
+ Tenemos otro ejemplo, aun más impactante de la forma en que la postulación de estructura necesaria en el lenguaje puede conllevar la aportación de ontología, proporcionada por la semántica de Frege para los contextos oblicuos creados por oraciones acerca de actitudes proposicionales\. Para Frege, una oración como “Daniel cree que hay un león en *la guarida*” esta dominada por el predicado diádico “cree” cuyo primer espacio está ocupado por el término singular “Daniel” y cuyo segundo espacio está ocupado por un término singular que nombra una proposición o “sentido”\. Para seguir esta idea no sólo es menester que tratemos a las oraciones como términos singulares, sino también hallamos entidades para que nombren\. Y aun hay más\. __Pues está claro que un número infinito de oraciones puede ocupar el puesto que sigue a “Daniel cree que …__”\.
+
+
+## 212
+__DAVIDSON__, Donald \(1984\-1990: __212__\)\. *De la verdad y de la interpretación*\. 
+
+Es así como para proveer una definición de la verdad, debemos descubrir estructura semántica en estos términos singulares: debe mostrarse cómo se los puede tratar como descripciones de proposiciones\. Para evitar los absurdos que sobrevendrían so los términos singulares de una oración tuvieran su referencia usual, Frege considera en cambio que refieren entidades __intencionales__\. Debe operarse cambios análogos sobre las características semánticas de predicados, cuantificadores y conectivos oracionales\. Hasta el momento, una teoría de la verdad del tipo que hemos estado buscando puede manejar la situación, pero sólo si considera que cada palabra del lenguaje es ambigua, con una interpretación en contextos ordinarios y otra cuando sigue a “cree *that*” y verbos similares\. Lo cual vendría a significar que, como ventaja de esta teoría, una palabra debe tratarse como dos\. Frege notó esto, y registró la ambigüedad como un punto en contra del lenguaje natural; … 
+
+
+## 212\-213
+__DAVIDSON__, Donald \(1984\-1990: __212\-213__\)\. *De la verdad y de la interpretación*\. 
+
+ __Observemos más en detalle la operación que nos permite sacar a la luz la estructura latente mediante la caracterización de un predicado de verdad__\. Los primeros pasos pueden ilustrarse con una oración simple como “Juan y Marina subieron la colina”: ¿bajo qué condiciones es esta oración verdadera? El desafío descansa en la presencia dentro de la *oración* de un __recurso iterativo__: la conjunción\. Resulta claro que podemos seguir agregando frases como “y sSusana”, después de ña palabra “Marina” *ad libitum*\. Por lo tanto cualquier enunciado de las condiciones de verdad para esta oración debe tener en cuanta la infinitud de oraciones, generadas por el mismo recurso, que están esperando su tratamiento\. __Lo que hace falta es una cláusula recursiva en la teoría de la verdad que pueda aplicarse cuantas veces sea necesaria\. __La treta, como todos sabemos, consiste en definir la verdad para un repertorio básico y finito de las oraciones más simples, tal como “Juan subió la colina” y “marina subió la colina”, y luego hacer que las condiciones de verdad para Juan y Marina subieron la colina” dependan de las condiciones de verdad de las oraciones simples\. Así obtenemos:
+
+ “Juan y Marina subieron la colina” es verdadero si y sólo si Juan subió la colina y Marina subió la colina\.
+
+Como una consecuencia de una teoría de la verdad\.
+
+
+## 213
+__DAVIDSON__, Donald \(1984\-1990:__213__\)\. *De la verdad y de la interpretación*\. 
+
+A la izquierda, una oración del lenguaje vernáculo se describe con su estructura transparente o no; a la derecha del “si y sólo si” tenemos una oración del mismo lenguaje vernáculo, aunque se ha elegido de éste una parte capaz de hacer explícita, merced a aplicaciones repetidas de los mismos recursos simples, la estructura semántica subyacente\. Si una teoría de la verdad produce una oración así purificada para cada oración del lenguaje, la porción del lenguaje total que se usa a la derecha puede considerarse una notación canónica\. Ciertamente, si se sustituyen algunas palabras por símbolos y se evidencian los agrupamientos por medio de paréntesis o algún otro símbolo equivalente, la parte del lenguaje empleada en establecer las condiciones de verdad para todas las oraciones puede volverse indistinguible de lo que a menudo se llama un lenguaje formalizado o artificial\. … sería un error suponer que es esencial hallar una subdivisión canónica de este tipo en el lenguaje\. Puesto que “y” puede escribirse entre oraciones en castellano, tomamos la vía fácil de transformar “Juan y Marina subieron la colina” en “Juan subió la colina y Marina subió la colina” y luego dar las condiciones de verdad de esta última de acuerdo con una regla que dice que una conjunción de oraciones es verdadera si y sólo si cada conyunto lo es\. …
+
+  
+
+
+## 215
+__DAVIDSON__, Donald \(1984\-1990: __215__\)\. *De la verdad y de la interpretación*\. 
+
+Juan se cayó pero luego se rompió la coronilla” … precisamente en base a la verdad para las componentes sin más ontología que Juan y su coronilla … no se somete a este tratamiento, pues “pero luego” no puede considerarse como un conectivo semántico veritativo funcional: pero entender esto, reflexionase que para que la oración sea verdadera, ambas oraciones componentes deben ser verdaderas, pero esto no es suficiente para su verdad, puesto que intercambiando las componentes se la hará falsa\.
+
+ Frege nos indicó cómo habérnoslas con un caso así: podemos formular las condiciones de verdad para la oración “Juan se cayó pero luego se rompió la coronilla” como sigue: ella es verdadera si y sólo si existe un tiempo t y existe un tiempo t’\. Aparentemente nos sometemos a la existencia de tiempos si aceptamos como verdadera una oración así\. Y pensando en el carácter holístico de una definición de la verdad, el descubrimiento de ontología oculta en oraciones que contienen “luego” debe transferirse a otra oraciones: de esta manera, “Juan se cayó” es verdadero si y sólo si existe un tiempo t tal que Juan se cayó en t\.
+
+ Pasemos ahora a un ejemplo más perturbador\. Consideremos primero “La caída de Juan causó la ruptura de cu coronilla” como términos singulares que describen sucesos, y “causó” como un predicado diádico o relacional\. Pero entonces, ¿cuál es la relación semántica entre términos generales como “caída” en “La caída de Juan” y verbos como “se cayó” en “Juan se cayó”?
+
+
+## 215\-216
+__DAVIDSON__, Donald \(1984\-1990: __215\-216__\)\. *De la verdad y de la interpretación*\. 
+
+En cuanto a eso, ¿cómo difiere “La caída de Juan causó la rotura de su coronilla”, en condiciones de verdad, de “Juan se cayó, lo que causó de que se diera el caso que Juan se rompiera la coronilla”, donde la frase “lo que causó que se diera el caso que” es, por lo visto, un conectivo condicional?
+
+ La teoría correcta de “causó” … es paralela a “luego” o a la teoría de Frege para “antes”\. Sugiero que “Juan se cayó, lo que causó la rotura de su coronilla” es verdadero si y sólo si existiesen sucesos *e* y *f* tal que e es la caída que tuvo Juan, *f *es la rotura sufrida en su coronilla, y e causó *f*\. De acuerdo con esta propuesta, el predicado “es una caída”, consistente con los sucesos, se torna primario, y los contextos que contienen el verbo son derivados\. De esta manera “Juan se cayó” es verdadero si y sólo si hay una caída tal que aconteció a Juan, “Juan dio un paseo” es verdadero si y sólo si hay un paseo que dio Juan, y así por el estilo\. Según este análisis, *una frase* nominal como “La caída de Juan” se vuelve una descripción genuina, y lo que ella describe es esa caída que tuvo Juan\.
+
+
+## 216
+__DAVIDSON__, Donald \(1984\-1990: __216__\)\. *De la verdad y de la interpretación*\. 
+
+ Una consideración que puede ayudar a __reconciliarnos con la ontología de sucesos particulares__ es que podamos luego prescindir de la ontología abstracta de tiempos que acabamos de aceptar tentativamente, pues los sucesos son tan admirablemente los *relata* de la relación anterior como lo son los tiempos\. Otra consideración es que reconociendo nuestro compromiso con la ontología de sucesos podemos hallar el camino hacia una semántica visible de adverbios y de modificación adverbial\. Sin sucesos, aparece el problema de explicar las relaciones lógicas entre oraciones como “Jones se cortó la mejilla mientras se afeitaba con una navaja en el baño este sábado”, y “Jones se cortó la mejilla en el baño”, y “Jones se cortó la mejilla”\. Parece que está ocurriendo algún recurso iterativo; pero ¿qué puede ser ese recurso, desde el punto de vista semántico? … Si interpretamos que estas oraciones tratan de eventos, podemos resolver los problemas\. Luego podemos decir que “Jones se cortó la mejilla en el baño este sábado” es verdadero si y sólo si existe un evento que consiste en un corte de su mejilla por parte de Jones, y ese evento tuvo lugar en el baño, y tuvo lugar este sábado\. El recurso iterativo y cuantificación que nos permite tratar con “alguien se cayó y se rompió la coronilla”\.
+
+
+## 216
+__DAVIDSON__, Donald \(1984\-1990: __216’__\)\. *De la verdad y de la interpretación*\. 
+
+ Este recurso funciona, pero como hemos visto, hace falta una ontología para hacerlo funcionar: una ontología que incluya gente para “Alguien se cayó y se rompió la coronilla”, una ontología de sucesos \(además\) para “Jones se cortó la mejilla en el baño este sábado”\. Resulta irónicamente que en la filosofía reciente se haya vuelto una maniobra popular el intento de *evitar* problemas ontológicos tratando determinadas frases como si fueran adverbiales\. Una de estas sugerencias dice que podemos abjurar de los *sense\-data* si convertimos una oración como “La montaña aparece azul a los ojos de Smith” en “La montaña aparece azuladamente a los ojos de Smith”\. Otra idea similar dice que podemos pasarla sin una ontología de objetos intensionales si pensamos que las oraciones acerca de actitudes proposicionales son esencialmente adverbiales: “Galileo dijo que la Tierra se mueve” se convierta entonces en “Galileo habló en una forma que\-la\-tierra\-se\-mueve”\. A mi entender, las posibilidades de que estas cláusulas adverbiales puedan recibir un análisis semántico sistemático sin complicaciones ontológicas son mínimas\.
+
+
+## 216\-217
+__DAVIDSON__, Donald \(1984\-1990: __216\-217__\)\. *De la verdad y de la interpretación*\. 
+
+ Hay otra vía, muy distinta, por la cual una teoría de la verdad puede tener repercusiones metafísicas\. Al ajustarse a la presencia de demostrativos, y de elementos demostrativos con el tiempo verbal, en un lenguaje natural, una teoría de la verdad debe tratar a la verdad como un atributo de las emisiones que depende \(quizás entre otras cosas\) de *la oración* emitida, del hablante y del tiempo\. __Alternativamente, sería posible tratar a la verdad como una relación entre hablantes, oraciones y tiempos__\. Luego una emisión de “Tengo un metro y medio de altura” es verdadera si se la dice en ciertos tiempos en las vidas de la mayor parte de la gente, y es verdadera si se la dice en cualquier tiempo durante un período considerable de las vidas de unos pocos\. “Se te ven los calzoncillos” puede ser verdadera cuando es emitida por un hablante en un momento en que está mirando hacia el oeste, aunque podría no haber sido verdadera si hubiera estado mirando hacia el norte; y “Hilary ascendió al Everest” fue durante largo tiempo falsa”, y es hoy verdadera para siempre\. __Las oraciones sin elementos demostrativos no pueden hacer el trabajo de las oraciones con elementos demostrativos__, pero si es que queremos tener una teoría de la verdad debemos ser capaces de enunciar, sin el uso de demostrativos, una regla que explique bajo qué condiciones las oraciones con demostrativos son verdaderas\. Esas reglas darán la condición de verdad de oraciones como “Hilary ascendió al Everest” solamente cuantificando sobre emisiones, hablantes y tiempos o, tal vez sucesos\.
+
+
+## 217
+__DAVIDSON__, Donald \(1984\-1990: __217__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ __Si para dar una teoría de la verdad debe apelarse explícitamente a los hablantes y a sus circunstancias, entonces, en base a la suposición de que las características generales del lenguaje reflejan características objetivas del mundo, debemos concluir que una metafísica inteligente asignará un lugar preponderante a la idea de la gente \(=hablantes\) con una posición en el espacio y el tiempo públicos\.__
+
+ Debe quedar claro que “el método de la verdad” en metafísica no elimina el recurso a argumentos y decisiones más comunes y a menudo esencialmente no lingüísticos\. Lo que sea posible hacer dentro de una teoría de la verdad, por ejemplo, depende en gran medida de los recursos lógicos que la teoría misma despliega, y la teoría no puede decidir por nosotros\. Como hemos visto, el método tampoco sugiere qué verdades, más allá de las que descuenta como lógicas, debemos aceptar como una condición para la comprensión mutua\. __Lo que hace una teoría de la verdad es decidir el patrón que la verdad debe hacer efectivo entre las oraciones, sin decirnos cuándo ese patrón fracasa__\.
+
+
+## 217\-218
+__DAVIDSON__, Donald \(1984\-1990: __217\-218__\)\. *De la verdad y de la interpretación*\. 
+
+Así, por ejemplo, yo argumento que un número muy grande de nuestras afirmaciones ordinarias acerca del mundo no puede ser verdadero a menos que haya sucesos\. Sin embargo, si estoy en lo cierto respecto a la forma lógica de las oraciones que conciernen al cambio, luego a menos que haya sucesos no hay oraciones verdaderas de tipos muy comunes acerca del cambio\. Y si no hay oraciones verdaderas acerca del cambio, no hay oraciones verdaderas acerca de objetos que cambian\. Un metafísico que desee suponer que ninguna oración como “El Vesubio entró en erupción en marzo de 1944” o “César cruzó en Rubicón” es verdadera no se verá forzado por una teoría de la verdad a admitir la existencia de sucesos o hasta quizá de personas o de montañas\. Pero si acepta que muchas de esas oraciones son verdaderas \(sean ellas cuales fueren\), luego resulta obvio que *debe *aceptar la existencia de personas y de volcanes; y , si estoy en lo cierto, debe aceptar la existencia de sucesos como erupciones y los cruces\.
+
+
+## 218
+__DAVIDSON__, Donald \(1984\-1990: __218__\)\. *De la verdad y de la interpretación*\. 
+
+ El mérito del método de la verdad no consiste en que resuelva tales cuestiones de una vez y para siempre, ni tampoco en que las resuelva sin más reflexión metafísica\. Pero el método sirve efectivamente para pulir nuestro sentido de las alternativas viables, y proporciona una amplia idea de las consecuencias de una decisión\. La metafísica tiene la generalidad por meta; el método de la verdad expresa esa exigencia mediante el requerimiento de una teoría que alcance a todos los fundamentos\. De este modo los problemas de la metafísica, mientras no se los haya resuelto o reemplazado, pasar a ser vistos como los problemas de toda construcción de buenas teorías\. Queremos una teoría que sea simple y clara, con un aparato lógico que se comprenda y se justifique, y que se ocupe de los hechos relacionados con el funcionamiento de nuestro lenguaje\. Que sean esos hechos, es algo que de alguna manera seguirá en disputa, como seguramente sucederá respecto de las diversas discusiones de lo que es simplicidad y claridad\. Estas preguntas serán, no lo dudo las viejas preguntas de la metafísica como un vestido nuevo\. Pero el nuevo vestido resulta en muchos aspectos muy atractivo\.
+
+
+## 219
+__DAVIDSON__, Donald \(1984\-1990:__219__\)\. *De la verdad y de la interpretación\.* … \*\*\*\*\*
+
+ __Cap\. 15 Realidad sin referencia__
+
+ Resulta difícil de comprender cómo una teoría del significado que no dilucide y ofrezca un papel central al concepto de referencia puede tener esperanzas de éxito\. Hay razones de peso para suponer que la referencia no puede explicarse o analizarse en términos más primitivos o conductuales\. Permítaseme describir el dilema … una teoría de la verdad al estilo Tarski puede ayudar a resolverlo\.
+
+ “Teoría del significado” no es un término técnico, sino una indicación en dirección de una familia de problemas\.  … Es fundamental la tarea de explicar el lenguaje y la comunicación apelando a conceptos más simples o en todo caso diferentes\. Es natural creer que esto es posible porque, claramente, los fenómenos lingüísticos hacen su aparición después de los fenómenos no lingüísticos\. __Propongo__ que una teoría pueda llamarse teoría del significado para un lenguaje natural L si tal que \(a\) el conocimiento de la teoría es suficiente para comprender las emisiones de los hablantes de L y \(b\) la teoría puede recibir aplicación empírica apelando a la evidencia descrita sin el uso de conceptos lingüísticos, o al menos sin el uso de conceptos lingüísticos específicos de las oraciones y palabras de L\. La primera condición indica la naturaleza de la cuestión; la segunda requiere que no se dé por supuesta\.
+
+
+## 219
+__DAVIDSON__, Donald \(1984\-1990:__219’__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Cuando digo teoría de la verdad, quiero significar una teoría que satisfaga algo como la __Convención T de Tarski__: es una teoría que mediante la caracterización recursiva de un predicado de verdad \(digamos, “es verdadero en L”\) implica, para__ cada oración s de L, una oración metalingüística__ __obtenida a partir de la forma “s es verdadera en L si y sólo si p” cuando “s” se reemplaza por una descripción canónica de una oración de L y “p” por una oración el metalenguaje que dé las condiciones de vedad de la oración descrit__a\. La teoría debe relativizarse a un tiempo y a un hablante \(por lo menos\) para poder manejar las expresiones deícticas\. No obstante llamaré *absolutas* a estas teorías para distinguirlas de las teorías que \(también\) relativizan la verdad a una interpretación, un modelo, un mundo posible o un dominio\. __En una teoría del tipo que estoy describiendo, el predicado de verdad no está definido, pero se lo debe considerar una expresión primitiva\.__
+
+
+## 219\-220
+DAVIDSON, Donald \(1984\-1990:219\-220\)\. *De la verdad y de la interpretación\. … \*\*\*\*\**
+
+__ __Podemos entender que la __referencia es una relación entre nombres propios y lo que ellos nombran, entre términos singulares complejos y lo *que ellos* denotan, entre predicados y las entidades para las cuales ellos son verdaderos__\. Los demostrativos no entrarán en la discusión, pero, desde luego, sus referencias tendrían que relativizarse a un hablante y un tiempo \(al menos\)\.
+
+ Volvamos al dilema\. Es aquí donde parece que no podemos pasárnosla sin el concepto de __referencia__\. Además de cualquier otro punto que pueda abarcar, una teoría del significado debe incluir una consideración de la verdad: un enunciado de las condiciones bajo las cuales una oración arbitraria del lenguaje es verdadera\. Por razones bien conocidas, una teoría no puede comenzar explicando la verdad para un número finito de oraciones simples y luego asignar verdad al resto de las oraciones en base a las simples\. __Es necesario, en cualquier caso sería deseable, analizar las oraciones en sus elementos constituyentes ―predicados, nombres, conectivos, cuantificadores, funtores__―__ y mostrar la forma en que el valor de verdad de cada oración deriva de rasgos de los elementos y de composición de los elementos de la oración__\. Luego, la verdad depende claramente de los rasgos semánticos de los elementos: y donde los elementos son nombres o predicados, __¿qué rasgos pueden ser relevantes sino la referencia?__ Explicar las condiciones de verdad de una oración como “Sócrates vuela” debe equivaler a decir que es verdad si y sólo si el objeto referido por “Sócrates” es uno de los objetos referidos por el predicado “vuela”\.
+
+
+## 220\-221
+__DAVIDSON__, Donald \(1984\-1990:__220\-221__\)\. *De la verdad y de la interpretación*\. …
+
+ Una teoría de la verdad del tipo que acabo de mencionar muestra efectivamente cómo __las condiciones de verdad de cada oración son función de los rasgos semánticos de los ítem de un vocabulario básico finito__\. Pero se dice a menudo que una teoría así no explica los rasgos semánticos del vocabulario básico\. En una teoría de la verdad hallamos aquellas cláusulas recursivas familiares que especifican, por ejemplo, que una conjunción es verdadera si y sólo si al menos uno de los disyuntos es verdadero, y así por el estilo\. … la recursión se aplicará a la relación *satisfacción* antes que directamente a la verdad\)\.
+
+ Sabemos que la teoría debe implicar una oración T aun para los casos más simples, como por ejemplo:
+
+ \(T\) “Sócrates vuela” es verdadera si y sólo si Sócrates vuela\.
+
+ Si nada se dice de los constituyentes, ¿cómo se las arregla la teoría con casos así? Bueno, una forma podría ser ésta: el vocabulario básico debe ser finito\. En particular, luego, sólo puede haber un número finito de predicados simples y un número finito de nombres propios términos singulares inestructurados, sin contar las variables\)\. … Resulta claro que este método __evit__a \(hasta ahora\) __toda *apelación* al concepto de referencia… ni logra echar luz alguna sobre el mismo\. __
+
+
+## 221
+__DAVIDSON__, Donald \(1984\-1990:__221__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ __Los predicados se presentan en cualquier grado de complejidad__ … el método que estábamos explorando recién fracasará … el método __Tarski, como sabemos, involucra el recurso al concepto__ de __satisfacción__, una relación entre predicados y n\-tuplos de entidades para las cuales los predicados son verdaderos \(en realidad se trata de secuencia de los mismos\)\. __La satisfacción es obviamente muy parecida a lo que es la referencia para los predicados: __ en efecto, __podríamos definir a referencia de un predicado como la clase de aquellas entidades que lo satisfacen__\. El problema está en que una teoría absoluta de la verdad no ilumina realmente la relación de satisfacción\. Cuando una teoría viene a caracterizar la satisfacción para el predicado “x vuela” si y sólo si esa entidad vuela, por ejemplo, no dice meramente que una entidad satisface “x vuela” si y sólo si esa entidad vuela\. Si solicitamos una mayor explicación o análisis de la relación, nos veremos decepcionados\.
+
+
+## 221
+__DAVIDSON__, Donald \(1984\-1990:__221’__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ El hecho de que una definición absoluta de la vedad no logre producir un análisis del concepto de referencia puede verse a partir de lo siguiente: si uno imagina un nuevo predicado sumado al lenguaje ―o un lenguaje exactamente igual al viejo, excepto por contener un único predicado más― la consideración de la verdad y de la satisfacción ya dadas no sugieren *cómo pasar al nuevo caso* \(Esta afirmación no es aplicable a las cláusulas recursivas: ellas dicen en general cuándo es verdadera una conjunción, no importa cuáles los conyuntos\)\. \.\.\.
+
+ __El hecho de que la satisfacción, __a la que hemos estado considerando caracterizada recursivamente, puede recibir una definición explícita \(mediante la técnica de Frege\-Dedekind\) no debe llevarnos a pensar que se ha aceptado un concepto general\. Y esto porque la definición … limitará explícitamente la aplicación de __la satisfacción a una lista finita y fija de predicados__\. Así, una teoría \(o definición\) de la satisfacción se aplica a un lenguaje dado y luego se agrega un nuevo predicado, digamos “x vuela” sucederá que “x vuela” no se verá satisfecho por un objeto que vuela, ni por ninguna otra cosa\. 
+
+
+## 222\-223
+__DAVIDSON__, Donald \(1984\-1990:__222\-223__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Ya he dicho por qué parece que no podemos vivir sin el concepto de referencia: ahora __diré por qué pienso que tendríamos que ser reacios a vivir con él\. __Me interesa lo que considero, históricamente, al menos, __el problema fundamental de la filosofía del lenguaje, esto es__, cómo explicar específicamente conceptos lingüísticos como __verdad__ \(de oraciones o emisiones\), __significado__ \(lingüístico\), __regla__ o convención lingüística, __nombrar, referir, afirmar__, y así por el estilo: cómo analizar algunos o todos *estos* conceptos en términos de conceptos de otro orden__\.__ Todo acerca del lenguaje puede llegar a parecer enigmático, y lo comprenderíamos mejor si pudiéramos reducir los conceptos semánticos a otros\. O si hablar de “reducir” o “analizar” resulta demasiado fuerte \(y yo pienso que es así\), digamos entonces, tan vagamente como sea posible, comprender los conceptos semánticos a la luz de otros\.
+
+ 
+## 223
+__DAVIDSON__, Donald \(1984\-1990:__223__\)\. *De la verdad y de la interpretación*\. …
+
+ 
+
+ “__Vivir con” el concepto de referencia significa, en el presente contexto, tomarlo como un concepto a recibir un análisis o interpretación independiente en términos de conceptos lingüísticos\.__ La cuestión de si la referencia es explícitamente definible en términos de otras nociones semánticas tales como satisfacción, o la de caracterizable recursivamente, o no lo es, no es una cuestión esencial: __la cuestión esencial es si ella es el lugar, o al menos un lugar donde hay contacto directo entre a teoría lingüística y los sucesos, acciones u objetos descritos en términos no lingüísticos\.__
+
+ Si pudiéramos proporcionar el análisis o la reducción que deseamos para el concepto de referencia, a mi parecer se allanaría todo el camino\.
+
+
+## 224\-225
+__DAVIDSON__, Donald \(1984\-1990:__224\-225__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Si el nombre “Kilimanjaro” refiere a Kilimanjaro, entonces no hay duda de que existe alguna relación entre los hablantes del castellano \(o del swahili\), la palabra y la montaña\. Pero resulta inconcebible que uno tenga que ser capaz de explicar esta relación sin explicar primero el papel de la palabra en las oraciones; y si esto es así, __no hay chance de explicar la referencia directamente en términos no lingüísticos__\. … Desde luego inferir acerca de las relaciones entre palabras y objetos\. Desde luego que sabemos, o creemos saber, que refieren las palabras en nuestro propio lenguaje, pero esta es información que no se halla en ningún manual de traducción\. La traducción es una noción puramente sintáctica\. Las cuestiones de referencia no surgen en la sintaxis, y mucho menos se dirimen en ella\. 
+
+… Volviendo al dilema central: he aquí cómo pienso que se puede resolver\. __Propongo defender una versión de la aproximación holística, y manifiesto que debemos abandonar el concepto de referencia en tanto concepto básico de una teoría empírica del lenguaje__\.
+
+ El argumento contrario al abandonado de la referencia expresaba que ella era necesaria para completar una consideración de la verdad\. He concedido que una teoría de la verdad al estilo Tarski no analiza* ni* *explica* el concepto preanalítico de verdad ni el concepto preanalítico de referencia\.
+
+__DAVIDSON__, Donald \(1984\-1990:__225__\-__226__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ __La teoría abandona la referencia, entonces, como parte del costo de volverse empírica__\. No obstante, __no puede decirse que haya abandonado la ontología__\. Pues la teoría relaciona cada término singular con algún objeto, y dice cuales entidades satisfacen cada predicado\. El __arreglárnoslas sin la referencia nada tiene que ver con abrazar una política que implique arreglárselas sin la semántica o sin la ontología__\.
+
+… __*No necesitamos* el concepto de referencia__; __tampoco necesitamos la referencia misma__, sea ella lo que fuere\. Esto es así porque no hay manera de __asignar entidades a las expresiones__ \(una manera de __caracterizar la “satisfacción”__\) que produzca resultados aceptables con respecto a las condiciones de verdad de las oraciones, habrá innumerables maneras más de hacerlo igualmente bien\. No hay razón, entonces, para llamar “referencia” o “satisfacción” a ninguna de estas relaciones semánticas\. 
+
+ ¿__Cómo puede una teoría de la verdad absoluta dar una consideración de la comunicación, o ser considerada una teoría del significado?__ Ella no nos provee de los materiales para definir o analizar frases tales como “significa”, “significa lo mismo”, “es una traducción de”, etcétera\. * *Es un error pensar que podemos interpretar *automáticamente* que oraciones T “dan el significado” de las oraciones si como única restricción les aplicamos la exigencia de que resulten verdaderas__\.__
+
+
+## 228
+__DAVIDSON__, Donald \(1984\-1990:__228__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ … sugiero que entre diferentes teorías aceptables de la verdad el significado es invariante\. El significado \(__interpretación__\) de una oración se da asignando a la oración una posición semántica en el patrón de oraciones que comprende el lenguaje\. Diferentes teorías de la verdad pueden asignar diferentes condiciones de verdad a la misma oración \(este es el análogo semántico de la indeterminación de traducción de Quine\), mientras que las teorías están \(casi lo suficientemente\) de acuerdo respecto de los roles que las oraciones en el lenguaje\.
+
+ La idea central es simple\. La __teoría del bloque constructivo__ , y las teorías que tratan de dar un contenido rico a cada oración directamente en base a la __evidencia no semántica__ \(por ejemplo,__ las intenciones con que la oración se emite típicamente__\), tratan de ir muy lejos y muy rápido\. La idea presente, en cambio, consiste en aspirar a encontrar un mínimo de información acerca de la corrección de la teoría en cada punto singular; son los infinitos puntos potenciales los que hacen la diferencia\. __Una teoría fuerte … puede producir toda la información que necesitamos acerca de los átomos y las moléculas: en este caso, las palabras y las oraciones\.__
+
+\[En Putnam 1990:21, “itencionalidad”\]/ Levinson S\. \(2004\) ICG’s
+
+
+## 228
+__DAVIDSON__, Donald \(1984\-1990:__228__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ En pocas palabras: compensamos la escasez de evidencia concerniente a los significados de las oraciones individuales, pero no tratando de producir evidencia para los significados de las oraciones individuales sino teniendo en cuenta la evidencia de una teoría del lenguaje al cual pertenece la oración\. __Para implementar la teoría necesitamos constructos como las palabras y alguna forma de conectarlas con los objetos__\. Esta concepción de la forma de elaborar una teoría del significado pertenece esencialmente a Quine\. A la idea básica de Quine he sumado la sugerencia de que la teoría tendría que tomar forma de una teoría de la verdad absoluta\. Si efectivamente toma esta forma, podemos recuperar una estructura de las oraciones que esté integrada por términos singulares, predicados, conectivos y cuantificadores, con implicaciones ontológicas del tipo usual\. __La referencia, sin embargo, quedará en el camino\. Ella no desempeña una función esencial en la explicación de la relación entre lenguaje y realidad\.__
+
+__\[Ver Putnam 1990:19 __*Representación y realidad* “naturalizar la referencia” conducen a las mismas oscuridades metafísicas que debería esclarecer\]\.
+
+
+## 229
+__DAVIDSON__, Donald \(1984\-1990:__229__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+Capítulo 16 La inescrutabilidad de la referencia
+
+ La tesis de la inescrutabilidad de la referencia de Quine dice que no hay forma de determinar qué refieren los términos singulares de un lenguaje, o respecto a los qué son verdaderos sus predicados, o que al menos no haya forma de determinar esto a partir de la totalidad de la evidencia conductual, real o potencial, y que dicha evidencia es todo lo que interesa a las cuestiones del significado y comunicación\. … 
+
+… Quine argumenta que este hecho tendría que llevarnos a reconocer que la relación de referencia entre objetos y palabras \(o sus emisiones\) es relativa a una elección arbitraria de un esquema de referencia \(o manual de traducción\), y que de hecho es relativa a un parámetro básico adicional\. Este argumento a favor del relativismo me intriga, pues encuentro imposible formular el concepto relativizado de referencia de una manera aceptable\. En este trabajo discuto mis dificultades y ofrezco a Quine una salida a una de ellas\.
+
+ 
+
+
+## 229\-230
+__DAVIDSON__, Donald \(1984\-1990:__229\-230__\)\. *De la verdad y de la interpretación*\. …
+
+* *Donde Quine habla mayormente de relatividad ontológica, yo he venido usando la frase relatividad de referencia\. Mis razones para esta modificación se deben a que pretendo concentrarme en un tipo de ejemp*lo* *de l*a inescrutabilidad de la referencia particularmente claro y simple\. En este tipo de ejemplo se __supone que la ontología total es fija__, pero la verdad de las oraciones se explica equiparando objetos con palabras de diferentes maneras…
+
+__Primero, la verdad misma puede ser indeterminada__; puede haber un manual de traducción \(o mejor, para nuestros propósitos, una teoría de la verdad\) para un lenguaje que satisfaga todas las restricciones empíricas relevantes y que determine que cierta oración es verdadera, y otra teoría igualmente aceptable que no determine la verdad de esa oración…
+
+__Segundo, la forma lógica puede ser indeterminada__: dos teorías satisfactorias pueden diferir en cuanto a qué consideran términos singulares o cuantificadores o predicados, o inclusive respecto de la misma lógica fundamental\.
+
+__Tercero, aunque la forma lógica y la verdad sean fijas__, teorías aceptables pueden diferir respecto a las referencias que ellas asignan a las mismas palabras y frases\. Y aquí podemos subdividir entre casos donde la ontología total difiere y casos donde no lo hace\. Orientare mi interés casi exclusivamente hacia la segunda subdivisión del tercer tipo de indeterminación\.
+
+
+## 230
+__DAVIDSON__, Donald \(1984\-1990:__230__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+* *Creo que todas estas clases de indeterminación son posibles, pero a excepción de la última, que es la que discutiré, probablemente pienso que el rango de indeterminación es menos que lo que Quine piensa que es\. __Yo reduciría la primera clase de indeterminación mediante una aplicación del principio de caridad__ de mucho mayor alcance que aquél que Quine estima esencial\. La segunda clase de indeterminación se somete automáticamente a un control mucho mayor si uno insiste, como yo lo hago, en una teoría de la verdad al estilo Tarski como base de un manual de traducción aceptable\. … la variación en la ontología total sólo puede hacerse inteligible en un grado limitado; existe un principio de caridad inversa que juzga que una teoría es mejor cuanto mayor sea la porción de sus recursos propios que lee en el lenguaje para lo cual ella es una teoría… 
+
+ __Se hace duro, no obstante, hablar de referencia sin colocarla en el contexto de una teoría de la verdad__\. Ello obedece a que una consideración satisfactoria de la referencia debe asignar una extensión a cada uno de los predicados y términos singulares de un lenguaje, y esto requiere una caracterización recursiva que pueda manejar cuantificadores y tal vez funciones\. En cualquier caso, si el lenguaje cuenta con los recursos que nosotros atribuimos con seguridad a un lenguaje natural, querremos introducir un concepto como el de satisfacción que es más general que el de referencia y en base al cual puede definirse la verdad y la referencia \(al menos para los predicados\)\.
+
+
+## 233
+__DAVIDSON__, Donald \(1984\-1990:__233__\)\. *De la verdad y de la interpretación*\. …
+
+          Pienso que hay una razón general por la cual la referencia no puede relativizarse en la forma en que desea Quine, por lo que resulta inútil tratar de perfeccionar la formulación que acabamos de rechazar\. Cuando yo digo “en la forma en que lo desea Quine”, lo que en realidad estoy objetando no es *cualquier* forma de relativizar la referencia, pues finalmente propondré una forma\. Yo objeto la idea de que la referencia pueda relativizarse en forma tal que fije una ontología\. __Lo que puedo comprender es la relatividad ontológica__\. Supóngase que pudiéramos fijar la ontología de “refiere” relativizándola\. Entonces estaríamos fijando la ontología del lenguaje o hablante al que estaríamos caracterizando mediante el uso de las palabras “refiere”\. Podría decirse: pero entonces la fijación es sólo relativa a una elección arbitraria\. Ninguna evidencia relevante dicta esa elección\. De aquí la inescrutabilidad\. Esta propuesta no da en el centro de la dificultad\. La fijación de referencia y ontología para el lenguaje objeto se ha hecho sobre la base de una elección arbitraria: pero la elección arbitraria tiene éxito en esa tarea sólo si el “refiere” relativizado del metalenguaje ha podido sujetarse de algún modo\. Y esto, argumentábamos antes, no puede alcanzarse con ningún lenguaje\.
+
+
+## 234\-235
+__DAVIDSON__, Donald \(1984\-1990:__234\-235__\)\. *De la verdad y de la interpretación…* \*\*\*\*\*
+
+          Quine compara la relatividad de la referencia a un lenguaje de fondo con la situación de la verdad y la satisfacción; también allí, nos recuerda, tenemos la perspectiva de un regreso\. Podremos definir la verdad para L en M, pero no el L, podemos definir la verdad para M en M’, pero no en M, y así por el estilo\. Lo mismo vale para la referencia\.
+
+        La analogía parece ser dificultosa\. Lo que podemos definir en L no puede volverse definible mediante el agregado de otro parámetro\. Tampoco la verdad en L cuando se la define en M es relativa de algún modo a la verdad M cuando se la define en M’\. La verdad es relativa a un lenguaje objeto, pero no a un metalenguaje\. El predicado es verdadero en L” que se presenta en M sí tiene un sentido que podemos, si queremos, especificar todavía en otro lenguaje objeto, ¿cómo hace ésto para que la verdad en L sea relativa a este tercer lenguaje, o aun a M?
+
+Algún concepto del relativismo conceptual parece haber inspirado a Quine a afirmar que la referencia, la verdad y la ontología deben rela*tivizarse a una teoría* o lenguaje de encuadre… Tal como insiste Quine, podemos enunciar la relatividad si retrocedemos a otro lenguaje, pero si se recurre una vez a esta táctica, tendremos que recurrir a ella cada vez: un regreso infinito\. …
+
+
+## 236
+__DAVIDSON__, Donald \(1984\-1990:__236__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+          Quizá alguien \(no Quine\) se verá tentado a decir: “__Pero al menos el hablante sabe a qué se está refiriendo"\. __Uno debe oponerse firmemente a este pensamiento\. Los rasgos semánticos del lenguaje son rasgos públicos\. Dada la naturaleza del caso, lo que nadie puede resolver a partir de la totalidad de la evidencia relevante no puede formar parte del significado\. Y dado que cada hablante debe saber esto, al menos veladamente, no puede siquiera pretender usar sus palabras con una referencia única, pues sabe que no hay forma de que sus palabras transmitan referencia a otro\.
+
+          Para recapitular: el argumento de la inescrutabilidad de la referencia tiene dos pasos\. En el primer paso reconocemos la equivalencia empírica de esquemas de referencia alternativa\. En el segundo paso mostramos que, si bien un intérprete de un esquematizador puede distinguir entre los esquemas de éste, la existencia de esquemas alternativos equivalentes para interpretar al esquematizador impide al intérprete identificar singularmente la referencia de los predicados dele esquematizador, en particular su predicado “refiere” /esté o no subdividido o relativizado\)\. __Lo que un intérprete no puede decidir respecto de la referencia de las palabras del esquematizador a partir de fundamentaciones empíricas, no puede ser un rasgo empírico de aquellas palabras\.__ Así, dichas palabras no pueden determinar singularmente un esquema de referencia aun cuando se las elija entre alternativas arbitraria\. __No se refiere aquí a una relatividad ontológica, pues ella sugiere que cuando se ha tomado una cantidad suficiente de decisiones, arbitrarias o no, la referencia única es posible, y esto es contrario a nuestro argumento de la inescrutabilidad de la referencia\.__
+
+
+## 236\-237
+__DAVIDSON__, Donald \(1984\-1990:__236\-237__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+          Según Field, el rol de la referencia no se agota en su contribución a las condiciones de verdad de las oraciones\. Como una consecuencia de ello *encontramos* fundamentos para efectuar una elección entre las teorías de la referencia que producen condiciones de verdad equivalentes para las oraciones\. Entre esos fundamentos se cuentan ciertas conexiones causales entre los nombres y lo que ellos refieren y \(si Putnam está en lo cierto\) entre los predicados y aquello para lo cual ellos son verdaderos\. 
+
+ En mi opinión, Field ha confundido el punto al suponer que si hay, digamos, conexiones causales entre palabras y objetos luego no puede darse el caso de que las teorías de la verdad \(y del significado y de la referencia\) se pongan a prueba tan sólo mediante la evidencia que concierne a las oraciones y sus emisiones\. Él está fascinado por el hecho de que las teorías estándar de la verdad explican lo que hacen verdadera a una oración asignando roles semánticos a las partes\. Así, cree él, __para que una teoría de la verdad responda a sus afirmaciones y virtudes explicativas debemos ofrecer una consideración independiente de las propiedades semánticas de las partes \(de la referencia, del nombre, de la satisfacción\)__\. 
+
+
+## 237
+__DAVIDSON__, Donald \(1984\-1990:__237’__\)\. *De la verdad y de la interpretación*\. …
+
+ Esta manera de presentar las cosas no consigue vislumbrar la diferencia entre explicar la verdad, dada la teoría, y proporcionar evidencia de que la teoría es verdadera para algún hablante o comunidad\. Resulta perfectamente consistente sostener que una teoría sólo puede ponerse a prueba a nivel de las oraciones mientras se explican las características de las oraciones en base a una estructura interna\. Pero si esto es así, entonces lo que tendrá que verse como más directamente conectado con la evidencia son los rasgos semánticos de las oraciones \(por ejemplo, la verdad\), en tanto que los rasgos semánticos de las palabras, si bien los supuestos cumplirían sus tareas siempre y cuando explicaran los rasgos de las oraciones: abrazar esta postura equivale a suponer que la verdad es más fácil de conectar con la evidencia no lingüística que la referencia…
+
+ El tema que me ocupa ahora es que, aun si las palabras efectivamente tienen, digamos, __conexiones causales con lo que ellas refieren, __esto no significa que la adecuación de una teoría de la__ __verdad no vaya a ponerse a prueba al nivel oracional\. Supongamos que alguna teoría causal de los nombre es verdadera\. ¿Cómo vamos a establecer que este hecho es válido para el lenguaje de un hablante o comunidad particular? 
+
+
+## 237\-238
+__DAVIDSON__, Donald \(1984\-1990:__237\-238__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Sugiero que sólo si encontremos que la teoría causal da cuenta de la conducta lingüística, potencial y real, de los hablantes\. Esta conducta está comprometida ante todo con las oraciones y sus emisiones\. ¿Por qué ésto? __Imaginemos que hubiera evidencia de que las pa*labras*, cuando no se las emplea en oraciones, tuvieran una conexión causal determinada con objetos__, pero que este hecho no tuviera relación con la forma en que las palabras se usan en las oraciones\. Seguramente concluiríamos que los primeros fenómenos serían irrelevantes en una consideración del lenguaje\. Si esto es correcto, la determinación de que una teoría causal de la referencia es verdadera para un hablante debe depender de evidencia extraída a partir de la forma en que se entienden o usan las oraciones, tanto como cualquier otra teoría del lenguaje\.
+
+ Supongamos que hay conexiones __causales__ entre las palabras, o sus usos, y los objetos\. Luego una oración como “Wilt es alto” es verdadera sólo si, entre otras cosas, una emisión de la palabra “Wilt” en este contexto verbal está conectada causalmente con Wilt\. ¿Hemos puesto a salvo ahora, al menos parcialmente, al esquematizador de una elección meramente arbitraria de esquemas de referencia para el hablante?
+
+ Parece que no, según las razones que explican Wallace y Field
+
+
+## 238
+__DAVIDSON__, Donald \(1984\-1990:__238__\)\. *De la verdad y de la interpretación*\. …
+
+ Parece que no, según las razones de Wallace y Field\. Veamos esto: supóngase, como antes, que Ø es una permutación del universo, y que Cx, y es una relación causal apropiada entre una palabra y un objeto\. Una teoría buena dice que Wilt” refiere a Wilt sólo si C “Wilt”, Wilt \(estoy haciendo caso omiso a la diferencia entre las palabras y las emisiones de las mismas\), mientras otra teoría, empíricamente indistinguible de aquella dice “Wilt” refiere a Ø \(Wilt\) sólo si C “Wilt”, Ø \(Wilt\)\. Desde luego, ningún “se refiere” ni “C” pueden tener la misma __interpretación__ an ambas teorías, pero su contrapartes subindicadas son fáciles de especificar\. Las dos teorías son claramente distintas, pues “refiere2” no pueden tener la misma __extensión__ que “C2”\. Pero dado que la primera teoría es satisfactoria, podemos definir “refiere2” y “C2” en base a “refiere1”, a “C1” y a Ø para hacer que la segunda teoría sea empíricamente equivalente\.
+
+
+## 238
+__DAVIDSON__, Donald \(1984\-1990:__238’__\)\. *De la verdad y de la interpretación*\. …
+
+ __Ninguna teoría causal, __ni otro análisis “fisicalista” de la __referencia, __afectará nuestro argumento de la __inescrutabilidad de la referencia__, por lo menos mientras admitamos que una teoría satisfactoria es aquella que produce una explicación aceptable de la conducta y disposiciones verbales\. Esto obedece a que las restricciones en las relaciones entre referencia y causalidad \(o lo que fuera\) siempre puede aprehenderse en forma equivalente mediante vías alternativas de apareamiento de palabras y objetos\. __El intérprete del esquematizador será capaz, como antes, de determinar que los esquemas del esquematizador son diferentes unos de otros,__ pero no será capaz de entresacar una única forma correcta de apareamiento de las palabras y objetos del esquematizador\. Se sigue que el esquematizador no puede haber usado palabras que determinan un esquema único\. __La referencia permanece inescrutable\.__
+
+
+## 238\-239
+__DAVIDSON__, Donald \(1984\-1990:__238\-239__\)\. *De la verdad y de la interpretación*\. …
+
+ Las teorías causales del nombre o de la referencia son por lo general, más provocativas, y en alguna versión bien pueden ser verdaderas\. De ser así, deben revisarse los conceptos de nombre y de referencia\. Pero la cuestión de si una teoría causal de la referencia es verdadera resulta independiente, si estoy en lo cierto, de dos cuestiones respecto de las cuales se piensa a menudo que está relacionada: la cuestión de si *una teoría* de la verdad debe o no ser puesta a prueba según las reacciones o actitudes de los hablantes hacia las oraciones y la cuestión de la inescrutabilidad de la referencia\.
+
+ Lo que hemos tratado, o tratado de mostrar, no es que la referencia no sea relativa sino que hay otra forma inteligible de relativizarla __que justifique el concepto de relatividad ontológica\. __La relativización debe aparecer en el lenguaje en el cual aparece e predicado relativizado \(de aquí que no pueda aparecer para ese lenguaje o para una teoría de ese lenguaje\), y no podemos anunciar que ella resuelva la cuestión de la referencia en ningún lenguaje\. Pero hay algo a resolver, todos los “esquemas de referencia” que sean aceptables para un hablante o para la comunidad tienen importantes elementos en común: conducen a condiciones de verdad equivalentes para todas las oraciones, y tal vez conecten la referencia con cuestiones causales de otro tipo según un patrón especificable\.
+
+
+## 239
+__DAVIDSON__, Donald \(1984\-1990:__239__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+Además, está la pregunta a la cual podemos dar una respuesta:”¿Que esquema está usted usando para dar esa interpretación de “Wilt”, probablemente necesitaré explicar cómo estoy interpretando su predicado “es alto” de acuerdo a un esquema análogo a mi interpretación de “Wilt”\. En uno o otro sentido mi interpretación o traducción es relativa a, o está basada en, un esquema específico\. El esquema puede no resolver cuestiones de referencia, pero si resuelve la forma en que respondo a todas las clases de preguntas acerca de lo que un hablante significa o refiere por medio de una palabra u oración\. Frecuentemente Quine presenta el asunto así: “Carece de sentido decir qué son los objetos de una teoría, más allá de decir cómo interpretar o reinterpretar esa teoría en otra”, o también\. “Lo que tiene sentido es decir no lo que son los objetos de una teoría, hablando en términos absolutos, sino cómo una teoría de los objetos es interpretable o reinterpretable en otras”\.\.\. __Pero no podemos negar que, , dado un esquema de interpretación o traducción, hemos decidido qué palabras podemos usar en nuestro propio lenguaje para interpretar las palabras de un hablante\. __¿Hay una manera inobjetable de señalar la relatividad de nuestra interpretación respecto de nuestro esquema? Pienso que no hay\.
+
+
+## 239\-240
+__DAVIDSON__, Donald \(1984\-1990:__239\-240__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ __La forma en que respondemos preguntas acerca de la referencia es lo único que podemos decir que queda fijado por la relativización, no así la referencia misma__\. Por eso me parece la forma natural de explicar que *la relativización* explícita que a veces se necesita resulta ser muy familiar: Si consideramos que su palabra “conejo” refiere a los conejos, consideramos que él hablante está hablando un lenguaje\.__ __ Si consideramos que su palabra “conejo” refiere a cosas que son Ø de los conejos, consideramos que está hablando otro lenguaje\. Si decidimos cambiar el esquema de referencia, decidimos que él está hablando un lenguaje diferente\. En algunos casos la decisión es nuestra; algunos lenguajes son idénticos en cuanto a las disposiciones de sus hablantes para emitir oraciones bajo condiciones específicas son idénticas\. No hay forma de determinar cuál de estos lenguajes está hablando una persona\.
+
+
+## 240
+__DAVIDSON__, Donald \(1984\-1990:__240__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ __El punto parecerá menos trivial si reflexionamos que una teoría empírica del lenguaje de una persona no es algo aislado: forma parte de una teoría más general que incluye una teoría de sus creencias, de sus deseos, de sus intenciones, y tal vez más__\. Si modificamos nuestra interpretación de las palabras de una persona, luego, dada la misma evidencia total, también debemos modificar las creencias y deseos que le atribuimos\. No es extraño que podamos considerar que la misma persona está hablando lenguajes diferentes, siempre que podamos efectuar ajustes compensatorios en las otras actitudes que le atribuimos\.
+
+ El asunto resultará más claro si abandonamos por un momento la restricción que habíamos impuesto al principio al considerar solamente las teorías que mantenían inalterada la verdad de las oraciones\. \.\. Ian Hacking me presentó una vez un enigma: ¿cómo pueden dos teorías de la verdad ser ambas aceptables si una teoría considera que una determinada emisión es verdadera y la otra no?¿No es esto una contradicción? No es una contradicción si se relativizan todas las teorías del lenguaje, tal como sucede con todas las teorías de la verdad\. Nuestro error fue suponer que hay un único lenguaje al cual pertenece una emisión dada\. 
+
+
+## 240\-241
+__DAVIDSON__, Donald \(1984\-1990:__240\-241__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Hay, entonces, una manera razonable de relativizar la verdad y la referencia: las oraciones son verdaderas, y las palabras refieren, en relación a un lenguaje\. Esto puede parecer una cuestión familiar y obvia, y en cierta forma sin duda lo es\. Pero hay algunas sutilezas en cuanto a cómo se entiende esto\. Por ejemplo, que “Wilt” refiera a Wilt en L no es una pretensión empírica, pues si lo fuera tendría que caracterizarse a L como el lenguaje hablado por una persona o personas en un tiempo dado\. Tal caracterización no serviría a nuestro propósitos, puesto que admitimos que cuál fuere el lenguaje que habla una persona no es una *cuestión* enteramente empírica; la evidencia nos permite una cierta elección de lenguajes, incluso hasta el punto de permitirnos asignar condiciones de verdad contradictorias a una misma oración\. Pero aun así consideramos que la verdad es invariante, podemos adecuar la evidencia mediante diversas maneras de aparear palabras y objetos\. La mejor manera de anunciar la manera que hemos elegido consiste en nombrar el lenguaje; pero entonces debemos caracterizar el lenguaje como aquél para el cual se ha asignado roles específicos a la referencia, a la satisfacción y a la verdad\. Todavía queda una pregunta empírica: ¿es este un lenguaje que la evidencia nos permita atribuir a este hablante?
+
+
+## 241
+__DAVIDSON__, Donald \(1984\-1990:__241__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Lo que nos permite elegir entre varios lenguajes para un hablante es el hecho de que la evidencia —actitudes o acciones dirigidas a oraciones o emisiones— afecta no sólo la __interpretación__ del habla sino también la atribución de __creencias, deseos e intenciones__ \(e indudablemente otras actitudes\)\. La evidencia nos consiente una elección entre lenguajes debido a que podemos balancear cualquier elección dada mediante una apropiada elección de creencias y otras actitudes\. Esto sugiere una vía más por la que podríamos relativizar una teoría de la verdad o de la referencia: dados determinados supuestos acerca de la naturaleza de la creencia y otras actitudes, podríamos mostrar que, una vez que hemos decidido cuáles son las actitudes de una persona, la elección de un lenguaje ya no está a nuestro alcance\. Dada una consideración amplia de la creencia, el deseo, la intención y demás, cuál es el lenguaje que habla una persona pasa a ser una cuestión empírica\. Y así tenemos, por fin, una manera bastante sorprendente de comprender en términos significativos la cuestión de lo que refiere una palabra\.
+
+
+## 241
+__DAVIDSON__, Donald \(1984\-1990:__241’__\)\. *De la verdad y de la interpretación*\. … \*\*\*\*\*
+
+ Sería un error ―espero resulte claro― suponer que de alguna manera podríamos determinar primero lo que una persona cree, desea, pretende y teme y luego pasar a una respuesta definida para la cuestión de lo que sus palabras refieren\. Esto es así porque la evidencia de la cual dependen todas estas cuestiones no nos ofrece un camino para separar una por una las contribuciones del pensamiento, la acción, el deseo y la __\[¿el?\]__ significado \[de uno por uno “and meaning one by one” en el original en inglés p\. 241\]\. Lo que debemos construir son teorías totales, y muchas teorías funcionaran igualmente bien\. Esto equivale a enunciar una vez más la tesis de la inescrutabilidad de ña referencia, pero equivale también a insinuar la razón de su existencia\.
+
+
+## 245
+__DAVIDSON__, Donald \(1984\-1990:__245__\)\. *De la verdad y de la interpretación*\. … 
+
+Cap\. 17 __Límites de lo literal__ ¿__Qué significan las metáforas? __\[What Metaphor Mean\]
+
+ La metáfora es el sueño del lenguaje y, como todo sueño, su interpretación refleja tanto del intérprete como del originador\. La interpretación de los sueños requiere la colaboración entre una persona que sueña y una persona que está despierta, aun cuando sean la misma persona; y el acto de interpretación es en sí mismo una obra de imaginación\. Así también, la comprensión de una metáfora es un empeño tan creativo como la creación de una metáfora, y las reglas que la guían son igualmente escasas\. Excepto en cuestiones de grado, estas observaciones no distinguen la metáfora de las transacciones lingüísticas más rutinarias… La metáfora agrega a lo ordinario un resultado notable que no usa otros recursos semánticos más allá de los recursos de los cuales depende lo ordinario\. No hay instrucciones para inventar metáforas; no hay un manual para determinar lo que una metáfora “significa” o “dice”; no hay un test de la metáfora que no requiera el concurso del gusto…
+
+
+## 245\-246
+__DAVIDSON__, Donald \(1984\-1990:__245\-246__\)\. *De la verdad y de la interpretación*\. … 
+
+ Este trabajo se ocupa de lo que significan las metáforas, y su tesis es que las metáforas significan lo que significan las palabras, en su interpretación más literal, y nada más… Pero pienso que la ilustración de la metáfora que emerge una vez que se han disipado el error y la confusión la convierte en un fenómeno más interesante, y no al revés\.
+
+ El error fundamental que me propongo atacar es la idea de que la metáfora tiene, además de su sentido o significado literal, otro sentido o significado\. Esta idea es común a muchos de quienes han escrito acerca de la metáfora: se encuentra en obras de críticos literarios como *Richards,* y Winters; desde Aristóteles hasta Max Black: de psicólogos desde Freud y anteriores hasta Skinner y posteriores; y de lingüistas desde Platón hasta Uriel Weinreich y George Lakoff…
+
+ El concepto de metáfora es fundamentalmente un vehículo para conducir ideas, aunque sean inusuales, me parece tan erróneo como la idea madre de que de que la metáfora tiene un significado especial\. Concuerdo con la opinión de que la metáfora no puede parafrasearse, pero pienso a que esto no se debe a que las metáforas dicen algo demasiado nuevo para la expresión literal sino que no hay nada allí que parafrasear\.
+
+
+## 246
+__DAVIDSON__, Donald \(1984\-1990:__246__\)\. *De la verdad y de la interpretación*\. … 
+
+ La paráfrasis, posible o no, es apropiada para lo que se *dice*: tratamos con la perífrasis de decirlo de otra manera\. Pero si yo estoy en lo cierto, una metáfora no dice nada fuera de su significado literal \(tampoco quien la construye dice nada fuera de lo literal al usarla\)\. 
+
+ Aquellos que en el pasado han negado que la metáfora tiene un contenido cognitivo además del literal a menudo se han propuesto mostrar que la metáfora es confusa, meramente emotiva, inapropiada para un discurso serio, científico o filosófico\. Mis puntos de vista no deben asociarse a esta tradición\. La metáfora es un recurso legítimo no sólo en literatura sino también en la ciencia, la filosofía y el derecho; es efectiva en el elogio y en el abuso, en la plegaria y en la provocación, en la descripción y en la prescripción\. Mayormente estoy en desacuerdo con Max Black, Paul Henle, Nelson Goodman, Monroe Bearsley y otros en cuanto a consideraciones de los logros de la metáfora, a excepción de que yo pienso que sus logros adicionales son de tipo diferente\.
+
+
+## 246\-247
+__DAVIDSON__, Donald \(1984\-1990:__246\-247__\)\. *De la verdad y de la interpretación*\. … 
+
+ Mi desacuerdo gira en torno a la explicación de la forma en que lña metáfora genera sus prodigios\. Adelantaré algo: mi argumento depende de la distinción entre lo que las palabras significan y el uso que se les da\. Pienso que la metáfora pertenece exclusivamente al dominio del uso\. Es algo que se obtiene a partir del empleo imaginativo de palabras y oraciones y que depende por completo de los significados ordinarios de esas palabras y por lo tanto de los significados ordinarios de las oraciones que ellas abarcan\.
+
+ *Cuando* se explica la forma en que las palabras trabajan en la metáfora no presta ninguna ayuda el supuesto de significados metafóricos o figurativos, o de tipos especiales de verdad poética o metafórica\. Estas ideas no explican la metáfora, la metáfora las explica a ellas\. Una vez que comprendemos una metáfora podemos llamarla “verdad metafórica” a lo que hemos captado y \(hasta cierto punto\) decir cuál es el significado metafórico\. Pero aflojar simplemente este significado dentro de la metáfora es como explicar por qué una píldora nos hace dormir diciendo que tiene poder dormitivo\. Las condiciones de verdad literal y de significado literal pueden asignarse a las palabras y oraciones aparte de los contextos particulares de uso\. A esto se debe que el hacer referencia a ellos tenga un poder explicativo genuino\.
+
+
+## 246
+__DAVIDSON__, Donald \(1984\-1990:__246__\)\. *De la verdad y de la interpretación*\. … 
+
+ Una metáfora nos hace prestar atención a alguna semejanza, a menudo una semejanza nueva o sorprendente, entre dos o más cosas\. Estas observaciones trilladas pero verdaderas conducen, o parecen conducir, a una conclusión concerniente al significado de las metáforas\. Consideremos la semejanza o similitud ordinaria: dos rosas son similares porque comparten la propiedad de ser una rosa; dos niños son similares en virtud de su niñez\. O, más simplemente, las rosas son similares porque cada una es una rosa, y los niños, porque cada uno es un niño\.
+
+ Supóngase que “Tolstoy una vez fue un niño”\. ¿Cómo es que el niño Tolstoy se parece a los otros niños? La respuesta aparece de inmediato: en virtud de exhibir la propiedad de niñez, esto es, reduciendo el palabrerío, en virtud de ser un niño… podemos hacerlo sin la palabra “niño”; todo lo que necesitamos son otras palabras que signifiquen lo mismo\. El resultado final es el mismo\. __La semejanza ordinaria depende de agrupamientos establecidos por los significados ordinarios de las palabras\. __Tal semejanza resulta natural y nada sorprendente, a punto que __las maneras familiares de agrupar objetos se vinculan a los significados usuales de las palabras usuales__\.
+
+
+## 247
+__DAVIDSON__, Donald \(1984\-1990:__247\)__\. *De la verdad y de la interpretación*\. … 
+
+ Un crítico famoso dijo que Tolstoy fue “un gran niño moralizador”\. El Tolstoy a que se refiere aquí no es, obviamente, el niño Tolstoy, sino el escritor adulto Tolstoy; ésta es la metáfora\. Ahora, ¿en qué sentido el escritor el escritor Tolstoy es similar a un niño? Quizá lo que vayamos a hacer sea pensar en las clases de objetos que incluye a todos los niños ordinarios y, además, , al adulto Tolstoy y luego preguntarnos qué propiedad especial y sorprendente tienen en común los miembros de esta clase\. EL pensamiento que nos atrae es que con paciencia podríamos llegar a aproximarnos cuanto fuera necesario a la especificación de la propiedad apropiada\. En cualquier caso, podríamos alcanzar esa meta perfectamente si encontráramos palabras que significaran exactamente lo que la palabra metafórica *“niño” significa*…\. Hasta ahora no he hecho más que esbozar crudamente la forma en que el concepto de significado puede haberse filtrado dentro del análisis de la metáfora, y la respuesta que he sugerido es que, __dado que lo que entendemos por semejanza ordinaria acompaña a los que entendemos por significados ordinarios, resulta natural el supuesto de significados inusuales o metafóricos para que ayuden a explicar las semejanzas que promueve la metáfora\.__
+
+__DAVIDSON, Donald \(__1984\-1990__:248\)\. *De la verdad y de la interpretación*\. …__
+
+__ __Se ha dejado por fuera todo recurso al __significado original de las palabras__\. Dependa o no la metáfora de significados nuevos o extendidos, sin duda __depende en cierta forma de los significados originales__; __una consideración adecuada de la metáfora debe admitir que los significados primarios u originales de las palabras permanecen activos en su disposición metafórica__\.
+
+ Quizá entonces, podamos explicar la metáfora como una especie de __ambigüedad__: en el contexto de una metáfora, ciertas palabras tienen un sentido sea nuevo, sea ordinario, y la fuerza de ella depende de nuestra __incertidumbre mientras oscilamos entre ambos significados__\. Así, cuando Melville escribe “Cristo fue un cronómetro”, el efecto de la metáfora se produce porque nosotros tomamos primero “cronómetro” en su sentido ordinario y luego en algún sentido extraordinario o metafórico\.
+
+ Resulta difícil ver cómo esta teoría puede ser correcta, pues la ambigüedad que encierra la palabra, si la hay, se debe al hecho de que __en contextos ordinarios ella significa una cosa y en el contexto metafórico significa una cosa distinta__, pero en el contexto metafórico no necesariamente dudamos de su significado\. 
+
+
+## 249
+__DAVIDSON__, Donald \(1984\-1990:__249\)__\. *De la verdad y de la interpretación*\. …
+
+ En todo caso, la efectividad de la metáfora sobrevive fácilmente al fin de la incertidumbre sobre la interpretación del pasaje metafórico\. Por lo tanto la metáfora no puede deber su efecto a una ambigüedad de este tipo\.\*
+
+ Hay otro tipo de ambigüedad que parece ofrecer una sugerencia mejor\. A veces, en un contexto único, una palabra tendrá dos significados y se entenderá que debemos recortar y usar ambos\. O, si pensamos que la condición de palabra implica igualdad de significado, podemos considerar que en esta situación lo que parece ser una palabra única son en efecto dos\.
+
+\*Nota a pie de pág\. Nelson Goodman dice que la metáfora y la ambigüedad difieren principalmente “en que los varios usos de un término meramente ambiguo son contemporáneos e independientes”, mientras que en la metáfora “un término con una extensión establecida por hábito se aplica en todas partes bajo la influencia de ese hábito”; este autor sugiere que como nuestro sentido de la historia de los “dos usos” en la metáfora se desvanece, la palabra metafórica se torna meramente ambigua \(*Langaguages of Art,*71\)\. En efecto, en muchos casos de ambigüedad un uso surge del otro \(como dice Goodman\) y por lo tanto no pueden ser contemporáneos\. Pero el error básico, que Goodman comparte con otros, está en la idea de que la metáfora involucra dos “usos” en una forma que nada tienen que ver con la que tiene en la ambigüedad\.
+
+
+## 249
+__DAVIDSON__, Donald \(1984\-1990:__249’\)__\. *De la verdad y de la interpretación*\. …
+
+Cuando Shakespeare describe la obscena bienvenida que recibe Cressida en el campamento griego, Néstor dice, “ Nuestro general os saluda con un beso”\. Aquí tenemos que considerar “general” de dos maneras: una vez aplicada a Agamenón , quien es el general; y otra vez, puesto que ella está besando a todos, no la aplicamos a nadie en particular, sino a todos en general\. En realidad tenemos la conjunción de dos oraciones: nuestro general, Agamenón, os saluda con un beso; y todos en general os saludamos con un beso\.
+
+ Es un recurso legítimo, un juego de palabras, pero no es el mismo recurso de la metáfora, pues en ella no hay una necesidad esencial de reiteración; cualesquiera fueren los significados que asignemos a las palabras, ellos se mantienen a través de cada lectura correcta del pasaje\.
+
+ 
+## 248
+__DAVIDSON__, Donald \(1984\-1990:__248\)__\. *De la verdad y de la interpretación*\. …
+
+ __La idea, entonces, es que en la metáfora determinadas palabras adquieren significados nuevos o, como se los llama a menudo, “extendidos”\. __Cuando leemos, por ejemplo, que “el Espíritu de Dios se dirigió hacia la faz de las aguas”, consideraremos que la palabra “faz” tiene un significado extendido… La __extensión__ responde, como puede verse, a lo que los filósofos llaman la __extensión de la palabra__, esto es, la clase de entidades a las cuales refiere\. Aquí la palabra “faz” se aplica a las fases habituales, y ademas a ñas aguas… Si vamos a pensar que las palabras de las metáforas se ocupan directamente de su tarea de aplicación a aquello a lo cual sí son aplicables de manera apropiada, entonces no hay ninguna diferencia entre la metáfora y la introducción de un nuevo término al vocabulario: __hacer una metáfora es asesinarla__\.
+
+ 
+## 249\-250
+__DAVIDSON__, Donald \(1984\-1990:__249\-250\)__\. *De la verdad y de la interpretación*\. …
+
+ Una modificación plausible de esta última sugerencia sería considerar que la palabra \(o las palabras\) clave de una metáfora tiene dos tipos diferentes de significado inmediato, uno literal y uno figurativo\. Imaginemos que el significado literal está latente, es algo que percibimos, que puede afectarnos sin afectar el contexto mientras que el significado figurativo carga con el peso efectivo\. Y por último, debe haber una regla que conecte los dos significados, pues de lo contrario la explicación degenera en una forma de la teoría de la ambigüedad\. La regla, al menos para muchos casos típicos de metáfora, dice que en su rol metafórico la palabra se aplica a todo aquello a lo que se aplica en su rol literal, y algo más\.
+
+ Esta teoría puede parecer compleja, pero es sorprendentemente similar a la que propuso Frege para considerar la conducta de los términos referentes en las oraciones modales y en las oraciones de *actitudes *proposicionales como creencia y deseo\. __Según Frege, cada término referente tiene dos \(o más\) significados__, uno que fija su referencia en contextos ordinarios y otro que fija su referencia en los contextos especiales creados por los operadores modales o los verbos psicológicos\. __La regla que conecta ambos significados puede expresarse así: el significado de la palabra en los contextos especiales hace que la referencia en dichos contextos sea idéntica al significado en contextos ordinarios\.__
+
+__ DAVIDSON, Donald \(__1984\-1990__:250\-251\)\. *De la verdad y de la interpretación*\. …__
+
+ ¿Cómo debemos llamar a este proceso, aprender algo acerca del mundo o aprender algo acerca del lenguaje? Es una __pregunta extraña__, pues lo que se aprende es que una porción del lenguaje refiere una porción del mundo\. Pero todavía resulta fácil distinguir __entre la tarea de aprender el significado de una palabra y usar la palabra una vez que se ha aprendido su significado__\. __Si comparamos estas dos actividades, es natural decir que la primera supone aprender algo acerca del lenguaje, en tanto que la segunda es típicamente aprender algo acerca del mundo\. __Si mi saturnino ha aprendido a usar la palabra “suelo”, puede tratar de decir algo nuevo, que *aquí* hay un suelo\. Si ya domina el arte de la palabra, le habré dicho algo acerca del mundo\.
+
+ Mi amigo de Saturno me transporta ahora del espacio, llegamos a su esfera doméstica, y mirando hacia atrás hacia la remota Tierra le digo, señalándola, “suelo”\. Quizá piense que esto es una parte de la lección y suponga que la palabra “suelo” se aplica apropiadamente a la Tierra, al menos cuando se le ve desde Saturno\. Pero, ¿y si yo pensara que él ya conoce el significado de “suelo”, y estuviera recordando como Dante, desde un lugar similar a en los cielos, veía la tierra habitada como “el pequeño suelo redondo que nos hace apasionados”? Mi propósito fue la metáfora, y no un ejercicio de uso del lenguaje\. ¿Qué diferencia tendrá para mi amigo entenderlo de una forma u otra? Según la teoría de la metáfora que estamos estudiando, muy poca diferencia, pues de *acuerdo* con esa teoría una palabra tiene un significado nuevo en el contexto metafórico; la ocasión de la metáfora sería entonces la ocasión para aprender el nuevo significado\. Tendríamos que ponernos de acuerdo en que en ciertos aspectos hay una diferencia relativamente pequeña si, en un contexto dado, pensamos que una palabra está siendo usada metafóricamente o en una forma previamente desconocida pero literal\.
+
+ 
+## 251\-252
+__DAVIDSON__, Donald \(1984\-1990:__251\-252\)__\. *De la verdad y de la interpretación*\. …
+
+ He estado destacando esto por medio del contraste entre el aprendizaje de un nuevo uso para una palabra vieja y el uso de una palabra que ya se comprende; dije que en un caso nuestra atención se dirige al lenguaje, y en otro a aquello de que trata el lenguaje\. lenguaje  Sugerí que la metáfora pertenece a la segunda categoría\. Esto también puede advertirse si se considera metáforas muertas\. Alguna vez, supongo, los ríos y las botellas no tenían literalmente bocas, como las tienen hoy\. Si pensamos en el uso presente, no interesa si consideramos que la palabra “boca” es ambigua pues se aplica a las entradas de los ríos y a las aberturas de las botellas al igual que a las aberturas de los animales, o si pensamos que hay un único campo amplio de aplicación que abarca a ambas\. …
+
+ La novedad no es la clave\. En su contexto una palabra que una vez se consideró metáfora continúa siendo metáfora después de escuchársela cien veces, en tanto que otra palabra puede apreciarse con facilidad en un nuevo rol literal la primera vez que se la encuentra\. Lo que entendemos por elemento de novedad o de sorpresa en una metáfora es una característica estética incorporada que podemos experimentar una *y otra* vez, como la sorpresa al escuchar la Sinfonía N\.º 9 de Haydn o una engañosa cadencia familiar\.
+
+ 
+## 252\-253
+__DAVIDSON__, Donald \(1984\-1990:__252\-253\)__\. *De la verdad y de la interpretación*\. …
+
+ Si la metáfora involucra un segundo significado, tal como lo hace la ambigüedad, podríamos pretender ser capaces de especificar el significado especial de una palabra en una disposición metafórica con sólo esperar hasta que la metáfora muriera\. El significado figurativo de la metáfora viva quedaría inmortalizado en el significado literal de la muerta…
+
+ Podemos aprender mucho acerca de lo que significan las metáforas si las comparamos con los símiles, pues un símil nos dice, en parte, que nos induce ligeramente la metáfora a hacernos notar\. Supongamos que Gonerill hubiera dicho, pensando en Lear: “Los necios son como bebés de nuevo”\. Lo que ella efectivamente dijo, desde luego, fue “Los necios son bebés de nuevo”, usando las palabras de esta manera para indicar que declaraba el símil\. Esta manera de pensar puede inspirar otra teoría del significado figurativo o especial de las metáforas: __el significado figurativo de una metáfora es el significado literal del símil correspondiente__\. \.\.
+
+ La idea de que significado especial de una metáfora es idéntico al significado literal de un símil correspondiente \(como quiera que “correspondiente” se interprete\) no tendría que confundirse con la teoría común de que la metáfora es un símil elíptico \[Middleton Murray dice que una metáfora es un “símil condensado” \(*Countries of the Mind, 3\]\. *Esta teoría no hace una distinción de significado entre una metáfora y algún símil conexo y no prepara un terreno para hablar de significados figurativos, metafóricos *o especiales*\. Es una teoría que gana sin discusión en lo que a simplicidad se refiere, pero que al mismo tiempo parece demasiado simple para funcionar\. Puesto que si hacemos que el significado literal de la metáfora sea el significado literal de un símil correspondiente, no hacemos un lugar para lo que habíamos considerado originalmente con el significado literal de l metáfora, cuando habíamos acordado casi desde el principio que este significado era esencial para el funcionamiento de la metáfora, al margen de cualquier otra cosa que tuviera que incorporarse en la forma de un significado no literal\.
+
+ 
+## 253
+__DAVIDSON__, Donald \(1984\-1990:__253\)__\. *De la verdad y de la interpretación*\. …
+
+ 
+
+Tanto la teoría del símil elíptico de la metáfora como su variante más sofisticada, que iguala el significado figurativo de la metáfora con el significado literal de un símil, comparten un defecto fatal\. Ambas hacen que el __significado oculto de la metáfora__ resulte demasiado obvio y accesible\. En cada caso el significado el significado oculto se halla tras una simple mirada significado literal de lo que usualmente es un símil dolorosamente trivial… __Las metáforas son a menudo muy difíciles de interpretar y, se dice, imposibles de parafrasear__\. Pero con esta teoría, la interpretación y la paráfrasis están siempre al alcance del más inexperto\.
+
+ Pienso que estas teorías del símil se han hallado aceptables sólo porque se las ha confundido con una teoría bastante diferente\. Consideremos esta observación de Max Black:
+
+ Cuando Schopenhauer dijo que una prueba geométrica era una trampa para ratones, estaba *diciendo* \(bien no explícitamente\), de acuerdo con tal idea: “Una prueba geométrica es como una trampa para ratones, puesto que ambas ofrecen una recompensa engañosa, tientan a sus víctimas gradualmente, llevan una sorpresa desagradable, etcétera\. Esta es una idea de la metáfora como símil condensado o elíptico\. \[Max Black, “Metaphor”,35\]
+
+ Aquí puedo discernir dos confusiones\. Primero, si las metáforas son símiles elípticos, *explícitamente* lo que son los símiles, pues la elipsis es una forma de abreviación y no una paráfrasis o indirecta\. Pero, y este es el punto más importante, el enunciado de lo que dice la metáfora según Black va mucho más allá de cualquier cosa que pueda dar el símil correspondiente\. El símil simplemente dice que una prueba geométrica es como una trampa para ratones\. No nos cuenta ya qué similitudes podemos notar que hace la metáfora\. Black menciona tres similitudes… pero se supone que ?esta esta lista, una vez revisada y aumentada en la forma correcta, dará el significado literal del símil?Es seguro que no, puesto que el símil no declara nada más que la similitud… No aprendemos nada acerca de la metáfora a partir de la comparación con el símil: sólo que ambos tienen el mismo significado figurativo\.
+
+ 
+## 254
+__DAVIDSON__, Donald \(1984\-1990:__254\)__\. *De la verdad y de la interpretación*\. …
+
+Nelson Goodman afirma en efecto que la “diferencia entre símil y metáfora es despreciable”, y prosigue, “sea la locución ‘es como’ o ‘es’, la figura *asemeja* la ilustración con la persona mediante la selección de un determinado rasgo común…” Goodman está considerando la diferencia entre decir que una ilustración es triste y decir que ella es como una persona triste\. Es claramente verdadero que ambos dichos asemejan la ilustración con la persona, pero a mí me parece un error sostener que cualquiera de las formas de hablar “selecciona” un determinado rasgo común\. El símil nos dice que hay una semejanza y nos deja la tarea de seleccionar algún rasgo común \(o más de uno\); la metáfora no afirma explícitamente que hay una semejanza, pero si la aceptamos como metáfora, nos vemos otra vez llevados a buscar rasgos comunes \(no necesariamente los mismos que sugiere el símil conexo; pero este es otro tema\)\.
+
+ Precisamente porque un símil guarda una declaración de similitud en la manga, pienso que es mucho más plausible que en el caso de la metáfora sostener que hay un segundo significado oculto\. En el caso del símil, notamos lo que él dice literalmente, esto es, que dos cosas se parecen entre sí
+
+ 
+## 255\-256
+__DAVIDSON__, Donald \(1984\-1990:__255\-256\)__\. *De la verdad y de la interpretación*\. …
+
+ Hasta ahora el argumento nos ha orientado hacia la conclusión de que tanto como pueda explicarse de la metáfora en términos de significado puede, y por cierto, debe, ser explicado recurriendo a los significados literales de las palabras\. Una consecuencia de esto es que las oraciones en las cuales se presentan las metáforas son verdaderas o falsas en una forma normal y literal, puesto que si las palabras que hay en ellas no tienen significados especiales, las oraciones no tienen verdad especial\. Esto no es negar que exista una cosa como la verdad metafórica, sino que sólo negarlo respecto a las oraciones…
+
+ Si una oración usada metafóricamente es verdadera o falsa en el sentido habitual, luego está claro que ella es usualmente falsa\. La diferencia semántica más obvia entre el símil y la metáfora consiste en que todos los símiles son verdaderos y la mayor parte de la metáfora es falsa\. La tierra es como el suelo… *De hecho *utilizamos el símil cuando sabemos que la metáfora correspondiente es falsa\. Decimos que el señor S\. Es como un cerdo pues sabemos que no es un cerdo\. Si hubiéramos utilizado la metáfora diciendo que es un cerdo, esto no habría cambiado nuestra idea acerca de los hechos sino porque elegimos llegar a la idea por otra vía\.
+
+ No interesa la falsedad real, sino que la oración pueda ser considerada falsa\. … Por lo general, cuando se considera una oración falsa la aceptamos como una metáfora y comenzamos a perseguir la implicación oculta\. Probablemente sea por esta razón que las oraciones más metafóricas son *patentemente falsas*, tal como los símiles son trivialmente verdaderos\.
+
+ 
+## 257\-258
+__DAVIDSON__, Donald \(1984\-1990:__257\-258\)__\. *De la verdad y de la interpretación*\. …
+
+ Se dice a veces que decir una mentira implica lo que es falso; pero esto es un error\. Para decir una mentira se requiere, no que lo que uno dice sea falso, sino que piense que es falso\. 
+
+ Lo que hace la diferencia entre la mentira y una metáfora no es la diferencia entre las palabras usadas o lo que ellas significan \(en el sentido estricto de significado\), sino cómo se usan las palabras\. Usar una oración para decir una mentira y usarla para hacer una metáfora son, desde luego, usos completa,mente diferentes, tan diferentes que no interfieren uno con el otro, como lo hacen por ejemplo actuar y mentir\. Al mentir, uno tiene que hacer una aserción de manera de representarse creyendo lo que uno cree; al actuar, la aserción queda excluida\. A la metáfora no le interesa esta diferencia… La metáfora corre por los mismos carriles lingüísticos familiares que siguen las más simples oraciones; esto lo vimos al considerar el símil\. Lo que distingue a la metáfora no es el significado sino el uso: en esto es como la aserción\., la insinuación, la mentira, la promesa o la crítica\. Y el uso especial *que asignamos* al lenguaje en la metáfora no es —no puede ser— “decir algo” especial, por indirecto que fuera\. Pues la metáfora dice sólo lo que tiene a la vista: usualmente una falsedad patente o una verdad absurda\.__ Y esta verdad o falsedad manifiestas no necesitan paráfrasis: su significado está dado en el significado literal de las palabras__\.
+
+ 
+## 258\-259
+__DAVIDSON__, Donald \(1984\-1990:__258\-259\)__\. *De la verdad y de la interpretación*\. …
+
+ Según la teoría de la interacción de Black, una metáfora nos hace aplicar un “sistema de lugares comunes” asociado con la palabra metafórica al sujeto de la metáfora: en “El hombre es un lobo” aplicamos atributos que son lugares comunes \(estereotipos\) del lobo al hombre\. De esta manera, dice Black, la metáfora “selecciona, enfatiza, suprime, y organiza características del sujeto principal mediante la implicación de enunciados acerca del mismo que normalmente se aplican al sujeto subsidiario\. Según Black, si la paráfrasis fracasa ello no se debe a que la metáfora no tiene un contenido cognitivo especial, sino que la paráfrasis “no tendrá el mismo poder para informar e iluminar que el original… *Uno de los * puntos que más deseo acentuar es que la pérdida en esos casos e una pérdida de contenido cognitivo; la debilidad relevante de la paráfrasis literal no proviene de que ella pueda ser extensa hasta el tedio o explícita hasta aburrir; no logra ser una traducción pues no logra ofrecer la percepción que ofrecía la metáfora\. 
+
+ ¿Cómo puede esto ser correcto? Si una metáfora tiene un contenido cognitivo especial, ¿por qué tendría que ser tan difícil o imposible ponerlo al descubierto? Si, como afirma Owen Bartfield, una metáfora “dice una cosa y significa otra?, ¿por qué ocurriría que cuando tratamos de ser explícitos acerca de lo que ella significa, el efecto es mucho más débil?… Por último, si las palabras de la metáfora llevan un significado codificado,¿cómo puede ser este significativo diferir del significado que esas mismas palabras llevan en el caso en que la metáfora *muere*, esto es, cuando pasa a ser parte del lenguaje? ¿Por qué “El está ardiendo” tal como se lo usa y se lo entiende ahora no significa *exactamente* lo mismo que significaba en una época la metáfora viva? Al fin y al cabo, todo lo que la metáfora muerta significa es que él está muy enojado, una noción no muy difícil de explicar\.
+
+ 
+## 259\-260
+__DAVIDSON__, Donald \(1984\-1990:__259\-260\)__\. *De la verdad y de la interpretación*\. …
+
+ Encontramos así una tensión en la idea usual de metáfora, pues por un lado esta la idea pretende sostener que una metáfora hace algo que la prosa común puede hacer y, por el otro lado, quiere explicar lo que hace una metáfora apelando a un contenido cognitivo: justamente el tipo de cosa que está destinada a expresar la prosa común\. Mientras permanezcamos dentro de este marco mental, debemos abrigar la sospecha de ello puede hacerse, al menos hasta cierto punto\.
+
+ Hay una vía sencilla para escapar a este *impasse*\. Debemos dejar de lado la idea de que una metáfora transporta un mensaje, de que tiene un contenido o significado \(excepto, desde luego, si significado literal\)\. Las diversas teorías que hemos estado considerando confunden su *meta\. Cuando* ellas piensan que nos proporcionan un método para descifrar un contenido codificado, en realidad nos dicen \(o tratan de decirnos\) algo acerca de los *efectos* que las metáforas producen en nosotros\. El error común consiste en aferrarse los contenidos de los pensamientos que provoca una metáfora y en leer estos contenidos dentro de la propia metáfora\. Sin duda, a menudo las metáforas nos hacen notar aspectos de las cosas que no habíamos notado antes; sin duda atraen nuestra atención hacia analogías y similitudes sorprendentes; efectivamente proporcionan una especie de lente, como dice Black, a través del cual vemos los fenómenos relevantes\. El asunto principal no descansa aquí sino en la cuestión de cómo se relaciona la metáfora con lo que ella nos hace ver\.
+
+ Puede observarse con justicia que la afirmación de que una metáfora provoca o invita a una determinada visión del sujeto en lugar a decirlo directamente es un lugar común; efectivamente lo es\.
+
+
+## 260\-261
+__DAVIDSON__, Donald \(1984\-1990:__260\-261\)__\. *De la verdad y de la interpretación*\. …
+
+ Así, Aristóteles dice que la metáfora lleva a una “percepción de semejanzas”\. Black, siguiendo a Richards, dice que una metáfora “evoca” una cierta respuesta: “un oyente apto se verá guiado por una metáfora a construir un … sistema”\. Este punto de vista se resume nítidamente en lo que Heráclito dijo del oráculo de Delfos: “No dice ni oculta, insinúa”\.
+
+ No pongo en discusión estas descripciones de los efectos de la metáfora, sólo lo hago respecto de las ideas acerca de cómo se supone que la metáfora los produce\. __Lo que yo niego es que la metáfora haga su trabajo en virtud de tener un significado especial, un contenido cognitivo específico\. __Yo no pienso, como lo hace Richardas, que la metáfora produce su resultado porque tiene un resultado que resulta de la interacción de dos ideas; desde mi punto de vista es un error decir como Owen Barfield que una metáfora “dice una cosa y significa otra”; o como Black que una metáfora afirma o implica determinadas cosas complejas gracias a un significado especial y que *por ello* cumple su función de producir una “percepción”\. Una metáfora hace su trabajo por medio de otros intermediarios; suponer que ella sólo puede ser efectiva si conduce un mensaje codificado es como pensar que una broma o un sueño emiten un enunciado que un intérprete lúcido puede reenunciar en prosa llana\.Como una imagen o un golpe en la cabeza, una broma o un sueño o una metáfora pueden hacernos apreciar un hecho, pero sin representar o expresar ese hecho\.
+
+ Si esto es cierto, lo que intentamos al “parafrasear” una metáfora no puede ser dar su significado, pues eso se encuentra en su superficie, más bien intentamos evocar aquello que la metáfora nos lleva a atender\. Puedo imaginar a alguien concediendo esto y desechando como si no fuera más que una insistencia en la restricción del uso de la palabra “significado”\. Esto estaría mal\. El error central de __la metáfora *se ataca*__* *__fácilmente cuando toma la forma de una teoría del significado metafórico__
+
+__DAVIDSON, Donald \(__1984\-1990__:261\)\. *De la verdad y de la interpretación*\. …__
+
+ El hecho de que resulte tan difícil decidir exactamente qué se supone que es el contenido, aun en el caso de que las metáforas más simples, tendría que hacernos sospechar de la teoría\. Pienso que la razón de esta dificultad radica en que nosotros imaginamos que hay un contenido a captar cuando de hecho nos concentramos todo el tiempo en lo que la metáfora nos hace notar\. __Si lo que la metáfora nos hace notar fuera de alcance finito y de naturaleza proposicional, esto no causaría problemas por sí mismo__; simplemente proyectaríamos sobre la metáfora el contenido que la metáfora nos llevó a concebir\. Pero en efecto no hay límites para lo que la metáfora atrae a nuestra atención, y __la mayor parte de lo que se nos hace notar es de carácter no proposiciona__l\. Cuando tratamos de decir que “significa” una metáfora, enseguida nos damos cuenta de que lo que queremos mencionar no tiene fin \*… ¿Cuántos hechos o proposiciones transmite una __fotografía? __¿Ninguno, infinitos o un gran hecho indefinible? No es una buena pregunta\. Una imagen no vale lo que mil palabras, ni ninguna otra cantidad de ellas\. Las palabras no son moneda apropiada para intercambiar por una imagen\.
+
+\*Stanley Cavell menciona el hecho de que la mayor parte de los intentos de abordar la paráfrasis terminan con “y así sucesivamente” y refiere la observación de Empson de que las metáforas están “preñadas” \(*Aesthetic Problems of Modern Philosophy, 79*\)\. Pero Cavell no explica la interminabilidad de la paráfrasis como yo lo hago, tal como puede advertirse en el hecho de que él piensa que ella distingue la metáfora de cierto \(“pero quizá no todo”\) discurso literal\. __Yo sostengo que el carácter interminable de lo que llamamos la paráfrasis de una metáfora surge del hecho de que ella intenta descifrar lo que la metáfora nos hace notar, y para esto no hay un final claro\. __Yo diría lo mismo para todo uso del lenguaje\.
+
+
+## 263
+__DAVIDSON__, Donald \(1984\-1990:__263__\)\. *De la verdad y de la interpretación*\. …
+
+Capítulo 18 Comunicación y convención
+
+ … ¿Qué sucede cuando se habla? Las convenciones, ¿son meras comodidades o adornos sociales mediante el lenguaje? … ¿podría haber comunicación por medio del lenguaje sin convención? De acuerdo con David Lewis, “Es una verdad trivial —algo que sólo un filósofo se atrevería a negar— decir que hay convenciones en el lenguaje” Ciertamente sería absurdo negar que muchas convenciones *involucran* el habla, como decir “Buenos días” al margen de cómo esté el clima; pero éste no es el tipo de convención del cual dependa el lenguaje\. Sin duda, lo que Lewis tiene en mente es la idea de que la conexión entre las palabras y lo que ellas significan es convencional\. Y quizá sólo un filósofo negaría esto; pero la razón de ello puede ser que sólo un filósofo lo diría por primera vez\. Lo que es suficientemente obvio como para constituir una trivialidad es que el uso de un sonido particular para referir, o significar, lo que refiere o significa es *arbitrario\. *Pero en tanto lo convencional es en cierto sentido arbitrario, lo arbitrario no es necesariamente convencional\.
+
+
+## 263\-264
+__DAVIDSON__, Donald \(1984\-1990:__263\-264__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+… L__a resolución de esta cuestión —el problema tradicional del significado— requiere que conectemos la noción de significado con creencias, deseos, intenciones y propósito de un modo que resulte iluminador\.__ Donde más hace falta que la convención desempeñe su tarea es en la concre*ción* de esta conexión, o conexiones, entre el significado lingüístico y las actitudes y actos humanos descritos en términos no lingüísticos\. Y a este respecto se han propuesto muchas teorías diferentes\. Las dividiré en __tres tipos: primero__, están las teorías que afirman que hay una __convención que conecta las oraciones de algún modo gramático __\(o en que contiene una frase ejecutora explícita\) __con intenciones ilocutorias__, o con algún propósito más amplio; __segundo__, están las teorías que __buscan un uso convencional para cada oración__; y __tercero__, están las teorías para las cuales __hay una convención que se vincula a las palabras individuales con una extensión o intensión__\. Estas teorías no compiten entre sí\. … 
+
+ 
+## 264\-265
+__DAVIDSON__, Donald \(1984\-1990:__264\-265__\)\. De la verdad y de la interpretación\. \*\*\*\*\*
+
+ En un capítulo muy influyente, Michael __Dummett__ sostenía que hay una convención que gobierna el uso que damos a las oraciones declarativas\. Tal como lo expresa más recientemente:
+
+ … la emisión de una oración \[declarativa\] no necesita de un contexto particular para llegar a algo… La emisión de una oración sirve para afirmar algo… hay una convención general por lo cual la emisión de una oración, excepto en condiciones especiales, se entiende que es realizada con la intención de emitir una oración verdadera\.
+
+Este dictum es complejo y tal vez no del todo transparente… Existe una conexión convencional entre el emitir una oración declarativa y el usarla para hacer una aserción \(uno está haciendo una aserción, excepto en contextos especiales\); y hay una conexión conceptual \(y tal vez convencional\) entre el hacer una aserción y la intención de decir que es verdadero\.\. La admisibilidad de esta interpretación surge, a mi entender, del más convincente de los argumentos de Dummett… 
+
+__DAVIDSON__, Donald \(1984\-1990:__264__\-__265\)__\. *De la verdad y de la interpretación*\. …
+
+ __Dummett extrajo una analogía entre la verdad y el concepto de ganar un juego__\. Si queremos saber qué es ganar un juego… *Volviendo a* la verdad, el problema podría presentarse de esta forma: si nos encontráramos frente a un hablante de un lenguaje que no conociéramos, y se nos diera una definición de la verdad al estilo Tarski, ¿cómo podríamos determinar si la definición es aplicable a ese lenguaje? … no creo que se la pueda responder siguiendo la convención propuesta por Dummett, pues a mí me parece que en el lenguaje no hay nada que corresponda de manera relevante a ganar un juego\. El punto es importante puesto que si Dummett tiene razón, comprender qué se parece en el lenguaje a ganar un juego equivale a hacer fundamental conexión entre el significado según lo describe una teoría de la verdad y el uso del lenguaje en los contextos de comunicación\.
+
+ Ganar un juego como el ajedrez tiene estas características: primero, la gente que juega usualmente quiere ganar… es una condición del juego… esto no es lo mismo que fingir que quieren ganar, o tratar de que los otros crean que ellos quieren ganar… Segundo, uno sólo puede hacer movimientos que están definidos por las reglas del juego, el triunfo está totalmente definido por las reglas\. Por último, el triunfo puede ser un fin en sí mismo, y a menudo lo es\. __Hasta donde yo puedo ver, ninguna conducta lingüística presenta esta combinación de características… la analogía de Dummett es radicalmente deficiente\.__
+
+
+## 265
+__DAVIDSON__, Donald \(1984\-1990:__265__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Decir la verdad, en el sentido de emitir intencionalmente una oración que resulta ser verdadera, ¿es como ganar? En este sentido, que lo que significa decir la verdad es lo que una teoría de la verdad aspira a definir\. __*Hasta tanto, luego*, los hablantes e intérpretes conozcan de antemano las condiciones de verdad de las emisiones y exista acuerdo sobre ellas en tanto condiciones para la comunicación__, el decir de verdad tiene una de las características del triunfo…\. __Pero carece de las otras, pues la gente que emite una oración no siempre quiere decir oraciones verdaderas__\. A veces quiere hacerlo, y muy a menudo no quiere hacerlo\. Y para poder jugar el juego del habla tampoco tiene que representarse como si pretendiera o quisiera hablar la verdad; __no hay supuesto general que alguien que emite una oración declarativa quiere o pretende decir la verdad, ni de que, si lo hace, lo hace__ __intencionalmente__\.
+
+Nota 5 a pie de pág\. “El hecho de que Dummett no crea que una teoría de la verdad pueda servir como teoría del significado no tiene aplicación en mi argumento\. El tema es aquí si hay o no una convención de algún tipo que gobierna nuestras emisiones de oraciones \(declarativas\)\.
+
+
+## 265\-266
+__DAVIDSON__, Donald \(1984\-1990:__265\-266__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+Por último, decir l*a verdad*, en el sentido de emitir una oración verdadera, nunca es un fin en sí mismo\. 
+
+ A diferencia del hablar la verdad, la aserción puede parecer un candidato más apto como contraparte lingüística del triunfo\. Alguien que hace una aserción se representa como creyendo lo que dice, y tal vez como justificado en su creencia\. Y dado que queremos que nuestras creencias sean verdaderas, parece correcto acordar con Dummett que cuando alguien hace una aserción, se representa como pretendiendo decir lo que es verdadero\. … Igual que cuando se juega un juego, la representación puede o no ser engañosa\. \(El mentiroso hace una aserción\)\. El asertor puede pretender pretender o no, cuando hace su aserción, __causar que su oyente crea que él cree lo que dice__\. Así, hacer una aserción es como jugar un juego en un sentido en el cual hablar no lo es: hay una presunción pública de propósito\. En otros aspectos, sin embargo, la aserción no es como ganar que lo que constituye la elaboración de una aserción no se encuentra gobernado por reglas o convenciones acordadas\.
+
+ Para que el concepto de aserción proporcione un puente convencional entre el propósito y la verdad, deben concurrir dos cosas: debe haber una convención que vincule la aserción con aquello que se cree verdadero\. Yo pienso que ninguna de estas pretensiones está en vigor\.
+
+\[VA\. En el lenguaje de algunos políticos los escrúpulos no cuentan \(todo vale en política, en cuestiones del poder\)\. Una emisión dicha no corresponde a convención alguna \(moralmente aceptada=: el engaño, el ocultamiento, la mentira\. Una declarativa puede parecer estar en una convención “Yo amo la paz, por eso mantendré un diálogo con la oposición”, cuando la oposición no ha aceptado diálogo alguno se traduce en crear división en la oposición\. No hay satisfacción en toda la oposición, pero si en el ámbito internacional y en quienes creen que la oposición negocia sucio con el poder\]\.
+
+
+## 266\-267
+__DAVIDSON__, Donald \(1984\-1990:__266\-267__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Muchos filósofos han pensado que existen convenciones que gobiernan la aserción\. Así, Dummett dice, en una frase que omití en una cita anterior: “La emisión de una oración sirve para afirmar algo…” Consideremos primero si la aserción está gobernada por convenciones\. Desde luego, si el que una oración signifique lo que significa literalmente cuando se la emite es una convención, entonces la convención está involucrada en todas las emisiones y por lo tanto también lo está en la aserción\. Pero __el significado literal puede no ir más allá de las condiciones de verdad__ \(y desde mi punto de vista no lo hace\)\. Y supongo que nadie negará que __una misma oración declarativa puede tener un mismo significado cuando se la usa para hacer una aserción, para contar una broma, para fastidiar a un pelmazo, para completar una rima o para formular una pregunta__\. Por lo tanto, si hay una convención, deben ser otros ornamentos convencionales de la emisión los que la convierten en una aserción\. Dede luego, __no basta con decir que hay algo en el contexto que la vuelve una aserción__\. __Esto es verdad, pero no prueba nada acerca de la convención__\. Y podemos estar en capacidad de decir qué hay en el contexto que la vuelve aserción, aunque de hecho yo pienso que sólo podemos decir algunas cosas más bien vagas e incompletas\. Pero incluso __si las condiciones necesarias y suficientes fueran explícitas y estuvieran acordadas__ por todas las partes, todavía no se seguiría de ello que las *condiciones* son convencionales\. Todos estamos de acuerdo en que un caballo debe tener cuatro patas, pero el que los caballos tengan cuatro patas no es una convención\.
+
+ 
+## 267\-268
+__DAVIDSON__, Donald \(1984\-1990:__267\-268__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Hay otra cosa acerca de la aserción que sugiere que puede estar involucrada la convención, cual es el hecho de que al hacer una aserción, el __asertor debe proponerse hacer una aserción, y debe proponerse que esta intención sea reconocida por su audiencia__\. Se pretende que las aserciones sea\[n\] ejecuciones donde las claves resultan adecuadas para identificar el carácter de la ejecución como asertórico\. __Por esto es natural pensar que sería útil que existiera una convención, __en tanto convendría al propósito de nuestras intenciones asertivas resulten claras\.
+
+ … No hay convención conocida, acordada o públicamente reconocible para hacer aserciones\. O, a ese respecto, tampoco las hay para dar órdenes, formular preguntas o hacer promesas\. Nosotros hacemos todas estas cosas, a menudo, con éxito, y nuestro éxito depende en parte de que hayamos hecho pública nuestra intención de hacerlas\. No debemos ese éxito a una convención\.El segundo punto de la declaración de Dummett afirma que hay una convención por la cual se entiende que cuando un hablante hace una aserción está hablando con “la intención de emitir una oración verdadera”\. Esto también me parece equivocado, aunque de un modo diferente\. Lo que se entiende es que el hablante, si ha afirmado algo, se ha representado creyéndolo, esto es, emitiendo una oración que cree verdadera\. Pero esto no es una convención, sino simplemente parte del *análisis* de lo que es la aserción\. Afirmar es, entre otras cosas, representarse creyendo lo que uno afirma\. Está claro que no puede haber un signo convencional que muestre que uno está diciendo lo que cree; de ser así, todo mentiroso lo usaría\. Una convención no puede conectar lo que puede ser siempre secreto —la intención de decir lo que es verdadero— con lo que debe ser público —hacer una aserción—\. __No hay una convención de la sinceridad__\.
+
+\[VA: Entonces, por qué tiene que haber convención del modo gramático de usos de oraciones? Tal vez intervienen factores ontológicos\]
+
+ 
+## 268
+__DAVIDSON__, Donald \(1984\-1990:__268__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Si el significado es literal, luego la diferencia entre los modos gramáticos —declarativo, imperativo, interrogativo, optativo— es convencional\. Estas diferencias están a la vista y se pretende que sean reconocidas; este trabajo lo hace usualmente la sintaxis sola\. Esto evidencia que el modo gramático y la fuerza ilocutoria, por cercana que sea su relación, no puede relacionarse simplemente por convención\. … mi principal interés no está aquí en la naturaleza de la fuerza ilocutoria o en actos tales como afirmar, promover y ordenar, sino en la idea de que la convención puede vincular lo que nuestras palabras significan \(sus propiedades semánticas literales, incluida a verdad\) con nuestros propósitos al usarlas, por ejemplo, para decir la verdad\.
+
+ Hemos estado discutiendo opiniones que afirman que hay propósitos abarcadores ligados por convención a la empresa de la comunicación lingüística: propósitos que, según las palabras de Dummett, nos dan el *quid* del uso del lenguaje\.
+
+\[VA: La intención \(ontológica\) apela a lo no literal pero encubierto por lo literal, se escuda allí porque decirlo de manera directa no resulta ético, apropiado, productivo, etc\. Por ello apela a lo convencional más el contexto para producir un significado convencional y otro no convencional\. Todo lo que se quiere decir puede ser dicho… pero no es políticamente correcto hacerlo\]\. Levinson 2004:31: “Dejemos que la información metalingüística controle el modelo mediante el cual se interpreta el enunciado”\.
+
+ 
+## 268\-269
+__DAVIDSON__, Donald \(1984\-1990:__268\-269__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Me vuelco ahora hacia teorías muy distintas, que intentan derivar los significados literales de oraciones enteras \(no sólo de los indicadores de modo\) de __los propósitos no lingüísticos que sirven sus emisiones__\. En este ensayo me intereso por las teorías que afirman que esa derivación depende de la convención\. 
+
+ __Expresadas crudamente, tales teorías sostienen que hay un uso único \(o un número finito de usos\) al que está vinculada una oración dada, y que ese uso da el significado de la oración__\. Dado que de hecho pueden darse innumerables usos a una oración, sin modificar su significado, la conexión entre un uso único \(o número finito de usos\) y la oración es convencional; a este uso se lo puede llamar estándar\.
+
+ Esto es demasiado simple, desde luego, pero es una idea atractiva y natural\. Pues parece haber una importante conexión entre una oración como “Cómete tu berenjena” y la intención, al emitir esta oración de hacer que alguien se coma su berenjena\. \.\. Si esta intuición pudiera enunciarse y defenderse explícitamente sin considerarla presupuesta, sería factible una consideración del significado literal en términos de los propósitos no lingüísticos ordinarios que siempre están detrás de las emisiones de oraciones\.
+
+ __Existen intenciones anidadas en todas las emisiones lingüísticas, tales que si pudiéramos detectarlas usualmente sabríamos qué significan literalmente las palabras emitidas__\. … *Por* supuesto que la mera intención no da ese significado a la oración; pero si se la admite con la intención de emitir una oración con ese significado y en efecto no tiene ese significado, entonces no tiene significado alguno… Aquí tampoco puede contribuir la convención, pues hemos acudido a ella para convertir los propósitos no lingüísticos en ejecuciones con un significado literal\.
+
+ 
+## 269
+__DAVIDSON__, Donald \(1984\-1990:__269__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Quiero insistir ahora en algo que antes mencioné brevemente; el hecho de que las emisiones lingüísticas siempre tienen un __propósito ulterior__; esta fue una de las razones que ofrecí cuando afirmé que ninguna actividad puramente lingüística equivale a ganar un juego\.\.\. Tal vez esto encierre ningún elemento de estipulación, pero yo no hablaría de acto lingüístico si uno dijera “palabras” sólo para oír sonidos, o para hacer que alguien se durmiera; una acción sólo puede contarse como lingüística si el significado literal es relevante\. __Pero donde el significado es relevante siempre hay un propósito ulterior__\. __Cuando uno habla, uno aspira a instruir, impresionar, entretener, insultar, persuadir, advertir, recordar\. O asistir a un cálculo__\. Uno incluso puede hablar con la intención de aburrir a una audiencia; pero no con la esperanza de que nadie preste atención al significado\.
+
+ Si yo estoy en lo cierto cuando digo que cada uso del lenguaje tiene un propósito ulterior, l__uego uno siempre debe pretender producir algún efecto no lingüístico como resultado de la interpretación de las propias palabras\. __
+
+ 
+## 271\-272
+__DAVIDSON__, Donald \(1984\-1990:__271\-272\)__\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Debo repetir que no nos ayuda nada decir que la convención consiste en que la oración siempre significa lo que el propósito ulterior revelaría si el hablante fuera sincero, serio, etcétera\. Esto es a lo sumo un *análisis* parcial de las relaciones entre significado literal, sinceridad e intención\. No sugiere pruebas, criterios o prácticas públicamente reconocidas\.
+
+… El propósito ulterior puede no ser evidente, y puede o no ayudar a un intérprete a determinar el significado literal\. Concluyo que no puede ser un rasgo accidental del lenguaje que el propósito ulterior de una emisión de su significado literal sean independientes, en el sentido de que el último no puede derivarse del primero: forman parte de la esencia del lenguaje\. __Daré a este rasgo del lenguaje el nombre de principio de *autonomía de significado*__*\.E*ncontramos una aplicación del mismo cuando hablamos de la fuerza ilocutoria, donde tomó la fuerza del descubrimiento de que lo que se incluye dentro del significado literal queda luego disponible para *cualquier* propósito ulterior \(no lingüístico\), e incluso para cualquier ejecución ilocutoria\.
+
+ 
+## 272
+__DAVIDSON__, Donald \(1984\-1990:__272__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Una emisión de una oración __imperativa__, por ejemplo, se rotula a si misma, una forma bastante literal, como un acto de ordenar\. __Pero esto es sólo una parte del significado literal de las palabras emitidas, y no establece ninguna relación, convencional o de otro tipo, entre las intenciones ilocutorias del hablante y sus palabras__\. Es fácil confundir dos tesis bastante diferentes: por un lado, __la tesis \(correcta\) de que cada emisión de una imperativa se *rotula* a si misma \(verdadera o falsamente\) como una orden, y la tesis de que hay una convención por la cual bajo condiciones “estándar” la emisión de una imperativa es una orde__n\. La primera tesis efectivamente explica la diferencia de significado entre una oración imperativa y una declarativa, diferencia que existe de manera totalmente independiente de la fuerza ilocutoria\. La segunda tesis no puede explicar esto pues ella postula una convención que rige sólo bajo condiciones “estándar”\.__ Uno no puede usar una convención violándola, uno sólo puede *abusar* de ella__\. Pero la diferencia entre una imperativa y una declarativa puede usarse, y muchas veces se lo hace, muy apropiadamente en situaciones donde el modo y la fuerza ilocutoria no son “estándar”\. No aportará nada señalar casos como el de un actor que lleva una corona para indicar que está haciendo el papel del rey\. Si esto involucra una convención que gobierna el significado literal\. Llevar la corona, sea en broma o en serio, es lo mismo que decir: “Yo soy el rey”\.
+
+
+## 272\-273
+__DAVIDSON__, Donald \(1984\-1990:__272\-273__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Hemos considerado la idea de que la actividad lingüística en general es como un juego en cuanto hay un propósito convencional \(decir que es verdadero, ganar\) que sólo puede lograrse si se siguen, o se usan, reglas acordadas y públicas\. Luego discutimos la pretensión de que el significado literal de cada oración se relaciona mediante una convención a un fin no lingüístico estándar \(un propósito ulterior\)\. Tras el examen, ambos puntos de vista resultaron ser insostenibles\. Ahora es tiempo de evaluar la “trivialidad” de que el significado de una palabra es convencional, esto es, que asignar el significado de una palabra es convencional, esto es, que asignar el significado que asignamos a las palabras individuales y a las oraciones cuando se emite o escribe es una convención\.
+
+ *De acuerdo* con David Lewis una convención es una *regularidad* R en la acción, o en la acción y la creencia, regularidad en la cual debe estar involucrada más de una persona\. La regularidad tiene estas propiedades:
+
+\(1\) Cada persona involucrada se ajusta a R y \(2\) cree que los otros también se ajustan\. \(3\) La creencia de que los otros se ajustan a R da a todos los involucrados una buena razón para ajustarse a R\. \(4\) Todos los involucrados prefieren que haya ajuste respecto de R\. \(5\) R no es la única regularidad posible que cumple las dos últimas condiciones\. \(6\) Por último, cada persona involucrada conoce \(1\)\-\(5\) y sabe que todos los demás conocen \(1\)\-\(5\), etcétera\.
+
+
+## 273\-274
+__DAVIDSON__, Donald \(1984\-1990:__273\-274__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ El análisis de Lewis requiere claramente que haya por lo menos dos personas involucradas, dado que la convención depende de una práctica mutuamente comprendida… 
+
+¿Qué es exactamente la convención necesaria? No puede ser que el hablante y el oyente signifiquen la misma cosa emitiendo las mismas oraciones\. Pues tal ajuste, aunque sea bastante común, no es necesario para la comunicación\. Cada hablante puede hablar un lenguaje diferente, y esto no deteriorará la comunicación en tanto cada oyente comprenda al que habla\. Hasta puede suceder que cada hablante tuviera desde un principio su forma propia y singular de hablar\. Los diferentes hablantes tienen diferentes repertorios de nombres propios, diferentes vocabularios, y adjudican significados algo diferentes a las palabras\. … como intérpretes somos muy buenos para alcanzar una interpretación correcta de palabras que no hemos escuchado antes, o de palabras que no hemos antes con los significados que un hablante les ha dado\.
+
+ *La comunicación* no requiere, entonces, que el hablante y el oyente signifiquen la misma cosa con las mismas palabras; más que una convención, requieren un ajuste por parte de al menos dos personas\. … si la comunicación tiene éxito, el hablante y el oyente deben asignar el mismo significado a las palabras del hablante\. Además, como hemos visto, el hablante debe pretender que el oyente interprete sus palabras en la forma en que él pretende, y debe tener una razón adecuada para creer que el oyente logrará interpretarlo como él pretende\. Tanto el hablante como el oyente deben creer que el hablante habla con esta pretensión, y así sucesivamente…\. P__ero todavía uno podría insistir en que este grado de método de interpretación mutuamente comprendido es el núcleo convencional esencial de la comunicación lingüística__\.
+
+
+## 274
+__DAVIDSON__, Donald \(1984\-1990:__274__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ Pero la característica más importante del análisis dela convención de __Lewis, la regularidad__, aún __sigue sin explicarse__\. __La regularidad en este contexto debe significar en el tiempo, y no un mero acuerdo en el momento\.__ Para que haya una convención en el sentido de Lewis… debe verse algo que se repite en el tiempo\. El único candidato a la recurrencia que tenemos son los patrones de sonido…
+
+Yo no dudo de que toda la comunicación lingüística humana efectivamente muestra algún grado de esta regularidad, y quizás algunos se sientan inclinados a estipular como condición para que una actividad se considere lingüística la existencia de tal regularidad\. Pero tengo mis dudas, tanto respecto a la claridad de la idea como respecto de su importancia en la explicación y descripción de la comunicación\. La claridad es cuestionable debido a la gran dificultad de decir exactamente cómo deben coincidir las teorías del hablante y del oyente para la interpretación de las palabras de hablante\. … Esto puede ser así en razón de que el hablante bien puede proporcionar claves adecuadas en lo que dice, cómo y dónde lo dice, que permitan al oyente llegar a una interpretación correcta\. __Claro que el hablante debe tener *alguna* idea de la forma en que el oyente puede dar uso a las claves relevantes__;__ y el oyente debe conocer bastante bien lo que puede esperar\. Pero ese conocimiento general es difícil de reducir a reglas, por no hablar de convenciones o prácticas\.__
+
+__DAVIDSON__, Donald \(1984\-1990:__275__\. *De la verdad y de la interpretación*\. 
+
+ Es fácil juzgar erróneamente el papel de la sociedad en el lenguaje\. El lenguaje es, sin duda, un arte social\. Pero __nos equivocamos si al advertir la forma en que la sociedad convierte hábitos lingüísticos en normas públicas suponemos que hemos penetrado profundamente en el corazón de la comunicación lingüística__\. L__o convencional en el lenguaje__, si algo lo es, __es que la gente tiende marcadamente a hablar como lo hacen sus vecinos__\. Pero al indicar este elemento de lo convencional, o del proceso condicionante que hace de __los hablantes simples facsímiles lingüísticos__ de sus amigos y parientes, __no explicamos más que la convergencia__; no esclarecemos en nada la naturaleza esencial de las habilidades que se hacen converger de ese modo\.
+
+ Esto no es negar la importancia práctica del condicionamiento social, a diferencia de su importante teórica\.\. El condicionamiento común garantiza que podemos suponer, hasta cierto punto, que __el mismo método de interpretación que usamos para otros, o que suponemos que los otros usan para nosotros, funcionará para un nuevo hablante__\. No tenemos tiempo, paciencia u oportunidad para desarrollar una nueva teoría de la interpretación para cada hablante, y salimos del paso porque desde el momento en que alguien que nos es desconocido abre la boca, ya tenemos un conocimiento enorme del tipo de teoría que funcionará para él, o sabemos que no conocemos tal teoría\. …
+
+ 
+
+
+## 275 \-276
+__DAVIDSON__, Donald \(1984\-1990:__275 \-276__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ El hecho de que la interpretación radical sea hasta tal punto un lugar común —esto es, el hecho de que usemos nuestro método usual de __interpretación__ sólo como un punto de partida útil en la comprensión de un hablante se nos oculta por medio de varios factores, siendo el primer de ellos que __la sintaxis es muchísimo más social que la semántica__\. En términos generales, esto se debe a que aquello que forma el esqueleto de lo que llamamos lenguaje __es el patrón de inferencia y estructura creado por las constantes lógicas__: __conectivos oracionales, cuantificadores y recursos para referencia cruzada__\. Si podemos aplicar nuestro método general de interpretación siquiera a un hablante, si podemos al menos empezar a comprenderlo en la suposición de que su lenguaje es como el nuestro, esto sucederá porque__ podemos tratar sus recursos de formación de estructura tal como tratamos los nuestros__\. Esto fija la forma lógica de sus oraciones y determina la partes del habla\. …
+
+ Esto ilustración de la forma en que tiene lugar la interpretación presenta la aplicación de los métodos formales al lenguaje natural bajo otra luz\.__ Ayuda a mostrar por qué los métodos formales encuentran su mejor aplicación en la sintaxis__; aquí al menos hay una buena razón para esperar que un mismo modelo se ajuste bastante bien a una cantidad de hablantes\. Y no hay razón clara por la cual cada método hipotético de interpretación no podría ser una semántica formal para lo que en términos generales consideramos lenguaje\. 
+
+
+## 276
+__DAVIDSON__, Donald \(1984\-1990:__276__\)\. *De la verdad y de la interpretación*\. \*\*\*\*\*
+
+ A modo de conclusión, deseo reafirmar entonces que __la comunicación lingüística no requiere de una repetición gobernada por reglas, aunque muy a menudo hace uso de ella; __ y en ese caso, la convención no ayuda a explicar qué resulta básico para la comunicación lingüística, si bien puede describir un rango usual aunque contingente\.
+
+ Haré una reflexión final\. No he hablado aquí… de que no podemos confiarnos en atribuir creencias, deseos e intenciones a una criatura que no puede usar el lenguaje\. __Las creencias, los deseos y las intenciones son una condición del lenguaje, pero el lenguaje es también una condición para ellos\.__ Por otra parte, ser capaces de atribuir creencias y deseos a una criatura es sin duda una condición que __implica compartir una convención con esa criatura__; en tanto que, si lo que he dicho en este trabajo es correcto, __la convención no es una condición del lenguaje__\. Sugiero entonces que los filósofos que hacen de la convención un elemento necesario han invertido los papeles\. L__a verdad indica más bien que el lenguaje es una condición para tener convenciones\.__
+

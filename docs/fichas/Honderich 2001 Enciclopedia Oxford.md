@@ -1,0 +1,606 @@
+# Honderich 2001 Enciclopedia Oxford
+
+
+## 29
+Honderich, Ted\. \(1995\-2001:29\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__acción\. \(__1/2\)__ __Una acción es definida como algo que una persona hace intencionalmente\. El fenómeno de la acción humana debe su importancia tanto a las cuestiones sobre el estatus metafísico de los «agentes» como a las relativas a los aspectos legales y éticos de la libertad y la responsabilidad humanas\. En tiempos recientes, muchos filósofos han pensado que una explicación de la acción \(el fenómeno\) debería proceder mediante una explicación de las acciones \(los eventos\)\. Cuando una acción es definida como algo que alguien hace intencionalmente, se toma a las acciones como una especie de eventos, y a los eventos como particulares que pueden ser descritos de diversos modos\. Bajo este enfoque, cuando Juana mueve sus dedos sobre un teclado, y de aquí resultan sonidos por un piano, el movimiento de los dedos de Juana es que Juana está tocando el piano\. Así, juana está haciendo dos cosas ―mover los dedos y tocar el piano― aunque en ello hay encerrada una sola acción\. Típicamente, cuando alguien hace algo, hace varias cosas «ligadas», cada una de las cuales es hecha *por* o *al* hacer alguna otra\. \(Acción básica\)\. De acuerdo con la definición, para que haya una acción basta con que la persona haga intencionalmente una \(al menos\) de las cosas que hizo\. Así, el hecho de que Juana despierte a sus vecinos podría ser una acción aunque no los despertara intencionalmente: sería intencionada si lo fuera también su acción de tocar el piano, y ella tocó el piano intencionalmente\.
+
+ Cuando se combina esta definición con la idea de que es por el movimiento de su cuerpo como una persona hace algo, se impone con fuerza la propuesta de que las acciones son movimientos corporales: toda acción es un caso de movimiento \(total o parcial\) del cuerpo de una persona\.
+
+
+## 29
+Honderich, Ted\. \(1995\-2001:29\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__acción\. __\(2/2\)\. Incluso un proponente de la definición tiene que reconocer que ésta no cubre todos los fundamentos que autorizan la atribución de responsabilidad a un agente\.\. 1\) Se puede decir que una persona que ha hecho algo cuando ésta permanece perfectamente quieta —cuando, aparentemente, no ocurre ningún evento—\. En tales casos, parece intuitivamente correcto decir que eso es una instancia de acción sólo si la persona continúa quieta *intencionalmente*\. De ese modo cabe seguir pensando que «hacer algo intencionalmente» es una marca de acción: la definición original puede ser tenida por básicamente correcta, pero hay que conceder que no siempre hay un evento cuando hay una instancia de acción, y que no es posible establecer un vínculo totalmente general entre acción y el movimiento corporal\. 2\) Una persona puede ser responsable por hacer algo que ella hizo sin la menor intención: por ejemplo, cuando provocó un fuego por arrojar distraídamente su cigarrillo encendido\. Cara cubrir estos casos se necesita mayor riqueza de recursos que los de la mera palabra «intencionalidad» podría dejar fuera de consideración una serie de conceptos que quizá iluminasen una amplia concepción del agente responsable\.
+
+ Cabría argumentar que cuando una persona hace algo intencionalmente, su acción es siempre resultado de su creencia en algo y de su deseo de algo, la conjunción de los cuales constituye la razón que tenía para hacer lo que hizo\. La definición de acción debe, por tanto, ser parte de una concepción de acuerdo con la cual un cierto tipo de historia causal distingue a las acciones de otros eventos\. Esta concepción perdió el favor filosófico entre los años 1950 y 1960, pero recientemente se ha hecho merecedora de una gran credibilidad\. La concepción tiene muchas variantes\. En una versión empirista tradicional, cada acción está causada por una volición\.
+
+
+## 29
+Honderich, Ted\. \(1995\-2001:29\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__acción\. \(3/3\)\. __En algunos sectores, la versión tradicional ha sido suplantada por la tesis de que cada acción es en sí misma un caso del intento de alguien por hacer algo, sugiriendo con ello que el hecho de que una persona tenga una razón para hacer algo la lleva a intentar hacerlo, y entonces, cuando su intento ha tenido el efecto que ella perseguía, como usualmente ocurre, es cuando ha hecho esa cosa intencionalmente\.
+
+ Aducir las razones de alguna persona es decir *por qué* hizo lo que hizo, de manera que la idea de un tipo distintivo de explicación —la explicación de la acción— entra en escena cuando se considera que la acción es resultado de que alguien tenga una razón\. \(Razones y causas\)\. __Igualmente está introducida la idea de un tipo distintivo de pensamiento del cual proviene la acción: razón práctica, o deliberación, cuya explicación exige el entendimiento de \(al menos\) la creencia, el deseo,la valoración, la intención y la elección\.__   J\. Horn\.
+
+
+## 29
+Honderich, Ted\. \(1995\-2001:29\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__actos lingüísticos\. __\(1/3\)__ __Cosas hechas con palabras, cuya explicación puede arrojar luz sobre el lenguaje humano y su uso\.
+
+ J\.L\. Austin creía que el estudio del lenguaje había sido demasiado enfocado sobre las palabras y que el estudio de la acción se había centrado excesivamente en «acciones físicas ordinarias»\. Su proyecto general establecido en *Cómo hacer cosas con las palabras* era el de caracterizar ciertas acciones realizativas —emisiones con ocasión de las cuales algo es un *hecho* más que establecido—\. Austin se propone trazar una linea divisoria entre los realizativos y otro tipo de emisión que a su entender había recibido toda clase de atención y a cuyas expensas los realizativos habían quedado previamente ignorados\. \(Constatativos\)\. __Pero el intento de Austin de trazar esa línea socavó la asunción de que había una línea a trazar en primer lugar, lo cual abrió paso a la idea de que todas las emisiones tienen una dimensión realizativa__\. De este modo, la obra de Austin condujo a la teoría de los actos de habla, una rama de los estudios del lenguaje surgida originalmente de la idea de que el lenguaje es una especie de acción\.
+
+ En cualquier uso del lenguaje —es decir, cualquier ocasión en que alguien habla— son muchas las cosas que el que habla hace —muchos actos lingüísticos que él realiza—\. Por ejemplo, una acción podría ser que alguien hiciera alguna de estas cuatro cosas: *emitir las palabras «Son las 10», decir qué hora es, recordar a Juana que es hora de ir a clase, avisar a Luis\)\. *
+
+
+## 32\-33
+Honderich, Ted\. \(1995\-2001: 32\-33\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__actos lingüísticos\. \(__2/3\)\. Cada acto lingüístico corresponde a un tipo de acción; y un modo de organizar los actos lingüísticos que esté basado en principios proporciona un marco dentro del cual puedan potencialmente ser encajadas las particularidades de las ocasiones en las que uno u otro acto se realiza de manera que proporcionen explicaciones esclarecedoras de los actos de habla\. La clasificación de los actos lingüísticos que Austin inauguró pueden ser contemplada como una manera de imponer un sistema sobre los datos actuales de la comunicación lingüística\.
+
+ La propia clasificación primaria de Austin se dividía en locucionaria \(que incorporaba la fonética, la fáctica y la rética\), ilocucionaria y perlocucionaria\. Cada una de estas categorías alberga bajo sí algún dominio de actos; y una acción de hablar es típicamente una ejecución de algún acto dentro de cada dominio por parte del que habla\. Actos locucionarios son los actos de decir algo; actos ilocucionarios son actos hechos al decir algo; y los perlocucionarios son actos que se realizan por decir algo\. \[En el anterior ejemplo, *emitir las palabras… *es un acto fonético*, decir que…* uno locucionario, *recordar*…* *\(discutiblemente\) uno ilocucionario, y *avisar…* \(«discutiblemente» porque el hecho de Austin tuvo dificultad en establecer claramente la distinción ilocucionario\-perlocucionario\.
+
+
+## 33
+Honderich, Ted\. \(1995\-2001: 33\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+actos lingüísticos\. \(3/3\)\. La idea de que hablar un lenguaje es comprometerse en el comportamiento de un tipo gobernado por reglas fue desarrollada por Searle en *Actos de habla*\. En esta obra se proponía dar cuenta de una variedad de fenómenos en el marco de una teoría institucional de la comunicación y de clarificar una serie de actos de habla suboracional, porque se realiza utilizando una palabra o dos en lugar de una oración entera\) y prometer\.
+
+ El trabajo subsiguiente en la teoría de los actos de habla se ha movido en el área comprendida bajo el encabezamiento austiniano de lo ilocucionario, de suerte que lo que usualmente se entiende por «acto de habla» se ubica en la categoría de lo que Austin llamó ilocucionario\. La teoría del acto de habla puede entonces ser concebida como una rama de la pragmática\. Y puede ser dividida en dos tipos, dependiendo de la actitud que se tome respecto a aquello que determina que una acción de habla corresponde al acto ilocucionario en que se encuadra\. En la obra de lingüistas tales como John Ross y Jerrold Katz, la fuerza ilocucionaria es absorbida en una explicación de la locución más o menos formalizada\. En la obra de Searle y otros, la fuerza ilocucionaria es función de circunstancias no formalizadas\. Este último tipo de teoría de los actos de habla está más acorde con sus comienzos austinianos\.
+
+
+## 57
+Honderich, Ted\. \(1995\-2001: 57\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+anamnesis\. Voz griega que significa recolección, evocación y recuerdos\. Platón argumentaba que algunos conocimientos sólo podían haber sido adquiridos por familiaridad de nuestras almas con las Formas antes de nuestro nacimiento y no mediante la experiencia sensorial\. «Aprender» es, por tanto, anamnesis\. En el *Menón, *Sócrates extrae conocimiento geométrico de un muchacho esclavo y, en el *Fedón*, argumenta que el conocimiento de conceptos como el de igualdad, que están siempre imperfectamente instanciados de este mundo, sólo podría venir de la anamnesis\. 
+
+
+## 142
+Honderich, Ted\. \(1995\-2001: 142\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cálculo de predicados\. Se trata de un recurso \(llamado también cálculo funcional, o cálculo de relaciones\) para formalizar y sistematizar las relaciones lógicas que hay entre proposiciones cuando éstas no son consideradas \(como en el cálculo de proposiciones\) sin analizar, sino como unidades analizadas que ponen de manifiesto sus estructuras, de suerte que dos proposiciones distintas, como «Todos los gatos son negros», en lugar de ser idénticas o totalmente diferentes por tener algo en común\. Este cálculo, al igual que el cálculo de proposiciones, puede ser presentado o bien como un sistema axiomático o bien como un sistema de deducción natural para un área determinada\. A diferencia de la antigua lógica aristotélica, este cálculo tiene en cuenta los predicados relacionales \(que pueden ser diádicos como «mayor que», triádicos como «estar entre», o en general n\-ácidos\), y los predicados no relacionales como «negro» \(que da lugar al cálculo de predicados monádicos, al cual se aplican ciertos teoremas especiales\)\. El cálculo de predicados recibe el nombre de *extendido* o de *segundo orden* si sus variables discurren por aquello que sus predicados, como también sus sujetos, representan; en caso contrario es llamado cálculo *restringido *o de *primer orden*\.
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cartesianismo\. \(1/7\)\. Nombre dado al movimiento inaugurado por René descartes\.\. este movimiento configuró el paisaje filosófico del período inicial moderno, y su influencia, incluso en la actualidad, no está en modo alguno enteramente exhausta\. En las décadas que siguieron a la muerte de Descartes, el cartesianismo era considerado primeramente como un programa para la ciencia física basado en principios matemáticas\. Descartes había definido a la materia como *res extensa*, o «sustancia extendida», es decir, todo lo que tiene longitud, profundidad y altura\. El programa cartesiano consistía en exhibir todos los fenómenos físicos como casos explicables en términos de los «modos» o modificaciones de la extensión; en efecto, esto significaba mostrar cómo toda la aparente complejidad y diversidad de la materia podía ser explicada por referencia simplemente al tamaño, forma y movimiento de las partículas de las que estaba compuesta\. «Admito libremente —ha escrito Descartes en sus *Principios de la filosofía* \(1644\)— que no reconozco otra materia en las cosas corpóreas fuera de aquello que los geómetras llaman cantidad y que toman como objeto de sus demostraciones, esto es, aquello a lo que todo tipo de división, forma y movimiento es aplicable» \(pt\. II, art\. 64\)\.
+
+ El atractivo del enfoque cartesiano en la segunda mitad del siglo XVII debió indudablemente mucho a su rechazo de formas y cualidades ocultas, y a su insistencia en la que la física debería invocar solamente las propiedades «clara y distintamente perceptibles» de las matemáticas\. Un creciente cuerpo de críticas señalaba, sin embargo, que la mera extensión en tres dimensiones sólo sería capaz de producir un universo inerte y pasivo\. Para general el movimiento en el sistema, los cartesianos no tendrían más remedio que recurrir a Dios, al que Descartes había descrito como «la causa primaria del movimiento, que en el principio creo la materia juntamente con con su movimiento y reposo, y que ahora preserva la misma cantidad de movimiento que puso en ella desde el principio» \(*Principios, *pt II\. Art\. 36\)\.
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cartesianismo\. \(2/7\)\. Pese a que estas palabras puedan parecer una pieza de metafísica *ad hoc, *el verdadero valor del recurso a una inmutable y continuada acción divina en el sistema de Descartes, estaba en el rechazo del supuesto aristotélico de que toda la materia tendía «naturalmente» al reposo y su reemplazo por el principio cartesiano del movimiento en línea recta \(que luego ha llegado a ser conocido como inercia\)\. La idea de la conservación del movimiento fue totalmente altamente influyente en los subsiguientes desarrollos de la física\. Sin embargo, lo que se conserva en la última física newtoniana es la masa multiplicada por la velocidad, y ninguna de estas nociones se encuentra en Descartes, puesto que la elaboración de las «reglas del impacto» de Descartes deja claro que lo que se conserva es la «cantidad de movimiento», media simplemente como el producto del tamaño \(volumen\) y la velocidad \(no viéndose afectado este último factor, a diferencia de a noción más moderna de velocidad, por el menor cambio en la dirección del movimiento\)\.
+
+ Aunque, desde el punto de vista científico, el eventual derrumbe de la física cartesiana fue resultado de la formulación matemática de Isaac newton que cubría leyes de poder predictivo infinitamente mayor que nado de lo que Descartes hubiera acertado a diseñar, muchos de los debates filosóficos sobre el cartesianismo se centraron sobre su negación de que la materia poseyera el menor poder o fuerza\. Para algunos, notablemente para el disidente discípulo de Descartes Nicolás Malebranche, esto representaba una positiva ventaja: si la causalidad envuelve la necesidad de efectos, sólo Dios tiene el poder requerido para ser tenido por un genuino agente causal; por sí misma, la materia es totalmente inerte, mera «sustancia extendida»\. 
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cartesianismo\. \(3/7\)\. En cambio, ver a la física meramente como una serie de leyes explicativas arbitrarias divinamente decretadas, es para G\. W\. Leibniz una violación del principio de la razón suficiente; el comportamiento da la materia tiene que proceder de algo inherente a su naturaleza y, por tanto \(*contra* los cartesianos\), tiene que haber algún recurso a la noción de fuerza o poder en las cosas\. Tales debates son indicativos de la medida en que la «nueva» física cartesiana planteó serias cuestiones acerca de la naturaleza de la causación entre los últimos años del siglo XVII y primeros del XVIII, pavimentando con ello el camino para la eventual crítica radical que David hume había de elaborar de la verdadera idea de poder causal\.
+
+ Para los filósofos actuales, el principal tema del cartesianismo que conserva su interés en su teoría de la mente\. En la famosa teoría conocida como dualismo, Descartes había mantenido que la mente es una sustancia totalmente separada del cuerpo, y, además, que su naturaleza es absolutamente diferente de la naturaleza de todo lo físico; es una cosa incorpórea, invisible, no espacial, inextensa, que es «enteramente distinta del cuerpo, y que no dejaría de ser incluso si el cuerpo no existiera» \(iDiscurso del método, *pt\. iv\)\. *La concepción cartesiana de la mente como un «fantasma en la máquina» del cuerpo \(por usar la celebrada frase de Gilbert Ryle\) tiene pocos seguidores, sin embargo\. Para empezar su concepción de la naturaleza de la mente permanece esencialmente oscura: se nos dice simplemente lo que la mente no es \(no extensa, no divisible\), pero no se nos da ninguna explicación satisfactoria de lo que es\. Por otra parte, incluso aunque estuviera garantizada la existencia de tal supuesta sustancia puramente espiritual, está lejos de ser claro cómo podría interactuar con el mecanismo del cuerpo de manera apropiada\.
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cartesianismo\. \(4/7\)\.Cuando yo decido dar un paseo, mis piernas se mueven, pero si la cadena de impulsos que generan los requeridos movimiento musculares es recorrida a lo largo del sistema nervioso hasta el cerebro, el proceso causal es algo misteriosamente iniciado por una «volición» fantasmal cuya naturaleza, y sus relaciones con los eventos físicos observados, permanece fuera del alcance del poder explicativo de la ciencia\. La forma del cartesianismo propuesta por los discípulos de Descartes a finales del siglo XVII se contentaba con considerar las correlaciones mente\-cuerpo como regularidades irreductibles decretadas por Dios: Dios ordena que ocurran obligatoriamente los requeridos movimientos corporales cuando yo decido dar un paseo; y , a la inversa, ordena que «surjan» en el alma sensaciones de tipo apropiado \(p\. ej\., de dolor o de color\) cuando los órganos del cuerpo son estimulados\. EL cartesianismo lleva así típicamente a un «ocasionalismo» con respecto a la relación entre mente y cuerpo: los eventos corporales son «ocasión» para la producción de eventos mentales, y viceversa, pero tal productividad sigue estando más allá del ámbito de la humana ciencia; no justamente como algo que hasta ahora no hemos podido explicar, sino como algo que ningún tratamiento científico, por sofisticado que fuera, podría en principio explicar jamás\.
+
+ Los intentos de los cartesianos por resolver este enigma tendieron a general más oscuridades\. El propio Descartes parece haber concebido a veces a la mente o al alma como una suerte de *homunculus* no físico aposentado en el cerebro \(identificado a la glándula pineal o «conarion» como la «sede principal» del alma\)\. Algunos filósofos escolásticos han defendido la existencia de un *sensorium* como donde son integrados os datos que provienen de los cinco sentidos especializados \(noción discutida por Aristóteles en *De ánima, libro III, cap\. 1, 425 a 14\)\.*
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__cartesianismo__*\.\(*5/7\)\. Uno esperaría que Descartes hubiera rechazado esta idea, tanto por su resuelta hostilidad contra la recibida doctrina escolástica, como por su concepción de la mente como una sustancia incorpórea; pero, de hecho, no sólo la aceptó, sino que la incorporó a su propia teoría de la interacción mente\-cuerpo\. __La glándula pineal recibe datos \(vía los nervios\) de todas partes del cuerpo, y sólo después de que estos datos hayan sido integrados dentro de la glándula en una señal o impresión unitaria, es cuando puede ocurrir la conciencia sensorial__\. «La mente —escribía Descartes en la Meditación Sexta— no es afectada inmediatamente por todas las partes del cuerpo, sino por el cerebro, o quizá justamente por una pequeña parte del cerebro, a saber: la parte que contiene al “sentido común” »\. En su última obra,* Las pasiones del alma*, observa Descartes que «tiene que haber necesariamente algún lugar en el que las dos imágenes transmitidas por los dos ojo, o las ods impresiones que vienen de un único objeto a través de los dobles órganos de cualquier otro sentido, pueden fundirse en una sola imagen o impresión antes de que alcancen el alma, de manera que no le presenten dos objetos sino uno» \(art\. 32\)\. El argumento* *no deja de ser curioso, puesto que a primera vista no es evidente qué una imagen unitaria en la mente consciente tiene que requerir una señal o impresión unitaria en el cerebro\. En su carta a Mersenne del 24 de diciembre de 1640, Descartes decía que «la única alternativa es suponer que el alma no está unida inmediatamente con ninguna parte sólida del cuerpo, sino sólo con los espíritus animales que hay en sus concavidades, y que entran y salen de él continuamente como el agua de un río\. Pero esto podría parecer ciertamente demasiado absurdo»\.
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__cartesianismo__*\.\(6*/7\)\. La sugerencia no le parecería absurda en absoluto al lector moderno, acostumbrado como está a la noción de que la conciencia surge justamente de una interacción tan movediza y elusiva como la de la actividad eléctrica en la corteza cerebral\. Pero la contemplación de la posibilidad de que la conciencia pudiera surgir de procesos puramente físicos hubiera alejado absolutamente a Descartes del dualismo y convertido en redundante la noción de una sustancia separada llamada mente o alma: un paso que los cartesianos no estaban preparados para dar, pues seguían a Descartes en su insistencia en que las complejidades del pensamiento consciente no podían ser explicadas nunca por las operaciones de la «mera materia»\.
+
+ La razón de que el enfoque cartesiano de la mente no se haya extinguido está en el hecho de que ciertos filósofos continúan manteniendo que hay algo en a conciencia que elude el mecanismo explicativo de la ciencia física\. En este contexto ha sido enormemente influyente otra característica del cartesianismo, a saber: su énfasis en los aspectos subjetivos o de «primera\-persona» de la experiencia humana\. La búsqueda cartesiana del conocimiento parte de las meditaciones privadas del pensador solitario; y en el curso de esas meditaciones, Descartes llega rápidamente a la doctrina de la perfecta «transparencia» de la mente; la idea de que yo tengo un acceso directo y privilegiado a los contenidos de mi mente, y de que yo conozco mi propia naturaleza como ser consciente mejor que la de cualesquiera objetos «externos»\. De aquí salta Descartes a la conclusión de que mis propias experiencias \(p\. ej\., de hambre, de sed, de placer y de dolor\) tienen un carácter fenoménico que es vivamente accesible «desde el interior», pero a las que necesariamente les falta ese tipo de objetiva claridad y distinción que es propio del lenguaje de la ciencia física\.
+
+
+## 151\-152
+Honderich, Ted\. \(1995\-2001: 151\-152\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__cartesianismo__*\.\(7*/7\)\. Esta noción de la esencial privacidad de nuestra experiencia consciente ha sido atacada en nuestro propio siglo, notablemente por Ludwing Wittgenstein, pero sigue aun teniendo vigencia\. Así, el filósofo contemporáneo Thomas Nagel ha argumentado que el carácter de la experiencia, «a qué se parece» la experiencia que está teniendo el organismo el organismo, no puede ser capturado por ninguna explicación fisicalista del mundo\. No sería inapropiado llamar «cartesiana» a esta perspectiva, pues, aunque sus abogados tienden a rechazar la doctrina de Descartes de la existencia de una sustancia separable no física llamada «la mente», continúan, sin embargo, manteniendo que ciertos aspectos de lo mental son *sui generis* y no reducibles a las descripciones objetivas de la física\. Aunque es demasiado pronto para decir su tal cartesianismo residual logrará mantener un permanente asidero filosófico, su actual supervivencia, después de trescientos largos años desde la muerte de su fundador, a testimonio del perenne atractivo del enfoque de Descartes al complejo problema de la conciencia y de su relación con el mundo físico\.
+
+
+## 156\-157
+Honderich, Ted\. \(1995\-2001: \(__156\-157__\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+causalidad\. \(1/6\) Relación entre dos elementos en la que uno de ellos es causal del otro, alternativamente, «causación»\. «Causalidad» o «causación» pueden también referirse a un grupo de típicos que incluye la naturaleza de la relación causal y el estatuto de las leyes causales\.
+
+En filosofía moderna \(al igual que en el uso moderno en general\) la noción de causa está asociada con la idea de que algo produce o da lugar a alguna otra cosa \(su efecto\); una relación llamada a veces «causación eficiente»\. Históricamente, el término «causa» tiene un sentido mas amplio que equivale a «característica explicatoria»\. Este uso sobrevive en la explicación de Aristóteles de «la doctrina de las cuatro causas»\. Los miembros del cuarteto aristotélico, la causa material, la formal, la eficiente y la final, corresponden a cuatro tipos de explicación\. Pero sólo la causa eficiente es candidata idónea para una causa que produce algo distinto de ella misma\.
+
+ Las discusiones modernas tienden a tratar a la causalidad exclusivamente o de modo primario como una relación entre eventos\. Bajo este enfoque, los ejemplos de enunciados causales *singulares* paradigmáticos son del tipo «La explosión causó el incendio» y «El que ella apretara el botón fue la causa que se abriera la puerta»\. Los enunciados *causales* generales paradigmáticos serán en cambio como «Las sequías causan hambre»\. Pero encajar los enunciados causales ordinarios en tales formas es una empresa digna de Procusto\. El enunciado del segundo ejemplo es una causa desmañada paráfrasis de «Ella abrió la puerta apretando el botón», que en modo alguno expresa *abiertamente* una relación entre evento\. La interpretación del habla causal ordinaria es la materia en disputa\.
+
+
+## 157
+Honderich, Ted\. \(1995\-2001: 157\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+causalidad \(2/6\)\. la interpretación causal del habla causal es la materia en disputa\. Una cuestión controvertida es el aparente compromiso del lenguaje ordinario con los hechos, y también con los eventos, como causas\. Mientras esta circunstancia induce a algunos filósofos a reconocer una relación de causación fáctica, otros \(notablemente Davidson\) arguyen que, estrictamente hablando, los hechos no pueden ser las causas, aunque son relevantes para la explicación causal\. 
+
+ ¿Qué es lo distintivo de los pares de eventos relacionados como causa efecto? Obviamente, para que un evento cause a otro no es *suficiente* que el segundo suceda después del primero \(*Post hoc, ergo propter hoc*\)\. Por otra parte, se ha argumentado que ni siquiera esto es necesario, y que tanto la causación simultánea como la «causación retroactiva» \(efectos que preceden a sus causas\) son al menos conceptualmente posibles\. Lo cual plantea un problema\. La causalidad parece ser una relación *asimétrica* \(si *a* causó *b*, entonces *b* no causó *a\)\. * Pero, si el orden temporal no es fiable para explicar la asimetría «dirección de causación», ¿en dónde apoyarse? Otra dificultad es la de explicar qué es lo que distingue a los pares causa\-efecto de los efectos de una causa común\. No es un azar que el hervidero electrónico se desconecte después de que su válvula empiece a silbar: ¿por qué entonces es falso que el silbato causaría la desconexión?
+
+
+## 157
+Honderich, Ted\. \(1995\-2001: 157\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+causalidad \(3/6 \)\. Una sugerencia importante \(que puede o no puede superar estos problemas\) es que las causas *necesitan* los eventos que son sus efectos\. \[Un tanto confusamente, cabe describir también esta idea diciendo que las causas son suficientes para sus efectos \(condiciones necesarias y suficientes\)\]\. Esta propuesta adopta una variedad de formas\. Una versión afirma que se da una relación de necesidad causal entre eventos particulares cuando uno de ellos es una consecuencia inevitable del otro\. Así, cuando caliento el agua, *debe* evaporarse; cuando la primera bola de billar golpea a la segunda, esta segunda bola *tiene que *moverse\. Hume es famoso por su ataque escéptico a esta noción de vínculo necesario entre causa y efecto\.
+
+ Sin embargo, la idea de que las causas necesitan \(son suficientes para\) us efectos tiene otra interpretación, emparentada con los empiristas «humeanos», que igualmente rechaza la relación de necesidad causal\. Bajo esta interpretación, la necesidad de que la segunda bola de billar se mueva cuando es golpeada por la primera es sólo un necesidad *hipotética *o *condicional*; necesidad «dadas las leyes de la naturaleza»\. Dicho en pocas palabras, decir que el evento *a* necesita al evento *b*, no es sino decir que el hecho de que cuando ocurre *a* también ocurre *b* es una consecuencia de las leyes de la naturaleza\. \(Modelo de ley de cobertura; explicación\)\. Si —como habitualmente sostienen los empirista— las leyes de la naturaleza son verdades contingentes más que necesarias, la necesidad que parte del supuesto de las leyes no corre el peligro de reintroducir los vínculos de necesidad entre eventos discutidos en el párrafo anterior\. Si las leyes de la naturaleza hubieran sido distintas —como podían haberlo sido según esta concepción empirista— tal vez el agua no hubiera necesitado evaporarse cuando se la calentaba, aun cuando las actuales leyes entrañen que invariablemente eso ocurre así\.
+
+
+## 157
+__Honderich, Ted__\. \(1995\-2001: __157__\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__causalidad __\(4/ 6\)\. \[La teoría empirista de la causación acabada de describir es una especie de lo que se conoce como «__teoría de la regularidad__»\. En la concepción antiempirista de que las leyes de la naturaleza son verdades necesarias, lo que necesariamente es una vez admitidas las leyes, será él mismo necesario\. Tal vez fuese éste el modo en que algunos filósofos racionalistas consideraron la necesidad de las conexiones causales \(leyes naturales o científicas\)\]\.
+
+ Se ha sostenido que si un particular evento es el efecto de una combinación de causas, puede ser falso que ninguna de esas causas necesitara del efecto\. \(Supóngase que la práctica diaria de la natación a primera hora de la mañana causara el infarto del Sr\. López, pero sólo en conjunción con su desayuno con champán\)\. Una respuesta a una situación semejante es la tesis \(inspirada por J\. S\. Mill\) de que una causa es un *elemento* en una serie de condiciones que *conjuntamente* necesitan \(son suficientes pata\) su efecto\. El tratamiento que \(en 1965\) hace J\. L\. Mackie de las causas como «condiciones INIS» \(partes «Insuficientes pero necesarias de Innecesarias pero Suficientes condiciones»\) es una versión de este enfoque\. Otro problema es que las explicaciones «necesitaristas» de la causación requieren que la causalidad sea determinista\. Estas explicaciones deben ser, por tanto, abandonadas, o al menos modificadas, si \(como muchos filósofos contemporáneos suponen\) la causalidad puede ser fundamentalmente probabilista \(Determinismo\)\.
+
+
+## 158
+Honderich, Ted\. \(1995\-2001:158\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+causalidad \(5/6 \)\. Un notable rival de las explicaciones de la relación causal hasta ahora mencionadas es el análisis contrafáctico de David Lewis del par evento\-causación\. Este análisis explota con ingenio la idea de que típicamente los efectos son «contrafactualmente dependientes» de sus causas; si la proclama causó los disturbios, parece seguirse que si la proclama no hubiera ocurrido, tampoco los disturbios habrían sucedido\.
+
+ Muchas teorías de la causación envuelven un principio que Davidson llama «el carácter nomológico de la causalidad»: dónde hay causalidad: donde hay causalidad, hay ley causal\. Sin embargo, , algunos filósofos creen que hay especies de causalidad independientes de la ley causal\. Tal pretensión es comúnmente formulada con respecto al hacer humano\. \(Los elementos aquí implicados son complejos: acción; agente; razones y causas; explicación teleológica y también ciencia social; leyes, naturales o científicas\)\.
+
+ La «teoría de la regularidad» anteriormente mencionada proviene de una de las definiciones que da Hume de causa: «un objeto, seguido por otro, y donde todos los objetos similares al primero son seguidos por objetos similares al segundo»\. De acuerdo con una interpretación estándar, lo que Hume estaba argumentando con esto es que nada en el mundo merece el nombre de necesidad causal\. A lo sumo, se dan ciertas conjunciones constantes —excepcionales regularidades— entre eventos\. 
+
+
+## 158
+Honderich, Ted\. \(1995\-2001: 158\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+causalidad \(6/6\)
+
+Por las regularidades en nuestra experiencia, estamos condicionados para formar en nosotros una idea de necesidad causal, y suponemos así que la segunda bola de billar no sólo *será*, sino que *tiene que ser*, movida cuando la primera bola la golpee\. Pero esta idea de necesidad causal —al ser, como decía Kant, «un bastardo de la imaginación, impregnado por la experiencia»— no tiene ninguna explicación legítima al mundo\.
+
+ Esta explicación de Hume de su concepción de causalidad está bien establecidas, que las teorías de la causación como regularidad —que niegan la necesidad causal y analizan la causalidad en términos de \(contingentes\) conjunciones constantes— son regularmente descritas como «humeanas»\. No obstante, esta tradicional interpretación está siendo atacada, y varios comentaristas recientes sostienen que Hume no negó la existencia causal genuina\.
+
+
+## 165\-166
+Honderich, Ted\. \(1995\-2001: 165\-166\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Churchland, Paul\. \(1942\- \)\. \(1/ \) Profesor de la Universidad de California, San Diego, está máximamente asociado con una forma de materialismo conocida como eliminacionismo, un movimiento que tiene sus raíces en las consecuencias del positivismo lógico\. Churchland cree que las explicaciones de los procesos mentales humanos en términos de intenciones, deseos, motivos, y razones\., son explicaciones de la conducta humana que pertenecen a lo que peyorativamente es descrito como «psicología popular» \(un término que no es ahora muy usado\)\. La psicología popular es ciencia primitiva\. No ha progresado ni se ha desarrollado del modo en que lo han hecho las ciencias naturales genuinas\. EL eliminacionismo establece que puede esperarse que sus términos caigan en desuso a medida que nuestras explicaciones de la conducta humana vayan haciéndose más y más en términos de neurociencia\. 
+
+
+## 180
+Honderich, Ted\. \(1995\-2001: \(180\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__cognición__\. __\(1/3__\) Tradicionalmente considerado como el dominio del pensamiento y la inferencia, el término marca el contraste con las experiencias perceptuales y otros fenómenos mentales tales como dolores y pruritos\. Sensaciones, percepciones y sentimientos son distinguidos de los episodios de cognición, puesto que son los que proporcionan el material o input al dominio del pensar y del razonar pero ellos mismos no son pensamientos\.
+
+ Más recientemente, la cognición ha sido concebida como el dominio de los estados y procesos representacionales que estudian la psicología y la ciencia cognitiva\. Tales son los fenómenos implicados en el pensamiento sobre el mundo, en el uso del lenguaje, y en la orientación y control de la conducta\. La nueva definición incluye algunos aspectos de la percepción sensorial cuando ésta envuelve representaciones de un mundo especial y el procesamiento inteligente del material aportado por los sentidos\.
+
+ __Las teorías de la cognición pueden abarcar sucesos conscientes, como ver, pensar, razonar, estados disposicionales tales como intenciones, creencias y deseos y estados no conscientes que ocurren en los primeros estadios del procesamiento visual y lingüístico\.__ El dominio de la teoría cognitiva es más amplio que el ámbito de las actitudes proposicionales, considerado por muchos filósofos como el espacio de las razones\.
+
+
+## 180
+__Honderich, Ted__\. \(1995\-2001: __180\)__ *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+cognición\. \(2/3\) Situados más allá del espacio de las razones, los estados cognitivos no estarán gobernados por las normas de la racionalidad que nos dicen qué debemos pensar, dado lo que creemos, y qué debemos hacer, dados nuestros deseos e intenciones\. En lugar de ello estarán regidos por leyes computacionales o causales de la psicología cognitiva que pueden ser o no ser sensibles a la intencionalidad o «direccionalidad» de los estados cognitivos hacia el objeto al que se aplican\.
+
+ Se ha argumentado que los estados que están más allá del espacio de las razones no pueden tener contenido representacional, puesto que no están presentes a un sujeto de experiencia, sino que pertenecen a un subsistema del individuo que piensa\. Sin embargo, la psicología empírica ha logrado un considerable éxito al explicar muchas de nuestras actividades mentales gracias al uso de generalizaciones acuñadas en términos de los contenidos de estados de nuestro subsistemas cognitivos\. Entre los ejemplos típicos se incluyen: las concepciones de Chomsky de la representación mental del conocimiento lingüístico; la investigación sobre los procesos que el sistema visual emplea para construir representaciones de los objetos de tres dimensiones a partir de imágenes retinales de dos dimensiones; los procesos que facilitan el reconocimiento visual de palabras\. Los escépticos respecto a los contenidos representacionales de estados de estos sistemas cognitivos, tendrán que suministrar algunos medios alternativos para la explicación de los hallazgos\.
+
+
+## 180
+__Honderich, Ted__\. \(1995\-2001: __180\)__\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__cognición__\. \(__3/3__\)\. Debido a estos éxitos, el cognitivismo ha reemplazado masivamente al conductismo en la psicología científica\. En lugar de explicar las actividades humanas mediante estímulos y respuestas, las capacidades intelectuales son ahora explicadas postulando estados mentales internos que combinan contenidos semántico y poderes causales para afectar la conducta\. La ambición de la ciencia cognitiva al elaborar una teoría naturalista de la mente es proporcionar un tratamiento satisfactorio y unificador de estas dos propiedades para el vasto rango de nuestros estados cognitivos\. Y espera conseguirlo tratando a los procesos mentales como procesos computacionales\. \(Computadores\)\. Las transiciones entre los estados representacionales son definidas como computaciones realizadas sobre los vehículos representacionales de esos contenidos\. Los procesos sintácticos que explican las transiciones causales entre representaciones mentales corren paralelos a las relaciones inferenciales entre sus contenidos\.
+
+ 
+
+
+## 378
+__Honderich, Ted__\. \(1995\-2001: __378\)__\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología 1/7 : … La fenomenología distingue nítidamente entre propiedades perceptuales por una parte, y propiedades abstractas por otra\. Considérense dos bolas de billar, llamadas A y B\. El color banco de A, que uno puede ver con sus propios ojos, se dice que está ubicado en el espacio donde está A\. Similarmente se admite que el color banco de B está ubicado donde está B\. Además, se mantiene que el color de A no es idéntico al color de B, puesto que uno y otro están colocados en dos lugares diferentes\. Según este análisis, la misma tonalidad de color se divide en tantas «instancias de color» de esa tonalidad como cosas individuales hayan que tengan ese color\.
+
+ Sin embargo, todas las instancias son instancias del mismo color\. Existe también, por tanto, según la fenomenología, la tonalidad de color abstracta de la cual son instancias\. Llamemos a este color abstracto la «blancura universal»\. La fenomenología afirma que hay no solamente una percepción directa de las instancias de blancura, sino también una suerte de percepción directa de la blancura universal\. Esta percepción recibe el nombre de «intuición eidética»\. Por medio de la intuición eidética adquirimos conocimiento de las características esenciales del mundo\. Los fenomenólogos llaman \*esencias a esos universales\.
+
+
+## 378
+Honderich, Ted\. \(1995\-2001: 378\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología 2/7 : Una esencia puede hacerse presente en su totalidad a la mente en un solo acto mental de intuición\. En cambio, los objetos perceptuales no pueden nunca presentarse así\. Según los fenemenólogos sólo podemos percibir aspectos de ellos\. Esta es una de las fundamentales diferencias entre las esencias y ciertas cosas individuales\. ¿Qué significa percibir meramente aspectos de , digamos, una de nuestra bolas de billar? Al parecer aquí concurren dos nociones de un mismo aspecto\. En primer lugar tenemos que distinguir entre la instancia del color de la bola de billar A, que es parte de de A, y las sensaciones diferentemente coloreadas que experimentamos cuando miramos a A\. Supongamos, por ejemplo, que A está iluminada desde un lado, de suerte que la mitad de ella se encuentra en la sombra\. Aun, nuestra sensación de su color no es uniformemente blanca: una parte de ella es más oscura que la otra\. Y, si lleváramos gafas coloreadas, nuestra sensación de color no sería blanca en absoluto\. Ahora bien, lo que los fenemenólogos parecen tener a veces en mente cuando hablan de percepción a través de aspectos, es que las instancias de propiedades de un objeto perceptual, su color, su forma, se nos aparecen solamente a través de las variaciones de perspectiva de nuestras sensaciones de la forma\.
+
+
+## 378\-379
+Honderich, Ted\. \(1995\-2001: 378\-379\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología 3/7 : En segundo lugar, y de manera mucho más obvia, los objetos perceptuales especiales sólo pueden ser percibidos desde un punto de vista\. Por ejemplo, cuando miramos a la bola de billar A, sólo uno de sus lados está orientado hacia nosotros, podemos percibir, desde ese punto de vista dado, un «aspecto» parcial de ella\. Es claro que esta noción de aspecto es bastante diferente de la posición mencionada en el párrafo anterior\.
+
+ Según la fenomenología, nuestro conocimiento de las cosas se divide por tanto, en conocimiento directo y conocimiento mediante aspectos\. Las esencias \(las propiedades universales\) son conocidas directamente, pero los objetos perceptuales son conocidos sólo a través de sus aspectos\. No obstante, en adición a las cosas perceptuales, están también las cosas mentales y los yoes\. ¿Cómo son conocidas estas cosas? Para la fenomenología, la “conciencia es conocida directa*mente*, al igual que las esencias\. El acto mental de ver una bola de billar, un deseo de estar al punto en Venecia, un recuerdo de haber estado haciendo *surf* en la playa de Manly, todas esas instancias de los llamados actos mentales se presentan ante nosotros sin la menos traza de aspectos\. Hay así una fundamental diferencia entre los objetos del mundo perceptual externo y los objetos del mundo de la conciencia los primeros no se nos dan nunca completa y totalmente en un solo acto mental de percepción, los últimos se nos dan enteramente cuando proyectamos sobre ellos nuestra atención\. Pero el yo, la individualidad mental de la cual brotan todos los actos mentales, se nos presentan sólo indirectamente, al igual que un objeto perceptual\. El ámbito de las cosas individuales se divide así en una parte «inmanente», la conciencia, y en dos partes «trascendentes», los objetos perceptuales y el yo\. Lo cual convierte a la conciencia en algo muy especial, porque lo que verdadera y directamente conocemos es solamente la conciencia\. 
+
+
+## 379
+Honderich, Ted\. \(1995\-2001: 379\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+fenomenología 4/7 : Pero algunos fenomenólogos van incluso más lejos y sostienen que la conciencia posee un tipo de ser bastante diferente de todas las otras cosas\. Esta afirmación desempeña un papel esencial en el \*existencialismo\.
+
+ Hasta aquí henos estado evaluando la fenomenología como una teoría del conocimiento\. Pero con frecuencia es considerada no como una concepción filosófica nueva de viejos problemas epistemológicos, sino como un nuevo método de hacer filosofía, y se habla entonces del método fenomenológico, a la que se adjudican métodos y objetos propios\.
+
+ La llamada reflexión eidética, reflexión sobre las esencias y sus conexiones, es sin duda el corazón de la fenomenología\. Esta reflexión requiere una reducción eidética\. Por medio de la reducción eidética desviamos nuestra atención desde la particular instancia de una propiedad hasta la propiedad abstracta \(la esencia\) misma\. Una vez que este desvío haya sido realizado, será posible «ver» la esencia directamente en su totalidad\. Además, y tras la reducción eidética, es posible también intuir conexiones entre esencias\. Se puede intuir, por ejemplo, que las esencias del ego y del ser especial revelan que el primero puede percibir al segundo sólo en una perspectiva espacial\. Desde este punto de vista, la fenomenología indaga sobre las estructuras formadas por las esencias\.
+
+
+## 379
+Honderich, Ted\. \(1995\-2001:379\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología __5/7__ : El conocimiento adquirido mediante el estudio de las relaciones entre esencias no es empírico, según la mayoría de los fenomenólogos\. Por ejemplo, la intuición acabada de mencionar de que un ego puede percibir un ser especial solamente en perspectiva, ha sido extraída de una conexión entre la esencia de un ego y la esencia de algo espacial: no ha sido inferida por la inducción a partir de casos individuales\. Una inferencia de este tipo es la que estaría envuelta, por ejemplo, en la conclusión a partir de repetidas observaciones de que todas las ballenas son mamíferos\. Pero se dice que __todas las verdades fenomenológicas no sólo no son empíricas en este sentido__, __sino que son necesarias__\. La ley inductiva sobre las ballenas podría resultar ser falsa, por ejemplo, por el descubrimiento de una ballena que no fuese mamífero, sino un pez\. No existe la posibilidad, sin embargo, para la verdad fenomenológica sobre la conexión entre la esencia del ser un ego y la esencia de observar cosas espaciales\. Puesto que las verdades fenomenológicas son a la vez no\-empíricas y necesarias, se dice que son verdaderas *a priori*\.
+
+
+## 379
+Honderich, Ted\. \(1995\-2001:379\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología 6/7 : Pero esto no es todo lo que hay que decir sobre el método fenomenológico\. Existe también la reducción eidética\. Parece ser que la reducción fenomenológica tiene dos aspectos\. En primer lugar, está la prescripción general de mirar a las cosas sin prejuicios, de ir a las cosas mismas, de olvidarse de la especulación teórica, etc\. En segundo lugar, sin embargo, está también el lado más específico de la reducción fenomenológica, que consiste, , como primera providencia, en \*«poner entre paréntesis al mundo objetivo»\. Los fenomenólogos se apoyan para este punto en una tesis defendida por el filósofo polaco \*Twardowski, quien, al igual que Husserl, fue alumno de Bretano\. Twardowski distinguía entre un acto individual de presentación, al contenido de ese acto, y el objeto del acto\. Supóngase que se le enseña a uno una bola de billar A\. Entonces ocurre un acto particular de presentación\. Este acto tiene un contenido único que es una propiedad del acto mental, y que tiene por objeto la bola de billar A\. La tesis de Twardowski es que todo acto tiene un objeto, incluso aquellos actos que se orientan a cosas que no existen\. Si uno tiene la alucinación de un gran murciélago con lunares, el acto visual de uno tiene un objeto, aun cuando ese objeto no existe\. En general, Twardowski \(por ejemplo, contra Bolzano\) en que debemos distinguir entre la cuestión de si un acto mental tiene un objeto y la cuestión de si su objeto existe\. Algunos actos mentales tienen objetos que no existen\. La reducción fenomenológica es así un método que revela las esencias de los objetos de nuestros actos mentales con independencia de que esos objetos existan en realidad, e incluso con independencia de que realmente haya una realidad no\-mental\.
+
+
+## 379\-380
+Honderich, Ted\. \(1995\-2001:379\-380\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Fenomenología 7/7: La reducción fenomenológica nos impone el estudio de los objetos de nuestros actos mentales precisamente tal como ellos son, con independencia de su existencia\. Pero algunos fenomenólogos sostienen que ésta es solamente la primera etapa, y se adhieren a la prescripción mucho más radical que ordena alejarse eventualmente del «mundo exterior» y concentrarse exclusivamente en la conciencia\. En una de las últimas versiones de la naturaleza de la fenomenología realizada por Husserl, esta exclusiva concentración de la conciencia separa la fenomenología de las ciencias naturales\.
+
+ *La fenomenología* tiene así su propio método —la reflexión sobre las esencias de los actos mentales— y su propio objeto —la conciencia—\. De acuerdo con esta concepción, la fenomenología es el estudio de la esencia de la conciencia\. La tendencia idealista de esta posición es evidente\. R\.G
+
+
+## 725\-727
+Honderich, Ted\. \(1995\-2001:725\-727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+Metafísica, problemas de la
+
+¿Cómo son posibles valores y normas en un mundo de hechos? ¿Cómo son posibles las mentes en un mundo de materia en movimiento? ¿Cómo es posible la libertad de acción o de la voluntad en un mundo de las leyes científicas? ¿Cómo puede haber entidades abstractas en un mundo de sucesos y de otros particulares contingentes? En cada uno de estos casos, el mismo inquietante trilema hace acto de presencia\.
+
+En la filosofía contemporánea, los problemas de la metafísica toman a menudo la forma de un trilema relativo a alguna extensa e importante característica de nuestras vidas o nuestro discurso, un trilema cuyos términos son:Trilema: 1\) ilusión, 2\) apariencia bien formada y 3\) realidad fundamental\.
+
+Finalmente los distintos dualistas de la propiedad admiten que las propiedades admiten que las propiedades físicas son irreductible a lo mental, y que las propiedades mentales son irreductibles a lo físico\. Los recientes debates sobre los *qualia*, sobre la existencia de aspectos irreductiblemente cualitativos y experienciales en la experiencia de uno, han dividido a los materialistas por el lado afirmativo\. Por ejemplo, Ned Block y Jerry Fodor con el argumento de sus «qualia ausentes» y Thomas Negel con su recurso a la subjetividad\) de los fisicalistas, en especial los funcionalistas, por el lado negativo \(al igual que David Armstrong y Daniel Dennett, con sus intentos de reducir la conciencia en general a actitudes proposicionales\)\. Algunos \(p\. ej\., Sydney Shoemaker\) han tratado de reconciliar el “funcionalismo con la aceptación de los *qualia*, pero para nuestros propósitos la aceptación de los *qualia* es un paso importante, si se supone que tales aspectos cualitativos de la experiencia son una clase fundamental de propiedad mental no reducible a lo físico ni superviviente sobre él”\.
+
+
+## 727
+Honderich, Ted\. \(1995\-2001:727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+ En lo referente a la libertad de acción o de la voluntad, nos encontramos con la misma serie de opciones\. Uno podría mantener que la libertad de acción es una ilusión completa, puesto que somos seres naturales aprisionados en las redes de las leyes físicas desde el nacimiento a la tumba\. O cabría defender alternativamente que la libertad es un hecho básico de la vida, negando en su lugar que una vida humana pudiera verse nunca aprisionada en la red de las leyes naturales\. Es también posible una tercera postura más equilibrada según la cual nosotros gozamos de libertad, pero de una libertad que es después de todo compatible con el imperio de la ley física sobre cada detalle de la vida humana\. Esta alternativa cuenta con numerosos apoyo, dejando aparte la implausibilidad de una metafísica que pretende poner límites *a priori* a la capacidad de la ciencia para entender el comportamiento humano\. Pues considérese la propuesta de una acción libertaria no producida por condiciones antecedentes de acuerdo con las leyes físicas\. Esto es lo que aceptan los creyentes libertarios en la libertad fundamental\. Pero no deja de ser enigmático el modo en que esto pueda ayudar a asegurar el tipo de libertad deseada: el tipo que apoyaría la atribución de la responsabilidad al agente, y la asignación a éste del elogio o del reproche, del premio al castigo\. La facción partidaria de ña reconciliación ―o compatibilista― por su parte sigue teniendo una gran y desafiante deuda: los compatibilistas tendrán que explicar todavía cómo tal libertad puede ser reconciliada con el hecho de que, bajo el supuesto del determinismo con anterioridad al propio nacimiento\. Tendrán que introducir, a la vista de este impresionante hecho, alguna crucial distinción en las acciones de uno entre aquellas que de alguna manera no nos están impuestas en un sentido apropiado, y de las cuales podemos ser responsables, y aquellas otras que nos *han sido *impuestas, lo cual releva al agente de toda responsabilidad\.
+
+
+## 727
+Honderich, Ted\. \(1995\-2001:727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+ Las concepciones metafísicas del mundo han sido derivadas de necesidades epistemológicas\. Así, uno podría quedar impresionado ante las diferencias entre la propia conciencia, por un lado para la cual se tiene un acceso introspectivo, y el supuesto mundo de hechos físicos que hay tras ella, por el otro\. Los filósofos han reflexionado ampliamente sobre el problema de cómo lograr que un abismo tan fundamental pueda ser salvado alguna vez por la razón\. ¿Cómo podría conocerse jamás algo de la realidad exterior basándose en lo que uno sabe de modo inmediato sobre su propia conciencia? No es posible deducir lo que hay más allá de la conciencia de uno apoyándose simplemente en lo que hay en su interior: ilusiones, alucinaciones, sueños, escenarios escépticos como el del cerebro en una vasija, y el geniecillo de descartes, establecen con suficiente claridad la imposibilidad de tal empresa \(*Malin génie*\)\. De este modo, no queda al parecer m´s alternativa que pensar que la única vía hacia el mundo exterior sea una cierta forma de razonamiento inductivo\. Pero esto les resulta imposible a muchos si el mundo está constituido por fenómenos que son de un orden totalmente diferente e inaccesible a nuestra experiencia\. Pues, ¿cómo podría uno extender tales «fenómenos»? E, incluso aunque de alguna manera lográsemos entenderlos, ¿cómo podríamos llegar a conocerlos? Presumiblemente habría que establecer correlaciones inductivas desde las cuales poder generalizar, y sobre la base de esas generalizaciones poder luego deducir desde la propia experiencia lo que está fuera de nuestra conciencia\. Consideraciones como éstas, derivadas de las necesidades de la epistemología, han llevado a los filósofos de la tradición empirista a una forma u otra del fenomenalismo idealista, a la concepción de que la realidad está completa y totalmente constituida por la experiencia, en forma de impresiones e ideas\.
+
+
+## 727
+Honderich, Ted\. \(1995\-2001:727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+ 
+
+Los racionalistas por su parte han inferido igualmente a partir de suposiciones sobre el conocimiento y el entendimiento conclusiones metafísicas de amplio alcance\. Para la mente racionalista, la realidad ha de ser comprensible absoluta y cabalmente\. Para la mente poderosa y equipada con suficiente información, tiene que ser posible alcanzar una comprensión total del universo\. En esta concepción entran en juego las siguientes asunciones: a\) el universo es la totalidad de hechos; b\) entender un hecho es entender por qué es un hecho, y por qué se produce; c\) si un hecho no puede ser entendido en sus propios términos, si no es autoexplicativo, entonces para entender cómo se produce se necesita una explicación de él, una explicación de la razón de que ocurra; d\)una comprensión completa del universo sería una comprensión de todos los hechos; e\) x es una explicación del hecho que que p \(una explicación de por qué es el caso de que p\) sólo si x es un conjunto de asunciones verdaderas \(hechos\) que conjuntamente implican lógicamente el hecho de que p mediante algún principio de regularidad legal\.
+
+Las leyes fundamentales quedarían \(por definición\) sin explicar, pues no había leyes mas fundamentales que las explicasen\. Por eso sería un obstáculo para su completo entendimiento solamente si las leyes en cuestión requiriesen una explicación para ser entendidas\. ¿Podrían algunas leyes o hechos ser \(en algún sentido\) autoexplicativos? Considérese el hecho \(H\) de que nada es distinto de sí mismo\. ¿Qué es lo que podría explicar posiblemente tal hecho? No es fácil imaginar nada que pudiese explicar algo tan fundamental\. Incluso aunque resultara que de hecho no hay nada externo capaz de suministrar tal explicación, ¿significaría esto una laguna en nuestra comprensión de H? ¿Acaso no entendemos H tan perfectamente como entendemos cualquier otra cosa, incluso sin necesidad e explicación externa?
+
+
+## 727
+Honderich, Ted\. \(1995\-2001:727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+ 
+
+Si es así, tenemos entonces entonces en H un hecho fundamental que no requiere ninguna explicación externa para ser entendido\. Las dos características relevantes de H son evidentemente, primero, su *necesidad*, esto es el hecho de que las cosas no podrían haber sido posiblemente distintas de como H dice que son, y, segundo, la *obviedad* de esa necesidad, el ser obvio que las cosas no podían posiblemente haber sido más que como H dice que son\. Un hecho semejante será perfectamente entendido por sí mismo y no necesitará de ninguna otra explicación externa\.
+
+ Supóngase que el orden natural consiste en partículas materiales de distintas configuraciones que se mueven y reconfiguran de acuerdo con leyes físicas\. Incluso aunque asumiésemos que la serie no tuvo nunca un comienzo en el tiempo, ¿por qué existe esta serie cuando podía haber en su lugar una diferente e incluso un vacío sin cambio alguno? En la respuesta a esta pregunta no tiene sentido alguno embarcarse en una serie infinita de explicaciones sobre contingencias particulares dentro de la serie recurriendo en en cada caso a otras contingencias antecedentes en esa misma serie, y esperar que con esto se haya podido responder a la legítima cuestión inicial que preguntaba por qué existe en absoluto esta serie\.
+
+ Leibniz entiende nuestra dificultad y la hace suya más o menos en los mismos términos\. Y éste es un breve esquema de su solución: a\) el mejor mundo posible es necesariamente el mejor; b\) al ser necesariamente omnisciente, Dios ve necesariamente que es el mejor; c\) siendo necesariamente e infinitamente bueno, Dios desea necesariamente que el mundo sea; d\) puesto que Dios es necesariamente omnipotente, el mundo necesariamente llega a ser, y de aquí que sea, por supuesto, nuestro mundo\.
+
+
+## 727
+Honderich, Ted\. \(1995\-2001:727\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+ Si un mundo \(o universo\) es una totalidad de hechos, entonces si un mundo M difiere de un mundo M’ en un detalle por pequeño que sea, entonces M y M’ tienen que ser dos mundos diferentes\. De aquí se desprende que si, por la explicación de Leibniz, nuestro mundo necesariamente llega a ser, entonces todo detalle en él, por pequeño que sea, necesariamente llega a ser\. Ni un grano de arena pudo haber sido diferente en sus cualidades o ubicación\. Pero esta conclusión no es idiosincrásica de la particular propuesta de Leibniz relativa a cómo sería posible alcanzar una comprensión completa del universo\. Pues como acabamos de ver, por mucho que nos embarquemos en asunciones y leyes a fin de explicar totalmente la existencia y carácter del orden natural de los sucesos \(p\.ej\., la materia en movimiento desde la eternidad hasta la eternidad\), las suposiciones y leyes resultantes darán mejores hechos necesarios si no extendemos el problema en dirección vertical a otra serie de contingencias\. Supóngase que fundimos todas las asunciones en una gran asunción A y a todas las leyes en una gran ley L\. Si tales *necesarias* A y L van a explicar la existencia y carácter del orden natural \(al menos a un ser infinito que pudiera captarlo en su totalidad\), entonces, por nuestra versión de la explicación, A y L deben conjuntamente entrañar que el orden natural existe y tiene exactamente el carácter que tiene\. Pero algo que está así entrañado por lo que es necesario, debe ser él mismo necesario\. De lo cual se sigue que si tenemos tal explicación, entonces el orden natural debe necesariamente existir y debe tener por necesidad exactamente el carácter que tiene\. Así, nuevamente, ningún grano de arena hubiera posiblemente podido ser diferente en sus cualidades o ubicación\. Ya así este resultado no se deriva de nada especial en la explicación particular de Leibniz, sino que es consecuencia de la verdadera naturaleza de lo que una explicación completa tendría que ser\.
+
+
+## 730
+Honderich, Ted\. \(1995\-2001:730\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos
+
+metafísica revisionista
+
+ Término acuñado por P\. F\. Strawson para describir los enfoques de Descartes, Leibniz y Berkeley, en contrastes con los cultivadores de la metafísica descriptiva\. Se dice que la metafísica revisionista sustituye la actual estructura del mundo por una imagen de él que es estética, moral, emocional o intelectualmente preferible\. El reproche de que los sistemas filosóficos son otras tantas ficciones bien organizadas y placenteras está anticipado en numerosas acusaciones anteriores del carácter visionario y el alejamiento de la experiencia de toda metafísica\. No obstante, cada una de ellas mereció ser estudiada, mantenía Strawson, por razón de la «la intensidad de su visión parcial» y de su utilidad como fuente de enigmas filosóficos\.
+
+La existencia de una metafísica revisionista depende de la confusión metafísica entre «es realmente» y «debería ser», y entre intereses lógicos y existenciales\. Pero la satisfacción que proporciona asegura que la metafísica revisionista continuará siendo una permanente tentación para la filosofía, no simplemente un término útil para el análisis histórico\.
+
+
+## 724\-725
+Honderich, Ted\. \(1995\-2001:724\-725\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Metafísica, oposición a la
+
+La oposición a la metafísica viene tanto del interior como del exterior de la filosofía\. El positivismo lógico, aunque ahora difunto, fue particularmente hostil a lo que para sus miembros eran afirmaciones metafísicas carentes de significado, puesto que eran inverificables\. Estas objeciones estaban fundadas en la imposibilidad de verificabilidad para aserciones de la metafísica\. Pero la deferencia para con la ciencia empírica mostrada por los positivistas lógicos sigue siendo una característica arraigada en muy buena parte de la filosofía analítica angloamericana, que crea un clima hostil al desarrollo al desarrollo de la metafísica especulativa\. Esta hostilidad encuentra un paralelo en las divulgaciones de muchos científicos, quienes parecen pensar que muchas cuestiones que una vez estuvieron legitimadas por la metafísica pertenecen ahora exclusivamente a la provincia de la ciencia empírica —cuestiones tales como las de la naturaleza del espacio y del tiempo, o el problema mente\-cuerpo—\. …
+
+ La hostilidad más reciente hacia la metafísica viene de los postmodernistas y los deconstruccionistas, que desean proclamar que la filosofía —y ciertamente la metafísica— está muerta\. Estos escritores presentan a la metafísica como una aberración temporal del intelecto occidental, negando la idea de que sea una indagación sobre cuestiones perennes para las cuales pueden buscarse legítimamente respuestas atemporales\. Al repudiar toda la concepción objetiva de la verdad en favor del relativismo cultural de moda, estos críticos de la metafísica no pueden, por supuesto, hacer causa común con los científicos críticos, cuya posición bastante contraria es la ciencia la que suministra el camino real para la verdad objetiva y en última instancia para una «Teoría de Todas las Cosas» final y definitiva\. 
+
+
+## 725
+Honderich, Ted\. \(1995\-2001:725\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Metafísica, oposición a la
+
+Con enemigos tan divididos entre sí, la metafísica puede confortarse con el pensamiento de que no es posible que tanta gente esté en lo cierto\. El mismo hecho de tan amplio desacuerdo sobre cuestiones fundamentales demuestra la necesidad de una investigación metafísica crítica y reflexiva proseguida no dogmáticamente, sino en el espíritu de Kant\.
+
+ Pese a toda esta hostilidad, la metafísica y la ontología gozan en la actualidad de una modesta reanimación por parte de filósofos profesionales, que ya no se sienten obligados a discutir sobre cuestiones tales como el de la naturaleza de la sustancia o de avanzar teorías realistas sobre los universales, sino que gran parte de su trabajo es altamente técnico, que exige aplicaciones de lógica modal y que dificulta por tanto la divulgación de sus resultados a un público lego\. Existe así el peligro de que este tipo de trabajo pueda ser infravalorado y quedar relegado como una especie de escolasticismo que carece de relevancia para los problemas de la vida diaria\. Por ello, no sólo sería un deber sino que una redundancia en beneficio de los metafísicos que éstos procurasen hacer más accesible su trabajo con la mirada puesta en contrarrestar los dogmas cientificistas y relativistas que alimentan nuestro tiempo\.
+
+
+## 725
+Honderich, Ted\. \(1995\-2001:725\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Metafísica, oposición a la
+
+ Quizá la amenaza intelectual más seria a la metafísica tal como tradicionalmente se la ha concebido venga del movimiento hacia el naturalismo de la filosofía contemporánea, que toma su ejemplo en la defensa que hace W\. v\. Quine de la «epistemología naturalizada»\. Con la teoría del conocimiento concebida nuevamente, en efecto, como una rama de la psicología empírica y el concomitante rechazo de la distinción tradicional entre verdad *a priori* y *a posteriori*, la pretensión de la metafísica a tener un objeto propio ha sido puesta en entredicho\. Sin embargo, así como los toscos enemigos científicos y relativistas de la metafísica pueden ser acusados de promover un particular dogma metafísico bajo el disfraz de un rechazo de la metafísica en general, así también puede dirigirse esta misma acusación contra sus críticos naturalistas\. Las categorías normativas de ka razón y de la vedad trascienden la reducción naturalista y no pueden, sin incoherencia pragmática, ser utilizadas para convencer de su inexistencia\.
+
+
+## 742
+Honderich, Ted\. \(1995\-2001:742\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Modus ponens\. El «modo de la afirmación»\.En el cálculo de proposiciones, cualquier inferencia de la forma «Si *p* entonces *q*, y *p*; por tanto *q*» es una instancia de *modus ponens*\. En la lógica tradicional de términos se decía que las inferencias como «Si A es B, es C; A no es C; por tanto, A no es B» estaban en *modus tollens*\. Aunque realmente no eran silogismos en absoluto, las inferencias de este tipo eran llamadas con frecuencia «silogismos hipotéticos»\.
+
+Modus tollens\. El «modo de la negación»\. En el cálculo proposicional, toda inferencia de la forma «Si *p* entonces *q*, por tanto no *p*» es una instancia de *modus tollens*\. En la lógica tradicional de términos, se decía que las inferencias como «Si A es B, es C; A no es C; por tanto, A no es B» estaban en *modus tollens*\. Al igual que las inferencias en *modus ponens, *también éstas fueron llamadas con frecuencia «Silogismos hipotéticos» pese a no tratarse en absoluto de silogismos\.
+
+
+## 744\-745
+Honderich, Ted\. \(1995\-2001:744\-745\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Moore, George Edward \(1873\-1958\)… En su *Defensa del sentido común *\(1925\) insistía en que había en la actualidad un vasto cuerpo de convicciones sobre «el mundo» compartidas por todo el mundo, que eran expresables en proposiciones bastante ordinarias con significados perfectamente claros, y admitidas como ciertamente verdaderas … Tomemos por ejemplo, decía Moore «Existen seres conscientes distintos a uno mismo»: todo el mundo sabe lo que esa proposición significa; o tomamos por ejemplo, «Existen objetos materiales, tal como zapatos y escritorios»: todo el mundo sabe que eso es ciertamente verdadero\. Pero si es así, concluía Moore, los filósofos deben haber estado radicalmente confundidos respecto a la naturaleza, o quizá el objetivo, de sus propias actividades\. No puede haberse dedicado realmente a confrontar problemas sobre el significado, puesto que típicamente, sostenía Moore, no existen tales problemas; tampoco pueden haber estado realmente negando, o incluso dudando, que ciertas proposiciones fuesen verdaderas, puesto que típicamente todos nosotros —incluidos ellos mismos— sabíamos que eran verdaderas\. ¿Qué era, pues, genuinamente problemático? La respuesta de Moore… era sencillamente: el *análisis* de las proposiciones\. Entre los filósofos de habla inglesa, al menos, esta propuesta significó transformar radicalmente la agenda filosófica\.Sabemos lo que una proposición significa, y sabemos que es verdadera; la cuestión a plantear entonces no es «¿Sabemos que es verdadera?», o ni siquiera «¿Cuál es su análisis correcto?»\.
+
+
+## 744\-745
+Honderich, Ted\. \(1995\-2001:744\-745\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Moore, George Edward \(1873\-1958\) La noción de análisis fue siempre controvertida en sí, pero el análisis más persistente de Moore era aplicado a proposiciones muy comunes sobre objetos familiares, como «Esto es una mano», por ejemplo\. Moore sostenía que el análisis de estas proposiciones debía recolectar siempre los elementos sumamente misteriosos que él llamaba «datos sensoriales»; la proposición trata realmente de los datos sensoriales que uno tiene, y el problema consiste en averiguar cómo puede el análisis poner de manifiesto la relación entre el dato sensorial y el objeto\. Moore no pensó nunca haberlo conseguido de modo satisfactorio\.
+
+ 
+
+
+## 231\-232
+Honderich, Ted\. \(1995\-2001:231\-232\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Datos sensoriales\. 
+
+Entidades \(pretendidamente\) subjetivas que tienen las propiedades que el mundo externo percibido \(si lo hay\) parece tener\.__ __Al mirar un círculo blanco bajo una luz y en ángulo oblicuo, el dato sensorial sería rojo y elíptico \(el modo en que el círculo blanco se presenta\) Según los teóricos de los datos sensoriales, uno percibe un objeto externo, un círculo blanco, pero la sensación que uno tiene \(lo que uno aprehende o directamente capta\) es una elipse roja: el dato sensorial subjetivo\. Luego, si uno es inteligente \(y sabe algo sobre los caprichosos efectos de la iluminación\), infiere, sobre la base de los datos sensoriales que directamente aprehende, que \(probablemente\) hay un círculo blanco que está causando el dato sensorial elíptico y rojo\. Así es como se supone que nuestro conocimiento de los datos sensoriales proporciona un fundamento para todo el conocimiento empírico\.
+
+
+## 732\-733
+Honderich, Ted\. \(1995\-2001:732\-733\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Donald Davidson ¼ \(1917\-   \)\. Filósofo estadounidense que ha desarrollado una muy admirada e influyente teoría de la mente y el lenguaje\. El influjo más profundo en Davidson es el de Quine, con quien comparte un compromiso con la idea de la fundamental importancia de la lógica estándar para la metafísica, y un consiguiente recelo ante entidades «intencionales» tales como significados, proposiciones y propiedades o atributos \(Extensionalidad; intensión y extensión\)\.
+
+ Quine piensa que el lenguaje de la lógica de primer orden es adecuado para «representar la verdadera y última estructura de la realidad»\. Dado este compromiso, ¿qué sucede con estados mentales tales como creencias y deseos, cuyas adscripciones exhiben intencionalidad? El problema está en que el lenguaje con el cual atribuimos esos estados no obedece a los principios de la lógica extensional\. Por ejemplo, la ley de Leibniz —el principio de que si *x* = *y* entonces todo lo que sea verdadero de *x *es verdadero de *y*— puede no cumplirse cuando hablamos de creencias y deseos\. Si yo creo que Marilyn Monroe es la estrella de *Niágara, *no se sigue que eso que yo crea que Norma Jean era la estrella en *Niágara*, puesto que puede que yo no sepa que Marilyn Monroe es Norma Jean\. Puesto que tal intensionalidad \(sic\) es plausiblemente esencial en las descripciones de creencias y deseos, ¿cómo podemos acomodar estos estados dentro de la teoría quineana del mundo?
+
+
+## 744\-745
+Honderich, Ted\. \(1995\-2001:744\-745\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Donald Davidson 2/4 \(1917\-   \)
+
+ La respuesta que da el propio Quine a este problema es adoptar una forma de eliminacionismo relativo a lo mental: las categorías mentales no son apropiadas para la ciencia, y por tanto deberían ser eliminadas\. El enfoque de Davidson es diferente\. Coincide con Quine en que la intencionalidad de las descripciones mentales hace que, en conjunto, las categorías mentales sean irreductibles a categorías físicas\. Pero rechaza el conductismo de Quine, y en «Mental Events» \(1970\) usa la irreductibilidad de lo mental como premisa de un argumento a favor de una versión de la teoría de la mente como favor de una versión de la teoría de la mente como identidad, el monismo anómalo\.
+
+ Davidson defiende su teoría de la identidad recurriendo a la plausible asunción de que todos los sucesos mentales interactúan causalmente con sucesos físicos\. Igualmente asume que siempre que hay interacción causal, hay una estricta ley de la naturaleza que engloba a los sucesos afectados\. Y esto parecería explicar que hay leyes psicofísicas que conectan sucesos mentales y sucesos físicos\. Pero, si las hubiera, entonces lo mental sería reductible a lo físico, cosa que Davidson niega\.
+
+
+## 732\-733
+Honderich, Ted\. \(1995\-2001:732\-733\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Donald Davidson 3/4 \(1917\-   \) La teoría de la causación de Davidson le proporciona un camino de escape a este conflicto: la causación es para él una relación extensional entre sucesos individuales\. Es extensional en el sentido de que si «*a* causó *b*» es verdadera, entonces sigue siendo verdadera con independencia del modo en que describamos a *a* y a *b*; así, «La causa de *b* causó *b*» es un enunciado de causación tan bueno como «*a* causó *b*»\. No es, sin embargo, una buena *explicación* causal, y aquí es donde entra en juego la ley\. Las leyes relacionan sucesos sólo en la medida en que tales sucesos están descritos de una cierta manera\. Así, un suceso puede instanciar una ley bajo una cierta descripción, pero no bajo otras\. Con esta descripción en mente, Davidson argumenta ingeniosamente como sigue: puesto que los eventos mentales y físicos interactúan de manera causal, han de instanciar una ley\. Pero no pueden instanciar una ley psicofísica, puesto que no las hay; por tanto, tienen que instanciar una ley física\. Pero, para instanciar una ley física, los sucesos mentales tienen que tener una descripción física; y tener una descripción física es ser un suceso físico\. Así pues, todos los sucesos mentales son sucesos físicos\.
+
+
+## 744\-745
+Honderich, Ted\. \(1995\-2001:744\-745\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Donald Davidson 4/4 \(1917\-   \)\. Pero, si la explicación de los fenómenos mentales no es una cuestión de describirlos en términos de leyes de la naturaleza, ¿qué es entonces? La respuesta de Davidson es que se trata de una forma de explicación racionalizadora normativa: al describir a alguien en términos mentales, lo estamos describiendo como un ser racional, sujeto a las normas de la lógica y del razonamiento correcto\. Davidson ha desarrollado estas ideas como parte de su teoría de la interpretación \(traducción\) radical\. Su influyente teoría del significado trata de elucidar el significado en términos de la idea de verdad, concebida más o menos según las líneas de una teoría formal como la de Tasrski, para luego aplicar esas teorías de la verdad a hablantes individuales apropiadamente constreñidos por los principios de interpretación
+
+
+## 826\-827
+Honderich, Ted\. \(1995\-2001:826\-827\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Percepción 1/2\. La extracción y uso de la información de nuestro entorno \(extracepción\) y de nuestro propio cuerpo \(propiocepción\)\. Los sentidos externos —vista, oído, tacto, olfato y gusto—, aunque se solapan en cierta medida, son distinguidos primeramente por el tipo de información que transmiten \(p\. ej\., respecto a luz, presión, sonido y temperatura\)\. La propiocepción recoge y transporta estímulos que surgen dentro de nuestro propio cuerpo: aceleración, posición y orientación de los miembros, y cosas semejantes\.
+
+ La percepción capta cosas o hechos\. Ver un objeto o un suceso \(uno y otro cuentan como cosas en esta clasificación\), un gato sobre un sofá, un hombre en la calle, un eclipse, o un robo, no requiere que el objeto o el suceso sean identificados o reconocidos de un modo particular \(quizá, aunque esto es discutible, de ningún modo en absoluto\)\. Uno puede ver un gato sobre el sofá y confundirlo con un jersey enrollado; ver un hombre \(camuflado o a una cierta distancia, p\.ej\.\) y tomarlo por un árbol\. Las gentes han creído toda clase de supersticiones sobre los eclipses que observan\. Ver objetos y sucesos es, en este sentido, una actividad no\-epistémica: uno puede ver X sin saber o creer que se trata de X\. Percibir hechos, en cambio, sí es epistémico: uno no puede ver que hay un gato en el sofá sin llegar a saber con con ello que hay un gato en el sofá\. Ver un hecho es llegar es llegar a conocer \(que eso es un hecho\) de una manera visual\. Oler un hecho \(p\. ej\., que la tostada se está quemando\) es llegar a conocer ese hecho por vía olfativa\. De ese modo, pues, la percepción de cosas es cognitivamente menos exigente que la percepción de los hechos Tanto el perro como el cocinero pueden la tostada \(una cosa\) que se quema, pero, a menos que el perro sea un prodigio de inteligencia \(o el cocinero retrasado mental\), solamente el cocinero será capaz de oler, y con ello llegar a conocer \(el hecho de\) que la tostada se está quemando\.
+
+
+## 826\-827
+__Honderich, Ted__\. \(1995\-2001:__826\-827__\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Percepción 2/2\. Otro modo de describir lo que percibimos son variaciones sobre estos dos temas\. Cuando vemos *adónde* fue él, *cuándo *salió, q*uién* se fue con él y *cómo* iba vestido, estamos describiendo la percepción de algún hecho sin revelar exactamente de qué hecho se trata\. Uno no puede ver adónde fue a menos que uno vea algún hecho acerca del sitio al que fue, que \(por ejemplo\) fue al ático\. A menudo describimos los hechos observando \(p\.ej\., Luisa fue al concurso de baile\) mencionando sólo la cosa que observamos \(Luisa\) y dónde la observamos \(en el concurso de baile\)\. Lo que acabamos diciendo explícitamente \(que vimos a Luisa en el concurso\) es no\-epistémico \(pudimos ver a Luisa en el concurso sin haberla reconocido, e incluso sin saber nunca que ella estuvo en el concurso\), aunque lo que normalmente acertamos a comunicar por esta forma de palabras \(que recibe el nombre de implicación conversacional\) es algo epistémico: que vimos \(es decir legamos a conocer por la mirada\) *que* Luisa estaba en el concurso\.
+
+Una parte sustancial de la percepción \(tanto de cosas como de hechos\) es indirecta\. Percibimos cosas en televisión, en películas y en grabaciones\. Vemos que el depósito está vacío no mirando la gasolina que queda, sino el contador de carburante y el hecho de que dice «vacío»\. Y ello lleva a la cuestión de si hay objetos, y hechos acerca de esos objetos, que sean vistos directamente\. Los realistas directos creen que los objetos físicos \(o algunos de ellos al menos\) y ciertos hechos \(aunque no todos\) sobre esos objetos son vistos de manera directa e inmediata\. Uno no ve la taza \(ni el hecho de que es una taza\) percibiendo de manera más directa un objeto interno \(un dato sensorial que tiene forma de taza de café\)\. La teoría representativa de la percepción niega esto, tomando a los datos sensoriales como objetos primarios, y a los hechos sobre los datos sensoriales como hechos básicos, de la percepción\.
+
+
+## 826\-827
+Honderich, Ted\. \(1995\-2001:826\-827\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+pragmática\. Estudio del lenguaje que centra su atención sobre los usuarios y el contexto del uso del lenguaje más que sobre la referencia, la verdad o la gramática\. Así, el análisis pragmático de una orden toma nota de que el que habla debe ser un superior y que el que escucha tiene la capacidad de ejecutar la orden\. A nivel del discurso, el análisis pragmático nos dice cómo interactúan entre sí los participantes de una conversación, como cuando un coordinador aclara al oyente que el que habla está narrando una historia o elevando una plegaria\. Asimismo en el nivel del discurso, el análisis pragmático nos descubre cómo el escenario de la conversación elimina la ambigüedad de lo que se está discutiendo\. En una fiesta organizada por, digamos león Macías, entendemos perfectamente que el periodista que la está retransmitiendo se refiere a este León Macías y no a León Berenguer, por ejemplo, cuando dice: «León es un esnob»\. Del mismo modo, este tipo de análisis nos muestra lo que el contexto conversacional implica\. Por ejemplo, suponga el lector que un amigo suyo está buscando trabajo y se le pregunta por la cualificación de su amigo\. Si tú lector contesta simplemente que es un compañero agradable, estás implicando conversacionalmente que no hay más que decir en favor de tu amigo\.
+
+
+## 876
+Honderich, Ted\. \(1995\-2001:876\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Putnam, Hilary \(1926\-   \)\. Filósofo de Harvard, originalmente formado en la tradición del positivismo lógico, en especial por Rudolf Carnap\. Posteriormente Putnam se abrió a la influencia de filósofos tales como W\. v\. Quine, Ludwing Wittgenstein y Nelson Goodman\. En el curso de este proceso se desvió del redil, hasta tomarse eventualmente en severo crítico de aquel movimiento\. Frente al positivismo, argumenta que no hay fundamento privilegiado alguno \(p\.ej\., datos sensoriales\) de nuestro conocimiento, ni principio alguno de verificabilidad que ya esté fijado, ni tampoco la distinción hecho\-valor tal y como la caracterizaron los positivistas, y sostiene que las oraciones o proposiciones \(nuestras creencias\) no pueden ser estimadas como verdaderas o falsas individualmente consideradas \(es decir, más bien es correcto el holismo que el atomismo\)\.
+
+ Putnam critica también otra posición fundamentalista, a la que llama realismo metafísico\. Todos los enfoques presuntamente asimilables al punto\-de\-vista\-de\-la\-divinidad, enfoques que pretenden suministrarnos la concepción del Mobiliario del Mundo, están perversamente mal concebidos tanto si proceden de una perspectiva positivista\-relativista como si provienen de una perspectiva realista\-materialista\. Putnam caracteriza como «realismo interno» a su propia posición, que se sitúa en un lugar «medio\.»\. Esta posición, sostiene Putnam, caracteriza la objetividad tanto de la ciencia como de la ética mucho mejor que las posiciones extremas a las que se opone\. Pues si algo hacen tales posiciones extremas es más bien socavar que apoyar la objetividad\.
+
+ En años posteriores, Putnam ha rechazado el funcionalismo, la teoría de que los estados mentales son estados computacionales: una teoría que él mismo había fundado en un período más temprano de su carrera…
+
+
+## 877
+Honderich, Ted\. \(1995\-2001:877\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+qualia\. Las cualidades subjetivas de la experiencia consciente \(plural del singular latino *quale*\)\. Ejemplos de ello son el modo en que se ve el rojo, la manera en que el café huele, el modo en que ronronea el gato\. Em modo de resentirse tu dedo cuando tropiezas\. Explicar estas características de los estados mentales ha sido uno de los grandes obstáculos de las soluciones materialistas al problema mente\-cuerpo, porque parece imposible analizar el carácter subjetivo de estos fenómenos, que son comprensibles sólo desde el punto de vista de ciertos tipos de ser consciente, en términos físicos objetivos que sean comprensibles para cualquier individuo racional con independencia de sus particulares facultades sensoriales\.
+
+
+## 887
+Honderich, Ted\. \(1995\-2001:887\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+realismo ingenuo\. Una teoría de la percepción que sostiene que nuestra percepción ordinaria de los objetos físicos es directa, no mediatizada por conciencia alguna de entidades subjetivas, y que, en condiciones perceptuales normales, esos objetos tienen las propiedades que aparentan tener\. Si una conserva sobre ácida, el sol se aparece de color naranja, y el agua resulta caliente, entonces, si las condiciones son normales, la conserva es ácida , el sol de color naranja y el agua caliente\. Sabores, sonidos y colores no están en la cabeza de los perceptores; son cualidades de los objetos externos que son percibidos\. Ver un objeto no es \(como mantienen los teóricos de la representación\) ver una televisión mental, por así decirlo, donde las propiedades de un dato sensorial o percepto subjetivo \(p\.ej\., el color\) representan o «estar en lugar de» las propiedades objetivas y científicas del objeto externo \(longitud de onda de luz reflejada\)\. Aunque esta teoría lleva el nombre de «ingenua», y se dice ser la propia del hombre de la calle, no necesita negar ni estar en conflicto con las explicaciones científicas de la percepción\. Sólo necesita negar que la conciencia perceptual que uno tiene de las propiedades objetivas, comporta la conciencia de las propiedades subjetivas \(mentales\) que hacen de intermediarias\.
+
+
+## 826\-827
+Honderich, Ted\. \(1995\-2001:826\-827\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Reduccionismo \(1/3\)\. Uno de los términos de los que se ha hecho un mayor uso y abuso en el léxico filosófico, y en cuya exposición es conveniente introducir una división tripartita\.
+
+ El reduccionismo *ontológico* se refiere a la creencia en que la entera realidad consta de un número mínimo de entidades o sustancias\. Una de ellas podría ser simplemente la reducción a un cierto tipo particular de una variedad de entidades \(como en «Todos los organismos son reducibles en última instancia a moléculas», pero lo que a menudo se pretende es establecer la tesis más metafísica de que no hay más que una sola sustancia o «tejido del mundo» y que éste es material\. De aquí que el reduccionismo ontológico sea equivalente a una cierta clase de monismo, que niegue la existencia de fuerzas vitales ocultas y cosas semejantes, y que defienda que los organismos no son más \(ni menos\) que máquinas de funcionamiento complejo\. Sin embargo, cabría muy bien intentar reducir las cosas materiales a alguna otra sustancia, como la conciencia\. Alternativamente, cabría incluso pensar que hay dos o más sustancias irreductibles\. Y el objetivo sería entonces reducir todas las otras a estas cuantas sustancias fundamentales\. 
+
+
+## 890\-891
+Honderich, Ted\. \(1995\-2001:890\-891\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__Reduccionismo\. __\(2/3\)\. El reduccionismo *metodológico* sostiene que, en ciencia, «lo pequeño es hermoso»\. Así, la mejor estrategia científica es siempre buscar las explicaciones en términos de entidades más y más diminutas\. Ésta ha sido individualmente la marca de algunos de los mayores éxitos de la ciencia, y no solamente en la física\. El logro más espectacular del reduccionismo metodológico en los años recientes ha sido la demostración de que la unidad hereditaria clásica, el gen, es una macromolécula, al ácido deoxirribonucléico \(ADN\)\. Convendría, sin embargo, tener en cuenta que «pequeño» en este contexto es un término relativo, y que habría que ser cauteloso para no establecer una burda identificación entre reduccionismo metodológico y el «microreduccionismo» comúnmente usado, especialmente si este último implica que la explicación ha de hacerse en términos de microunidades\. El psicólogo puede intentar reducir los principales movimientos sociológicos a los sentimientos y comportamientos de los individuos humanos; más, sin embargo, podría pensar \(con razón\) que sería estúpido intentar una ulterior reducción a moléculas o a entidades inferiores\.
+
+ A pesar de su éxito, el reduccionismo metodológico ha sido altamente controvertido, pues va en contra de las pretensiones de los que \(como, especialmente los marxistas\) defienden que el mundo está ordenado jerárquicamente, y que las entidades situadas en los niveles superiores no pueden ser nunca enteramente analizadas en términos de entidades de niveles más bajos\. 
+
+
+## 891
+Honderich, Ted\. \(1995\-2001:891\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__Reduccionismo\. __\(3/3\)\. Especialmente contencioso ha sido el llamado «reduccionismo biológico», asociado generalmente con el movimiento sociobiológico, que supone que la naturaleza humana es totalmente explicable en términos de la genética\. Puede dudarse que nadie haya defendido nunca realmente que los humanos seamos meras marionetas de doble hélice; pero no puede ser negado que algunos señores biólogos se han entregado a estúpidos \(y socialmente peligrosos\) juegos de la fantasía sobre el control que nuestra biología ejerce sobre nuestras vidas\.
+
+ El reduccionismo en la *teoría* plantea la cuestión de la relación entre sucesivas teorías dentro de un campo, como la que hay entre la teoría de Newton y la de Einstein\. ¿Se trata siempre de una cuestión de reemplazo, donde la nueva teoría expulsa a la antigua, o a veces de absorción, o «reducción teórica», donde se muestra que la más vieja es una consecuencia deductiva de la nueva? Muchos han sostenido que, como en el caso de Newton\-Eistein y también en el episodio genético molecular clásico, el resultado es una reducción más que un reemplazo\. 
+
+ Este modo de pensar ha sido duramente atacado por pensadores como el filósofo\-historiador Thomas Kuhn, para quien, puesto que los términos utilizados en las diversas teorías son siempre «inconmensurables», la reducción de teorías no es posible nunca\. Dado que esta idea de la reducción está estrechamente ligada a la imagen de las teorías científicas como sistemas hipotético\-deductivos, y dado también que esta última imagen ha perdido ahora gran parte de su anterior favor, muchos filósofos actuales coincidirían con sus colegas científicos en que lo que importa no es tanto la relación entre lo antiguo y lo nuevo, sino los méritos relativos de las sucesivas teorías a lo largo del tiempo\. … Aunque pocos negarían la tesis ontológica de que los organismos, incluyendo a los humanos, están hechos del mismo material que el resto del mundo físico, no se sigue necesariamente de eso que los modos de explicación hayan de ser los mismos a lo largo del panorama científico, o que una reducción teórica es siempre posible o ciertamente fructífera\. 
+
+
+## 891
+Honderich, Ted\. \(1995\-2001:891\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__reduccionismo mental\. __El reduccionismo respecto a una determinada materia X es la pretensión de que todos los hechos relativos a X pueden ser reducidos a —esto es, puede mostrarse o interpretarse que son— hechos relativos a otra materia Y \(«la base de la reducción»\)\. El reduccionismo es filosofía de la mente es la tesis de que los hechos relativos a lo mental son reducibles a hechos físicos, es decir, a hechos relativos a la materia y a los procesos materiales\.
+
+ ¿Cuáles son los requisitos para realizar la reducción mente\-cuerpo? Según el dualismo de Descartes, las mentes existen como «sustancias mentales», objetos que están totalmente fuera del dominio de lo físico\. Según esta concepción, los hechos relativos a la mentalidad serían físicamente irreductibles, puesto que serían hechos relativos a esas entidades inmateriales\. El primer requisito para la reducción de la mente\-cuerpo es, por tanto, renunciar a la idea de las mentes como objetos no físicos\. Y esto puede hacerse o bien identificando a las mentes con los cerebros o con otras estructuras físicas apropiadas, o bien negándose a considerar a las mentes como entidades sustantivas y atribuir las propiedades mentales a los organismos y a otros sistemas físicos\. En uno y otro caso, los portadores de propiedades psicológicas son sistemas físicos\.
+
+
+## 839
+Honderich, Ted\. \(1995\-2001:839\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+satisfacción\. La relación de satisfacción fue introducida en las investigaciones lógicas por Alfred Tarski\. Una fórmula como «x > 7», por ejemplo, es satisfactoria para algunos valores \(en este caso, los que son menores que 7\) de su variable numérica «libre» x, y no por otros\. Tarski extendió esta explicación a fórmulas de cualquier grado de complejidad lógica, como paso preliminar para definir la verdad en aquellas fórmulas cuyas variables, si las había, se encontraban ligadas por un cuantificados\.
+
+
+## 890\-891
+Honderich, Ted\. \(1995\-2000:890\-891\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Searle, John R\.b \(1932\-   \)\. Filósofo de la mente y del lenguaje, en la Universidad de California en Berkeley\. Para Searle, la mente es intencional \(a lo Brentano\) en el sentido de que las percepciones, memorias, imaginaciones, deseos y muchos otros estados mentales están orientados a objetos \(p\. ej\., yo veo el *coche* y recuerdo a *Tía Fanny*\)\. El lenguaje, visto por Searle principalmente desde la tradición de los actos de habla de J\.L\. Austin, es también intencional, aunque derivativamente\. Su teoría intencional, y el énfasis que pone en la conciencia como característica intrínseca de la mente, lo enfrenta con las doctrinas behavioristas, funcionalistas y otras teorías materialistas de la mente\. Según Searle, aunque la mente emerge del cuerpo, posee un ineliminable carácter subjetivo que las versiones materialistas no pueden tratar de manera adecuada\. En relación con esta afirmación, Searle usa su famoso argumento del cuarto chino para mostrar que incluso aunque un «sistema» \(sea un computador o una persona\) encerrado en una habitación pueda manipular símbolos chinos, no necesita para ello operar al nivel del significado\. Para que esto ocurra, es necesario introducir en el sistema conceptos mentales \(intencionales\)\.
+
+
+## 890\-891
+Honderich, Ted\. \(1995\-2001:890\-891\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+semántica, teoría, de la verdad\. La teoría semántica de la verdad fue desarrollada por Tarski, quien estaba particularmente interesado en superar las paradojas semánticas que los lenguajes naturales suscitan cuando se habla en ellos de la verdad, como es el caso de la paradoja del mentiroso\. Tarski sostenía que la verdad sólo podía ser definida adecuadamente para un lenguaje que no contuviese dentro de sí el predicado «verdadero»\. Llamando a un lenguaje L, el lenguaje objeto, Tarski procedió a dar una definición por recursión de verdad\-en\-L, siendo formulada esta definición en un metalenguaje apropiado\. Para que tal definición fuera satisfactoria, decía Tarski, tendría que capacitar a uno para probar todas las equivalencias verdaderas de la forma «S es verdadero\-en\-L *si y solamente si* *p*», donde «S» es una especificación estructural de un enunciado de L, y *p *es la traducción correcta de ese enunciado en el metalenguaje\. Tarski mostró cómo podría realizarse esta tarea en el seno de ciertos lenguajes artificiales formalizados, pero creía que el método era susceptible de ser aplicado para proporcionar una definición de la verdad en cualquier lenguaje natural, tal como el español, por ejemplo\.
+
+
+## 950
+Honderich, Ted\. \(1995\-2001:950\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+sensación \(1/3\)\. Es el aspecto subjetivo de la percepción, tomado usualmente como lo que denota la fase sensorial \(en tanto que opuesta a la conceptual\) de un proceso perceptual\. Al escuchar un concierto, por ejemplo, el elemento sensación es el suceso del auditorio consciente que precede a cualquier pensamiento y creencia \(si la hay que la sensación suscite en el perceptor\. Uno podría oír —y tener así una sensación causada por— un cuerno francés in saber o creer que es un cuerno francés\. Uno podría equivocarse identificándolo con un trombón o no tener pensamiento alguno respecto a él\. Esto es, presumiblemente, lo que sucede con los animales y los niños pequeños\. Ellos pueden oír los cuernos franceses\. Pueden por tanto tener sensaciones —quizá incluso sensaciones similares a las nuestras— sin que esas sensaciones les produzcan creencias parecidas a las nuestras\. Tal vez \(aunque esto es discutible y depende de lo que se entienda por tener una creencia\) puedan tener sensaciones \(ser sensitivos\) sin tener creencias en absoluto\.
+
+ Además de las sensaciones \(visual, auditiva, olfativa, etc\.\) asociadas con las diversas modalidades del sentido, hay también una amplia variedad de otros fenómenos semejantes a los sensoriales que ordinariamente son clasificados como sensaciones:punzada\. Cosquilleos, dolores, picazón, sed, hambre, sentimientos de inquietud sexual, etc\. Si hay alguna característica que distinga a este surtido de entidades mentales, es, quizá, su evidente carácter introspectivo\. El sonido de un cuerno francés es obviamente distinto de su aspecto físico o del sentimiento que provoca\. Si la sensación es identificada, como lo es típicamente en el caso de la conciencia perceptual, como el modo en que las cosas suenan, aparecen y nos afectan, entonces esas sensaciones, aunque provienen todas de la misma fuente \(un cuerno francés\), tienen una cualidad intrínseca e introspectivamente obvia que las distingue de actitudes proposicionales tales como pensamiento, creencia, juicio y conocimiento\. 
+
+
+## 950
+Honderich, Ted\. \(1995\-2001:950\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__sensación\. __\(2/3\)\. Las creencias difieren entre sí solamente en lo que respecta a su contenido —la proposición creída— no en lo que atañe a su cualidad intrínseca o el «sentir» de la persona que la tiene\. Las sensaciones, por otra parte, pueden ser relativas, o dirigidas, a la misma cosa \(un cuerno francés\) y, sin embargo, ser enteramente distintas\. Como resultado de ello, los pensamientos son clasificados en términos de su intencionalidad —qué son o sobre qué tratan—, mientras que las sensaciones son especificadas en términos de su carácter intrínseco: qué hacen sentir o pensar a la persona que las experimenta, con independencia de lo que ellas puedan ser, si es que algo son, o a qué se puedan referir\.
+
+ Una segunda característica de las sensaciones, que las coloca fuera de los sucesos discursivos tales como razonar, pensar, conocer y recordar, es que las sensaciones son, en una primera aproximación al menos, independientes del capital conceptual o intelectual \(si lo hay\) del sujeto\. Uno no puede desear bombones, creer que hay bombones en la bombonera, o recordar qué comió bombones sin saber lo que son los bombones\. Uno puede, sin embargo, saborear bombones, olerlos y verlos —y, en este sentido tener sensaciones de bombones— mientras es completamente ignorante de lo que son los bombones\. De este modo, las sensaciones constituyen un estadio primitivo de la existencia\. Ocurre a un nivel —presumiblemente en ciertos animales— en el cual el pensamiento y la razón no están, si ello es posible, bien desarrollados\. Uno no necesita el concepto de picazón o de dolor, ni la capacidad de tener pensamientos de dolor y creencias de dolor, para *sentir* picores y dolores\.
+
+
+## 950\-951
+Honderich, Ted\. \(1995\-2000:950\-951\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+__sensación\. __\(3/3\)\. Aunque las sensaciones, a diferencia de los pensamientos, difieren entre sí de una manera intrínseca, su estatuto epistemológico sigue siendo discutible\. ¿Somos directamente conscientes de \(digamos\) una sensación visual cuando, de un modo perfectamente normal, percibimos un objeto? Si lo somos, ¿somos entonces conscientes de dos cosas en la percepción normal: el objeto externo \(que digamos percibimos\) y la sensación interna que éste \(el objeto\) provoca en nosotros?
+
+¿O somos directamente conscientes de sólo una cosa, la sensación, cuando el objeto externo es alcanzado \(¿conocido?, ¿percibido?\) por algún proceso inferencial o constructivo \(siendo entonces el objeto conocido o percibido indirectamente\) como la teoría representativa mantiene? ¿O sólo somos conscientes del objeto externo, siendo conocida la sensación interna únicamente por inferencia, como el realismo ingenuo afirma? De ser así, ¿cómo tendríamos que entender el conocimiento —que parece directo— del carácter de nuestras sensaciones?
+
+
+## 952
+Honderich, Ted\. \(1995\-2001:952\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+sentido y referencia\. Traducción estándar de los términos de Frege *Sinn y Bedeutung*, cuyo origen está en el artículo «Über Sinn und Bedeutung»\. La referencia de una expresión es la entidad representada por esa expresión: las expresiones que refieren o nombran representan objetos, los predicados representan funciones \(en sentido matemático, que Frege llamó «conceptos»\), y las oraciones representan valores\-de\-verdad\. Expresiones referentes y predicados se combinan para formar oraciones completas, cuyas referencias son función de la referencia de sus partes\. Los sentidos son «modos de presentación» de las referencias: los términos «Cicerón» y «Tulio» tienen la misma referencia pero diferentes sentidos\. El sentido fue introducido inicialmente por Frege para resolver el enigma de la identidad: «si Cicerón tiene la misma referencia que Tulio», entonces ¿cómo puede ser informativa la oración «Cicerón es Tulio» cuando «Cicerón es Cicerón» no lo es’ Los sentidos de las partes de oraciones se combinan para formar los sentidos de oraciones que Frege llamó «pensamientos»\.
+
+
+## 969\-970
+Honderich, Ted\. \(1995\-2001:969\-970\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+solipsismo\. \(1/3\) La idea de que sólo existe uno mismo\. «¿Hay alguien aquí?» pregunta el visitante encerrado en museo de figuras de cera cuando éste ha cerrado sus puertas, «¿o sólo estoy yo?»\. Los filósofos levantan las cejas al discutir cuestiones similares a éstas cuando no concurren especiales circunstancias\. Uno de los puntos a debatir es si las otras criaturas tienen una vida interior \(pensamientos, deseos, sentimientos\) del tipo que hace que el sujeto sea una persona\. E, incluso aunque la tengan, ¿está el investigador en situación de conocer o razonablemente creer que la tienen? Este «problema de las otras mentes» presenta el solipsismo como una conclusión al parecer inevitable de ciertas suposiciones \(cartesianas\), por las cuales el acceso a los estados mentales de los otros es un camino indirecto que envuelve una oculta inferencia a partir del comportamiento\.
+
+ Una versión más radical consiste en sostener que la experiencia inmediata de uno mismo tiene una fundamental y autocertificada realidad, y que un conocimiento de objetos «físicos» o «públicos» que sea comprobable a éste es inalcanzable\. Esta postura está a veces fundada en el hecho de que cuando una persona pierde la conciencia su mundo entero se viene abajo\. Los argumentos que ponen en duda la existencia o la accesibilidad de un mundo independiente de la mente nos dejan sin línea de acceso a la presencia de los otros, sin defensa contra la amenaza de solipsismo\.
+
+
+## 969\-970
+Honderich, Ted\. \(1995\-2001:969\-970\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+solipsismo \(2/3\)\. Es característico que estos argumentos escépticos tomen un giro más radical cuando se recuerda el vínculo que hay que hay entre captar el significado de las palabras y presentar ejemplos\. Si yo no estoy nunca familiarizado con tu experiencia y no puedo adquirir significado de ella, ¿cómo puedo entender las palabras que pretendidamente se refieren a ella? El solipsista respondería que yo tendría que yo tendría que aprender lo que las palabras mencionan conectando a éstas son elementos de mi propia experiencia\. ¿Y cómo puedo yo obtener jamás la idea de que hay cosas fuera de esa experiencia? El mundo tiene que ser mi mundo\.
+
+ Los contraataques se centran habitualmente sobre lo que el escéptico oculta\. Al establecer su postura puede usar pronombres como «yo» o «mí», con lo cual está asumiendo una distinción entre él mismo y los otros\. Pero, si no hay otros, ¿qué sentido tiene proclamar que la experiencia es *mía*? Donde no hay posibilidad de otros, la idea de señalar a una persona mejor que otra, presupuesta en el uso normal del pronombre «yo», parece inútil\. Por esa razón, la famosa sugerencia de Lichtenberg de que haríamos mejor diciendo «se piensa» en lugar de «yo pienso» encuentra buena acogida entre los solipsistas\. \(Y, presumiblemente también, «se ofende», «se elige», etc\.\)\. 
+
+
+## 969\-970
+Honderich, Ted\. \(1995\-2001:969\-970\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Solipsismo\. \(3/3\)\. En las *Investigaciones filosóficas, §§248 ss\., *intenta mirar Wittgenstein esta postura radical cuestionando la posibilidad de que alguien pudiera adquirir un lenguaje privado\. La necesidad de observar una distinción entre el juicio correcto y el incorrecto nos fuerza a admitir que el lenguaje mismo es eminentemente social\. Lo cual parece permitir el retorno a la posición del sentido común de que cuando el solipsista *dice algo*, lo que dice tendría que ser una comunicación inteligible; pero el entendimiento de su tesis parece ser una posibilidad que ella misma descarta\.
+
+Más, aunque el solipsismo sea absurdo, su discusión no lo es\. Las conclusiones solipsistas pueden ser utilizadas como poderosos argumentos por *reductio ad absurdum* contra algunas suposiciones comunes, y los interesantes equívocos que genera el solipsismo encierran también reales intuiciones sobre el lenguaje y el pensamiento\. El solipsismo nos lleva a considerar de qué modo funcionan las palabras «yo» y «mío», cuál es la relación entre los objetos relativamente permanentes que nos rodean y el testimonio de nuestros sentidos, y cómo aprendemos a hablar sobre las sensaciones\. Igualmente nos lleva a cuestionar ideas comunes acerca de la primacía de la experiencia privada en la fijación del significado de las palabras en general\. Hay método en la locura de perder la cabeza cuando todo lo relativo a un sujeto es transferido a los otros\.
+
+
+## 991
+Honderich, Ted\. \(1995\-2001:991\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Tarski, Alfred \(1/2\)\(1902\-1983\)\. Tarski nació en Polonia y enseñó matemáticas en la Universidad de Varsovia hasta que emigró a los estados Unidos en 1939\. … Entre los filósofos es mejor conocido por su obra sobre lógica, pues en ella estableció los fundamentos de la moderna teoría de esta disciplina\.
+
+ Las ideas seminales aparecen en un artículo inicial \(traducido al ingles como «The Concept of Truth in Formalized Language» Èl concepto de verdad en los lenguajes formalizados\]\. 1935, y reproducido en *Logic, Semantics and Metamatemathics* \[Lógica, semántica y metamatemáticas\], cuyo objetivo era ofrecer una definición de verdad para los enunciados que aseguran la satisfacción del esquema de tipo T \(«la nieve es blanca»\) y evitara la paradoja del mentiroso\. En este artículo distingue Tarski entre un lenguaje formalizado L\., por una parte, cuyos enunciados satisfacen un criterio puramente convencional de corrección formal, y, por otra, una *interpretación* I de L\., una estructura que consta de dominios de individuos y predicados y relaciones definidas en estos dominios\. Los dominios proporcionan los valores de variables del tipo apropiado en el lenguaje, y los predicados y relaciones de I son puestos en correlación con los símbolos de predicado y de relación de L\. Una caracterización general de *verdad en I *para los enunciados de L puede ser especificada en términos de relación, definida inductivamente, de *satisfacción*\. Tarski mostró también que esta definición no podía ser aplicada directamente a L, sino que requería el concurso de un metalenguaje más rico \(el teorema de Tarski\)\.
+
+ Si cada uno de los conjuntos de Q de enunciados de L es verdadero en I, entonces se dice que I es *modelo Q*\. En su artículo de 19936 «On the Concept of Logical Consequence» \[Sobre el concepto de consecuencia lógica\] \(reimpreso en * Logic, Semántics and Metamathematics*\), Tarski estableció lo que rápidamente se convirtió en la teoría aceptada de consecuencia lógica basada en el concepto de modelo:
+
+
+## 992
+Honderich, Ted\. \(1995\-2001:992\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+Tarski, Alfred\. \(2/2\)\. un concepto de modelo: un enunciado *e *es una consecuencia de un conjunto *P* de premisas justamente en el caso, cuando ambos están formalizados, de que todo modelo de P es un modelo de \{*e*\}*\.* Tan descomunal ha sido la revolución de Tarski en lógica que sólo en tiempos recientes se han levantado algunas voces de disentimiento \(p\. ej\., Etchemendy, *The Concept of Logical Consequence*\)\.
+
+
+## 995
+Honderich, Ted\. \(1995\-2001:995\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+teoría representativa de la percepción \(1/2\)\. Teoría que mantiene que en la percepción ordinaria se es consciente, de manera directa y más inmediata de las representaciones subjetivas \(datos sensoriales, perceptos, sensaciones\) que uno tiene del mundo externo\. Nuestro conocimiento de la realidad objetiva independiente de la mente\) es, así, derivado de \(o basado en\) el conocimiento de los hechos acerca de nuestra propia experiencia subjetiva\. Típicamente, esta postura es contrastada con la del realismo ingenuo\.
+
+ Un teórico de la representación no necesita mantener \(y usualmente no lo hace\) que nuestro conocimiento de las condiciones objetivas sea alcanzado mediante una inferencia consciente a partir de premisas que describen los efectos que produce en nosotros la realidad externa\. Al ver que hay pastelillos en el frasco \(un estado de cosas objetivo\), no llego a mi creencia de que hay pastelillos en el frasco por una inferencia consciente desde premisas que describen mi experiencia sobre los pastelillos está basada en el conocimiento de una condición subjetiva \(la sensación que los pastelillos produce en mí\) de la misma manera que el conocimiento que uno tiene de un partido de fútbol distante \(que es seguido por televisión\) está basado en el conocimiento de lo que está pasando en la pantalla de su televisor\.\. Incluso aunque no haya inferencia consciente, hay una dependencia entre una pieza de conocimiento y otra\.
+
+ Los argumentos en favor de una teoría representativa de la percepción apelan típicamente a ilusiones y alucinaciones\. Ver un conjunto blanco es \(o puede ser\) lo mismo desde un punto de vista subjetivo que tener una alucinación de , o soñar con, un conejo blanco\. Las causas pueden ser diferentes, pero las experiencias son las mismas\. 
+
+
+## 995
+Honderich, Ted\. \(1995\-2001:995\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+teoría representativa de la percepción \(2/2\)\. Puesto que \(como se ha argumentado\) uno es consciente de tener una representación mental o imagen en el caso de alucinaciones y los sueños, es razonable inferir que en la percepción ordinaria uno es también consciente de algo subjetivo\. La única diferencia entre ver un conejo blanco \(percepción verídica\) y tener una alucinación de un animal así, está en la causa de la sensación\. En la percepción verídica, el efecto \(la imagen interna de la cual uno es directamente consciente\) representa la causa —el conejo blanco— de una manera más o menos fiel\. En el caso de la alucinación, la causa —drogas en la corriente sanguínea, tal vez— está mal representada\.
+
+ Argumentamos que apelan a la fiabilidad del conocimiento del mundo exterior han sido también utilizados en apoyo de una teoría representativa de la percepción: nuestro conocimiento de la realidad está basado en un conocimiento más cierto \(¿infalible?\) de las apariencias \(la representación interna\) de la realidad\. Incluso aunque, en algún sentido, esto sea verdadero, no es suficiente para apoyar una teoría representativa a menos que esté combinado con la cuestionable premisa de que el conocimiento de las apariencias —que algo parezca rojo, por ejemplo— requiere una conciencia de lago que es rojo\. Esta cuestionable premisa ha sido llamada la «falacia del dato sensorial»\. Si no se la asume, el hecho de que nuestro conocimiento de los objetos del mundo esté basado en sus apariencias no implica que nosotros seamos conscientes de ninguna otra cosa distinta de los objetos externos mismos\.
+
+
+## 995
+Honderich, Ted\. \(1995\-2001:995\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+teoría representativa de la percepción \(3/3\)\. Los teóricos del representacionismo típicamente distinguen entre cualidades primarias y secundarias\. Las cualidades primarias se suponen ser aquellas que son compartidas por la representación mental y los objetos físicos que ella representa\. La figura del objeto, por ejemplo, está representada \(a veces mal representada\) por la figura de la imagen visual que produce nuestra visión de ese objeto\. Los colores y sonidos, por otra parte, son cualidades secundarias: son propiedades de la experiencia sensorial que no reflejan poderes objetivos en los objetos que sean causa de que nosotros experimentemos esas cualidades\. El verdor de la hierba está en el perceptor, no en la hierba\.
+
+
+## 1006
+Honderich, Ted\. \(1995\-2001:1006\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+tragedia\. La reflexión filosófica sobre un drama trágico es tan antigua como la tragedia misma\. Platón consideraba a la tragedia antitética con la filosofía, pues, según él, alimentaba una parte irreal del alma que obtiene placer identificándose con emociones violentas\. Su oposición a la preeminencia de la tragedia y su pretensión de suministrar una educación ética integral, introdujeron efectivamente a Platón a establecer que el único objetivo de la filosofía era ocuparse de la verdad y el bien\. En cambio, Aristóteles vio la tragedia como una representación de verdades universales que comprometa a nuestra piedad y temor de un modo beneficioso\. De concepciones posteriores, la de Nietzsche es la más conocida\. Para Nietzsche, la tragedia reúne una visión terrorífica de la destructibilidad del individuo \(asociada con Dionisos\) con una beatífica y ensoñadora imagen \(asociada con Apolo\) que da lugar a una poderosa forma de arte que es única\. La tragedia continúa fascinando a los filósofos interesados por la estética y la psicología moral\.
+
+
+## 1024
+Honderich, Ted\. \(1995\-2001:1024\)\. *Enciclopedia Oxford de filosofía*\. Madrid: Tecnos\.
+
+verificación, principio de\. Este principio, conocido también como principio de verificabilidad, tiene dos formas: 1\) El significado de un enunciado es el método de su verificación\. 2\) Un enunciado tiene significado si y sólo si es verificable en principio\. 1\) implica 2\), pero no todos reconocen la implicación conversa\. La verificación puede cubrir sólo procedimientos observacionales, en cuyo caso el principio se aplica sólo a enunciados «factuales», y los enunciados pretendidamente analíticos \(incluyendo a la matemática pura\), que de alguna manera son verdaderos por definición, reciben un tratamiento distinto\. Alternativamente, la verificación puede cubrir cálculos para establecer los significados\. El principio de verificación fue un dogma principal del positivismo lógico original, inspirado por observaciones de Wittgenstein\. Entre sus prominentes defensores se encuentran Moritz Schlick y A\. J\. Ayer\. Problemas relacionados con este enfoque son el juicio sobre el principio mismo y el hecho de que cualquier enunciado tendrá implicaciones verificables si se lo conjunta con otros enunciados convenientemente elegidos\. No obstante, la idea general de que el conocimiento genuinamente factual debe incrementar nuestro poder de predicción empírica ha influido sobre muchos filósofos\.
+

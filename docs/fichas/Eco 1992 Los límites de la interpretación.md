@@ -1,0 +1,182 @@
+# Eco 1992 Los límites de la interpretación
+
+
+## 49
+ECO, U\. \(1992: 49\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+Aspectos de la semiosis hermética\. El Modus, dos modelos de interpretación\.
+
+ El Modus\. Para el racionalismo griego, de Platón a Aristóteles y en adelante, conocer significa conocer a través de la causa\.
+
+ Para poder explicar el mundo a través de las causas hay que elaborar una noción de cadena unilineal: si un movimiento va de A hacia B, ninguna fuerza en el mundo podrá hacer que vaya de B hacia A\. Para fundar la unilinealidad de la cadena causal es necesario haber admitido algunos principios: el __principio de identidad__ \(A= A\), __el principio de no contradicción__ \(imposible que algo sea A y no A al mismo tiempo\) __y el principio de tercero excluido__ \(o A verdadero o A falso y *tertium no datur*\)\. De estos principios deriva la forma de razonamiento típica del racionalismo occidental, el *modus ponen: si p, entonces q, pero p; entonces q\.*
+
+Estos principios prevén, si no el reconocimiento de un orden fijo del mundo, al menos un contrato social\. El racionalismo latino acepta los principios del racionalismo griego, pero los transforma y enriquece en sentido jurídico y contractual\. La norma lógica es el *modus*, pero el *modus*, es también el límite, y por tanto, frontera\.
+
+
+## 60\-61
+ECO, U\. \(1992: 60\-61\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+LA HERENCIA DEL HERMETISMO HOY
+
+1\. he tratado de reconstruir *un modelo fuerte* de semiosis hermética\. Es legítimo preguntarse cuál es la relación entre este modelo y las actuales teorías de la interpretación textual\. Yo considero que hoy, muchas teorías y prácticas «reader\-oriented» son, de alguna manera, deudoras de la tradición hermética…
+
+ Con todo, no podemos ni con mucho ignorar que explica inspiración hermética son, por ejemplo, las páginas de Harold Bloom \(1975\) sobre la interpretación como *misreading y misprision*, donde es Bloom mismo quien paga su deuda con la tradición cabalística\. De manera igualmente explícita, un estudio como Geofrey Hartman, considerado uno de los precursores de la «Yale Deconstruction», vuelve a leer la tradición interpretativa talmúdica \(Hartman y Budick 1986\)\.
+
+2\. Las remisiones explícitas son, al fin y al cabo, menos interesantes precisamente porque están lúcida y críticamente descubiertas\. Bien mirado, si quisiéramos forjar un modelo abstracto de lector que con arrogancia «sacudiera» el texto \(como dice Rorty\) para imponer la *intentio lectoris*, entonces sería fuerte la tentación de recorrer, una vez más, las características de la semiosis hermética trazadas en los parágrafos precedentes y encontrar todas las premi*sas de una* mística de la interpretación ilimitada\. Este lector implícitamente admitiría que:
+
+
+## 61
+ECO, U\. \(1992: 61\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+Este lector implícitamente admitiría que:
+
+\(a\) un texto es un universo abierto donde el intérprete puede descubrir infinitas conexiones;
+
+\(b\) el lenguaje no sirve para captar un significado único y preexistente \(como intención del autor\); o más bien, el deber de un discurso interpretativo es mostrar que aquello de lo que se puede hablar es únicamente la coincidencia de los contrarios;
+
+\(c\) el lenguaje refleja lo inapropiado del pensamiento, y ser\-en\-el\-mundo significa sólo darse cuenta de que no se puede hallar un significado trascendental;
+
+\(d\)todo texto que pretenda afirmar algo unívoco es un universo abortado, o sea, el resultado del fracaso de un mal Demiurgo que, cada vez que intenta decir «esto es así», desata una ininterrumpida cadena de infinitas remisiones, durante la cual «esto» no es nunca lo mismo;
+
+\(e\) el pecado original del lenguaje \(y de todo autor que lo hay hablado\) es redimido por mi Lector Pseumático quien, comprendiendo que el Ser es Deriva, corrige el error del Demiurgo y entiende lo que los Lectores Ilicos están condenados a ignorar, buscando la ilusión del significado en textos nacidos para defraudarles;
+
+
+## 61\-62
+ECO, U\. \(1992: 61\-62\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+\(f\) aun así, todos pueden convertirse en Elegidos con tal que osen superponer su propia intensión de lectores a la inalcanzable y pérdida intención del autor; cualquier lector puede convertirse en un Superhombre que comprende la única verdad, es decir, que el autor no sabía de qué estaba hablando porque el lenguaje hablaba en su lugar;
+
+\(g\) para salvar el texto, para transformar la ilusión del significado es *infinito*, el lector debe sospechar que cada línea esconde un secreto, que las palabras no dicen, sino que aluden a lo no dicho que ellas mismas enmascaran\. La victoria del lector consistirá en hacerle decir al texto excepto aquello en lo que pensaba el autor, porque apenas se descubriera que existe un significado privilegiado estaríamos seguros que no sería verdadero\. Los Ilicos son quienes interrumpen el proceso diciendo «he comprendido» ; 
+
+\(h\) el Elegido es quien entiende que el verdadero significado de un texto es un vacío;
+
+\(i\) la semiótica es un complot de quien quiere hacernos creer que el lenguaje sirve para la comunicación del pensamiento\.
+
+ Prevengo la objeción: ésta es, sin duda, una caricatura de las teorías de la interpretación infinita\. Pero quitando que también las caricaturas sirven para evidenciar las tendencias, los rasgos, la fisonomía de otra forma inasible del caricaturizado, queda siempre el hecho de que esta caricatura no nos presenta a un monstruo\. Muchos de los «dogmas» que he enunciado no hay que despreciarlos *in toto*\. Y, sin embargo, todos juntos dibujan el cuadro de un síndrome patológico de la alusión y de la sospecha, e implican una metafísica, tan influyente como subterránea, de la semejanza\.
+
+
+## 62
+ECO, U\. \(1992: 62\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+3\. Que los seres humanos piensan basándose sobre juicios de identidad y de semejanza es indiscutible\. Pero también es cierto que en la vida diaria sabemos distinguir normalmente entre semejanzas pertinentes y relevantes, y semejanzas causales e ilusorias\. Podemos ver de lejos a alguien que por su figura nos recuerda a la persona A, que conocemos, tomarlo por A, y luego darnos cuenta de que se trata de un B desconocido: después —normalmente— abandonamos la hipótesis de la identidad y ya no damos crédito a la semejanza, que registramos como causal\. Lo hacemos porque cada uno de nosotros ha introyectado un principio indiscutible, ya ilustrado por varios semiólogos y filósofos del lenguaje; *desde un determinado punto de vista cualquiera cosa tiene relaciones de analogía, contigüidad y semejanza con cualquier otra*\.
+
+ Es posible jugárselo todo y afirmar que hay relación entre el adverbio *mientras* y el sustantivo *cocodrilo* porque —y como mínimo— ambos aparecen en la frase que estoy leyendo\. Pero la diferencia entre una interpretación sana y una interpretación paranoica está en reconocer que la relación es, precisamente, mínima, o en deducir, por el contrario, de este *mínimo* lo máximo posible\. El paranoico no es quien nota que, curiosamente, *mientras y cocodrilo* aparecen en el mismo contexto; es quien empieza a preguntarse por las razones misteriosas que me han inducido a juntar precisamente estas dos palabras\. El paranoico ve debajo de mis ejemplo un secreto, al que aludo y una conspiración, según la cual, sin duda, estoy actuando \(normalmente en perjuicio suyo\)\.
+
+
+## 63
+ECO, U\. \(1992:63\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+4\. Por juegos de influencias a menudo inasibles, la tradición hermética alimenta toda actitud crítica para la cual un texto no es sino la cadena de las respuestas que produce, allí donde se considera —como comenta maliciosamente Todorov \(1987\) citando una observación igualmente maliciosa de Lichetenberg a propósito de Böheme— que un texto es sólo un picnic en el que el autor pone las palabras y los lectores el sentido…
+
+ Nótese que estoy pensando en la hermenéutica gadameriana de la recepción de Jauss, donde se reconoce, y justamente, que en la lectura del texto hacemos confluir el depósito de interpretaciones previas que la tradición nos ha entregado\. Es un aspecto de la dialéctica interpretativa, inevitable y fructífero al mismo tiempo\. Estoy pensando, por el contrario, en aquellos a quienes este aspecto de la lectura impide aceptar que el texto pueda ser elevado a parámetros de sus mismas interpretaciones…
+
+5\. intento demostrar que la teoría perceana d ella semiosis ilimitada … no puede invocarse para sostener, como ha hecho Derrida, una teoría de la interpretación como deriva y deconstrucción\. Hay un sentido de los textos, o hay muchos sentidos, pero no se puede decir que no hay ninguno, o que todos son igualmente buenos\.
+
+ Hablar de límites de la interpretación significa apelar a un *modus*, esto es, a una medida\.
+
+
+## 65\-66
+ECO, U\. \(1992:65\-66\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+2\.2\. LA SEMEJANZA MNEMOTÉCNICA
+
+ Que cualquier artificio mnemotécnico sea un fenómeno de pertinencia semiótica es indiscutible\. Al menos si aceptamos la definición dada por Peirce, es decir: «Una acción o influencia que es o implica una cooperación de tres sujetos, como por ejemplo, un signo su objeto y su interpretante; no siendo tal influencia trirrelativa reducible a una influencia entre parejas» \(CP: 5\.484\)\.Definición que evoca la definición complementaria de signo como algo que está ante los ojos de alguien en lugar de otra cosa, en algún aspecto y carácter \(CP: 2228\)\.
+
+ Asociar de alguna forma una Y a una X significa usar la una como el significante o la expresión de la otra\. Hacerle un nudo *al pañuelo* es, sin duda, un artificio semiósico, así como lo era la secuencia de piedrecillas o de habas que el personaje del cuento iba colocando para volver a encontrar el camino en eel bosque\. Se trata de dos artificios diferentes, porque el nudo en el pañuelo vale como signo arbitrario de cualquier cosa que yo decida asociarle, mientras que la secuencia de piedrecillas instituye una homología vectorial entre la sucesión de piedras y el camino a recorrer y está en lugar de ese camino y no en lugar de cualquier camino posible\. En este caso, se trata de asociación no arbitraria pero motivada \(cf\. Eco 1975:3\.4\)\. Nos hallamos, por lo tanto, ante dos mecanismos semiósicos distintos, pero no nos hallamos todavía ante un sistema mnemotécnico\.
+
+1\. Que las mnemotécnicas eran un fenómeno semiósico lo sabían también los antiguos, que insistían sobre las analogías entre mnemotÉcnica y escritura \(cf\. Rossi, 1960, 2ª de\.: 137, 144, 160 y *pássim*\)\.
+
+
+## 65\-66
+ECO, U\. \(1992: 65\-66\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+2\. El hecho de que, a menudo, el significante sea una imagen mental \(en el sentido de que un lugar mnemotécnico puede ser tanto real como imaginario\) no cambia las cosas\. De Ockham en adelante se admite que también un ícono mental o un concepto pueden ser vistos como signo\. A lo sumo nos podemos preguntar, en el caso de que lugares e imágenes sean sólo mentales, cómo debe comportarse en mnemotécnico para recordar el aparato significante y así evocar los significados asociados\. Problema nada trivial, que, por ejemplo, Cosama Roselli trata en su *Thesaurus artificiosae* *memoriae* \(Venecia, Paduanius 1579\), donde, para poder recordar un sistema de lugares, se sugiere recordarlos por orden alfabético\. Lo que significa que una mnemotécnica mental requiere, para ser usada, de una mnemotécnica de activación, y así hasta el infinito, con todas las paradojas que nacen de cualquier argumento del tercer hombre\. El mismo Roselli, aun considerando las mnemotécnicas como significante mental, juzga más eficaces, aunque más abstrusas, mnemotécnicas que usen lugares e imágenes realizadas físicamente, tanto bajo forma de objetos como de pinturas, estatuas, letras alfabéticas o *litterae fictae* \(es decir, alfabetos en forma de animal, vegetal, mineral, etcétera\)\.
+
+
+## 66\-67\-68
+ECO, U\. \(1992: 66\-67\-68\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+Las mnemotécnicas grecolatinas se presentan, en primera instancia, como secuencia de criterios empíricos basados sobre asociaciones inspiradas en criterios retóricos; es decir, como ya sugería Aristóteles, apoyándose en «algo parecido, o contrario, o íntimamente vinculado»\. Cuando en la *Ad Herennium* \(III,xx,33\) para recordar a los testigos se imaginaban testículos de macho cabrío, se da una asociación por etimología\.
+
+*2\.2\.2\.* Semiótica como sistema
+
+ El problema reside en si existen mnemotécnicas que no sean sólo artificios semiósicos sino semióticas, es decir, sistemas que disponen de un plano de la expresión, forma y sustancia, en correlación con un plano del contenido, forma y sustancia\.
+
+ En una lengua tenemos, en el nivel de la expresión, una forma sintáctica que permite generar frases, una forma fonológica que permite general morfemas y lexemas\. Pero, y aquí está la novedad del enfoque semiótico hjelmsleviano, una forma debe existir también en el plano del contenido: en el sistema léxico el espacio semántico ocupado, por ejemplo, por la palabra *oveja*, no sólo se de*limita* en oposición al espacio semántico ocupado por la palabra *carnero*, y el espacio semántico de ambos se delimita en oposición al espacio semántico ocupado por *muflón*, sino que estas oposiciones están permitidas porque el contenido de las tres palabras citadas está determinado por la combinación de unidades semánticas menores \(oveja= ovino hembra vs carnero = ovino macho\)\. Hablar en este sentido de forma y contenido significa hablar de una organización sistemática del mundo\.
+
+
+## 71\-72\-75
+ECO, U\. \(1992: 71\-72\-75\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+2\.2\.4\.1\. Las asignaturas y la retórica de la semejanza
+
+ Ya hemos aludido en el ensayo precedente a cómo todo el pensamiento hermético está embebido por el concepto de simpatía universal, que se expresa a través de las *signaturae rerum*, esto es, a través de aquellos aspectos formales de las cosas que remiten por *semejanza* a aspectos formales de las cosas que remiten por *semejanza* a aspectos formales de las cosas \(del mundo sublunar al astral y de éste al mundo espiritual\)\. Para hacer perceptibles estas relaciones de simpatía, Dios ha impreso sobre cada objeto del *mundo,* como un sello, un rasgo que hace reconocible el parentesco, de otro modo oculto\.
+
+2\.2\.4\.2 Signaturas, retórica, correlación ,mnemotécnica
+
+ Ahora bien, aparte de la posibilidad de acción recíproca, hay un tipo de procedimiento semiósico que reproduce la flexibilidad y tolerancia del pensamiento mágico, y el procedimiento retórico… La retórica, o al menos esa parte de la retórica que es la *elocuentio, *permite cualquier sustitución, tanto por semejanza como por contraste, de la parte por el todo o de las causas por el efecto \(y viceversa\) e incluso por antítesis y oposición \(lo poco por lo mucho como en la litote, o lo mucho por lo poco como en la hipérbole, o lo blanco por lo negro como en la ironía\)\.
+
+
+## 75
+ECO, U\. \(1992: 75\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+ Pero no es que la retórica tenga rasgos en común con la metafísica de la simpatía y de las asignaturas: es el que la búsqueda de las asignaturas procede según una lógica retórica\. Los teóricos de las asignaturas, seguros de que las relaciones de simpatía cósmica deben existir, creen descubrir semejanzas que, en realidad, *están fundando* ellos con complejas operaciones retóricas\. La *erba ocularis* y la sanguinaria primero prueban \(al menos según la tradición\) su capacidad de causar la curación del órgano, luego reciben el nombre del órgano que curan, y por fin—por efecto de hipotiposis, y gracias al bautismo metafórico —se ven «parecidas» al órgano que curan\. La cinoglosa y el satiricón primero reciben el nombre a causa de una semejanza morfológica y, luego, se consideran metonímicamente vinculados al órgano del que son metáfora\.
+
+ Pues bien, las mnemotécnicas renacentistas y barrocas no proceden de forma distinta \(cf\. Bolzoni 1987: 8\-19\)\. Rosselli, aun a pesar de ser dominico, tomista y sistemático, se propone a un cierto punto: «Positis figuris, nunc consequenter quomodo ad memoranda applicentur, dicendum restat»\. Sabe que la correlación debe regirse por la semejanza, pero sabe también que debe aclarar «quomodo multis modis, liqua res alteri sit similis» \(*Thesaurus*, p\. 107\)\. En otras palabras, sabe que la semejanza siempre se realiza, porque cada cosa puede ser semejante a otra, *sub aliqua ratione*\. Y he aquí cómo, en el capítulo IX de la segunda parte, intenta sistematizar sus propios criterios sin conseguir ir más allá de una mera lista de figuras retóricas\. Así, pues, las imágenes pueden corresponder a las cosas:
+
+
+## 76
+ECO, U\. \(1992: 76\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+— por semejanza; la cual, a su vez, se subdivide en semejanza en substancia \(el hombre como imagen microscópica del macrocosmos\), en cantidad \(los diez dedos por los diez mandamientos\), por metonimia y antonomasia \(Atlas por los astrónomos o por la astronomía, el oso por el hombre iracundo, el león por la soberbia, Cicerón por la retórica\);
+
+— por homonimia: el perro animal por el perro constelación;
+
+— por ironía y contraste: el fatuo por el sabio;
+
+— por impronta: la huella por el lobo, o el espejo en el que se admira Tito por Tito;
+
+— por nombre de diferente pronunciación:* samun* por *sane*;
+
+— por semejanza de nombre: Arista por Aristóteles;
+
+— por género y especie: leopardo por animal;
+
+— por símbolo pagano: águila por Júpiter;
+
+— por pueblos: los partos por las flechas, los escitas por los caballo, los fenicios por el alfabeto;
+
+
+## 75
+ECO, U\. \(1992: 75\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen
+
+— por signo zodiacal: el signo por la constelación;
+
+— por relación entre órganos y función;
+
+— por accidente común: el cuervo por el etiope;
+
+— por jeroglífico: la hormiga por la providencia\.
+
+ Guilio Camillo Delminio, en *L’Idea del Theatro* \(Florencia 1550\), habla con desenvoltura de semejanza por rasgos morfológicos \(el centauro por la hípica\), por acción \(dos serpientes luchando por las artes militares\), por contigüidad mitológica \(Vulcano por las artes del fuego\), por causa \(los gusanos de seda por el arte indumentaria\), por efecto \(Marsias despellejado por la matanza\), por relación de gobernante a gobernado \(Neptuno por las artes náuticas\), por relación entre agente y acción \(Paris por el foro civil\), por antonomasia \(Prometeo por el hombre artífice\), por iconismo vectorial \(Hércules tirando la flecha hacia lo alto por la ciencia relativa a las cosas celestes\), por inferencia \(Mercurio con un gallo por comercio\)\.
+
+
+## 76
+ECO, U\. \(1992: 76\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+ Las mnemotécnicas heredan del pensamiento hermético la exagerada flexibilidad para establecer relaciones y analogías, precisamente porque ya no se presentan como técnicas sino como *clavis universalis*\. En esta fase de la cultura europea, al no existir todavía la clave universal, el mnemotécnico lleva consigo un manojo heterogéneo de llaves, donde cada una es buena mientras dé la impresión de entonar un poco la puerta\. 
+
+ Al ponerse como modelo reducido del edificio del universo, una mnemotécnica es deudora de la metafísica influyente de las signaturas y —modelando el universo en forma de teatro— no lo expresa al modo abstracto de la lógica medieval ni en los términos cuantitativos de la ciencia galileana, sino según una lógica de la cualidad y, por tanto, en los modos de la retórica\.
+
+
+## 80\-81
+ECO, U\. \(1992: 80\-81\)\. \.*Los límites de la interpretación*\. Barcelona: Lumen\.
+
+ Si es verdad que se trata de poner en correlación una forma de los lugares y de las imágenes con la forma y la decoración del mundo, estableciendo cadenas de relaciones homólogas, la mnemotécnica parece reacia a elaborar una lógica de las cadenas; más *bien* ponen en juego un hermetismo interpretativo por el que, pudiendo todo ser signatura del todo, el juego de las correspondencias se hace proteiforme,
+
+ Se reproduce la situación de toda doctrina de las signaturas donde, como ya había notado Foucault \(1966: II, 3\): «La semejanza no permanece jamás estable a sí misma; sólo se la fija cuando se remite a otra similitud que, a su vez, llama a otras nuevas; de suerte que cada semejanza no vale sino por acumulación de todas las demás y debe recorrerse el mundo entero para que la menos de las analogías quede justificada y aparezca al fin como cierta… El saber del siglo XVI se condenó a no conocer nunca sino la misma cosa y a no conocerla sino al término, jamás alcanzando, de un recorrido indefinido» \(trad\. Esp\.; 38\-39\)\-
+
+ Así, precisamente en el centro de una metafísica de la correspondencia entre orden de la representación y orden del cosmos, se asiste a una especie de teatro de la deconstrucción y de la deriva infinita\.
+
+ 
+

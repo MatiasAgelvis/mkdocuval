@@ -1,0 +1,1080 @@
+# Strawson 1997 Análisis y metafísica
+
+
+## 12
+__STRAWSON, P\.__ \(1992\-1997\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\. SANFÉLIX V\. \(1997:12\)\. “El metafísico tolerante” En 
+
+ Ya el propio Aristóteles nos da pie para dos concepciones muy diferentes de la __Metafísica__\. Por una parte ésta podría entenderse como una ciencia ocupada de un ámbito *especial* de la realidad, aquel que __*trasciende* o está más allá de lo físico__; el estudio, en suma, de las sustancias inmateriales como lo serían, por ejemplo y según cierta tradición, Dios y el alma\. Por la otra, como __una disciplina cuyo objeto sería clarificar los rasgos más *generales* de la realidad__ o, como decía el propio Aristóteles con una expresión célebre, como el estudio de «lo que es en tanto que es»\.
+
+ Esta no es el lugar para rastrear la complicada relación entre la metafísica especial, o __trascendente__, y la metafísica general, u __ontológica__ … No es posible alcanzar un conocimiento teórico de Dios o del alma \(entendida, por ejemplo, a la manera cartesiana; como sustancia simple e inmaterial\), construir una teología o una psicología racional\. Pero esta conclusión escéptica o crítica, es el resultado que se obtiene al construir una metafísica general, una ontología, que no se entiende ahora, a la manera aristotélica, como una investigación de lo que es en tanto que es, sino de cómo podemos obtener conocimiento y, consecuentemente, de los límites de éste\.
+
+__SANFÉLIX V\.__ \(1997:13\-14\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+\.\.\. La metafísica de Strawson reivindica es una metafísica general\. Cuando él habla de metafísica lo que quiere decir es, en realidad, ontología\. Se trata de investigar *la* estructura general de la realidad partiendo de nuestra concepción de la misma\.
+
+ Si hablamos de nuestra estructura conceptual, de la estructura de nuestro pensamiento sobre el mundo, en lugar de hablar, como si dijésemos, del mundo directamente, conservamos el control más firme de nuestro propio proceder filosófico, una comprensión más clara de aquello que nos ocupa\.
+
+__Resumamos: Strawson entiende que el núcleo de la filosofía es la metafísica; y por metafísica entiende la realidad ontológica, y por ontología entiende, a su vez, la tarea de presentar la estructura general de nuestro pensamiento sobre el mundo__\.
+
+__SANFÉLIX V__\. \(1997:16\-17\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+ \.\.\. también podemos ahora dar una enumeración más completa: es una metafísica general, una ontología reflexiva que pretende describir el núcleo inmutable del esquema o sistema conceptual del que nos servimos para pensar la realidad\. Y es al conjunto de todo esto a lo que Strawson bautizó con un rótulo que ha hecho fortuna: «__Metafísica descriptiva__» …
+
+ Si es a Strawson a quien le toca mover en primer lugar piezas, debe empezar por suministrarnos algo así como una lista de esos conceptos que según él son inmutables\. Y a decir verdad, no elude el reto:
+
+ Por nombrar algunas al azar, tengo en la cabeza ideas tales como las de espacio, tiempo, objeto, suceso, alma y cuerpo, conocimiento, verdad, significación, existencia, identidad, acción, intuición, causalidad y explicación\. \( P\. Strawson\. Ma Philosophie … pág\. 448
+
+Sin embargo, es dudoso que esta enumeración calme al historicista\. ¿En serio puede pretenderse que, por ejemplo, el concepto de alma o el de cuerpo __no varían en el espacio y en el tiempo__?
+
+… lo que él necesita para atenernos a los ejemplares escogidos, no es postular la existencia de un concepto de __alma o de cuerpo perfectamente invariable__, Lo único que necesita es que estos conceptos, en *su carácter más fundamental* \(éstas eran sus propias palabras\) no cambien\. Y ésta es una exigencia a favor de cuya razonabilidad podemos argumentar\.
+
+ 
+
+__SANFÉLIX V__\. \(1997:17\-18\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+ Podemos argumentar, por ejemplo, y para empezar, apoyán*donos* en consideraciones de índole empírica\. Al fin y al cabo los seres humanos, __todos los seres humanos, constituimos una única especie; luego sería sensato esperar que nuestras respuestas frente a las presiones selectivas sean bastante homogéneas__\. ¿Pero quién duda de que nuestros esquemas conceptuales son una —a buen seguro lo más importante; desde luego también la más específicamente humana— de las clases que integran el conjunto de aquellas respuestas?:
+
+ Todos somos animales de la misma especie con organizaciones nerviosas y cerebrales semejantes y no hay porque suponer que las categorías más generales para la organización de la experiencia humana son ampliamente diferentes ni que, correlativamente, los tipos lógico\-semánticos básicos de elementos directamente en los lenguajes humanos son, por tanto, muy ampliamente diferentes\.
+
+Pero las consideraciones empíricas no son las únicas que Strawson podría alegar a favor de su tesis:
+
+ La evidencia lingüística puede realmente pa*recer* apuntar a algunas variaciones completamente básicas … Pero ningún lenguaje podría siquiera plantearnos un problema definido a no ser que sea *entendido* por algún teórico de la gramática\.
+
+… debemos comprometernos con la existencia de un mínimo núcleo conceptual común que garantice la intertraducibilidad \(P\. 19\)
+
+__SANFÉLIX V\.__ \(1997:__24__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+ La primera, que su posición es legítima mientras no se convierta en un imperialismo conceptual que deviene en escepticismo agresivo contra la perspectiva no científica del sentido común\. __Una cosa es decir, por ejemplo, que podemos describir el mundo con el lenguaje de la física, y otra muy distinta afirmar que dado que en ese lenguaje no tiene cabida el vocabulario de la moral, o propiedades fenoménicas de los cuerpos como el color, o la misma conciencia, todo esto son ilusiones irreales__\. Cuando el revisionista se convierte en un naturalista radical, cientifista, propenso a afirmar cosas como las recién dichas, el metafísico descriptivo tiene todo el derecho a recordarle que su posición ontológica es extremadamente puritana, que deja fuera de su imagen de la realidad la mayor parte de lo que para los humanos es de interés, y que, por lo tanto, no tenemos porqué seguirle en su opción, que tenemos derecho a una ontología más tolerante o católica … que no le niega el honorífico título de «real» a todo aquello que el revisionista quiere dejar fuera\.
+
+__SANFÉLIX V__\. \(1997:__34__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\. Una introducción a la filosofía\. Barcelona: Paidós\-UAB\.
+
+ Llegamos … a __la tesis no básica sino fundamental de Strawson__: de entre todos los actos de referir y de predicar hay uno que tiene un carácter prioritario y paradigmático; aquel en que nos referimos a entidades particulares __espacio\-temporales atribuyéndoles propiedades generales que nos permiten reconocerlas__\. Con ello Strawson nos viene a decir que es la distinción ontológica entre particulares y universales, y la distinción epistemológica entre intuición y concepto, la que subyace a la distinción lógica entre sujeto y predicado\. Las oraciones que expresan nuestras creencias más básicas son aquéllas en las que nos referimos a entidades particulares intuibles para predicar de ellas conceptos de propiedades que permiten reconocerlas en el espacio y a través del tiempo\.
+
+__SANFÉLIX V\.__ \(1997__:35__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\. Una 
+
+ El carácter básico que las entidades particulares tienen en nuestro esquema conceptual explica las tendencias hacia el nominalismo que en el seno de esa misma tradición metafísica occidental se han registrado, pero aunque Strawson comprende el impulso nominalista no lo comparte, apostando de nuevo por una posición más tolerante\. Al fin y al cabo, aun si __el criterio de compromiso ontológico fuera el ser objeto de referencia__, negando a los términos predicativos toda potestad al respecto, en nuestro hablar común a menudo nos referimos no sólo a los particulares espacio\-temporales a los que acabamos de mencionar sino, también, a las diferentes clases que los mismos componen, a propiedades e, incluso, a entidades abstractas; y no está nada claro \(o mejor dicho: Strawson tiene muy claro que no es el caso\) que una perífrasis nominalista de estos modismos vaya a funcionar\.
+
+ De nuevo, frente al puritanismo nominalista que no concede existencia más que a lo particular, apuesta Strawson por una ontología más tolerante —a veces calificada por él mismo como más liberal y católica— en la que, sin caer en el realismo mitológico propio del platonismo, en el que más real sería justamente lo universal, se concede a éste una realidad derivada o secundaria\.
+
+ 
+
+SANFÉLIX V\. \(1987:36\-37\-38\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)
+
+ Aristóteles, Hume y Kant —la triada de clásicos en los que, sin duda, Strawson más se reconoce— todos ellos, de una manera u otra, enraizaron la reflexión metafísica en la naturaleza de la razón humana\. … no es menos cierto que inscriben la *misma *en un contexto que, por seguir a Strawson, podríamos denominar de «edificación»\. Aristóteles la ve como una disciplina liberal por antonomasia y como una actividad que culmina una ética de la excelencia\. Hume le exige una utilidad mundana que él cifra en su virtualidad antisuperticiosa y la inculcación en quien la practica de un carácter, por escéptico, tolerante\. Por último … pretendía Kant con su crítica limitar el conocimiento para hacer un sitio a la fe\. De modo que si Strawson fuera coherente con sus declaraciones explícitas acerca del alcance de su metafísica descriptiva, en este aspecto estaría enmendando la tradición que en otros continúa\.
+
+… Strawson ha heredado de Kant, y también si cabe con más fuerza de Wittgenstein, un propósito anticientificista para su reflexión\. En ella, como en la de Kant o en la Wittgenstein de cualquiera de sus etapas, encontramos razones para preservar lo que podríamos denominar el ámbito del significado, en una acepción amplia de este término que incluye no sólo en significado lingüístico —o si se prefiere, la dimensión intencional del mismo— sino también lo que podríamos llamar el significado vital\.  
+
+__SANFÉLIX V__\. \(1997:38\)\. “El metafísico tolerante”\. En STRAWSON P\. \(1992\)\. *Análisis y metafísica*\. 
+
+ Es lógico que quien defienda la realidad inalienable del mundo vivido, del que forman parte legítima las valoraciones morales o estéticas, haya dedicado parte de su atención a las mismas\. Como tampoco es de extrañar que, por contraste, los pensadores cientifistas, tipo Quine, construya una filosofía que podríamos denominar extramoral\. 
+
+ 
+
+
+## 73\-74
+__STRAWSON P__\. \(1992\-1997:73\-74\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Cap\. 3  Moore y Quine
+
+… «¿__Qué es la filosofía__?» Se trata de una respuesta que fue dada hace más de setenta años por uno de los padres fundadores de la moderna filosofía analítica\. El filósofo … __George Edward Moore__, alguien a quien no se menciona mucho en la Europa continental y cuya obra ha quedado fuera de moda incluso en los países de habla inglesa … Su respuesta a la pregunta … puede parecer a primera vista bastante diferente de yo he esbozado… La pregunta misma es el título del primer capítulo de su libro *Some Main Problems in Philosophy*, obra que no se publicó hasta 1953… En su primera página, dice lo siguiente:
+
+ Para comenzar, entonces, me parece que lo más importante e interesante que han tratado de hacer los filósofos no es sino esto: Dar una descripción general de todo el Universo, mencionando los géneros más importantes de cosas que *sabemos que hay en él, considerando* hasta qué punto es probable que haya en él géneros importantes de cosas que en absoluto *sepamos* que están él y considerando también las formas de relación más importantes que existen entre estos diversos géneros de cosas\. Para referirme con brevedad a todo esto, hablaré de dar una descripción general de *todo *el «Universo»; y diré, entonces, que el primer y más importante problema de la filosofía es éste: __dar una descripción general de todo el Universo__\.
+
+ Moore invierte una gran parte… de lo que resta de ese capítulo a hacer dos cosas: primero, exponer la visión que de ese tema tiene eso que él denomina el __sentido común__; es decir, la visión que él tiene del problema de cuáles son las clases más importantes de cosas que sabemos que hay en el universo, etc\.; y segundo, contrastar esa visión con las diversas concepciones propuestas por filósofos que han añadido o restado elementos a la propuesta dada por el sentido común o que han hecho ambas al mismo tiempo\.
+
+
+## 74\-75\-76
+__STRAWSON P__\. \(1992\-1997:__74\-75\-76__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Moore dice de todos los problemas y tareas mencionados hasta el momento que pertenecen a esa apartado de la filosofía que recibe el nombre de metafísica\. Pero a mí no me parece que él se opondría a que uno sugiriese otro nombre, igualmente apro*piado*, como el de ontología\. Este nombre resulta apropiado porque… el problema de Moore es el de cuáles son las clases más importantes de cosas que *hay*, o que *existen*, o que se sabe o se piensa que es probable que *haya* o que *existan*; y, todavía más, cómo se relacionan unas con otras o cómo se las ha de definir\. Y estos problemas, tal como los tratan los filósofos, se denominan tradicionalmente problemas ontológicos\.
+
+… Como hemos visto, Moore dice que la principal tarea del filósofo es la de *responder* al problema metafísico u ontológico de cuáles son las clases de cosas más importantes que existen y cómo se relacionan entre sí\. Esta pregunta de Moore suscita otras dos preguntas muy obvias\. Primera: ¿qué significa «importante» para Moore, cuando habla de los géneros de cosas más importantes que existen? Y segunda: ¿qué relación guarda, si lo hace, este hablar de los géneros más importantes de cosas que existen con todo lo que he dicho hasta el momento en estas páginas, en las que no he abordado, parece, la cuestión así, sino que he hablado de conceptos, estructuras conceptuales y análisis conceptual?
+
+ Si sólo nos quedamos con la palabra «importante», poco avanzaremos\. … Uno puede decir: «Para mí, las relaciones personales son lo más importante del mundo»; otro: «Para mí, la música»\. Sin embargo, alguien podría decir: «Todas esas cosas no son sino preferencias personales\. Lo realmente importante es el mecanismo de equilibrio ecológico de la naturaleza, del que depende todo lo demás»\.
+
+
+## 76\-77
+__STRAWSON P__\. \(1992\-1997:76\-77\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Queda claro, espero que se acepte, que en realidad no tiene ningún sentido preguntar «¿cuáles son los géneros más importantes de cosas que existen?»…\. Sin embargo, podemos comenzar a comprender lo que Moore quiere realmente decir con «importante» en el presente contexto, cuáles son los criterios pertinentes de importancia, si consideramos el punto de vista que él adscribe al sentido común a propósito de la pregunta que plantea\. __El punto de vista del sentido común, como él lo denomina, menciona en primer lugar, por delante de los demás, los objetos físicos o materiales__ y, __en segundo lugar, los actos o estados de conciencia__ como aquello entre lo que se encuentran los más importantes géneros de *cosas* que hay; y más aún, menciona el hecho de que al menos __las cosas de ese primer género están en el espacio__ y que ambos géneros de cosas se encuentran a su vez los géneros de *hechos* más importantes\. … llama nuestra atención de esta lista de géneros de cosas y hechos es su muy elevado grado de generalidad y comprensividad\. __Las clasificaciones «objetos físicos» y «acto o estado de conciencia» tiene una generalidad extrema y también lo tiene el hecho de que son elementos espaciales y temporale__s, o cuando menos temporales, lo que entra en esas clasificaciones…
+
+ … uno de los rasgos característicos de los conceptos básicos era precisamente su generalidad\. Sin embargo, incluso aunque hubiese este vínculo, parece que existe una crucial diferencia: la diferencia, ya mencionada, de que allí donde Moore habla de los géneros más generales de *cosas que existen* en el universo, __yo he hablado de los conceptos o tipos de conceptos más generales que forman parte del esquema —o estructura de ideas o conceptos— que empleamos *al pensar y al hablar* de las cosas del universo__\.
+
+
+## 77\-78
+__STRAWSON P\.__ \(1992:__77\-78__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Pero quiero decir, primero, que en la medida en que esta diferencia sea real, no es tan grande como puede parecer; y segundo, __quiero sugerir que, en la medida en que la diferencia sea real, hay una razón para preferir este estilo conceptual, de la estructura de nuestro pensamiento sobre el mundo, en lugar de hablar__, como si dijésemos, __del mundo directamente__, conservamos un control más firme de nuestro propio proceder filosófico, una comprensión más clara de aquello que nos ocupa\. 
+
+ La diferencia, entonces, no es tan grande como parece\. __Reconocemos que hay conceptos y tipos de conceptos de elevada ge*neralidad* que están omnipresentes en nuestro pensamiento y nuestro discurso sobre el mundo__; que no hay de hecho casi ninguna porción de ese pensamiento y ese discurso que no los ilustren o los propongan\. 
+
+ … Alguien dirá…«Parece que usted ha perdido de vista lo que se persigue en el capítulo de Moore\. Usted parece decir que el hecho de que ciertos conceptos sean muy generales y omnipresentes en nuestro pensamiento y discurso conlleva ciertas consecuencias ontológicas» Y no hay duda de que esto es correcto, si con «consecuencias ontológicas» se hace referencia aquí a consecuencias relativas a los tipos generales de cosas que nosotros *pensamos* que existen o, como Moore diría, que están en el universo\.
+
+
+## 78\-79\-80
+__STRAWSON P__\. \(1992:__78\-79\-80__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Pero, ¿no trata Moore de decir que la primera tarea del filósofo es la de decir no tanto lo que comúnmente, consideramos que es el caso a este respecto, no precisamente cuáles son nuestros supuestos ontológicos habituales, sino la de si esos supuestos son verdaderos o si sabemos si son verdaderos? Y él señala —¿no es cierto?— que la visión del sentido común acerca de este tema ha sido puesta en cuestión por algunos filósofos, por aquellos, por ejemplo, que han negado la existencia de cuerpos materiales en el espacio\. Por tanto, hay con seguridad una diferencia real e importante ente la pregunta: «¿__Cuáles son los tipos  más generales de cosas que existen y cómo se relacionan entre sí? Y la pregunta: ¿Cuáles son nuestros más generales y omnipotentes conceptos, o tipos de conceptos, de cosas y cómo se relacionan entre sí?»__*\. De una respuesta a la segunda pregunta pueden, de hecho, desprenderse consecuencias sobre aquellos*__* *__*de nuestros supuestos y creencias normales que tendríamos en cuenta cuando respondiésemos a la primera pregunta\.\.*
+
+ … Ha de concederse seguramente gran peso al hecho de que la omnipresencia y la generalidad de ciertos conceptos o tipos de conceptos encierran consecuencias ontológicas en el sentido no controvertido; es decir, consecuencias relativas a lo que comúnmente y de forma muy general *consideramos que existe…* 
+
+Aunque a título provisional, estamos interpretando lo que él llama __la principal tarea del filósofo —la tarea metafísica— como la tarea de responder a la pregunta de ¿cuáles son los conceptos o categorías más generales en términos de los cuales organizamos nuestro pensamiento, nuestra experiencia, del mundo?__ Y la de ¿cómo se relacionan unos *con* otros en el interior de la estructura total de nuestro pensamiento?
+
+
+## 80
+__STRAWSON P\.__ \(1992:__80__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Al contestar estas preguntas, parece que respondemos sin querer a la pregunta en su forma más general, la de cómo concebimos realmente el mundo o la de cuál es realmente nuestra ontología básica \(nuestra ontología en activo\)\. Pero, además, el que reinterpretemos así lo que Moore llama la principal tarea del filósofo nos ayudará a apreciar mejor las relaciones entre los miembros de ese supuesto trío de compartimientos: __la ontología, la lógica y la epistemología__\. __Veremos que la teoría general del ser \(la ontología\), la teoría general del conocimiento \(la epistemología\) y la teoría general de la proposición, de lo que es verdadero o falso \(la lógica\)__, no son sino tres aspectos de una investigación unificada\. ¿Cómo se demuestra esa afirmación? Ésta es la tarea que acometeré yo mismo en los capítulos que vienen…
+
+ Primero, entonces la lógica\. ¿Qué relación guarda la lógica, la lógica formal, con la investigación de nuestro marco o estructura general de conceptos y categorías? Bien, los conceptos están para usarlos, no para que sirvan de adorno\. … Usamos los conceptos siempre que nos trazamos un plan o una intención —que albergamos o somos conscientes de un deseo—\. __Pero sin creencia ni hay plan ni hay deseo__\. Así, pues, el uso fundamental de los conceptos, es uso que aquí nos concierne__, es el que hacemos de ellos cuando formamos conscientemente un juicio o mantenemos una creencia de lo que es, lo que ha sido y lo que será el caso, en el mundo__\. … Es mejor decir que la lógica es el estudio de las formas generales de la *proposición* y de *sus* relaciones de dependencia o independencia lógicas\. 
+
+__STRAWSON P__\. \(1992:80\-__81__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+¿Cuál es la diferencia? En la fase inicial se su carrera filosófica Wittgenstein escribió: «La forma general de la proposición es: tal es lo que acae*ce*» Bien, ciertamente podemos juzgar o creer que es así como son las cosas, que las cosas son de un modo o de otro\. Pero también podemos preguntarnos si las cosas son de un modo u otro; o podemos juzgar que *si* las cosas son así, *entonces* tal y cual cosa es el caso, sin juzgar realmente que las cosas sean de un modo u otro\.* * *La *proposición *d*e que las cosas son de un modo u otro figurará igualmente en todas estas situaciones, aunque únicamente en la primera lo hará como un juicio\. Por tanto, la lógica formal o general da un paso más y hace abstracción de las actitudes proposicionales particulares \(como se las llama\) de creer, dudar, suponer, esperar, etc\., estudiando las formas generales de la proposición y sus relaciones\. __Los vínculos entre proposiciones y actitudes proposicionales no se rompen__\.__ La propiedad esencial de la proposición es la de ser portadora potencial de un valor de verdad, la de ser capaz de ser verdadera o falsa__; y cuando hablamos de las relaciones de dependencia e independencia lógicas entre proposiciones, lo hacemos de ciertas relaciones de dependencia e independencia que afectan su valor de verdad\. Pero __únicamente puede tener un valor de verdad aquello que puede ser creído, puesto en duda, hipotetizado, supuesto, etc\. __
+
+Ver Putnam 1999:82 \(*La trenza de tres cabos*\)\.
+
+__STRAWSON P\.__ \(1992:__81 __\-__82\-83__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ __La vida del concepto radica entonces en la proposición, la lógica estudia las formas generales de la proposición y, por ende, las formas generales de todas nuestras creencias sobre el mundo__\. Pero ¿qué significa esto? En concreto, ¿cuán grande es el paso de abstracción representado por la frase «las formas generales de la proposición»? La respuesta es, o parece ser, simplemente un paso enorme\. Pues__ la lógica, se dice, estudia las *formas* del pensamiento, haciendo total abstracción de lo que trata, del tema del pensamiento__; parece por tanto, que haciendo total abstracción incluso de conceptos y de categorías tan generales como aquellos que Moore menciona cuando toma en consideración nuestra ontología de sentido común —los conceptos de co*sas* materiales, de estados de conciencia o de espacio y el tiempo—\. Así, pues, podemos preguntar qué incidencia tendría la lógica formal en las investigaciones metafísicas; qué posible relación guarda con la ontología\. Y puede comenzar a parecernos que la respuesta es: ninguna\.
+
+ Sin embargo una cosa es bastante cierta: que el pensamiento general de una conexión íntima entre lógica y ontología o metafísica ha sido como un hilo, uno más entre muchos otros que recorre la historia de la filosofía…
+
+
+## 82\-83
+__STRAWSON P\.__ \(1992:__82\-83__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ ¿Qué nos ofrece, entonces , la lógica y cómo habría de llevarse a cabo la conexión con la metafísica y la ontología? A primera vista, existe aquí otra dificultad inicial\. Pues la lógica es un tema con una historia que abarca desde la silogística de Aristó*teles* hasta la moderna lógica clásica o lógica canónica de Frege y Russell y sus variantes posteriores … Así, pues, __consideraremos la lógica hoy dominante, la lógica clásica o estándar__, __nuestro punto de referencia__\. Ciertamente, es la más poderosa y comprensiva que todo lo que ha precedido; y por lo que respecta a sus variantes, por ser precisamente eso, variantes *suyas*, no las tomaremos en consideración\.
+
+
+## 83\-84
+__STRAWSON P__\. \(1992:__83\-84__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Que nuestro punto de referencia sea la lógica dominante hoy tiene también la ventaja práctica de que al menos algunos, puede que muchos, de mis lectores estarán perfectamente familiarizados con las nociones fundamentales de la lógica proposicional y de la lógica de predicados de primer orden\. Por ello, pasaré muy deprisa por su contenido… L__a parte más elemental de nuestra lógica es, naturalmente, el cálculo proposicional o lógica de la composición veritativo\-funcional__… __explota el rasgo esencial de las proposiciones… a saber: que son portadoras de valor de verdad y que pueden tener únicamente uno de los dos valores de verdad incompatibles, lo verdadero y lo falso__; explota simplemente esa característica e introduce partículas \(o contenidos proposicionales, como se las denomina\) que se usan para construir *proposiciones* compuestas cuyos valores de verdad están completamente determinados, de diferentes formas, por los valores de verdad de las proposiciones de las que aquéllas se componen\. Pero esta parte de la lógica, considerada en sí misma, no se ocupa de la estructura interna de las proposiciones simples, esas con las que se construyen las compuestas\. Nada aporta a lo que podríamos llamar *la forma del contenido* de las proposiciones lógicamente simples y, por ello, nada nos aporta en un orden ontológico\.
+
+ __Consideremos, entonces las formas generales de las proposiciones más simples que nuestra lógica__ reconoce, __la estructura *interna* de las proposiciones atómicas__, como podemos llamarlas\.
+
+
+## 84\-85\-86
+__STRAWSON P__\. \(1992:__84\-85\-86__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Distinguimos, entonces, dos tipos de expresión y dos tipos de contenido; en otras palabras, una distinción gramatical y una distinción funcional\. … *y aquí* __podemos comenzar por decir, a título provisional, que los sustantivos singulares definidos se refieren a individuos u objetos__, mientras que las e__xpresiones predicativas significan o representan conceptos generales, propiedades o relaciones__\.
+
+ Esta última distinción, entre __individuos__, por una parte, __y propiedades o relaciones generales__, por otra, comienza a parecer una distinción ontológica\. … hasta ahora, todo lo que estamos autorizados a entender por «individuo» y «objeto» es un cierto «elemento especificado por un nombre u otro término singular definido en una proposición simple»; … En este sentido, __entonces, los individuos podrían incluirse entre las comúnmente llamadas propiedades __—como al decir, por ejemplo, «la valentía es una virtud»— … 
+
+ Ahora bien, __nuestro pensamiento no se limita, como es natural, a las proposiciones singulares simples y a las proposiciones que se componen con éstas mediante la ayuda de las partículas del cálculo proposicional__… podemos tener pensamientos generales explícitos\. Y es éste un hecho que debe reflejarse también en una lógica digna de tal nombre\. En la lógica canónica, se refleja mediante __el mecanismo de la cuantificación que liga variables individuales__\. Las expresiones de los conceptos que aparecen como predicados es esos pensamientos reemplazan, como antes, a las letras predicativas en los esquemas atómicos o sus compuestos; pero en las variables individuales … __*se las pone* bajo control de los cuantificadores__, __es decir, de expresiones que poseen una u otra clase de generalidad__\.
+
+
+## 86
+__STRAWSON P__\. \(1992:__86__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+… __Los dos cuantificadores que reconoce nuestra lógica __se corresponden, de forma aproximada, con las expresiones__ «algún» y «todo__»\. Así, junto a la proposición singular simple «Juan duerme», tenemos la proposición general «Alguien duerme», que en notación lógica se escribe: «Para algún valor de *x*, *x* duerme»\. Además de la proposición singular compuesta «Si Juan duerme, él sueña», tenemos la proposición general «Quienquiera que duerma, sueña», o «Si alguien duerme, sueña»; o su equivalente «Nadie duerme sin soñar», que se resume en esto: «No es el caso que para algún valor de *x, *x* duerme y *x* *no sueña»\. \(Los dos cuantificadores «Para algún valor de *x*» se denominan, respectivamente el __cuantificador existencial y el cuantificador universal__\)\.
+
+ … __hay uno más__ que sí debo mencionar\. Se trata del signo de__ identidad__, con ayuda del cual podemos __expresar el hecho, o el pensamiento, de que tal y cual concepto o combinación de conceptos tiene una única aplicación, o que se aplica en un y únicamente un caso__; y con ayuda del cual __puede expresarse también el hecho de que se aplica en dos casos sólo__, y así sucesivamente\. Por ejemplo, una doctrina de la teología cristiana que tiene que ver con la única aplicación conjunta de los conceptos de humanidad y divinidad podría expresarse mediante la siguiente fórmula: «Para algún valor de *x* \(\(*x* es humano y *x* es divino\) y \(para todo valor de *y*, si* y *es humano e *y *es divino, entonces *y *es idéntico a *x*\)»; es decir, «Alguien es a la vez humano y divino y es tal quien sea humano y divino es idéntico a él»\.
+
+
+## 86\-87\-88
+__STRAWSON P\.__ \(1992:__86\-87\-88__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Finalizo con esto es somero repaso que he hecho de las nociones claves de la lógica contemporánea y de su notación\. __Las nociones lógicas generales implicadas son las de referencia y predi*cación*, composición veritativo\-funcional, cuantificación e identidad__\. La notación en la que se representan consta, por lo tanto —si hacemos abstracción de cómo rellenamos esas formas—, de variables individuales y letras predicativas, de conectivas proposicionales, cuantificadores, de un signo de identidad y, naturalmente, de paréntesis u otros recursos que indiquen el alcance de las conectivas y cuantificadores\. El profesor Quine denomina a esta notación «notación canónica»\.\.\.
+
+ Considerada en sí misma, esta observación resulta seguramente exagerada\. Una cuestión concerniente a los conceptos y categorías básicos en términos en que __organizamos nuestro pensamiento sobre el mundo__, __nuestras creencias sobre cómo son las cosas__, parece que debe ser una cuestión que no trate sólo del marco abstracto de todo pensar, sino también del *relleno* de ese marco\.
+
+ Pero merece la pena seguir a Quine algo más allá, porque en seguida él pone de manifiesto que «la búsqueda de las categorías últimas» tiene que ver con la investigación de cómo rellenamos, o cómo habríamos de rellenar, las formas proporcionadas por la notación canónica\. Quine es el autor de una doctrina bastante explícita sobre nuestra ontología, es decir, sobre eso que en última instancia pensamos que existe\. La doctrina da una respuesta muy directa a la pregunta por la relación entre lógica y ontología, es decir, sobre eso que en última instancia pensamos que existe… *Lo que* él dice es que nuestra ontología abarca precisamente las cosas que debe recorrer, o tomar como valores, las variables de cuantificación, si es que nuestras creencias han de ser verdaderas\. __Quine __llega incluso a condensar su pensamiento en un epigrama: «__Ser es ser valor de alguna variable__» Un dicho memorable, pero demasiado conciso para ser entendido con facilidad\.
+
+
+## 88
+__STRAWSON__ __P\.__ \(1992:__88__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Sin embargo, podemos aproximarnos al sentido de la doctrina por una ruta ligeramente indirecta\. Supongamos que estamos hablando con toda seriedad sobre el mundo, sobre la realidad tal y como la concebimos\. Supongamos, además, que empleamos un sustantivo singular definido con la intención de referirnos con él a un objeto individual o a una persona particular para atribuirle alguna propiedad\. Entonces lo que decimos puede ser verdadero, incluso un serio aspirante a la verdad, con la sola condición de que tal objeto o persona *exista* de hecho\. Es decir, si atribuimos en el mismo espíritu una propiedad de forma general, sin especificar un individuo particular —es decir, si decimos algo de la forma «Para algún *x*, *x* es tal o cual»—, nuestro aserto puede ser verdadero sólo si *existe* de hecho uno u otro objeto que sea tal o cual\. Si hablamos totalmente en serio, debemos creer que hay cosas así, una al menos\. De igual forma, si empleamos el cuantificador universal, diciendo algo de la forma «Todo tal y cual es así y asá» —o bien «Para todo *x* es tal y cual, entonces *x* es así y asá», lo que decimos no puede ser verdadero o, de manera más precisa, __no puede ser verdadero de manera sustantiva e interesante, a menos que existan algunas cosas, o alguna cosa, que tenga la propiedad significada por «tal y cual»__\. \(Añado la cualificación de ser «verdadero de una forma interesante» puesto que, dada una interpretación veritativo\-funcional de «si…, entonces», lo que decimos será vacuamente verdadero y, por ello, carente de interés, si no hay cosas así\)\.
+
+
+## 88\-89
+__STRAWSON__ __P__\. \(1992:__88\-89__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+En general, __entonces, creemos en la existencia de cosas de esas clases generales__ cuyos especímenes han de existir si estas predicaciones generalizadas, que hacen uso de cuantificadores, han *de ser verdaderas* \(o, como en el último caso,* *__*s*ustantivas y no vacuamente verdaderas\)*…*__* P*or decirlo en forma sencilla: si digo «alguien sonríe» o ««todo el que sonríe es feliz», el supuesto es que en cada caso creo en la existencia de al menos una persona que sonría: porque, si no existiera tal persona, lo que digo no podría ser verdadero o cuando menos, en el segundo caso, no podría serlo de una forma no vacía\.
+
+ Debería tenerse en cuenta que, al exponer esta doctrina, Quine únicamente habla del dominio de valores de las variables de cuantificación, mientras que yo comencé mi explicación hablando de referencia, o de pretendida referencia, a determinados individuos por medio del uso de sustantivos singulares definidos, algo que Quine no menciona cuando enuncia su doctrina del __compromiso ontológico__\. La razón es que__ él piensa que podemos prescindir de esta forma de designar individuos directamente sin que ello reporte pérdida alguna__; __y que la teoría lógica funciona mejor cuando los términos singulares definidos se eliminan a través de una paráfrasis__ —cosa que, sostiene, puede hacerse siempre usando el signo de identidad—\. Esta afirmación es controvertida \(de hecho, creo que es falsa\), pero la cuestión no tiene importancia inmediata\.
+
+
+## 89\-90
+__STRAWSON__ __P__\. \(1992:__89\-90__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Es obvio… que __uno se halla forzado por igual a creer en la existencia de algo si se lo nombra directamente o si, de forma alternativa__, __se tiene éxito al referirse a él empleando una combinación de predicación, cuantificación y signo de identidad__\. A la vista de todo ello el enunciado de la doctrina de Quine puede simplificarse, quizá, del siguiente modo: __nos comprometemos a creer en la existencia de cualesquiera géneros de cosas a las que nos refiramos__, o pretendamos referirnos en serio, __bien cuando nos refiramos en forma general, por medio de variables de cuantificación, bien cuando lo hagamos de una forma determinada, por medio de nombres u otros términos singulares definidos__\.\. Su doctrina adicional, que da cuenta de esta formulación de criterio ontológico, es la de que todas las referencias pueden llevase a cabo —y así deberían hacerse, por claridad lógica— con variables bajo cuantificación\.
+
+
+## 90
+__STRAWSON__ __P__\. \(1992:__90__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ Ahora bien, es obvio que comúnmente no expresemos nuestras creencias en la notación de la lógica\. Por lo tanto, si hemos de beneficiarnos de los hallazgos augurados en nuestros compromisos ontológicos, deberíamos al menos saber en principio cómo parafrasear en la notación canónica nuestras oraciones castellanas cotidianas\. Y no parece que exista dificultad especial en lograr esto\. De igual forma que el lenguaje lógico une designaciones de individuos o variables bajo cuantificación con expresiones predicativas hasta formar proposiciones, así también el castellano común une nombres, pronombres o frases nominales con expresiones predicativas hasta formar proposiciones\. __Y es fácil aprender el truco de parafrasear nuestras oraciones de manera tal que estas expresiones sustantivas ocupen ellas mismas una posición predicativa__, a la par de las variables de cuantificación acceden a la posición referencial o posición de sujeto\. Por ejemplo, en lugar de, digamos, «Una mujer acaba de llamar por teléfono», escribimos: «Para algún *x*, *x* es una mujer y *x* acaba de llamar por teléfono»\.* En lugar de «Todos los trabajadores están en huelga», escribimos «Para todo *x*, *si *x* es trabajador, *x* está en huelga» Y aquí constatamos que las variables de cuantificación recorren, o tienen entre sus valores a las mujeres, en el primer caso, y a los trabajadores, en el segundo\. Y aprendemos, sin que sorprenda, que los hablantes que usan seriamente estas oraciones se han comprometido a creer en la existencia de tales cosas\.
+
+
+## 90\-91
+__STRAWSON__ __P__\. \(1992:__90\-91__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+… Todo aquello que quepa mencionar puede ser mencionado haciendo uso de alguna locución sustantiva\. __Hay a nuestra disposición nombres o frases nominales no sólo de individuos concretos, sino también de tiempos, lugares, cantidades, propiedades, cualidades, relaciones, proposiciones, nombres, hechos, clases, especies, eventos, acciones, situaciones, estados de la mente, actitudes preposiciona*les*, institucionales, etc\. …__
+
+ Naturalmente, no es éste el tipo de paráfrasis indiscriminada y acrítica que __Quine recomienda__ como guía de la naturaleza de nuestra ontología básica\. Lo que recomienda es, más bien, un procedimiento de paráfrasis *crítica *que ha de regirse por dos máximas*\.* __La primera máxima__ exige que empleemos tan sólo un vocabulario claro y científicamente aceptable; la segunda, que restrinjamos nuestra ontología al mínimo teóricamente necesario para la expresión de nuestras creencias, incluso aunque el precio a pagar por la conveniencia práctica de observar semejante restricción sea inaceptablemente elevado\. La segunda máxima podría denominársela la __máxima de la economía ontológica__\. Se puede tomar, sencillamente, como una consecuencia de la primera, en la medida en que Quine únicamente consideraría dignas de seria __consideración filosóficas aquellas creencias nuestras que son claras y científicamente aceptables__\. El exceso ontológico aparente que acompaña a la proliferación de nombres y frases nominales en nuestro discurso ordinario puede ser achacado a una mera conveniencia práctica No existe razón alguna para suponer que nos comprometamos seriamente a creer en la existencia real de todas las cosas en lugar de las cuales parecen estar esas frases\. Se puede expresar en forma de teoría todo lo que haya de científicamente aceptable en las creencias para cuya formulación resulta conveniente en la práctica usar esas expresiones, si las parafraseamos\.
+
+
+## 91\-92
+__STRAWSON__ __P\.__ \(1992:__\-91\-92__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Y puesto que aquello que perseguimos, o que persigue Quine, es la ontología fundamental con la *que* se hallan profundamente comprometidas nuestras creencias fundamentales y científicamente aceptables acerca de la realidad, los únicos objetos que comprende esa ontología son los objetos de referencia que desde tal punto de vista resultan teóricamente indispensables\. __De ahí la máxima de la economía ontológica__\.
+
+ Resulta evidente que __tenemos aquí un programa de reducción ontológica__\. Me gustaría compararlo con el programa de análisis reductivo del que hablé más arriba\. El impulso iba entonces en la dirección de la reducción de conceptos por medio de la definición y mediante la descomposición o definición a partir de conceptos más simples\. Ahora el impulso marcha en la dirección de reducir los compromisos con entidades \(objetos de referencia\) por medio de la paráfrasis crítica expresada en la notación canónica\. Pero aunque quepa esperar los resultados finales de ambos programas, si los hubiese, sean ampliamente diferentes, el segundo impulso reductivo guarda al menos cierto parecido formal con el primero\. __Parecería que ciertos tipos de entidad son fundamentales para la estructura de nuestro pensamiento,__ porque la necesidad de referirnos a ellos sobreviviría a la presión de la paráfrasis crítica\. Otros desaparecerían bajo la presión\. De hecho hemos de dar cuenta de éstos últimos, dar cuenta de que estos que están de más, mostrando que se puede prescindir de ellos y la forma de hacerlo…\. El reduccionista ontológico dibuja, en principio, una distinción simple y tajante entre los géneros de cosa a los que parece que nos referimos tomando como guía los __hábitos__ __laxos__ y __autoindulgentes__ de nuestro habla ordinaria\. Entre ellos se hallan las cosas que verdaderamente debemos considerar objetos indispensables de referencia, las que resisten las presiones de la paráfrasis crítica; y también está el resto: las que pueden arrojar al cubo de la basura\. 
+
+
+## 92\-93
+__STRAWSON__ __P\.__ \(1992:__92\-93__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+Pero es fácil imaginar una aproximación menos austera, más __tolerante__ y, *en un sentido*, más __católica__\. En lugar de separar lo quedó a salvo de lo que se dejó de un lado, podríamos perfilar una jerarquía; __en lugar de sólo dentros y fueras, un orden de prioridad__\. Por ejemplo, __cabría acordar que los atributos y las propiedades son ontológicamente secundarios con respecto a los objetos a los que se atribuyen, en tanto que la referencia a las propiedades presupone la referencia a los objetos__, aunque no a la inversa\. Pero la conformidad acerca de este punto __no__ exige que rechacemos la existencia de propiedades ni tampoco que concedamos que podríamos dejar de referirnos en absoluto a las propiedades o dejar de cuantificar sobre ellas, so pena de empobrecer muy notablemente nuestro sistema de creencias\. Y, en general, __podríamos tener razón para decir que la referencia a elementos de determinados tipos es secundaria, o derivativa, con respecto a la referencia a otros tipos de objetos, sin que se siga de ellos que los primeros deberían expulsarse, como dijésemos de la existencia__\.
+
+
+## 93\-94
+__STRAWSON__ __P__\. \(1992:__93\-94__\)\. *Análisis y metafísica\. Una introducción a la filosofía*
+
+* *Esa sugerencia sería coherente con otras propuesta general ya presagiada\. La propuesta es la de que en lugar de preguntar: ¿«Cuáles son los objetos de referencia que sobreviven a la presión de la paráfrasis crítica, conducida según principios severamente quineanos?», habríamos de preguntar: «¿Cuáles son las categorías más generales de cosas que* *de hecho tratamos como objetos de referencia o, lo que viene a ser lo mismo, como sujetos de predicación y __cuáles son los tipos más generales de predicación o conceptos empleados *de hecho* al hablar de aquellos objeto__s?»\. O con otras palabras: «__¿Cuáles son los tipos fundamentales de individuos, de propiedades y relaciones que caracterizan la estructura de nuestro pensamiento y cuáles las relaciones que cabe establecer entre ellos?__»\. Existe un conjunto de cuestiones ontológicas que no carecen de relación con las nociones fundamentales de la lógica\. 
+
+ Puede objetarse a la propuesta anterior que adolece seriamente de vaguedad, comparada con el claro y definido criterio del compromiso ontológico de Quine… Esta objeción tiene fundamento\. En realidad, nos acercamos al punto *en que* debemos enriquecer, por así decirlo, la mezcla de ontología y lógica añadiendo a ella algo de epistemología\. Hasta que no hagamos eso no se producirá ningún progreso\.
+
+
+## 94
+__STRAWSON__ __P__\. \(1992:__94__\)\. *Análisis y metafísica\. Una introducción a la filosofía*\.
+
+ No obstante, antes de pasar a actuar así, quisiera primero expresar una duda más directa que concierne a la propuesta de Quine\. La expreso pasando a un tipo particular de presunta entidad, a saber: __los atributos o propiedades,__ que Quine considera ontológicamente __inadmisibles por carecer, comparados con las clases, de un criterio de identidad claro y general__\. Supóngase que diésemos por bueno que se pudiera, en principio, __prescindir de la referencia a, y a la cuantificación sobre, propiedades, aunque no de la referencia a y de la cuantificación sobre, los objetos pertenecientes a esas clases de los que se predican las propiedades__\. ¿Seguiría realmente de ellos que se había mostrado que nuestro esquema de las cosas incluía la creencia de la existencia de los objetos de las clases en cuestión, pero no la creencia en la existencia de las propiedades o atributos en cuestión? Daré dos razones muy diferentes para dudar de esta consecuencia y, por consiguiente, para dudar de la doctrina quineana del compromiso ontológico\.
+
+ La primera razón que se nos puede ocurrir puede dejarse fácilmente a un lado, si se pone como objeción a esa doctrina\. No obstante, debo mencionarla, puesto que es tan obvia, aunque sea únicamente para apartarla del camino\. Dice lo siguiente\. __Si ordinariamente decimos que no creemos en la existencia de algún atributo, por ejemplo, la completa pureza de corazón__ o la propiedad de ser un esclavo por naturaleza, ello se debe a que es otra la forma habitual y correcta en que se nos ha de interpretar, a saber: __como si hubiésemos afirmado que no creemos que haya nadie de quien pueda decirse con verdad que es completamente puro de corazón o que es un esclavo por naturaleza\.__
+
+
+## 94\-95
+__STRAWSON__ __P__\. \(1992:__94\-95__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Y la pregunta de si esto es así es manifiestamente diferente de la pregunta de si necesitamos referirnos a tales atributos mediante un término singular definido; o de si hemos de considerar que pertenecen al dominio de valores de nuestras variables de cuantificación\. E igualmente, al decir que, a diferencia de lo que sucede con la propiedad de ser esclavo por naturaleza, la pobreza es algo que *existe, *__deberíamos habitualmente pensar que es absurdo que se nos diga que no deberíamos tener esa creencia __si en lugar de ello basta decir que alguna gente es pobre\. Lo juzgamos absurdo, porque lo que queremos decir habitualmente al afirmar que existe la pobreza es que algunas o muchas personas son pobres\. __Así pues, una de las cosas que ordinariamente queremos decir al afirmar de atributos y propiedades que no existen es algo manifiestamente diferente de lo que la doctrina en cuestión nos pide que digamos__\.
+
+ Sin embargo, según ya se sugirió, __esta no es una objeción seria__ a aquella doctrina pues vincula la noción de __compromiso ontológico __a la de indispensabilidad como objeto\. Todo lo que se precisa para responder a la objeción es que admitamos un sentido secundario, aunque bastante común de «existe» —un sentido apropiado para propiedades y relaciones—, de acuerdo con el cual decir de una cierta relación o propiedad que existe es decir que existen, en el sentido primario o fundamental de la palabra, algunas cosas de las cuales se puede predicar la propiedad o relación en cuestión\. La doctrina que estamos discutiendo… no es en absoluto una doctrina sobre el sentido secundario, sino tan sólo sobre el sentido primario o fundamental de «existe»\.
+
+
+## 95\-96
+__STRAWSON__ __P__\. \(1992:__95\-96__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ La fuerza de esta respuesta se desvanece, empero, ante una segunda y muy simple razón para cuestionar la doctrina\. Supongamos que digo lo siguiente:
+
+ \(A\) Hay al menos una propiedad que no posee ninguna máquina, a saber: la de la eficacia perfecta\.
+
+Dos cosas son claras\. __Primera__ que puedo decir esto y decir también
+
+ \(B\) Ninguna máquina es perfectamente eficiente\.
+
+__Y en \(A\) cuantifico sobre propiedades, mientras que en \(B\) no lo *hago*__\. Segunda, sea cual fuere la forma en que lo diga, ciertamente no me he comprometido con la existencia de la propiedad de eficacia perfecta en el sentido común o secundario acabado de discutir, es decir, en el sentido de que esto o aquello es perfectamente eficiente\. Por el contrario, puedo afirmar con perfecta coherencia que nada, ni siquiera una máquina, es perfectamente eficiente\. Si \(A\) lleva consigo un compromiso con la existencia de propiedades, lo hará en un sentido bastante diferente del que ilustraba el ejemplo de la pobreza\. Así pues, si se objeta a que se diga que la parafraseabilidad de \(A\) por \(B\) muestra que \(A\) no tiene por qué comprometernos a creer en la existencia de propiedades \(o, al menos, de una propiedad\), entonces será una objeción bien diferente de la que acabamos de considerar y rechazar\.
+
+
+## 96\-97
+__STRAWSON__ __P__\. \(1992:__\-96\-97__\)\. *Análisis y metafísica\. Una introducción a la filosofía*
+
+ ¿Hay alguna objeción? Bien, existe la objeción extremadamente simple de que \(A\) es una forma perfectamente ligada de decir lo que dice \(B\)\. Si \(B\) es verdadera, \(A\) es verdadera; y no verdadera en el sentido secundario, sino que lo es de forma absoluta en el sentido primario … hay una propiedad que ninguna máquina posee, es decir, hay al menos una propiedad así … De nada sirve replicar que no tiene por qué decirse, con estas mismas palabras, que existe esa propiedad, ya que puede decirse \(B\) en su lugar\. No abolimos los compromisos rehusando hacerlos explícitos, así como tampoco se pone fin a las realidades incómodas con eufemismos\.
+
+* *No aduzco este sencillo argumento como una objeción decisiva en contra de la doctrina de Quine del compromiso ontológico… 
+
+ *Sin embargo, *antes de abandonar la doctrina merece la pena notar que lo hacemos con una pregunta: ¿Por qué se ve tan natural, ya que evidentemente Quine lo encuentra natural, ligar tan estrechamente la noción de existencia a la de indispensabilidad, como objeto de referencia, o a la de sujeto de predicado? 
+
+
+## 99
+__STRAWSON__ __P__\. \(1992:__99__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__CAPÍTULO 4  LÓGICA, EPISTEMOLOGÍA Y ONTOLOGÍA__
+
+ Recordemos, primero, cómo apareció en escena la lógica\. Siguiendo a Kant, dije que el uso de conceptos, o al menos su uso fundamental, está en el juicio, en la formación o posesión consciente de creencias sobre lo que es el caso\.__ De ahí la pertinencia de ese estudio que se ocupa de las formas generales del juicio y de sus relacione__\. Ahora bien, lo que el juicio persigue es la verdad\. Queremos —y la razón es buena— formar creencias verdaderas en lugar de creencias falsas; y un __juicio o creencia dado es verdadero en la medida en que las cosas son en realidad como cree que son quien hace el juicio o sostiene esa creencia__\. __Ésta es la perogrullada que encierra eso que se conoce con el nombre de teoría de la verdad como correspondencia__\. Como veremos, en nombre de esa teoría se han cometido errores\. Sin embargo, uno de los méritos del término «__correspondencia__» es poner de manifiesto que, contrapuesta al juicio y a la creencia, se halla la realidad o el mundo natural, las cosas y los eventos con los que se relacionan o *de los que* tratan nuestros juicios o creencias; y que lo que hace que nuestros juicios o creencias sean verdaderos o falsos es cómo son las cosas del mundo natural\.
+
+
+## 100
+__STRAWSON__ __P__\. \(1992:__100__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ O al menos esto parece aplicarse correctamente a una clase importante y muy fundamental de nuestros juicios o creencias\. Quizá no a todos ellas o no de forma directa\. Hablamos, por ejemplo, de la verdad y falsedad de los juicios morales, pero la relación de los juicios morales con el mundo natural es materia para el debate\. __Otro ejemplo se habla de las verdades de la lógica y de la matemática pura y es posible sostener que estas son regiones en las que el pensamiento se alimenta diríamos de sí mismo para generar estructuras cuya validez es independiente del modo en que las cosas son en realidad__\. Este punto de vista es defendible\. También puede ser negado en nombre de la realidad matemática propia; o se lo puede rechazar… Pero en cualquier caso es materia para el debate… 
+
+ Por ahora, estas controversias pueden dejarse a un lado, pues los juicios, las proposiciones, que nos conciernen más fundamentalmente son juicios acerca de cómo son las cosas del mundo natural; y cómo sean de hecho es lo que determina la verdad o falsedad de estos juicios\. Así pues, de una parte __tenemos el uso de los conceptos en el juicio y la creencia__; __de la otra, la realidad, el mundo, los hechos__; __y el estado de la segunda determina la verdad o falsedad de los primeros__\.
+
+
+## 100\-101
+__STRAWSON__ __P__\. \(1992:__100\-101__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ La imagen que estoy presentando aquí posee cierta crudeza intencionada\. La acepto para dar pie a una pregunta y para darle respuesta\. La pregunta es: __¿Cómo llega a *formar* creencias el usuario de conceptos? __Y la respuesta natural es: __llega a ser *consciente* de la realidad en la *experiencia*__; __la experiencia del mundo le capacita para usar conceptos al juzgar sobre ese mundo__\.
+
+ Puede decirse que tanto la pregunta como la respuesta son de orden epistemológico\. Pero la imagen misma es excesivamente simple\. __No es que la experiencia sea__, como si dijésemos, __un vínculo conveniente con el mundo, un vínculo que capacite al usuario de conceptos a actuar como hacedor de juicios con buenas perspectivas de llegar a tener creencias verdaderas__\. La *conexión* entre el juicio, el concepto y la experiencia es más estrecha que todo eso\. La conexión es, más bien, que los conceptos de lo real no pueden significar nada para sus usuarios a no ser que se *relacionen*, directa o indirectamente, con una posible experiencia de lo real\. __No es tan sólo que sin experiencia de lo real no deberíamos poder formar creencias verdaderas sobre lo real__; __se trata de que los conceptos mismos en cuyos términos formamos nuestras creencias__ __primitivas__ —las fundamentales o menos teóricas— __adquieren sentido para nosotros en *la medida en que son *conceptos que juzgaríamos que se aplican en situaciones de posible experiencia__\.
+
+
+## 101\-102
+__STRAWSON__ __P__\. \(1992:__101\-102__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Dije de la imagen dualista por la que comencé —la imagen, por un lado, del usuario de conceptos haciendo juicios y, por otro, de la realidad sobre la que juzga y que determina la verdad o falsedad de sus juicios— que era excesivamente simple y que seguía siendo demasiado simple cuando se añadía la cláusula de que es la experiencia la que hace posible tales juicios\. Era necesario completar la imagen con insistencia empirista de que los conceptos que no desempeñan ninguna función en el conocimiento son vacíos —tal como Kant lo formula—, a no ser que guarden relación con posibles experiencias\. __Llamamos a la dualidad inicial «la dualidad del sujeto que juzga la realidad objetiva sobre lo que juzga»__\. El riesgo al que ahora me estoy refiriendo, el riesgo inherente al la insistencia empirista es el que se pierde de vista esta dualidad\. __Al subrayar que la experiencia no sólo colma el hiato que hay entre sujeto y objeto, sino que dota de contenido significativo a todos los conceptos que usamos__, corremos el riesgo de que la noción de *realidad* objetiva queda sepultada totalmente en la experiencia o de que sea absorbida por ésta\. Muchos idealismos y todos los fenomenismos son resultado de este sepultamiento, y la historia de mucha de nuestra epistemología, sino es la historia de este hundirse \(o caer\) es este abismo, es la de la lucha por salir de él, por mostrar que carecen de respaldo las diversas formas de escepticismo acerca de la realidad objetiva\. Pero es mejor desde el principio mantenerse lejos del abismo\.
+
+
+## 102\-103
+__STRAWSON__ __P__\. \(1992:__102\-103__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ __Regresemos a la lógica__ por un momento, __la forma fundamental de los juicios no compuestos__ y a las funciones fundamentales que la caracterizan, es decir, __a la combinación de referencia y predicación__\. Nuestra labor es la de conectar esta noción lógica con otras dos: de una parte, con l__a noción ontológica de la realidad objetiva sobre la que juzgamos__; de otra, __la noción epistemológica de experiencia que por sí sola dota de sentido y contenido a nuestros juicios__\. La forma fundamental del juicio afirmativo, entonces, es ésa en virtud de la cual juzgamos que el concepto *general* tiene aplicación en un caso *particular*\. Se verá que esta descripción es ambigua, pues oscila entre dos tipos de formas: las formas de las proposiciones *atómicas*, en cuya expresión verbal no aparece ningún cuantificador y en la que el caso *particular* se especifica nombrando o designando de alguna manera al individuo o a los individuos particulares a los que el concepto se aplica; y la forma cuantificada existencialmente, por medio de la cual se juzga que el concepto general tiene aplicación en algún caso particular sin especificar\. \(Ejemplos de cada caso son, respectivamente, éstos: «Juan está cantando» y «Alguien está cantando\.\)»… ¿qué hemos de entender, por lo que respecta a la noción de juicio que versa sobre la realidad objetiva, por *caso particular* al que se aplica un *concepto general*? 
+
+ Pues bien, el concepto general es general en este sentido: puede, en principio, tener entre sus ejemplos un número arbitra*rio de casos* particulares\. La admisión de esta posibilidad ha de incluirse en nuestra comprensión de concepto\.
+
+
+## 103
+__STRAWSON__ __P__\. \(1992:__103__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Pero, según hemos visto, la comprensión que tengamos de un concepto de algo objetivamente real es inseparable de la noción de una posible aplicación de ese concepto en la experiencia\. Así, pues… tenemos* que poder encontrar en la experiencia diferentes instancias particulares suyas y distinguirlas en tanto que diferentes y, al mismo tiempo, hemos de reconocer también que son semejantes por el hecho de que a todas se les pueda aplicar el mismo concepto*\. Ahora bien, ¿cuál es el fundamento, la base subyacente, de esta posibilidad?
+
+ Ha llegado el momento en que e__s necesario introducir las dos grandes nociones de espacio y tiempo__ y conectarlas con la noción de diferentes instancias particulares de un mismo concepto\. Evidentemente, nuestra experiencia es temporal, sucesiva, comprendiendo el antes y el después; evidentemente también, __nuestra experiencia es de tal género que, en cualquier momento, nos proporciona un volumen o extensión espacial que se extiende desde un centro, el centro —podríamos decir— de nuestra experiencia personal__\.
+
+
+## 103\-104
+__STRAWSON__ __P\.__ \(1992:__103\-104__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Correspondiéndose con esto, la imagen que tenemos de la realidad objetiva es la imagen de un mundo en el que las cosas se encuentran separadas y relacionadas en el tiempo y el espacio, en el que coexisten diferentes objetos particulares, cada cual con su propia historia, __en la que diferentes eventos acontecen sucesiva o simultáneamente, y en el que diferentes procesos se completan en el tiempo__\. Todas estas nociones requieren explicación obviamente, si hemos de mostrar cómo encajan en nuestro esquema de cosas\. Mi objetivo inmediato es simplemente el de conectar las nociones de espacialidad y de temporalidad \(espacio y tiempo\) con las diferentes instancias o casos particulares de un concepto general; es decir, con la noción lógica de __objeto individual__\.
+
+ Véase cuán fácil resulta establecer esta conexión\. Si pensamos en una cierta extensión espacial, es posible distinguir, en un mismo momento, diferentes instancias de un concepto general: como cuando vemos a la vez dos ovejas en un campo o dos triángulos rojos en una pantalla\. Aquí estoy teniendo presentes separaciones separaciones y relaciones espaciales, no temporales\. Pero con *igual facilidad* se puede recurrir a la otra dimensión, en la que lo que cuenta es la separación temporal, no la espacial: una serie de instancias sucesivas del mismo sonido, como cuando el reloj da las doce\. Y también podemos mezclar los dos casas\.
+
+
+## 104
+__STRAWSON__ __P__\. \(1992:__104__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Ahora podemos imaginar una objeción en forma de pregunta\. ¿Por qué conferir con ello un papel especial a las nociones espacio y tiempo, al buscarle un fundamento empírico a la idea de diferentes instancias particulares de un concepto general más que por una diferencia y, por ende, a la misma generalidad de un concepto? ¿No habrá forma de distinguir normalmente diferentes instancias particulares de un concepto por algo más que por una diferencia en su posición espacial o temporal? Mi bicicleta está de hecho en una posición especial diferente de la suya, pero no es esa la única diferencia que hay entre ambas: la mía tiene un arañazo que la suya no tiene\. __¿No fue Leibniz quien insistió en que podrían apreciarse diferencias entre dos hojas del bosque si se las examinaba lo suficiente?__ E incluso si no es siempre así, ¿no resulta suficiente que pueda serlo?
+
+ La respuesta a esta objeción es muy simple\. Supongamos que dos hojas de árbol se distingan por algo que no sea espacio\-temporal\. Seguiría siendo el caso que usted no estaría, ni podría decir que estuviera, ante *dos* hojas diferentes *a menos que *fuesen distintas espacio\-temporalmente\. No es posible que haya dos hojas que difieran en algún respecto la una de la otra y que sean espacio\-temporalmente indistinguibles…\. Puede que para los conceptos de cosas espacio\-temporales sea verdad que, si dos instancias suyas diferentes —es decir, si son dos—, entonces difieren espacio\-temporalmente\. Pero, ¿no podría haber conceptos generales de algo objetivamente real conceptos de objetos individuales en la realidad que no fuesen en absoluto conceptos de cosas espacio\-temporales?
+
+
+## 104\-105
+__STRAWSON__ __P__\. \(1992:__104\-105__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+* *… La condición para que tengamos conceptos generales *de lo *objetivamente real, de objetos en la naturaleza, que no sean en absoluto conceptos de cosas espacio\-temporales, sería que tengamos una cierta clase de experiencia: una experiencia en la cual espacio y tiempo no desempeñen contenido alguno o, cuando menos, en la que no guarden ninguna relación con nuestra conciencia totalmente empírica de las diferencias numéricas entre diferentes instancias particulares de uno y el mismo concepto\. Aquí es donde el principio empirista ejerce su poder\. Pues semejante presunta descripción de una cierta clase de experiencia sigue resultándonos una descripción vacía; y la noción de conceptos generales de objetos empíricos que no sean conceptos de lo espacial o lo temporal sigue siendo igualmente vacía\. \(Se verá aquí que me hago de la doctrina de Kant de las formas de sensibilidad\)…\. Sin embargo, ¿por qué insistir en ambas? ¿No bastaría únicamente con la temporalidad? ¿Y con la espacialidad por sí sola? … Pero, ¿__no es cierto que podemos comprender muy bien, por esta misma razón, la posibilidad de exigir que los juicios sobre lo real se satisfagan por comunión de una sola clase?__ ¿Es que no podemos comprender el pensamiento de que esos juicios se funden en experiencias temporales, pero no espaciales, de lo real? ¿Y por qué no en experiencias espaciales y no temporales\. Al considerar este pensamiento, no estamos yendo seguramente más allá de la experiencia posible de una forma prohibida por el principio empirista\. __Sencillamente, nos estamos imaginando una experiencia más limitada de lo que realmente es\.__
+
+
+## 105\-106
+__STRAWSON__ __P__\. \(1992:__105\-106__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Es posible oponerse a este pensamiento\. Cabe argüir, en contra suya, que nos lleva más más allá de los límites superiores del sentido, sino más allá de lo que antes denominé sus límites inferiores\. No es que introduzca nociones vacías, sino que trata de descartar nociones esenciales, no es que añada a nuestro modelo de trabajo *elementos* que no son funcionales, que no desempeñan ninguna labor, sino que nos deja con piezas insuficientes para que el modelo funcione\. Antes me referí a Kant, tuve presente este tipo de argumento al discutir un sentido fuerte de lo «básico», un sentido según el cual podría afirmarse que ciertos rasgos de nuestro sistema conceptual eran básicos, es decir, esenciales en cualquier concepción verdaderamente coherente de la experiencia que pudiésemos formar\. Pero ahora no trataré de probar esto; porque nuestro objetivo inmediato es mas modesto: tratar de esbozar los rasgos generales básicos de la estructura conceptual que realmente tenemos y las relaciones entre esos rasgos, sin preguntarnos cuáles de ellos son también básicos en este sentido fuerte\. __ Podemos fácilmente ponernos de acuerdo sobre estos términos en los que la conexión de las *dos * nociones de espacio y tiempo con las de diferentes instancias particulares de un concepto general es, de hecho, una característica general básica de nuestra estructura conceptual\.__
+
+ 
+
+
+## 106\-107
+__STRAWSON__ __P__\. \(1992:__106\-107__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Tal vez, y entre paréntesis, pueda aventurarme a explicar parcialmente aquí algo que anteriormente dije que necesitaba explicación\. Me refiero a la __tesis de Quine acerca del compromiso ontológico y al impulso hacia la economía ontológica __a él asociado\. He estado discutiendo precisamente algunos casos fundamentales de juicio sobre lo objetivamente real, juicios que dicen que un concepto general se aplica en un caso particular\. Y he concluido que en ese caso hay dos distinciones conectadas entre sí; por un lado, la __distinción lógica entre referencia y predicación__; por el otro, la __distinción ontológica entre individuos espacio\-temporales__ \(a los que a partir de ahora llamaré simplemente «particulares»\) __y los conceptos generales de propiedad y relación, de los que son ejemplos los particulares\.__ En efecto, he indicado que son precisamente estos objetos espacio\-temporales, los particulares, los objetos fundamentales de referencia o los sujetos de predicación\. Si aceptamos esto, tendríamos la clave de la doctrina de que en realidad estamos comprometidos a creer en la existencia de precisamente esas cosas que de forma absoluta debemos tratar como objetos de referencia, si hemos de poder expresar nuestras creencias \(o, cuando menos, aquellas creencias nuestras que superan la *prueba* de aceptabilidad científica\)\. Es claramente verdadero que tenemos que tratar como __objetos de referencia __aquellas cosas que son objetos fundamentales de referencia en todo discurso sobre la realidad objetiva, es decir, los particulares\. 
+
+
+## 107
+__STRAWSON__ __P__\. \(1992:__107__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Supongamos ahora que la noción de existencia estuviese ya ligada en nuestras mentes a la de los particulares individuales; es decir, a la de cosas cuya identidad misma es inseparable de la posibilidad de distinguir espacio\-temporalmente de todos los otros miembros de su género\. Es decir, __supongamos que estamos predispuestos naturalmente a considerar al particular individual, con su propio lugar en el espacio y el tiempo, el paradigma o modelo mismo de lo genuinamente existente, de lo real__\. Añadamos ahora a esto el hecho que acabo de subrayar: __parece que en nuestros juicios básicos sobre la realidad objetiva los individuos espacio\-temporales serán realmente los objetos de referencia__ o, como Quine diría, los elementos recorridos por nuestras variables de cuantificación\. Si ponemos juntas estas dos ideas, dispondremos posiblemente de parte de la explicación que antes habíamos echado en falta; es decir, la explicación tanto del punto de vista de que __aquello en cuya existencia realmente creemos es lo que no podemos sino tratar como objeto de referencia__, como el impulso asociado a la economía ontológica: el deseo de reducir al mínimo estos compromisos ontológicos\.
+
+
+## 107\-108
+__STRAWSON__ P\. \(1992:__107\-108__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Decir que disponemos de una explicación parcial de ese impulso no es decir que podemos justificarlo\. Sin duda que no\. Porque si de hecho se trata de una explicación, parecería que el impulso a la reducción ontológica puede atribuirse en parte a un temor injustificado: el de que admitir en nuestra ontología ciertas cosas abstractas, no particulares \(tales como propiedades, proposiciones y demás\), lleve consigo el riesgo de mitificarlas, de considerarlas más objetos espacio\-temporales y particulares de lo que son\. \(Piénsese en la jerga filosófica común que habla de superpoblar el universo y demás\)\. El peligro puede ser real, pero me parece que se lo puede evitar sin rendirse a la precisión reductiva\.
+
+
+## 109
+__STRAWSON__ __P__\. \(1992:__109__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Capítulo 5 __LA EXPERIENCIA SENSIBLE Y LOS OBJETOS MATERIALES__
+
+ Es tiempo ahora de desarrollar, de dotar de más contenido a la __noción de *experiencia* del mundo objetivo__, propia de un sujeto que usa conceptos, y a la experiencia que da lugar a juicios verdaderos sobre el mundo\. Son tantas las consideraciones que se agolpan aquí que es difícil tenerlas todas presentes al mismo tiempo y ordenarlas con claridad\. __En primer lugar, las palabras «aquí» y «ahora»__ sugieren algo que podemos tratar de afianzar\. La conciencia del mundo propia de quien usa conceptos es conciencia *desde* un cierto punto de vista espacial *en* un momento\. Su conciencia, naturalmente, cambia de continuo, aunque quizá sólo a pequeños saltos, ya sea porque el mundo cambia dentro de los márgenes en que se tiene conciencia de él, porque cambia la orientación de ese usuario en el mundo —con lo que varía su punto de vista espacial— o por ambas cosas al mismo tiempo\. Así como «aquí» implica una conciencia del mundo como algo que se extiende en el espacio desde la perspectiva del sujeto, «ahora» implica tanto un sentido del pasado, de la conciencia \(memoria\) que de él tiene el sujeto como un sentido de lo posible o probable futuro \(expectativa\)\. __Lo que por encima de todo lo demás debemos tener presente —algo que, por lo que parece, no resulta fácil lograr— es esto: que la experiencia del mundo de ese sujeto se concibe a la vez como experiencia de algo en el mundo, de una parte del mundo y de su historia, y también genuinamente como una experiencia del mundo y, por ello, como fuente de los juicios objetivos sobre él\.__ 
+
+
+## 109\-110
+__STRAWSON__ __P__\. \(1992:__109\-110__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Las palabras «aquí» y «ahora» nos ayudan a lograr esto a causa de *su doble* referencia: juntas indican, como dijésemos, un punto de referencia particular dentro de un mundo espacio\-temporal objetivo; pero es solo por relación a *sujetos* concretos en tiempos concretos que hacen referencia *objetiva*\. __No se puede… eliminar el «aquí» y el «ahora» de las ocasiones en que aparecen en las bocas y mentes de ls sujetos de experiencia __y, a pesar de ellos, seguir preguntando de forma significativa a qué punto o región del espacio\-tiempo del mundo objetivo refieren estas palabras\. La pregunta quedaría desprovista de sentido\.
+
+ Por lo tanto, entonces, tenemos la noción de un usuario de conceptos con una experiencia que se extiende en el tiempo desde un cierto punto de vista espacial de una experiencia tanto *en* como *de* un mundo espacio\-temporalmente objetivo\. __Ahora bien, esta noción es precisamente la forma más general de la noción de *percepción sensible*__*, *tema éste que podría decirse que ha sido, hasta no hace demasiado, casi una obsesión profesional de los filósofos británicos\.
+
+__*STRAWSON*__* *__*P*__*\. \(1992:*__*110\-111*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
+
+* *Así, pues, __¿qué contiene la noción de percepción sensible como algo que da lugar a juicios sobre un mundo espacio\-temporal objetivo?__ Al hacer esta pregunta no se da a entender, como es natural, que la percepción sensible dé siempre lugar a juicios verdaderos\. __Podemos percibir mal y, de hecho, así acontece__\. Pero, sin duda, es un rasgo de nuestro habitual esquema de pensamiento el entender que la percepción sensible produce juicios que son verdaderos generalmente o de forma usual\. __Recuérdese que, cuando pensamos en el mundo como algo objetivo, pensamos en él como siendo lo que con independencia de cualquier juicio particular que se haga sobre él__: __la verdad del juicio, *si es verdadero, consiste en su conformidad con la manera en que son las cosas del mundo*__*\. *De ahí que el mínimo de contenido que parece haber en la idea de que la percepción sensible da generalmente lugar a juicios verdaderos sobre el mundo espacio\-temporal objetivo sea que debería haber una relación de dependencia muy regular entre la experiencia propia de la percepción sensible y cómo son las cosas objetivamente\. \(En caso contrario, la verdad o la corrección normal de los juicios perceptivos sería inexplicable, una coincidencia extraordinaria\)\.
+
+ *Evidentemente*, esta noción general de dependencia ha de cualificarse para recoger el hecho de que el ámbito de la experiencia de un sujeto en todo el tiempo tiene un límite; de manera que a esto se debe que la experiencia que tenga en un momento del tiempo dependerá tan sólo de ciertas partes o aspectos del mundo objetivo\.
+
+__*STRAWSON*__* *__*P*__*\. \(1992:*__*111*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Poseemos, por lo tanto, esta noción de experiencia que acontece en el tiempo y cuyo carácter depende de una determinada distribución espacio\-temporal de rasgos objetivos relacionada con una cierta región espacio\-temporal central; la región ocupada por el sujeto\. En su sentido más amplio, ésta es la noción de una experiencia que *depende causalmente* de los rasgos objetivos en cuestión\. Pues bien, lo que quiero señalar ahora es que __esta noción de dependencia causal de la experiencia__, tenida en la percepción, de rasgos del mundo objetivo espacio\-temporal está implícita desde el principio mismo en el concepto de __percepción sensible, puesto que generalmente se piensa que produce juicios verdaderos sobre el mundo__\. No es algo que descubramos conforme avanza la ciencia, ni siquiera mediante una observación refinada\. Y tampoco exige un elaborado argumento filosófico\. E__sta noción de dependencia causal es plenamente inherente a la noción misma de percepción sensible pues ésta proporciona juicios verdaderos sobre un mundo espacio\-temporal objetivo__\. __De ahí que cualquier teoría filosófica que trate de ser fiel a nuestro marco general de ideas, a nuestro sistema general de pensamiento, debe incorporar esta noción general de dependencia causal__\. En esta medida, al menos, __habrá de ser una teoría causal de la percepción__\. Lo que descubrimos mediante observación refinada o científica es, naturalmente, cómo se establece de hecho esta relación general de dependencia causal, qué forma adopta, qué mecanismos encierra\. Estas preguntas tienen también interés filosófico, como veremos\.
+
+__Putnam__, H\. \(1999\-200:7\) *La trenza de tres cabos*: ”La fantasía metafísica consiste en decir que hay una totalidad de Formas, o Universales o «propiedades», fija de una vez y para siempre, y que todo posible significado de una palabra corresponde a una de estas formas, de estos universales o de estas propiedades\. La estructura de todos los pensamientos posibles se fija por adelantado, viene fijada por las formas\.“
+
+
+## 111\-112
+__STRAWSON__ __P__\. \(1992:__111\-112__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+  __Lo que descubrimos mediante observación refinada o científica es, naturalmente, cómo se establece de hecho esta relación general de dependencia causal__, qué forma adopta, qué mecanismos encierra\. Estas preguntas tienen también interés filosófico, como veremos\. La idea que consideramos ahora es la de un segmento de experiencia centrado de alguna forma en una región espacio\-temporal del mundo y dependiente, en lo que concierne a su carácter y a su *acontecer, *de una cierta distribución de los rasgos objetivos de las regiones que rodean a esta región central\. Pero es claro que esta orientación hacia un centro y esta dependencia causal encierran más cosas que las dichas\. __Para que alguien tenga una experiencia, no basta con estar ubicado en el espacio y en el tiempo y responder sistemáticamente a su entorno__\. Lo mismo podría decirse de una planta o de ciertos instrumentos\. Pero __estamos hablando de algo que no se limita a ser sensible a su entorno__, como lo diría una planta o un instrumento, sino algo cuya sensibilidad adopta la forma de conocimiento consciente de su entorno\. E__stamos hablando de sujetos que emplean conceptos para formar juicios sobre el mundo, juicios que resultan de la experiencia tenida en la percepción sensible__\. 
+
+H\.P\. \(199:19\) *Razón, verdad e historia \. “*Hemos visto que poseer un concepto no consiste en poseer imágenes \(de árboles, por ejemplo —o incluso imágenes «visibles» o «acústicas» de oraciones, o de discursos enteros, dicho sea de paso\), ya que alguien podría poseer cualquier sistema de imágenes que a usted se le antoje sin poseer por ello la* capacidad* de utilizar las sentencias de modos situacionalmente adecuados* *— y también a los no lingüísticos, como los determinantes de la «adecuación situacional»\. 
+
+ 
+
+
+## 112\-113
+__STRAWSON__ __P__\. \(1992:__112\-113__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Ahora bien, la forma en que acabo de expresarme … puede crear confusiones\. Puede tentarnos a pensar que se dan en nosotros dos estadios en la formación de juicios perceptivos: en primer lugar \(__estadio 1__\), __la experiencia sensible__, la sensación bajo diferentes modalidades, el producto de la influencia del entorno en los sentidos; y después, en segundo lugar \(__estadio 2__\), __el juicio__, el despliegue de conceptos en la formación de creencias acerca del mundo a partir de esa experiencia sensible\. Y de hecho hay filósofos que adoptan esta imagen de los dos estadios causales: de la experiencia sensible causada por el entorno y del juicio, de la formación de creencia, que esa experiencia causa a la vez\. Así pues, según esta imagen, la experiencia sensible sería algo, sin duda rico y suficientemente complejo, a lo que, sin embargo, no se concedería mucha atención salvo con vistas a algún propósito especial —clínico o estético—, ya que su principal función sería la de servir de agente causal inmediato en la promoción de creencias sobre el mundo, en la causación del juicio\.
+
+ __A mi juicio, esta imagen es errónea\.__ Lo es porque los conceptos empleados en el juicio perceptivo sobre el mundo, por un lado, y la experiencia sensible misma, por otro, se compenetran más estrechamente de lo que sugiere la imagen\. He observado, cuando me referí al principio empirista general, que los conceptos son vacíos, que no tienen significación para nosotros a menos que en su aplicación podamos vincularlos, directa o indirectamente, a la *experiencia*, a las condiciones de la experiencia\. 
+
+
+## 113
+__STRAWSON__ __P__\. \(1992:__113__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Naturalmente, la relación de los conceptos con la experiencia debe ser particularmente estrecha cuando se trata de esos conceptos ordinarios, comunes, preteóricos, en cuyos términos formulamos nuestros juicios perceptivos más naturales\. Y no es, \(no puede ser\) un asunto unilateral lo estrecha que resulte esa relación\. Así como los conceptos, o cuando menos estos conceptos relativamente comunes, obtienen su sentido en y de la experiencia perceptiva, ésta adquiere su carácter de los conceptos desplegados en nuestro juicios perceptivos\. El carácter de la experiencia perceptiva misma, de la experiencia sensible misma, se halla completamente condicionado por __los juicios sobre el mundo objetivo que estamos dispuestos a hacer cuando tenemos esa experiencia; está, pongámoslo así, completamente impregnada —saturada, podría decirse—de los conceptos empleados en esos juicios__\. Es decir, la descripción sincera de una experiencia que se tenga en un momento dado debe hacerse normalmente en términos de esos conceptos, y no en los términos restringidos que resultan apropiados en momentos en los que la atención del sujeto está volcada únicamente en sensaciones de un interés especial , clínicas o estéticas, digamos\.
+
+ Así, por ejemplo, la mejor —de hecho, normalmente la única— forma de dar una descripción verídica de la experiencia visual en curso, de la experiencia visual que usted, lector, esté teniendo en este momento, es describir lo que usted mismo considere que está *viendo* ahí fuera, en frente suyo\.
+
+Ver Putnam \(1988:5 y ss del capítulo Cerebros en una cubeta\) sobre el dibujo de Churchill por una hormiga o sobre los cerebros en la cubeta que “ven” un árbol frente a ellos o los extraterrestres que entran en contacto con una mancha en papel que podría ser un árbol\. Sin “concepto” no hay imagen, no hay intención, referencia, imagen mental, cadena causal, “nada intrínseco”\.
+
+
+## 113\-114
+__STRAWSON__ __P__\. \(1992:__113\-114__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Siempre puede prevenirse contra una posibilidad remota de error empleando una fórmula como «Mi experiencia visual es como si viese\.\.\.» …__ Lo importante es que los conceptos que se necesitan para describir la experiencia son precisamente los que se necesitan para describir el mundo__\.
+
+ De forma parecida, y por lo que respecta a la experiencia auditiva que están teniendo ustedes en este momento, su experiencia sensible en curso es \(o es como\) la de oír que se están pronunciando estas palabras en tal y cual tono de voz\. Como es *natural*, a veces hay ocasiones en las que existe una buena razón para proteger nuestro juicio o para calificarlo; pero también entonces usamos los mismos conceptos que emplearíamos si juzgásemos sin reserva alguna, aunque añadamos una indicación explícita de reserva, como, por ejemplo, «Parece como si tal y cual; pero puede ser una ilusión»\.
+
+ 
+
+
+## 114\-115
+__STRAWSON__ __P__\. \(1992:__114\-115__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Es hora de dar otro paso adelante… de examinar otro vínculo\. Teníamos que desarrollar o dotar de contenido a la noción de percepción sensible que produce juicios verdaderos sobre un mundo espacio\-temporal objetivo\. Hasta el momento __he observado que la experiencia perceptiva debe ser causalmente sensible al mundo que hay a nuestro alrededor__; y también he señalado que se halla plenamente impregnada de los conceptos que empleamos al formar juicios perceptivos sobre el mundo\. Pero es claro igualmente que si esos juicios han de ser verdaderos en general, los conceptos utilizados en ellos deben ser, en general, conceptos de géneros de __cosas que están realmente en el mundo y conceptos de__ __propiedades que esas cosas realmente tienen__\.
+
+ Al decir esto, ni planteo ni resuelvo un problema escéptico\. No he dado demostración de nada\. Y tampoco voy a preguntar qué garantía tenemos de que esto sea realmente así…
+
+ __*Nuestra* experiencia sensible se halla impregnada, digamos, de los conceptos del mundo objetivo —del mundo que se extiende en el espacio y el tiempo—__, de como son las cosas que determinan la verdad o la falsedad de nuestros juicios\. Si nos limitamos por un momento al aspecto espacial del caso, veremos que __nuestros conceptos de lo objetivo incluirán algo que podemos llamar… conceptos de modo *ocupación* del espacio__\.
+
+
+## 115\-116
+__STRAWSON__ __P__\. \(1992:__115\-116__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Tendremos, naturalmente, conceptos de relaciones espaciales, de posiciones relativas en el espacio y tendremos, así mismo, conceptos de propiedades espaciales que caracterizan a los ocupantes de las posiciones del espacio —conceptos, por lo tanto, de forma y tamaño \(o según dijo John Locke, conceptos de figura y bulto\)—\. __Así, pues, nuestros conceptos del mundo objetivo serán ante todo conceptos de cosas que tienen no sólo propiedades sino también posiciones espaciales\. __ Y es obvio que esta condición la satisfacen en realidad muchos de los conceptos ordinarios de lo objetivo que intervienen en nuestros juicios perceptivos: los conceptos de animales, plantas, artefactos, accidentes geográficos, etc\.
+
+ No se agota la cuestión con esto\. Las nociones de posición espacial, extensión, forma y tamaño son relativamente abstractas\. Porque como Berkeley señaló, no podemos hacernos perceptivamente conscientes de la posición, la extensión y la forma de algún ocupante del espacio como no sea haciéndonos conscientes de estas propiedades espaciales bajo alguna modalidad sensible o *sensorial *específica\. 
+
+
+## 115\-116
+__STRAWSON__ __P__\. \(1992:__115\-116__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Hemos de poder distinguir las propiedades o relaciones espaciales por medio de las propiedades específicas de la modalidad sensorial en cuestión\. Así, nos hacemos conscientes de la forma, tamaño y posición de los ocupantes del espacio mediante el reconocimiento de los límites definidos por cualidades visuales y táctiles, que mantienen sutiles relaciones entre sí y con otros tipos de experiencia sensible:__ son varias las formas en que nos hacemos conscientes de los objetos en el espacio *como *objetos coloreados o sombreados o como duros, lisos, blandos, ásperos, flexibles o resistentes__\. La gama pertinente de conceptos de cualidades esenciales visuales o táctiles se encuentran tan íntimamente asociada a e__stos conceptos de objetos espaciales, que entran en nuestros juicios perceptivos__, como os conceptos espaciales más abstractos\. Si digo que he comprado un caballo, usted puede preguntar con la misma propiedad de *qué color* es, *dónde *está su cuadra o *qué altura* tiene\.
+
+
+## 116\-117
+__STRAWSON__ __P__\. \(1992:__116\-117__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Y ahora abordamos el problema\. Cuando aprendemos algo de los mecanismos causales de la percepción, de su física y fisiología, toda nuestra visión del tema puede sufrir un cambio o desplazamiento radical\. __Hay escritores, es especial los que escriben__ de fisiología de la percepción, __que usualmente consideran «puramente subjetivas» las cualidades sensibles propias de una modalidad sensorial__, y aquí incluyen las cualidades visuales y táctiles, el color y la textura sentidos\. En su opinión, el hecho de que percibamos las cosas como teniendo esas cualidades sensibles es consecuencia causal tanto de la constitución física de las cosas mismas como de la nuestra propia\. Si hubiésemos estado hechos de otra manera, percibiríamos las cosas de manera diferente\. La conclusión que parece seguirse de este uso de la palabra «subjetivo» … es que __ninguna cualidad sensible semejante, según las entendemos normalmente, pertenece real o intrínsecamente a las cosas que ocupan el espacio__\. Esas cosas sólo poseerían en realidad las propiedades físicas que se les atribuyen en las teorías físicas con las que se explican los mecanismos físico\-fisiológicos de la percepción\. Pero estas propiedades físicas, aunque requieren posiciones en el espacio y configuraciones espaciales, *son abstractas* en el sentido ya explicado: s__u especificación no hace referencia a cualidades propias de ninguna modalidad sensorial que pudiera conducirnos a ser conscientes de ellas__\. Por ello, se concluye que, aunque en un sentido podamos percibir objetos en el espacio, no podemos percibirlos en absoluto *tal y como ellos son*, o como son en sí mismos\. Y no sería ésta una situación que pudiera remediarse modificando nuestra dotación perceptiva o ayudándonos con instrumentos cualesquiera, por muy precisos que fuesen\.
+
+
+## 117\-118
+__STRAWSON__ __P__\. \(1992:__117\-118__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… la percepción estará siempre medida por cualidades sensibles de alguna clase\. De modo que a las cosas se las puede concebir, s__e puede pensar en ellas como realmente son__, en términos abstractos, __pero no se les puede percibir como son de verdad\.__ Percibimos las cosas, por supuesto, pero no como son en realidad, sino tan sólo como se les aparecen a seres constituidos fisiológicamente como nosotros lo estamos\.
+
+ Lo que ha de tenerse presente a propósito de esta conclusión es que es perfectamente aceptable, si se la entiende apropiadamente; y que, al mismo tiempo, __resulta perfectamente compatible con la proposición de que normalmente percibimos las cosas como son en realidad\. Aunque en apariencia parezcan contradecirse, de hecho no es así__\. Pues la frase «las cosas son como en realidad» se usa en esas proposiciones en sentidos diferentes o con diferentes criterios de aplicación\. En el sentido en que se la usa en la primera proposición, de la descripción de las cosas tal y como son en realidad se excluye toda adscripción de cualidades propias de un modo sensorial dado —como color, textura sentida, etc\.—; el canon de realidad es la teoría física\. Mientras que en el sentido más habitual en que se usa la frase —el de la segunda proposición—, no excluye semejante adscripción: el canon que se adopta para corregir a los demás lo constituyen las adscripciones \(de cualidades sensibles\) que sea asocian a condiciones normales de observación\. __Supongo que se distinta los dos sentidos de «real» y «realidad», podemos aceptar que cada punto de vista, cada canon, tiene su propia validez__\. Desde ambos puntos de vista por igual, hablamos de las mismas cosas; *pues* la __identidad de la referencia a esas cosas viene asegurada por que ambos estilos de descripción __comparten la adscripción de las grandes características espaciales de la posición, el tamaño y la forma —en una palabra, de la ocupación de una cierta región del espacio—\.
+
+
+## 118
+__STRAWSON__ __P__\. \(1992:__118__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Resulta fácil imaginar la siguiente objeción\. Alguien podría decir: «Realmente, usted no ha acertado con el nervio del argumento científico\. Dice usted que ciertas adscripciones de cualidades sensibles se aceptan como canon de referencia para corregir otras adscripciones de ese género\. Pero todo ello es meramente humano y subjetivo y nada tiene que ver con los hechos físicos, que son los que son con independencia de la sensibilidad humana subjetiva»\. Ahora bien, __ésta es —así me lo parece— una reacción típicamente obsesiva__\. Habríamos de tomar nota, primero, de lo que ha sucedido con la palabra «subjetivo»: ya no se opone a «intersubjetivo», que es lo característico de las adscripciones comunes de cualidades sensibles\. Obsesionado con un aspecto científico, particular, de nuestra preocupación por el mundo objetivo, el crítico ha ligado exclusivamente la noción de objetividad a esa preocupación, con lo que ha perdido completamente de vista la función que desempeñan en nuestras vidas —en las vidas de seres sociales, que actúan y se comunican— los conceptos de lo objetivo\. __De todo lo que he pasado por alto puede que lo más importante sea el hecho de que los objetos han de percibirse como portadores de cualidades sensibles, visuales, táctiles, para que se los pueda percibir como ocupantes de espacio__\. Y a ello se debe que el que se les atribuya cualidades sensibles —siendo el acuerdo intersubjetivo el canon de corrección— es algo que está seguramente muy enraizado en nuestro esquema conceptual\.
+
+
+## 118\-119
+__STRAWSON__ __P__\. \(1992:__118\-119__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Retornemos al punto de partida de nuestra última discusión\. Por encima de todo lo demás i__nsistí en la dimensión espacial *de nuestra* concepción del mundo objetivo__\. Obviamente hay que tener presente también la dimensión temporal\. Subraye más arriba que la experiencia que tiene el sujeto del mundo objetivo es la experiencia* desde* un cierto punto de vista espacial *en *algún momento y que necesariamente es así como él mismo concibe el mundo\. El eco de este pensamiento, dije, resuena en la frase «aquí y ahora»\. El sujeto no puede reconocerle sentido alguno a esta frase a menos que disponga de la concepción de un mundo espacio\-temporal objetivo desde cuyo interior tiene experiencia de esa mundo…
+
+ Evidentemente —y esto sería verdadero si pensásemos en cualquier clase de cambios en el punto de vista del perceptor con respecto a los objetos percibidos—, se necesita la idea de una retención del contenido de juicios hechos en momentos anteriores durante el proceso de cambio\. 
+
+
+## 119
+__STRAWSON__ __P__\. \(1992:__119__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__Se necesita, al menos, alguna forma de memoria en el sujeto que juzga, algún sentido del pasado \(y del futuro\), para dar fuerzas al «ahora__», Sin embargo, y es esto lo que deseo subrayar, necesitamos más de todo esto\. *Para que la noción de perspectiva espacial sobre el mundo objetivo posea contenido empírico o experiencial,*__* es necesario que el sujeto pueda tener, y pueda aplicar empíricamente, la idea de identidad permanente de algunos de los objetos que caen dentro del alcance de sus percepciones cambiantes*__*\.*
+
+ Los cambios de punto de vista deben ser, y han de experimentarse como, relativos a objetos que persisten a través de esas variaciones\. Más aún, __resulta claro que esta condición de que los objetos percibidos retengan su identidad debe incluirse en al menos algunos de los conceptos que forman parte de los juicios perceptivos del sujeto__; es decir, en los conceptos ordinarios de aquellos objetos que, como observé previamente, son indispensables para una explicación verídica de nuestra experiencia sensible\.
+
+__STRAWSON__ __P__\. \(1992:119\-__120__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+De aquí que algo o mu*cho de lo* que percibimos lo percibimos *como *entidades relativamente duraderas que ocupan espacio, entidades de géneros tales que retienen su identidad cuando percibimos diferentes aspectos suyos dede diferentes puntos de vista; o cuando, como resultado de una u otra clase de cambio, dejan de estar dentro de nuestro ámbito perceptivo inmediato\. __Con el paso del tiempo cada uno de nosotros elabora una imagen detallada del mundo__\. Pero todas las imágenes detalladas, elaboradas por diferentes sujetos de experiencia con el paso del tiempo, comparten una estructura básica común: todas ellas son imágenes de un mundo en el cual cada uno de nosotros ocupa, en un momento dado, un punto de vista perceptivo y en el cual los individuos que ocupan espacio, señalados y señalables como tales mediante conceptos de cosas y géneros, tienen, como nosotros, historias pasadas y, quizás, un futuro\.
+
+ __Así pues, estos individuos que ocupan espacio y que conservan su identidad —individuos a los que, en nuestra experiencia, cabría llamar «objetos materiales» o «cuerpos»— ocupan una posición fundamental en nuestro esquema de cosas, en la estructura conceptual que empleamos__… Estos sujetos, con sus cambios, sus relaciones y sus conexiones recíprocas constituyen, o proporcionan, el marco espacio\-temporal unitario de nuestro mundo\.
+
+
+## 120\-121
+__STRAWSON__ __P__\. \(1992:__120\-121__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Como cabría esperar, este hecho se refleja en nuestro lenguaje\. Estos individuos que ocupan espacio y que conservan su identidad, los objetos materiales y \(entre ellos se excluyen\) las personas, son los referentes por antonomasia de nuestros nombres y frases nominales\. Naturalmente, como subrayé al discutir la doctrina de Quine del compromiso ontológico, disponemos de, y empleamos, nombres y frases nominales para una enorme variedad de cosas de otras clases; de hecho, para cosas de todo de categorías que se quiera nombrar\. … puede percibirse que esto guarda relación* con *la noción de ordenamiento ontológico que antes ofrecí en esbozo\. __El lenguaje nos proporciona un reflejo del lugar fundamental que corresponde a ciertos tipos de objetos de referencia, a los individuos lógicos, en nuestro esquema de las cosas__\. Y, por consiguiente, también de la primacía de ciertos tipos de predicación, de los tipos que corresponden a las propiedades y relaciones\.
+
+
+## 123\-124
+__STRAWSON__ __P__\. \(1992:__123\-124__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__*Capítulo 6*__*\. *__El empirismo clásico\. Lo interno y lo externo\.Acción y sociedad__
+
+ Hasta ahora, __mi proyecto ha consistido en dibujar algunas de las principales líneas de conexión e interdependencia que vinculan los conceptos fundamentales de nuestra estructura general de ideas__\. \.\.\. Me propongo caracterizar esta tradición \[empirista británica en filosofía\], que es contraria a mi propio enfoque y a mi juicio está equivocada, con la intención de resaltar los rasgos característicos que yo suscribo\.
+
+… he de considerar que la estructura general de nuestras ideas deriva, de una u otra manera, de una pequeña parte de sí misma\. __A esta parte fundamental de la estructura se la considera básica y no derivada__\. Se le considera *dada*, y __consiste en la sucesión temporalmente ordenada de estados mentales subjetivos__, __incluyendo sobre todo las experiencias sensoriales en la mente del sujeto__; y de acuerdo con esa drástica separación entre experiencia sensible y juicios… __a los estados mentales__ mismos __se los entiende__ frecuentemente de una manera bastante restringida: __como impresiones o imágenes de cualidades sensoriales simples__, __sueltas o combinadas entre sí__\. Estoy y no otros son los materiales básicos\. Comparado con esta base, hay diversas maneras d entender el *resto* de la estructura ordinaria de nuestro pensamiento, dependiendo de cuál sea la variedad de empirismo que esté en cuestión\. Tres son las variedades principales y ahora trataré de distinguirlas\.
+
+
+## 124
+__STRAWSON__ __P__\. \(1992:__124__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ __Para una de ellas__, la estructura general de nuestro pensamiento, de nuestras creencias ordinarias sobre el mundo, ha de entenderse como si fuera un tipo de *teoría*, elaborada sobre la base que forma la sucesión de estados subjetivos; por ello, la estructura demanda *justificación racional*, más o menos de la forma en que demandan justificación racional las actuales teorías científicas que se ocupan del mundo o de la realidad\. De acuerdo con __una segunda variedad__, la __estructura general de nuestras creencias es considerada no como una teoría que precisa de justificación razonada__, sino como una forma de pensar con la cual e__stamos comprometidos de modo natural__, una forma de pensar que __no podemos sino aceptar o, por decirlo con crudeza, a la que estamos clavados\.__ Pero el hecho de que, por naturaleza, estemos así comprometidos con semejante forma de pensar requiere, según este punto de vista, __una explicación natural__ —es decir, __científica__—, una explicación que, claro está, ha de fraguarse exclusivamente con los materiales básicos\. Esta es la variedad de aproximación empirista propia de David Hume, la variedad que se hace evidente cuando Hume dice que es inútil preguntarse si hay o no cuerpos, puesto que no podemos dejar de pensar que los haya; y que la pregunta oportuna es la de cuál es la causa de que creamos que los hay… 
+
+
+## 124\-125\-126
+__STRAWSON__ __P__\. \(1992:__124\-125\-126__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Existe, sin embargo, un __tercer tipo__ __de empirismo__, según el cual todas las nociones constitutivas de la estructura general de nuestro pensamiento, dejando a un lado los elementos que se admiten como básicos, son los que se dio en llamar «__construcciones lógicas__» __de esos elementos básicos__\. Es decir, todas las restantes nociones, en tanto que admisibles, __se definirán en principio a partir de elementos básicos y de sus relaciones intrínsecas__\. Desde un punto de vista ontológico, según esta versión, los únicos elementos cuya existencia estaríamos obligados a admitir serían los elementos básicos, los estados subjetivos, *mismos*\. …
+
+ … quizá la más atrevida y, cabe añadir, la más sorprendente de las tres sea la segundo: la de Hume\. \. En su forma pura, creo que es la que le distingue a él de los demás filósofos… Este punto de vista —a saber: que se trata de alternativas exhaustivas— podría decirse que es el rasgo definitorio del *empirismo clásico*\. Lo que llamo empirismo clásico no ha de confundirse con aquello que antes denominé el principio central del empirismo en general… 
+
+… *Consideraré* ahora, una tras otra, cada variedad de aproximación\. En primer lugar, mi punto de vista es que la justificación de la estructura general de ideas dentro de la que he trazado algunas de las principales conexiones está fuera de lugar; no hay que justificarla partiendo de la reducida base formada por esa parte suya que consiste en a noción de una sucesión de estados subjetivos temporalmente ordenada\. Al contrario, lo básico es precisamente __la estructura general de ideas, el marco general de nuestro pensamiento, el fundamento de__ __nuestra economía intelectual__\. Toda justificación racional de la teoría de la realidad presupone y descansa es esta estructura general\.
+
+
+## 126
+__STRAWSON__ __P__\. \(1992:__126__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__En segundo lugar__ está el tema de la explicación\. Una explicación natural como la que Hume se esforzó en dar, de la adquisición por el individuo que madura del dominio de este marco de nociones, una explicación de la ontegénesis del marco mismo es algo que puede intentar hacerse, y quizá lograr, en términos psicofisiológicos\. Pero los términos mismos de la explicación pertenecen a ese marco o lo presuponen\. Por lo que respecta a la tercera variable que distinguí —la teoría de las construcciones lógicas, o el programa de reducción mediante definición—, sería difícil ahora encontrar un solo filósofo que conserve alguna confianza en ella\. __Las dificultades de la reducción se hicieron insuperables__\. Y no hablemos ya del hecho… de que __los conceptos de los objetos materiales, los candidatos obvios a la reducción__, s__on ellos mismos indispensables para describir de forma verídica las experiencias sensibles en cuyos términos habían de definirse__\.
+
+… Esto, entonces, por lo que respecta a esa tradición mentalista, subjetiva, de la filosofía que debe su origen, sin duda, a Descartes, pero que en estilo diferente, llegó a dominar el empirismo clásico de Locke, Berkeley, Hume y sus sucesores\. 
+
+
+## 127\-128
+__STRAWSON__ __P__\. \(1992:__127\-128__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Hay , sin embargo, otra trayectoria en filosofía que resulta apropiado tratar aquí, puesto que comete casi el error opuesto, un error que es ciertamente complementario del que acabo de exponer\. Si la primera tradición podía llamarse «internalista», su opuesta o complementaria propone una tesis que podría denominarse tesis del externalismo\. __El internalismo no aprecia problema alguno en extender la vida subjetiva interna de los pensamientos, las sensaciones y la experiencia interna en general como una serie de entidades privadas, mientras que sí considera problemático el mundo físico__\. El externalismo considera no problemático el mundo físico público de los cuerpos que se mueven e interaccionan en él, mientras para él la vida subjetiva e interna es problemática\. Una forma de internalismo, como vimos, es la reduccionista o construccionista \(viene a ser la misma cosa\): las entidades problemáticas han de reducirse a, o construirse con, las entidades aproblemáticas\. Una forma extrema de externalismo tiene más o menos el mismo programa, sólo que el reparto se invierte: las entidades problemáticas y aproblemáticas desempeñan papeles opuestos…
+
+
+## 127\-128
+__STRAWSON__ __P__\. \(1992:__127\-128__\)\. *Análisis y metafísica\. Una introducción a la filosofía*
+
+Una de las razones al menos del atractivo del externalismo es, sin duda, el pensamiento de que las características, las relaciones y el comportamiento de los cuerpos en el espacio,, incluyendo los cuerpos humanos, son, o parecen ser, satisfactoriamente definidos y observables; mientras que la vida interior o mental parece ser característicamente elusiva e indefinida, inaccesible a la inspección pública o a la verificación científica… cuando buscamos una respuesta a la pregunta: «¿Qué es creer algo?», nos vemos empujados hacia el concepto de acción —de un movimiento en el espa*cio*, por lo tanto— como parte de la respuesta\. Y perplejidades parecidas nos asaltan si preguntamos qué significa que un pensamiento, una experiencia o una emoción compleja nos hieran\.
+
+
+## 128
+__STRAWSON__ __P__\. \(1992:__128__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… una cosa que puede ayudarnos a que no nos perdamos en el externalismo es reflexionar sobre la idea que acabo de subrayar a propósito de las razones del atractivo del externalismo, a saber: __que las características, las relaciones y el comportamiento de los cuerpos en el espacio, incluyendo los cuerpos humanos, parecen ser satisfactoriamente *definidos y observables*__\. Concentremos nuestra atención en el último pensamiento: *observabilidad en la percepción*\. Imaginémonos recorriendo y observando una escena física rica y compleja, contemplando quizá un retazo del paisaje\. Nótese entonces que la experiencia perceptiva de observar, de darse cuenta de la escena no es menos rica y compleja que la escena física misma *tal y como la vemos*\. Tratar de llevar a cabo una reducción externalista de la experiencia perceptiva no sólo es un intento intrínsecamente absurdo, sino que se autorrefuta: el intento hace saltar precisamente la base en la que descansa el atractivo del externalismo, es decir, la naturaleza satisfactoria y definidamente observable de la escena pública, física\. Así pues, una útil receta correctora ante las dudas que suscita lo interno no es buscar dentro, sino buscar fuera\. La descripción plena y rica del mundo físico en tanto que *percibido *proporciona, incidentalmente y al mismo tiempo, una descripción plena y rica de la experiencia subjetiva de quien la percibe\.
+
+
+## 128\-129
+__STRAWSON__ __P__\. \(1992:__128\-129__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Y ahora mi segundo comentario\. __El impacto del externalismo se siente, como es natural, de forma más inmediata en la filosofía de la mente y de la acción__\. Pero no se limita a la filosofía de la mente, a no ser que ampliemos de hecho nuestra concepción de ésta hasta incluir en ella, cuando menos, la filosofía del lenguaje, la teoría del significado y la filosofía de la lógica\. Consideremos *un ejemplo* del efecto de ramificación\. Existe en filosofía una distinción tradicional que se remonte al menos al siglo diecisiete: __Leibniz__ la expresó al distinguir entre __verdades de razón y verdades de hecho__\. Otros filósofos han hablado de __verdades lógicas o verdades semánticamente__ __necesarias en contraposición a verdades contingentes__; o puede que en términos más restringidos, de verdades analíticas y verdades sintéticas\. Cuando adoptamos, o tratamos de explicar, estas distinciones, vemos que es útil usar con entera libertad las nociones de *significado*, identidad, inclusión o incompatibilidad de los *sentidos* de las expresiones, de las *proposiciones* —concebidas de forma abstracta— que expresan las oraciones en uso, etc\. Junto a la noción de necesidad semántica, todas éstas son lo que Quine al menos denomina «nociones __intensionales__»\* o «__intensiones__»\.
+
+\* \(yo: VA\) Creo que debe traducirse como “intención” y no como “intensión”\. En el original en inglés aparece “ intension notions or inensions” y en el diccionario aparecen ambas maneras de grafía\. Es una licencia que se dio Quine para argumentar, creando una palabra para designar el “propósito”, la funcionalidad\.
+
+
+## 129\-130
+__STRAWSON__ __P__\. \(1992:__129\-130__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__No sorprende que, en estos términos aceptables para un externalista, no podamos reconstruir de forma plausible la distinción entre lo lógica o semánticamente necesario y lo lógica y semánticamente contingente__\. Pero, por esta misma razón, también nos daremos cuenta … de estos términos resultan inadecuados para dar cuenta de nuestra propia comprensión del lenguaje\. Como usuarios del lenguaje, sabemos lo que decimos, y lo que los demás dicen con nuestras palabras, lo suficientemente bien como para apercibirnos de inconsistencias y consecuencias, de necesidades e imposibilidades, que son atribuibles tan sólo a sus significados, a su sentido\. __Y si estas nociones se hallan infectadas en realidad de «mentalismo» —y es plausible decir que lo están—, entonces una cierta dosis de mentalismo es tan inevitable en la teoría del significado como lo es en la teoría de la percepción__\.
+
+
+## 130
+__STRAWSON__ __P__\. \(1992:__130__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Baste esto por lo que respecta a esas dos perversiones filosóficas: el empirismo clásico, o lo que podría llamarse el mentalismo desbridado, de una parte, y el externalismo, o lo que podría denominarse el fisicalismo desbridado, de la otra\. Y ahora vuelvo al proyecto principal\. Existen obviamente en nuestros sistemas de ideas rasgos generales y fundamentales que hasta ahora no he mencionado\. Me detendré a considerar dos de ellos de forma breve\. No voy a preguntarme si son rasgos básicos… es decir, si son absolutamente indispensables para una concepción coherente de la experiencia…
+
+De los dos rasgos en cuestión, __el primero es el de que somos agentes__, seres capaces de acción; __el segundo, de que somos seres sociales\. Los rasgos son, entonces del de *agente y sociedad*\.__
+
+
+## 131
+__STRAWSON__ __P__\. \(1992:__131__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Permítaseme recapitular mi esquema de nuestra situación en el mundo en tanto seres cognitivos, a fin de relacionarlo con nuestra situación en el mundo en tanto que seres activos y sociales\. __Dije: a lo largo del tiempo elaboramos una imagen del mundo según la cual en todo momento ocupamos un punto de vista perceptivo__; mundo que se extiende en el espacio más allá de los límites de ese punto de vista y en el que distinguimos, respondiendo a los conceptos de cosas que hagan al caso, seres individuales que ocupan el espacio y que tienen, como nosotros, historias pasadas y, quizá, un futuro\. __Lo que ahora quiero añadir a esto es que semejante imagen del mundo no se elabora con independencia de las funciones que ejercemos como seres activos\.__
+
+
+## 130\-131
+__STRAWSON__ __P__\. \(1992:__130\-131__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ 
+
+ 
+
+ __Consideremos, en primer lugar el concepto de acción__\. Alguien podría preguntar: ¿Qué hace inteligible el concepto de acción? Y podríamos sentirnos tentados a responder: lo que hace que el concepto de acción sea inteligible y lo que ponen en relación nuestro papel de seres cognitivos con nuestro papel de agente es que __tenemos actitudes a favor o en contra de estados de cosas que creemos que se dan en el presente o que consideramos posible o probables en el futuro__\. En gran medida, nuestras creencias nos importan, como nos importa el que deban ser verdaderas, por lo *que* podemos llamar, en términos amplios, __nuestros deseos y aversiones__\. Nuestras acciones se basan en, o resultan de, la combinación de la creencia y la actitud pertinentes\. Una acción intencional es la acción en en realidad es *en tanto que* resultante de tal y cual combinación de creencia y actitud\.
+
+Ver Greimas A\.J\. J\. y Fontanille 1990\-1994:21:”¿Es posible reiterar sin alguna consideración según la cual el ser vivo es una __estructura de atracciones y repulsiones__? … Se trata de pronunciarse acerca de la prioridad de derecho de lo ?sensitivo’ con respecto a lo ‘cognitivo’ o a la inversa\.” “Deseos” y “aversiones” y “atracciones” y “repulsiones” suponen un sustrato teórico común, no referido por los autores de la teoría semiótica\.
+
+
+## 131
+__STRAWSON__ __P__\. \(1992:__131__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Nuestras acciones están encaminadas a poner fin o a evitar estados desfavorables de cosas reales o posibles en un futuro; y están encaminadas también a perpetuar o a que lleguen a ser el caso estados favorables de cosas reales ahora o posibles en un futuro\. Y es la luz de nuestras creencias que están encaminados como lo están\.
+
+ Llamemos a este esquema preliminar de la posición que ocupa el __concepto de acción__\. Hasta aquí basta con lo dicho, pero resulta inadecuado en varios aspectos\. En primer lugar, no aclara suficientemente la medida en que nuestros conceptos de cosas que ocupan espacio, y el concepto mismo de nuestra propia posición perceptiva en relación con cosas del mundo, se hallan impregnados de posibilidades de acción que éstas permiten o impiden\.\. No es cierto, digámoslo así, que aprendemos primero qué hay en el mundo y cuál es nuestra posición con respecto a esto que hay y con respecto a los cambios y las persistencias que pueden esperarse de todo ello; y que luego, independientemente, aprendemos a modificar las cosas de nuestra posición perceptiva con respecto a ellos en modos que se conformen, en la medida de lo posible, a nuestras actitudes favorables o desfavorables\. Los dos géneros de aprendizaje son, más bien, inseparables\. Al aprender la naturaleza de las cosas, aprendemos las posibilidades de acción; al aprender las posibilidades de acción, aprendemos la naturaleza de las cosas\. Incluso la idea de nuestra posición es dependiente de la acción, y a la inversa: lo que se halla *detrás* mío, por ejemplo, es esencialmente lo que percibiré o contra lo que me golpearé, si *me doy la vuelta o me muevo* de ciertas formas… Mi concepto de puerta es un concepto de es cosa cuya *acción de abrirla* me permite entrar en una habitación o salir de ella; y de eso cuya *acción de cerrarla *hace que pierda de vista lo que queda al otro lado de ella o el sonido procedente de allí\.
+
+
+## 132\-133
+__STRAWSON__ __P__\. \(1992:__132\-133__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ … __Los conceptos que tenemos de las cosas son conceptos de cosas a propósito de las cuales, en general, no somos omnipotentes ni tampoco del todo impotentes__\.
+
+ Existe otro respecto en el que el esquema preliminar del concepto de acción es inadecuado\. No hay que subrayar sólo la íntima conexión existente entre nuestros conceptos de objetos y el concepto de acción\. __Hay un vínculo igualmente importante entre el concepto de creencia y el concepto de acción__\. Como se indicó, __la acción resulta de una combinación de creencia y deseo__, pudiéndose decir, y habiéndose dicho, que su causa es esa combinación\. Pero lo que tenemos aquí __no es una relación causal__ simple entre cosas que, en caso contrario, no se hallarían vinculadas entre sí\. Después de todo, ¿__qué es tener una creencia?__ La pregunta puede adquirir particular fuerza cuando se refiere a creencias que versan sobre algo que está en todo momento más allá de nuestro ámbito perceptivo\. __La razón de ello la he dado al subrayar cuán íntima es la conexión entre la experiencia perceptiva y la creencia en lo objetivo__\. … en general tiene gran peso y valor filosófico este popular epigrama: __ver es creer__\. Y algún valor filosófico tiene también convertirlo es este otro: *algún *ver es creer\. Es decir, __en la situación perceptiva la noción de creencia parece hallarse anegada a un contenido que es ya, podría decirse, rico en experiencia__\. Ni siquiera en casos así ésta puede ser toda la historia que haya que contar… Así pues, la pregunta se plantea de nuevo: __Qué es tener una creencia__? ¿Es considerar un pensamiento o una imagen con una intensidad peculiar, como Hume parece sugerir en ocasiones? Ciertamente, no\. De esa forma no podemos concebir o imaginar *algo* que deseara fervientemente o a lo que temiera mucho sin creer, sin embargo, en su realidad\.
+
+
+## 133
+__STRAWSON__ __P__\. \(1992:__133__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Ha llegado el momento de recordar la conexión entre nuestros conceptos de objetos y nuestra conciencia de las posibilidades de acción que ofrecen\. Dada esta conexión, se sigue que __una creencia sobre el mundo a menudo llevará consigo una conciencia de formas posibles de actuar, de evitar lo que se desea evitar y de alcanzar los fines que uno persigue__\. Por tanto, puede darse un primer paso en la comprensión del concepto de creencia diciendo: __creer algo, es decir, creerlo realmente es, en parte al menos, hallase dispuesto a actuar de una forma apropiada, cuando la oportunidad lo permita__\. Esta formulación no es suficientemente exacta\. __Cómo establecer con exactitud la conexión entre la *creencia*, el *deseo* y la *acción*, o la disposición a actuar__, es un problema que dejo en manos de ustedes\. Pero puedo ofrecer la siguiente formulación, que al menos plantea, o encapsula, el problema de forma concreta: «__En los hombres, o de hecho en cualquier ser racional, los tres elementos de la creencia, el valor \(o deseo\) y la acción intencional pueden distinguirse entre sí; sin embargo, ninguno de ellos puede comprenderse propiamente, y ni siquiera se los puede identificar, como no sea por relación a los demás__»
+
+
+## 135
+__STRAWSON__ __P__\. \(1992:__135__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+*Capítulo 7  LA VERDAD Y EL CONOCIMIENTO*
+
+* *Considero ahora la noción de verdad y sus relaciones con la teoría del conocimiento y la teoría del significado lingüístico…\. Ha parecido a veces que lo que teníamos entre manos aquí era esencialmente un campo de debate entre dos teorías rivales de la verdad: la __teoría de la verdad como correspondencia__, __según la cual una creencia es verdadera si, y sólo si__, __se corresponde con un hecho, un estado de cosas objetivamente existente__; __y la teoría de la verdad como coherencia__, __para la cual una creencia es verdadera si, y sólo si, es miembro de un sistema de creencias que se acepte y que sea coherente, consistente y comprensivo__\. La imagen de un conflicto irreconciliable entre estos puntos de vista …\. Podemos confiar en que se trata, más bien, de la cuestión de dónde poner el énfasis: de en qué partes o aspectos diferentes de ese sistema de ideas conectadas entre sí que constituye nuestro sistema conceptual debe situarse\. Lo que necesitamos, entonces, es hacer acopio de ideas no controvertidas y luego relacionarlas entre sí; en palabras de Wittgenstein, se trata de «compilar recuerdos»\.
+
+
+## 136
+__STRAWSON__ __P__\. \(1992:__136__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ 1\. Las creencias de cada usuario de conceptos se basan en parte en la *experiencia personal* de la realidad de la que tratan sus creencias; percepción y memoria contribuyen conjuntamente a la elaboración de su imagen del mundo\. \(__Algunas creencias lo son de primera mano__\)\.
+
+ 2\. Una gran parte de las creencias que tienen acerca de la realidad objetiva el usuario de conceptos … no se basa en la experiencia personal de esa realidad objetiva de la que tienen un fundamento personal proceden de los informes de otros… \(L__a mayoría de las creencias no tienen un fundamento personal__\)\.
+
+3\. Entre las creencias de los usuarios de conceptos necesariamente hay las que son generales\. Pues, a\) los conceptos de cosas objetivas que conservan su identidad en el cambio, y que surten y llenan el marco espacio\-temporal del mundo objetivo, son conceptos de cosas que exhiben en su comportamiento alguna regularidad; y b\) el mundo podría no ser escenario de acciones guiadas por un propósito, si careciéramos de creencias generales que generan expectativas condicionales\. \(__Algunas creencias han de ser generales__\)\.
+
+
+## 137
+__STRAWSON__ __P__\. \(1992:__137__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+4\. Las creencias, o las candidatas a creencias, han de poder ser incompatibles con otras creencias\. Esto se debe tan sólo a que toda proposición tenga una contradictoria\. Hay algo más básico, a saber: que los conceptos generales son esencialmente discriminatorios\. Usualmente se presentan en gamas —por ejemplo, la gama del color, la gama de la temperatura, la de las especies animales— y, por ello, reflejan las distinciones que hacemos dentro de la gama; por ejemplo, la aplicación de algún otro miembro de la misma gama\. Por lo tanto, ciertas creencias, o candidatas a creencias, que traten de la misma cosa podrán entrar en conflicto reciproco: una creencia tal, ya formada, puede entrar en conflicto con una creencia que venga sugerida por *una* experiencia o por una comunicación posterior… Para devolver al sistema de creencias a su coherencia o renunciamos a la primera creencia o renunciamos a la creencia general \(__Las creencias pueden ser incompatibles\)__\.
+
+ 5\. Cuando chocan entre sí creencias que aspiran a ser incluidas en el sistema de creencias de un usuario y éste es consciente de ello, puede dejar en suspenso su juicio sobre el problema o resolver el conflicto a favor de alguna de las candidatas del caso\. El objetivo de la coherencia, o de la armonía, en el interior del propio sistema de creencias no obedece simplemente a un prurito académico; … __las creencias que tenga uno sobre el mundo se hallan inextrincablemente ligadas a nuestro compromiso práctico con él__\. Por ello, disponer de un sistema de creencias aproximadamente coherente es una condición necesaria para evitar una tensión inevitable y para que nuestras acciones sean efectivas\.\)\. __La necesidad de que nuestras creencias sean coherentes\)\.__
+
+
+## 137\-138
+__STRAWSON__ __P__\. \(1992:__137\-138__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ 6\. La cuestión de si añadir o no una nueva candidata a un cuerpo de creencias —posiblemente al precio de expulsar un miembro suyo— se plantea normalmente contra el trasfondo formado por ese cuerpo, como un todo, no se pone en cuestión\.
+
+ Todo esto parece tema de controversia\. ¿Qué hay en todo esto con lo que no esté de acuerdo?… a muchos les ha parecido que las dos «teorías de la verdad» … eran incompatibles… 
+
+ Vayamos, primero con la correspondencia\. Ésta responde a un rasgo fundamental de la estructura de nuestro esquema, … Se trata de que la realidad *contiene* de hecho en tener experiencias y el tener creencias; pero que, en general, eso que hay en el mundo de *lo que *una experiencia es una experiencia, o eso de *lo que *se forma un juicio o una *creencia*, es una realidad que en su existencia es independiente de que se dé una experiencia suya o de que se forme uno un juicio sobre ella\. Así que, en general, entendemos que la verdad de una creencia —sea una creencia basada en una experiencia o en algo transmitido por vía comunicativa— consiste en que esa realidad existente independientemente, con la cual se relaciona la creencia, es *como *cree que es quien la tiene por el hecho de tenerla\. Esto es lo que se quiere decir … al __hablar de la verdad como relación de correspondencia__\.
+
+
+## 138
+__STRAWSON__ __P__\. \(1992:__138__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ En segundo lugar, la __coherencia__\. Aquí, el énfasis se pone en buena medida, aunque no únicamente, en la dependencia mutua y en la conexión lógica recíproca de los elementos que forman nuestro sistema de creencias\. La hostilidad no va realmente contra la escueta noción de correspondencia, según acabo de describirla\. Lo importante es, más bien, la insistencia en esta noción … puede confundirnos en más de una forma, si queremos conseguir una imagen realista de nuestro pensamiento, de nuestra propia imagen del mundo\. Primero, puede hacer que nos equivoquemos __si nos incita a pensar__ que algunas creencias son capaces, como si dijésemos, de poder emparejarse por separado, individualmente, con su propio trozo de realidad; y a concebir después toda la estructura como algo meramente compuesto, con la ayuda de la maquinaria lógica de la composición y generalización, de átomos de creencias podríamos llamarlos cada uno de los cuales tendría por sí solo este carácter contrastable simple\.
+
+
+## 138\-139
+__STRAWSON__ __P__\. \(1992__:138\-139__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Es más fundamental todavía que la obviedad de la correspondencia puede inducir a error si nos lleva a abrazar una imagen confusa y, en última instancia, autocontradictoria del acceso a los hechos, a la realidad, como algo que se hace *al margen de conceptos*\. En contra de semejante imagen, la teoría de la coherencia insiste en que no puede tener ningún contacto cognitivo, y por ello ningún conocimiento de la realidad que no lleve consigo la formación de creencias, la realización de juicios y el uso de conceptos\.
+
+ __Así pues, podemos ver que los teóricos de la correspondencia insisten en un rasgo fundamental de cualquier sistema o estructura de creencias, a saber: que son sistemas o estructuras de creencias *sobre * una realidad concebida como algo existente con independencia de esas creencias particulares que tratan de ella__\. Y podemos ver que los teóricos de la coherencia insisten en la interdependencia de las partes de la estructura y en la idea de que no se puede corregir una creencia sin formar otra: insisten, de hecho, en que nuestras estructuras de creencias son *estructuras de creencia\. *… 
+
+
+## 140
+__STRAWSON__ __P__\. \(1992:__140__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ \.\.\. resulta claro que la noción de verdad desempeña un papel central en estas dos empresas\. Por un lado, __sólo puede *conocerse lo que es verdadero*__*; las condiciones bajo las cuales una creencia puede ser considerada *conocimiento* *incluyen, aunque no quedan agotadas por, la __condición de que la creencia sea verdadera__\. Y, por otro lado, la idea de condición bajo la que la oración expresa una verdad \(la noción de condiciones de verdad de una oración\) parece, a primera vista, ocupar un lugar central en la idea del significado de la oración\. Así la noción de verdad sirve de vehículo entre la teoría del conocimiento y la teoría del significado\. No es el único vínculo entre ambas\. __Otro vínculo lo aporta la noción de *comprensión* de la oración__\. Lo hace del siguiente modo\. Una teoría del significado de un lenguaje dado, si ha de tener interés y valor explicativo máximos, no sólo deberá mostrar como los significados de las oraciones quedan sistemáticamente determinados por los significados de sus elementos constituyentes y por los modos en que sus elementos se combinan… __también debería dar una explicación de cómo comprendemos los significados así determinados\.__ 
+
+
+## 140
+__STRAWSON__ __P__\. \(1992:__140__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__Una teoría del significado tendría que asociarse a, o incluir, una teoría de la comprensión__\. Pero habría algo radicalmente erróneo en que usted \(o cualquier otra persona\) afirmara que comprendía una oración de un cierto tipo y admitiera al mismo tiempo que carecía de la menor idea acerca de qué justificaría para usted que se afirmase o negase una oración de ese tipo\. … es lo que tradicionalmente se ha entendido como una teoría del conocimiento\. Por lo tanto, existe un vínculo entre teoría del significado y teoría del conocimiento\. Una teoría de las condiciones que justifican la afirmación o negación de proposiciones es lo que tradicionalmente se ha entendido como una teoría del conocimiento\. Por lo tanto, existe otro vínculo entre la teoría del significado y la teoría del conocimiento__\. Y si concebimos la comprensión como la captación de las condiciones de verdad, vemos que los *dos vínculos* están conectados entre sí\. __
+
+
+## 141
+__STRAWSON__ __P__\. \(1992:__141__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ … Alguien dice o cree, por ejemplo, que Juan es calvo\. ¿No dice al menos esta fórmula que, como una vez dijo __J\. L\. Austin, la verdad es cosa de dos__? Pues la fórmula incorpora una doble referencia: una referencia a un creer o un decir, por una parte y una referencia a eso que hay en el mundo sobre lo que trata el enunciado o la creencia, por otra\. Y ello invita a entender la verdad como algo que consiste en una cierta correspondencia o ajuste entre estas dos cosas\. Más aún, en el caso de un enunciado tan simple como «Juan es clavo», puede dársele un sentido bastante preciso a esta noción de __correspondencia __o __ajuste__, __el sentido de una relación entre palabra y mundo__\. Un enunciado así se ajusta al mundo —o al trozo apropiado del mundo— si el individuo o elemento específico al que se refiere el término del sujeto tiene la característica general que le asigna el término del predicado\. Dicho con otras palabras, un enunciado que empareja un nombre particular con un predicado general es verdadero si, y sólo si, el elemento nombrado satisface el predicado\. … cualquier teoría que se proponga mostrar sistemáticamente cómo las condiciones de verdad de oraciones con una construcción más elaborada vienen determinadas por sus elementos constituyentes y por su modo de combinación habrá de erigirse, parece, sobre la *base* precisamente de formas simples como ésta\. Así, resulta razonable creer que las oraciones simples de este tipo se encuentran en el fundamento de cualquier teoría semántica, es decir, de cualquier teoría del significado, de un lenguaje dado\. 
+
+
+## 141\-142
+__STRAWSON__ __P__\. \(1992:__141\-142__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ ¿Y no se encuentran también en los fundamentos de una teoría del conocimiento? La habilidad de reconocer a un individuo particular, encontrado perceptivamente, como algo que posee una característica general parece, a primera vista, fundamentalmente, no sólo *para *la comprensión lingüística, sino también para el conocimiento en general\.
+
+… Se sigue de ello, quizá, que podamos representar la teoría del conocimiento y la teoría del significado como dos aspectos de una única teoría, que tienen una base o punto de partida común y que, entre ambos, proporcionan todo lo que razonablemente podría pasar por una teoría sustancial de la verdad… A uno le concierne el concepto mismo de verdad\. Otro el del conocimiento\. 
+
+Ver Putnam 1999\-2001:106,107\-108,148; allí hace referencia a Stanley Cavell y Travis sobre el concepto de “__uso previo__” en *The Clain of Reason* “nuestro «ajuste» con otros, nuestro sentido compartido de lo que es y lo que no es proyección natural de nuestros usos previos de una palabra dentro de un nuevo contexto, es una capacidad general y fundamental para la misma posibilidad del lenguaje –sin que sea algo que pueda captarse mediante algún sistema de «reglas»”\. Y el concepto de “__semántica sensible al habla__” “la proferencia depende del contexto particular en que se emite, la cuestión particular sobre la que se «habla»
+
+
+## 142\-143
+__STRAWSON__ __P__\. \(1992:__142\-143__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Consideremos, primero, la verdad\. Con ayuda de un ejemplo sencillo me imaginé que alguien encontraba que la fórmula o esquema por el que comenzamos incorporaba una doble referencia: __un decir y un creer__, de un lado, y eso que hay en el mundo y de lo que trata el enunciado o la creencia, de otro; alguien que veía __la verdad como una clase de correspondencia palabra mundo__ que apropiadamente habría de entenderse en términos semánticos\. Mi primera observación es que un compromiso poco precavido con esta interpretación puede encerrar el riesgo de o bien adoptar una concepción de la verdad demasiado restringida o bien caer en algo que se ha entendido plausiblemente como una ilusión o un mito\. Decimos, de hecho, que Juan es calvo; que 7 \+ 5= 12; que Juan debería cuidar a su hermano enfermo… Todas esta cosas podemos considerarlas verdaderas, y nuestra escueta fórmula … las abarca a todas\. Pero si engrosamos nuestra concepción de la verdad hasta hablar de «correspondencia entre palabra y mundo», las cosas se complican… Pero, ¿__qué relaciones y qué disposiciones *por* parte de las cosas del mundo hacer verdadero 7 \+ 5= 12__ ¿__Y qué decir de una verdad de a lógica: de la proposición de si Juan es clavo, entonces Juan es clavo, que seguramente es verdadera al margen del estado de su cabeza__? Otro caso: Juan y su hermano enfermo están ciertamente en el mundo, la actitud del primero de cuidar del segundo puede que lo esté o puede que no; ¿dónde encontraremos en el mundo la relación significada por la palabra «debería»?
+
+
+## 143\-144
+__STRAWSON__ __P__\. \(1992:__143\-144__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Existen al menos dos respuestas bien conocidas a estas dificultades y las dos muestran __cuán poderosa es la concepción, mencionada más arriba, de la verdad como correspondencia__\. Una consiste en declarar que, dado que parecen adecuarse al modelo, __los juicios morales, las ecuaciones matemáticas y las tautologías de la lógica no son en absoluto, hablando propiamente, enunciados o proposiciones y, por consiguiente, que no son,  en absoluto,  hablando propiamente,… enunciados o proposiciones; y, por consiguiente, que no son, hablando con propiedad, verdaderos o falsos__\. Se les debe asociar más bien, a reglas o imperativos\. Se relacionan con el mundo natural ordinario, pero no lo hacen como enunciados que versen acerca de él, sino como instrucciones para actuar dentro suyo o para calcular o razonar sobre él\.
+
+
+## 143\-144
+__STRAWSON__ __P__\. \(1992:__143\-144__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ La otra reacción, opuesta a la primera, es abrazar lo que la matemática y \(quizás\) en lógica se conoce como platonismo y aceptar la existencia de cualidades y relaciones «no naturales» en la esfera de lo moral\. El filósofo que sigue este curso no pone límites al concepto de verdad, a diferencia de lo que hace su oponente\. En lugar de ello fuerza o extiende el concepto de realidad o el mundo\. Imagina o inventa o, como él diría, admite un ámbito de objetos matemáticos perfectos, inmutables, cuya naturaleza y relaciones el matemático estudia\. O como diría Moore a propósito del ámbito de la moralidad, imagina un estrato de cualidades o relaciones no naturales que se encuentran en la naturaleza, pero que precisan para su detección una facultad especial de intuición moral\.
+
+ Ambas reacciones son mayoritariamente consideradas insatisfactorias\. La primera parece que ignora o pasa por alto de una forma excesivamente arrogante el alcance que en realidad damos al concepto de verdad\. «Es verdadero que p si, y sólo si, p» — *la inevitable* fórmula por la que comenzamos— …
+
+Ver Putnam 1999\-2001: 148 en relación a los conceptos de significado y “contenido estricto” y “contenidos psicológicos internos”\.
+
+
+## 144
+__STRAWSON__ __P__\. \(1992:__144__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Si ambas reacciones son insatisfactorias y si comparten una presuposición común, es esa presunción común lo que debe cuestionarse \[verdad como correspondencia y platonismo\]\. Es el modelo simple de la __correspondencia palabra\-mundo lo que incita a una parte a confinar la extensión del concepto verdad dentro de los límites del mundo natural __\(tal y como se lo concibe\) y lo que incita a la otra a extender el concepto de mundo o realidad hasta abarcar todo lo que se admite como verdad\. Naturalmente, no estoy diciendo que debamos renunciar completamente al sencillo modelo de la correspondencia palabra\-mundo\. Al contrario … indiqué cuán central es el lugar que ocupa en nuestro sistema de ideas la distinción entre nuestros juicios, por una parte, la realidad objetiva que los hace verdaderos o falsos, por otra\. __Así pues, hay multitud de casos —quizá la mayoría— a los que se aplica este modelo simple sin ninguna reserva__\. En vez de abandonar el modelo, deberíamos considerar más bien que las clases de casos a los que se aplica sin reserva son los casos primarios o básicos de la verdad; y después, tomándolos como punto de partida, deberíamos tratar de explicar cómo es posible y cuándo es legítimo extender la noción de verdad más allá de estos límites sin alimentar el mito o la confusión\. 
+
+
+## 147\-149\-150
+__STRAWSON__ __P__\. \(1992:__147\-149\-150__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Esa imagen es la de una clase de estructura jerárquica de creencias, en la cual los miembros superiores descansan en otros inferiores, que son la evidencia que tiene el individuo a favor de los primeros o razones por las que se cree en ellos; y estos miembros inferiores descansan en otros todavía más inferiores hasta llegar al nivel ínfimo, el nivel fundamental\. Pero es falso que el sistema de creencias de un individuo o que sus conjuntos de creencias se encuentren organizados de es forma\. Naturalmente, __esto no equivale a decir que los elementos del sistema de creencias de un individuo se hallen completamente sueltos y separados en su mente, como las cosas que pueda haber en un maletín mal preparado__\. Por el contrario, están conectados entre sí de formas numerosas y complejas\. Pero tampoco están organizados como en un argumento en una biblioteca de argumentos…
+
+ Existe, sin embargo, una verdad más general —creo que una verdad general más profunda e interesante— que rescatar de estas ruinas\. Evidentemente, __la formación del cuerpo de creencias de un individuo, la formación de su imagen del mundo, es el resultado causal de su exposición a, y de su interacción con el mundo, incluyendo en ello la instrucción que reciba de los otros miembros de su comunidad__\. Y semejante exposición supone, como es evidente, la observación: ver y oír\. En cualquier momento de este proceso emerge el poder de la reflexión crítica y autoconsciente\. Quizá no deba decirse que el individuo tiene un cuerpo de *creencias* antes de que emerja este poder\. Seguramente, no deberíamos afirmar que este poder surge antes de disponer de todo un cuerpo de creencias\. Wittgenstein lo dijo muy bien: «Cuando empezamos a *creer algo*, lo que creemos no es una única proposición sino todo un sistema de proposiciones»\. \(Se hace la luz poco a poco sobre el conjunto\)\.
+
+
+## 150
+__STRAWSON__ __P__\. \(1992:__150__\)\. *Análisis y metafísica\. Una introducción a la filosofía\. *
+
+ Pues buen, l__a idea que ha de subrayarse ahora es la del carácter progresivo y continuo de la exposición del individuo al mundo__\. En cada momento, puede decirse, nuestro sistema de conocimientos \(o de creencias\) tiene que adaptarse a las creencias que el curso de nuestra experiencia \(el curso de nuestra observación\) *nos imponga* en ese momento\. Esto no tiene que producir ninguna tensión; en general no lo hará\. Y como ya se dio a entender, qué creencias nos imponga el curso de nuestra experiencia es algo que dependerá del carácter del sistema preexistente\. Pero la necesidad propia de acomodamiento a nuestra experiencia en curso es una necesidad que nos acompaña siempre desde el momento mismo en que por vez primera pudo atribuírsenos una creencia\. Así que, a partir de aquel momento , y hasta ahora todos los estados subsiguientes de __nuestro sistema de creencias son el resultado del proceso ininterrumpido de adaptación a__ __las incesantes presiones de la experiencia__\.
+
+… No toda creencia aceptada ni toda presunta información puede contrastarse o comprobarse con evidencia de nuestros ojos y oídos, pero algunas pueden y deben serlo\. 
+
+
+## 153\-154
+__STRAWSON__ __P__\. \(1992:__153\-154__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+__ Capítulo 8__ __SIGNIFICADO Y COMPRENSIÓN\. Semántica estructural__
+
+__El lenguaje__, decimos, __sirve para la expresión del pensamiento__\. Dicho de forma más pintoresca y arriesgada, podemos concebir las palabras y las oraciones como el __ropaje del que nuestros pensamientos__ se revisten cuando hace su aparición en público, o como signo externo y visible \(o audible\) de la cosa interna y espiritual\. Imágenes a un lado, seguramente es correcto decir que normalmente el habla y la escritura expresan pensamientos; que las oraciones son significativas solo en la medida en que tienen el poder de hacer las cosas… la dependencia no se da tan sólo en una única dirección … __lo que no podemos decir no lo podemos pensar\. … pensar no es exactamente hablar\.__ Debemos *comprender* nuestras oraciones…
+
+*Consideremos* de nuevo la idea de que los pensamientos están ahí, potencialmente, en el lenguaje, en su vocabulario y su sintaxis\. Nuestro lenguaje parece un ámbito de significación autónomo altamente estructurado; y sin embargo, es un ámbito en el que, un sentido, somos maestros\. Es *nuestro* lenguaje\. Hay un número ilimitado de oraciones y de combinaciones de oraciones de las cuales, de antemano, conocemos su sentido, su significación, aunque sólo lleguemos a usar, a escuchar o leer una proporción insignificante de oraciones que formamos y proferimos con facilidad, comprendiendo lo que decimos; qué oímos o leemos es numerosísima\.
+
+
+## 154\-155
+__STRAWSON__ __P__\. \(1992:__154\-155__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Y es por ello que preguntamos: ¿Cómo es que poseemos esta basta y potencialmente ilimitada comprensión? Está claro que no aprendemos el significado de cada nueva oración por separado\. Lo realmente importante de ese potencial ilimitado es que el que obremos así no obedece a ninguna necesidad\. Por lo tanto, esta comprensión potencialmente ilimitada se genera a partir de algún material o algunos medios limitados\. 
+
+… Parece por lo menos plausible sostener que el problema ha de resolverse atribuyéndonos, a\) un conocimiento implícito —implícito en el sentido de mi primera analogía de la gramática— de un conjunto finito de construcciones semánticamente significativas \(tipos generales de combinación significativa de elementos lingüísticos\); y b\) el dominio de un vocabulario finito de elementos, que han de aprenderse independientemente y por separado… 
+
+
+## 154\-155
+__STRAWSON P\. \(1992:154\-155\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*__
+
+__Dije que éste era un problema de la filosofía del lenguaje; y lo es\. __ Pero, así puede que se sienta, seguramente debe y podría ser algo más\. Pues __si pudiésemos hacer ex*plícitos *los principios estructurales que subyacen a nuestra ilimitada comprensión lingüística, ¿no estaríamos próximos a hacer explícitos al menos algunos de los principios estructurales generales de todo nuestro pensamiento dada esa interdependencia de pensamiento y lenguaje que acabo de mencionar?…__ 
+
+ Sin embargo, ¿no varían enormemente las gramáticas de una lengua a otra? Ciertamente\. Por lo tanto, si nuestras investigaciones han de tener la significación universal que estamos tentados a atribuirles, debemos ver las distintas gramáticas de los lenguajes particulares como otras realizaciones de algo general: hemos de verlas, quizá, como variaciones de alguna estructura abstracta subyacente que se expresa a sí misma de distintas formas en diferentes lenguas concretas\. Después de todo, la variación gramatical entre lenguas no es un obstáculo a su recíproca traducibilidad\.
+
+
+## 155\-156
+__STRAWSON__ __P__\. \(1992:__155\-156__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Ahora bien, ¿dónde buscar esa estructura subyacente? Recordando las afirmaciones de Quine a favor de la notación canónica, no debería sorprendernos observar que algunos filósofos se remitan, o recurran, a la lógica formal al tratar esta cuestión\. … ofrece al menos un modelo del género de cosas que buscamos\. __El supuesto en cuestión es el de que algo central a considerar en la comprensión de oraciones es una captación de sus condiciones de verdad__: __comprender una oración es conocer qué pensamiento expresa __\(o es capaz de expresar en circunstancias contextuales dadas\); __y conocer esto es conocer qué es lo que nosotros creeríamos si considerásemos verdadero ese pensamiento__\. Ahora bien, supongamos que comprendemos qué es una predicación verdadera, qué es aplicar con verdad un concepto en un caso individual … Entonces, la lógica misma \(o la semántica lógica como Tarski lo expuso\) nos ofrece unas pocas y simples reglas recursivas, referidas a la cuantificación y a la composición de oraciones, con cuya ayuda podemos generar un número infinito de oraciones… cuyas condiciones de verdad dependen… *de las condiciones* de verdad correspondientes a la operación de la predicación… La idea es que la lógica proporciona un ejemplo de cómo la adquisición de un número finito de principios estructurales puede dar lugar a la adquisición de un conjunto ilimitado de estructuras\.
+
+__STRAWSON__ __P__\. \(1992:__156__\-__157__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Ahora bien, ¿cómo podría ser esto? Bien, __supongamos que pudiésemos mostrar que para todas las construcciones semánticamente significativas del lenguaje natural fuese posible encontrar *construcciones equivalentes*__* que se empleen ya en la lógica* estándar\. Y supongamos que podemos atribuir al usuario del lenguaje natural un conocimiento implícito de esas equivalencias\. Podría afirmarse, entonces, que __habríamos sacado a relucir los principios estructurales cuyo conocimiento explica el dominio que tenemos de nuestras lenguas naturales:__ __que comprendamos un conjunto ilimitado de oraciones__\. Por lo tanto, tenemos aquí un programa para reducir la estructura semántica en general a las formas estructurales que la lógica estándar exhibe nítidamente\. 
+
+ *Considere* los dos adjetivos «bueno» y «malo» y una lista indefinida de nombres como «jugador de fútbol», «conferenciante», « rey», «esposo», «diseñador» u «operario»\. Parece claro que, al aprender la fuerza semántica de los dos adjetivos, aprendemos también una regla de combinación muy simple; y que, __dado que conocemos los significados de los nombres pertinentes y que hemos adquirido las nociones de predicación y conjunción, podemos dar la interpretación semántica correcta de una clase de oraciones indefinidamente grande, __de la cual las dos siguientes son ejemplos
+
+1\) Carlos I fue un buen rey y un mal esposo\.
+
+2\) Juan es un buen diseñador y un mal operario\.
+
+
+## 157\-158
+__STRAWSON__ __P__\. \(1992:__157\-158__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Pero si, con espíritu abierto, recurrimos a la lógica formal para que nos ayude a elucidar los principios de comprensión semántica de este caso, de inmediato nos topamos con un dilema\. No podemos tratar estas oraciones con el espíritu con que tratamos muchas oraciones que son superficialmente de la misma forma, como
+
+3\) Juan es un jugador de fútbol con 30 años y un conferenciante de 1,80 metros de altura\.
+
+ Podemos considerar esta oración una conjunción de cuatro predicados simples, que podrían redistribuirse de cualquier manera sin que ello afectara al valor de verdad de 3\)\. Considerar 1\) y 2\) de la misma manera sería semánticamente desastroso\. Conduciría, por ejemplo, al resultado de que, por lo que respecta a sus condiciones de verdad, 1\) es equivalente a:
+
+4\) Carlos I fue un mal rey y un buen esposo\.
+
+Por otra parte, sería igualmente insatisfactorio decir que en frases como tales como «buen esposo», «buen diseñador», etc\., tenemos predicados cuyo significado ha de aprenderse en cada caso por sepa*rado*; es decir, que __no hay ninguna regla que nos permita captar el significado de frases como ésas, aun conociendo el significado de «bueno» y el del sustantivo que haga el caso\.__ Ambas alternativas son inaceptables\. Y lo que aquí se pone de manifiesto a propósito de «bueno» es verdadero es una gama enorme de otros adjetivos \(«adjetivos atributivos» como se los denomina\)\. 
+
+
+## 158\-159
+__STRAWSON__ __P__\. \(1992:__158\-159__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Consideremos, por ejemplo, «Juan es un pensador lento y un corredor rápido», «Jumbo es un elefante pequeño y un animal de compañía grande», etc\. Así que el programa se enfrenta aquí a un problema\. En general, ninguna maniobra sencilla tiene la menor oportunidad de demostrar que todos esos rasgos estructurales que obviamente están siendo explotados el generar los significados de las oraciones a partir de los significados de sus elementos se hallan sujetas a las reglas estructurales de la lógica\. Por tanto, el teórico de la semántica comprometido con este programa está obligado a trabajar esforzadamente para dar nueva forma a clases enteras de oraciones ordinarias en el intento de revelar o descubrir la que, si tiene éxito, considera que es su verdadera forma lógica…\.
+
+… Doy otra clase de ejemplos sencillos para ilustrar la idea\. Considérese estas dos oraciones: «Juan besó a María» y «Tomás murió»\. Parecen ser, respectivamente, de la forma «F \(x,y\)» *y «*D \(x\)*»;* es decir, la primera parece constar de dos términos singulares y un predicado diádico, mientras que la segunda parece componerse de un término singular y un predicado monádico… Considérese ahora las frases «en el jardín» y «a madianoche» frases adverbiales de lugar y tiempo típicas\. Poniendo juntas las oraciones y las frases, construimos…:
+
+1\) Juan besó a María en el jardín a medianoche
+
+2\) Tomás murió en el jardín a medianoche
+
+… *que* son ejemplos característicos de oraciones con las que se informa de acciones o eventos con frases adverbiales de tiempo y lugar…
+
+
+## 159
+__STRAWSON__ __P__\. \(1992:__159__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+En la medida en que conozcamos el significado o la referencia de los elementos sueltos de las oraciones, nuestra comprensión de la construcción nos capacita para captar la fuerza semántica de la oración considerada como un todo; es decir, sin tener que aprender, independientemente y por separado, los significados de los predicados complejos «besó en el jardín» y «murió en el jardín de coche», etc\.
+
+Ahora bien, parte de nuestra comprensión consiste en que de 1\) Juan besó a María a media noche y que Juan besó a María… En general, sabemos que podemos __inferir__ válidamente las proposiciones afirmativas que las contienen\. La validez de estas __inferencias__ no puede representarse en la lógica estándar, si dejamos las oraciones tal como están\. Pero son, con seguridad, *estructuralmente* válidas\. Por ello, el programa exige que se les pueda asignar otra forma; que se puede encontrar oraciones semánticamente equivalentes que pongan de manifiesto de qué modo la lógica estándar valida estas __inferencias\.__
+
+ El profesor Davidson ha indicado una ingeniosa solución al problema técnico que plantean estas oraciones\. El principio esencial de su solución es analizar esas oraciones de forma que, al cuantificar *eventos*, aquellas refieren a éstos y hacer, entonces, que las frases adverbiales sean predicados de los eventos\. Esto supone entender los verbos principales de las oraciones originales como —o que sean reemplazados por— predicados que tienen un lugar argumental más el que parecen tener en su forma superficial \(u original\): un lugar para eventos\. Por lo tanto, el predicado diádico aparente «… besó \.\.\.» resulta ser, o se sustituye por, un predicado de tres lugares, a saber, «… fue un beso de … a \.\.\.» y el predicado monádico aparente «… murió» resulta ser, o sustituye por, un predicado de dos lugares, a saber: «… fue un morirse\.\.\.»\. Haciendo lo posible por expresar los resultados en un castellano plausible, …
+
+
+## 160\-161
+__STRAWSON__ __P__\. \(1992:__160\-161__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… 1\) se convierte en
+
+1’\) Hubo un evento que fue un beso de Juan a María y ello\* sucedió en el jardín y ello sucedió a medianoche\.
+
+y 2\) se convierte en
+
+2’\) Hubo un evento que fue un morirse Tomás y ello sucedió en el jardín y ello sucedió a medianoche\.
+
+Estas oraciones tienen, respectivamente, las formas generales «Ǝ\(x\)\(Fx,a,b\)\. G \(x\)» y «\(Ǝx\)\(F\(x,a\)\.G\(x\)\.H8x\)\)», de las cuales se infiere válidamente «\(Ǝx\)\(F\(x,a,b\)\)» y «\(Ǝx\)\(Fx,a\)\)» en el cálculo de predicados\. Así, pues, la modificación adverbial se reduce a la conjunción de predicados y las diversas inferencias que sabemos llevar a cabo se realizan mediante la lógica formal estándar\. 
+
+ El ingenio desplegado en este análisis es digno de admiración\. Entendido en sus propios términos, resulta todo un éxito… 
+
+ La primera objeción a semejante propuesta es que no es realista… estriba en su poder para explicar la capacidad que tiene el hablante de comprender una clase de oraciones indefinidamente grande\. De hecho, parece razonable atribuir al usuario del lenguaje un conocimiento implícito de principios de combinación, de construcciones semánticamente significativas, al explicar su comprensión de estas oraciones aunque no pueda indicar con facilidad cuáles son esos principios\.
+
+… *No es sólo *que no parezca realista\. Tampoco parece necesario\. Pues… es un rasgo fundamental de nuestro esquema conceptual que concibamos el mundo objetivo espacio\-temporalmente y, por consiguiente, que tengamos la idea de lugares y tiempo en los que suceden las cosas… estamos ciegamente decididos a lograr que los principios semánticos estructurales de combinación que comprendemos… encajen a toda costa en el marco de la lógica estándar\. 
+
+
+## 162\-163
+__STRAWSON__ __P__\. \(1992:__162\-163__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Pero se considera que parte del mérito del género de teoría que estamos examinando estriba en *explicar* nuestro dominio de toda clase de oraciones ordinarias\. Y en el presente caso, si el énfasis ha de ponerse en el hecho de que existen oraciones razonablemente inteligibles como 1\) y 2\), eso equivale a afirmar que nuestra capacidad de comprender oraciones como 1\) y 2\) *depende *de nuestra capacidad de comprender oraciones como 1’\) y 2’\)\. Y ello no parece en sí mismo plausible, sobre todo si se tiene en cuenta que las formas nominalizadas derivan de , y son secundarias respecto a, las formas verbales; es decir, si se tiene en cuenta que éstas vienen primero en orden de comprensión\. No digo que la afirmación de la dependencia sea realmente incompatible con este hecho, pues podría entenderse que la dependencia proclamada no es tanto dependencia de la comprensión real de las formas de paráfrasis cuanto comprensión potencial de éstas\. 
+
+… *hay otra idea* que resulta digna de mención\. Supóngase que estamos dispuestos a adoptar el criterio de __compromiso ontológico__ __de Quine__ y su programa para determinar cuáles son en realidad nuestros compromisos ontológicos: es decir, la paráfrasis crítica en la notación canónica, guiados por máximas de aceptabilidad científica y economía ontológica \(economía en cuanto a los dominios de valores de las variables\)\. 
+
+__STRAWSON__ __P__\. \(1992:164\-__165__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Si reflexionamos, como lo hemos estado haciendo, sobre los rasgos básicos de la situación del hombre en el mundo lo cual *au fond*, es lo mismo que reflexionar sobre los rasgos básicos de su \(nuestro\) esquema conceptual; __si caemos en cuenta de que el hombre es un ser corporal que actúa y percibe en el mundo espacio\-temporal en el que hay otros seres corpóreos, incluyendo otros hombres, todos susceptibles de cambios e interacciones mutuas__, entonces podemos darnos cuenta de que las categorías básicas en cuyos términos ese hombre concibe el mundo habrán de tener un carácter deter*minado*; y que ello se reflejará en dos tipos semánticos básicos de elementos que figurarán en su discurso y en los tipos básicos de combinaciones semánticamente significantes a los que esos elementos se presentan\. __En este nivel nada se dice de las formas lingüísticas, de las estructuras gramaticales reales mediante las que se representan esas combinaciones ni de las formas y estructuras en que éstas, según decimos, se materializan en las lenguas naturales reales__\. … y no debería sorprendernos que encontrásemos entre las estructuras o formas que se descubran más cosas que la predicción simple, la composición veritativo\-funcional y los estilos de cuantificación restringidos que se admiten en la lógica estándar, aunque éstos estén incluidos\.
+
+
+## 167\-168
+__STRAWSON__ __P__\. \(1992:__167\-168__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Capítulo 9\.        CAUSACIÓN Y EXPLICACIÓN
+
+ A veces suponemos, o decimos que suponemos, que la causalidad es una relación natural que se da en el mundo natural entre eventos o circunstancias particulares, como sucede con la relación de sucesión temporal o con la proximidad espacial\. __También asociamos —y lo hacemos correctamente— causalidad y explicación__\. P__ero si bien la causalidad es una relación que se da en el mundo natural, la explicación es cosa distinta\.__ La gente se explica las cosas a si mismas o a otros, y el que así lo hagan es algo que sucede en la naturaleza\. Pero hablamos también de que una cosa explica, o es una explicación de, otra cosa, como si explicar fuese una relación entre cosas\. Y lo es\. Pero no se trata de una relación natural en el sentido en que quizá pensemos que la causalidad es una relación natural\. No se da entre cosas del mundo natural, entre cosas a las que podamos asignar lugares y tiempos en la naturaleza\. Se da entre hechos o verdades\.
+
+ A menudo los dos niveles de relación se confunden fácilmente en el pensamiento filosófico\. En parte se confunden ahí porque no se los distingue con claridad en el pensamiento ordinario o no *filosófico*\. Y no se distinguen con claridad en el pensamiento ordinario, porque la distinción no responde a ningún propósito práctico\. No obstante, en la medida en que nuestro objetivo filosófico sea comprender nuestro pensamiento no filosófico, está bien que *nosotros* seamos conscientes de la distinción\.
+
+Ver Putnam \(1999\-2001: 161 y ss\)\. En el *Epílogo primero “Causalidad y explicación* habla sobre ”la noción de explicación tiene prioridad sobre la noción de causalidad”
+
+
+## 168
+__STRAWSON__ __P__\. \(1992:__168__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+* *Es fácil dar pruebas de que en el habla cotidiana la distinción no está señalada de forma tan diáfana\. Usamos construcciones nominales de las mismas clases generales —nombres derivados de otras partes del habla, cláusulas nominales, construcciones infinitivas—para referirnos tanto a los términos de la relación natural como a los de la relación que no lo es\. Usamos la misma gama de expresiones \(por ejemplo, «causa», «debido a», «responsable de»\) para significar la relación natural y la que no lo es; y usamos estas expresiones de tal manera que puede resultarnos muy difícil decir cuál es la relación referida, de modo que cabe dudar de si existe una distinción así que haya de hacerse\. No digo con eso que nos encontremos perdidos a la hora de especificar una de esas relaciones\. Enfrentados a una observación de la forma «La razón de que *q* fue *p*» \(«El El hecho de que el edificio se hundiera por el hecho de que había sido construido con materiales de baja calidad»\)… como «El uso de materiales de baja calidad en la construcción del edificio fue responsable de su hundimiento» nos deja en duda\.
+
+ 
+
+__STRAWSON__ __P__\. \(1992:__168__\-__169__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ A veces hay indicios relativamente sutiles de la diferencia\. Por ejemplo, podríamos comparar «Su muerte, habiendo sobrevenido cuando lo hizo, fue responsable de la ruptura de las negociaciones» con «El que su muerte sobreviniera cuando lo hizo fue responsable de la ruptura de las negociaciones»\. Su muerte, según se hace referencia a ella en la primera de estas oraciones, es ciertamente un evento de la naturaleza\. Vino cuando vino\. Pero el que su muerte sobreviniera cuando lo hizo no sucedió en ningún *momento*\. No es un evento de la naturaleza\. Es el *hecho* de que en un cierto momento tuvo lugar el evento de la naturaleza\. ¿Tenemos derecho, entonces a concluir que la frase «la ruptura de las negociaciones» hace referencia, en la primera oración, a un evento de la naturaleza y, en la segunda, al hecho de que un evento sucedió en un cierto momento, y que la frase «responsable de» significa la relación natural en la primera oración y la relación no natural en la segunda? __No hemos de extraer esa conclusión…__ __Sucede a menudo que el hablante simplemente no distingue los niveles porque no hay necesidad de ello__\. 
+
+__STRAWSON__ __P__\. \(1992:1__169\-170__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Algo más se ha de decir, sin embargo, a título de la distinción que he trazado, o sugerido, entre la presenta __relación natural de causalidad, que decimos que se da entre cosas de la naturaleza__, y la relación no natural de explicación, que se dice que se da entre hechos y verdades\. La segunda descripción puede parecer propia de un oscurantista o cuando menos de un provocador\. Al hacerla mía, __no quiero negar que haya una conexión entre esta relación y los hechos naturales__\. Por el contrario, trato de subrayar una cierta conexión con determinados hechos naturales, a saber: con hechos naturales relativos a nuestros yoes humanos\. Podría decirse, en una primera aproximación, que el hecho no natural de que la relación de explicación se dé entre el hecho de que *p* y el hecho de que *q* se extiende hasta el hecho natural de llegar a saber que *p* tenderá a introducir a la luz de otro saber \(u otra teoría\), un estado que llamaremos «comprender por qué *q*»\. La relación no natural entre estas dos verdades está medida por la conexión que, como si fuese un hecho natural, establecemos entre \(o que tienen\) ambas en nuestras mentes\. Es por esto que, como alternativa a llamarla no natural, la califique racional\. Pero los objetos relacionados de esta manera son objetos obstinadamente intencionales: obje*tos* que no se pueden asignar a un lugar y tiempo de la naturaleza, aunque pensar en ellos, registrarlos y establecer aquello de lo que tratan sí que pueda asignarse a un lugar y tiempo determinados\. \(… La relación natural pertinente es una relación entre eventos que acontecen en nuestras mentes\. Pero no podemos registrar *estos eventos*, relacionados entre sí de forma natural, sin referirnos a los objetos que se relacionan de forma no natural\)\.
+
+
+## 170\-171
+__STRAWSON__ __P__\. \(1992:__170\-171__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Así, a veces se lee que un evento «bajo tal o cual descripción» es la causa —o la explicación— de algún otro evento o estado de cosas\. Pero estas dos formas de hablar, bien sobre la causa, bien sobre la explicación, deben ser bastante confusas, si la distinción que he trazado es real\. Supongamos que un cierto acontecimiento o una cierta condición de cosas, A, es la causa o parte de la causa de otro acontecimiento particular, A\. __Entonces, siendo la causalidad una relación natural que entre A y B__, se dará sin importar cómo se describan A y B\. Naturalmente, no es verdad que podamos elegir cualesquiera descripción unívocas de A y B, que sean de nuestro gusto, y confiar todavía en que el hecho de que acontezca un evento, o de que exista una condición que responda a nuestra descripción de A, que explique el hecho de que acontece un evento o de que existe una condición *que* responde a nuestra descripción de B… __Así, pues, si lo que está en cuestión es tomar nota de una relación causal o de una relación de explicación__, resulta equívoco, y sería un signo de confusión, decir que una cosa o bien una causa o bien explica otra bajo tal y cual descripción\. Si la distinción que he introducido es correcta, la situación es ésta: primero, que A causa B *simpliciter*; y segundo, que la verdad de un enunciado que incluya alguna descripción de A explica la verdad de un enunciado que incluya alguna descripción de B \(o, en otras palabras, que algún hecho que lleva consigo A explica algún hecho que lleva consigo B\)\.
+
+
+## 171\-172
+__STRAWSON__ __P__\. \(1992:__171\-172__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Pero, entonces, ¿qué es lo que hace que las descripciones que figuran en tales enunciados sean idóneas? En otras palabras, ¿qué hace que los hechos seleccionados sean apropiados para la relación de explicación? ¿Y cuál es la conexión entre la idoneidad de las descripciones, lo apropiado de los hechos, y la relación causal misma, la relación que, presumimos, se da en el mundo natural, con sus eventos, condiciones y relaciones causales\. __Hemos de pensar esto so pena de aceptar, en caso contrario, que la relación causal misma carece de existencia natural o que no tiene ninguna fuera de nuestras mentes: que la creencia es esta relación es simplemente la proyección en el mundo de una descripción subjetiva nuestra __—de la descripción, quizás, a considerar que algunos hechos explican otros—\. … *La atribución* de relación causal a una relación vigente al margen de cualquier disposición subjetiva por nuestra parte sólo podía fundamentarse en la observación de que ciertas otras relaciones que *podían* intrínsecamente detectarse en el caso particular se daban repetidamente en casos particulares semejantes\. Así, la relación causal, entendida como una relación que mantienen entre sí «objetos» … particulares, posee un carácter único según este punto de vista\.__ Se halla al servicio de la generalidad__\. No es … algo realmente presente en la situación particular que contiene los objetos particulares\. O por decirlo de otra forma:__ las generalizaciones causales no son generalizaciones de casos particulares de causalidad__; __más bien, los ejemplos particulares de causalidad se consideran tales por hacer particulares las generalizaciones causales__\.
+
+__ STRAWSON__ __P__\. \(1992:172\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ 
+
+Esta famosa e ingeniosa solución ha llegado a ser, y en lo esencial sigue siendo, pese a complicaciones posteriores, lo que los mayores críticos de Hume llaman «el punto de vista aceptado»\. Puede merecer la pena repetir cómo resume el crítico el punto de vista aceptado\. Es, dice, la idea de que «si hemos llegado a descubrir una regla según la cual hay ciertos eventos que siguen siempre a ciertos fenómenos, ello sólo se debe a muchos sucesiones percibidas y comparativamente coincidentes con fenómenos anteriores; __esto es lo que nos llevaría a formar el concepto de causa__»\. 
+
+\[Nota 15 p\.p\- Kant, Crítica de la razón pura, B 240\-1 Se cita Trad\. Cast\.: Pedro Rivas, Madrid, Alfaguara, 1978 \(N\. del t\.\)\]
+
+
+## 173\-174
+__STRAWSON__ __P__\. \(1992:__173\-174__\)\. *Análisis y metafísica\. Una introducción a la filosofía\. *
+
+ Antes de que pueda comenzar a reunir piezas, no estará de más indicar la línea general que me propongo seguir\. El punto de vista recibido, sostendré, es en parte correcto y en parte equivocado\. Es verdad que __no existe una relación única que pueda detectarse como tal en cada caso particular, una relación entre diferentes eventos o condiciones que puedan identificarse con variedades causal__\. __Ni tampoco una pluralidad de relaciones observables en los casos particulares, relaciones entre distintos eventos o condiciones que puedan identificarse con variedades específicas de un tipo general de relación, a saber: el tipo causal__\. A este respecto, la noción de causalidad difiere de otra noción categórica, la de sustancia individual, con la cual tradicionalmente se la asocia con razón\. Ambas nociones son altamente abstractas\. Ninguna pertenece al vocabulario de la observación particular\. Pero mientras que exista una gran diversidad de expresiones para géneros específicos de variedades de sustancias individuales, expresiones que pertenecen al vocabulario de la observación particular —de los perros y las mesas, los hombre y las montañas particulares se pue*de decir* que son cada uno de ellos ejemplos observables de tales clases—, no hay ningún paralelo evidente de lo mismo en el caso de la causalidad, cuando *se la entiende como relación entre eventos o circunstancias particulares*\.
+
+
+## 174
+__STRAWSON__ __P__\. \(1992:174\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ … __Es un grave error tomar esta observación negativa como punto de partida de la elucidación del concepto de causa__\. __Es el error de la generalidad prematura__\. Aunque la noción de causa, *entendida como una relación entre distintos eventos o circunstancias particulares*, no tiene en el vocabulario de la observación un punto de apoyo completamente paralelo al que he ilustrado para el caso de la noción de sustancia, sin embargo, la noción de causación no encuentra en general un punto de apoyo —un apoyo seguro — en el vocabulario de la observación\. Existe una enorme diversidad, una gran multiplicidad, de clases de *acción y transacción* que son directamente observables en el caso particular y que podrían describirse propiamente como causales en la medida en que son variedades de *hacer que acontezca*, de producir un efecto o un nuevo estado de cosas\. La ausencia, ya comentada, de paralelismo con el caso de las sustancias se explica fácilmente\. Pues al registrar tales acciones y transacciones observables empleamos un predicado diádico, un verbo transitivo apropiado al tipo de transacción en cuestión, siendo entonces frecuente que los dos lugares del predicado no se rellenen con designaciones de distintos eventos o circunstancias particulares\.
+
+
+## 178
+__STRAWSON__ __P__\. \(1992\-1997:__178__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Estoy sugiriendo… que deberíamos considerar fundamentales las transacciones mecánicas en nuestro examen de la noción de causalidad en general\. Son fundamentales en nuestras investigaciones en el mundo, fundamentales para hacer que acontezcan los cambios que perseguimos: soportamos pesos con los hombros, sostenemos el arado con las manos, dirigimos la pluma sobre el papel, apretamos botones, tiramos de palancas\. __Al hacernos a nosotros mismos parte de esos cambios, hallamos en ellos un origen de las ideas de poder y fuerza, de compulsión y coacción__\. Cuando nos descontamos a nosotros, incluyen fenómenos naturales observables, acciones y relaciones q__ue se detectan directamente en el caso particular y cuya observación proporciona explicaciones de los estados que terminan__\. Finalmente, mucho del lenguaje polimorfo de la acción y la relación causal pertenece a esta categoría: «empujar», «tirar», «levantar», «poner», «retirar», «abrir», «cerrar» , «doblar», «alargar», «abollar», «comprimir» y así sucesivamente\. No hay razón, entonces, para que nos sorprendamos por que semejantes transacciones proporciones un modelo básico en las investigación teórica de las causas, porque buscamos «mecanismos» causales y porque, incluso cuando se hace metafórico, el lenguaje de los mecanismos impregne en general al lenguaje de las causas, como acontece en las frases «conexión casual» y «cadena causal»\.
+
+
+## 178\-179
+__STRAWSON__ __P__\. \(1992\-1997:__178\-179__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ __La consideración de las nociones de atracción y repulsión__, fundamental dentro de la teoría física, confirma esta afirmación\. En *primer lugar* que la sensación de interacción mecánica sea algo paradigmáticamente explicativo permite dar buena cuenta de un rechazo inicial a aceptar la idea de acción a distancia; y ayuda también a entender la inclinación, relacionada con esa idea, a postular algún medio a través del cual se transmitan los impulsos\. En segundo lugar, incluso una vez que se supera el rechazo, el modelo que sigue funcionando indirectamente es el de empujar y tirar\. De hecho, la relación es doblemente indirecta\. Pues aunque la presencia de las nociones de empuje\-tirón resulte etimológicamente obvia en las palabras «atracción» y «repulsión», la aplicación de estas palabras al caso de la acción física a distancia está mediada seguramente por la aplicación analógica de ambas a los casos de seres capaces de deseos y aversiones, de los que se dice que se ven «atraídos por» o «repelidos por» los objetos de estas emociones… 
+
+ En general, por lo tanto, la búsqueda de teorías causales es una búsqueda de modos de acción y reacción que no son observables en el nivel ordinario \(o que no son observables en absoluto, sino que se los postula o se los adopta como hipótesis\) y que encontramos inteligibles porque los elaboramos como modelos a partir de, o porque los concebimos en analogía con, esos varios modos de acción y reacción que la experiencia ofrece a la observación grosera, modos en los cuales nos vemos conscientemente implicados o que nosotros mismos sufrimos\.
+
+ 
+
+
+## 180
+__STRAWSON__ __P__\. \(1992\-1997:__180__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ El comentario no está desencaminado\. Pues aunque alguna producción observable de un efecto —por una manifestación particular de un poder o una tendencia causal— pueda dar lugar a una explicación inmediata del efecto, sigue siendo pertinente que nos preguntemos por qué tuvo lugar esa manifestación particular, por qué se actualizó, en ese lugar y momento, el tipo general del cual esa manifestación era un caso particular\. Para responder al comentario, es necesario y suficiente regresar al tema de los conceptos de tipos de sustancias y a su vínculo con los conceptos de tipo de acción y reacción \(o de obstrucción o resistencia a la acción\)\. La existencia del vínculo —la plena disponibilidad de nuestros conceptos de sustancias— es un lugar común en filosofía\. Sin embargo, habitualmente se pierde de vista o se minusvalora la importancia de ese lugar común por el poder y la influencia persistentes de la teoría humana de la causación\.
+
+__STRAWSON__ __P__\. \(1992\-1997:__180__\-__181__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Nuestros conceptos de tipo de cosas o sustancias individuales son, según ello, conceptos de cosas que tienen disposiciones *características* a actuar o reaccionar de determinados modos *en ciertas clases de circunstancias*\. Haciendo hincapié en esa última frase, podríamos decir con exageración disculpable que toda acción es reacción\. Pero, naturalmente, podemos observar o aprender algo de la acción o de la reacción de una cosa sin saber cuál, de una gama característica de circunstancias desencadenante de acciones o reacciones, fue la que obró en un caso particular\. Podemos ignorar los detalles de esas circunstancias\. O no conocer suficientemente las circunstancias circundantes que nos permitan clasificar satisfactoriamente el comportamiento observado a partir de esos tipos de comportamiento al que son propensas las sustancias de la clase en cuestión…\. Conocemos de antemano las posibles clasificaciones, ya que sabemos con qué tipo de cosa hemos de tratar\. No es que no adquiramos primero conceptos de los tipos de cosas y sólo después, mediante repetidas observaciones de conjunciones similares de eventos o circunstancias, lleguemos a formarnos creencias sobre las clases de reacción que se puede esperar de ellas y sobre la gama de condiciones antecedentes\. Por el contrario, esas creencias son inseparables de los conceptos que tenemos de las cosas\. …
+
+
+## 181\-182
+__STRAWSON__ __P__\. \(1992\-1997:__181\-182__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… En nuestra existencia autoconsciente, como seres familiarizados con un mundo de objetos y eventos, no hay momento alguno en el que estamos preparados y desprevenidos por igual ante el hecho de que algo resulte de algo; y no existe, por lo *tanto*, ningún proceso, como el que describió Hume, que nos haga salir de esa condición: un proceso como la observación de conjunciones constantes que generan compulsiones mentales que proyectamos después sobre los objetos bajo la forma de nociones engañosas de eficacia, agente, poder, fuerza, conexión necesaria y demás…
+
+ La primera de ellas es, una vez más, la plena disposicionalidad de nuestros conceptos preteóricos ordinarios de las cosas y sus cualidades\. __Con esta disposicionalidad viene dada ya la* generalidad*, que es el núcleo de la concepción reductiva__\. No viene dada de modo que deje al reduccionista en una posición cómoda\. Ello sucedería si los conceptos pertinentes de cosa y cualidad se descompusieran en, o se construyeran como, un complejo de conceptos \(de cualidades sensoriales\) completamente no disponibles conjuntamente con generalizaciones que los relacionan entre sí\. 
+
+
+## 182\-183
+__STRAWSON__ __P__\. \(1992\-1997:182\-183\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Pero los conceptos pertinentes de cosa y cualidad ni se descomponen ni se construyen de esa manera\. Son los elementos conceptuales básicos, de forma que nos representaríamos absurdamente bajo capas de teorías antes de disponer de los medios de teorizar si los concibiésemos de otra manera\. Es algo intrínseco, por lo tanto, a los conceptos pertinentes de cosa y cualidad, a los conceptos que pertenecen a nuestro surtido básico, preteórico, que esas cosas, es decir, los portadores de esas cualidades, accio*nes *y reaccionan regularmente de tales y cuales formas…\. Es sobre esta base que la __observación de generalidades puede ayudarnos a enriquecer nuestras concepciones primitivas de los poderes y propiedades de las cosas, concepciones primitivas sin las cuales no tendríamos concepción alguna de las cosas misma\. Y por esto puede decirse … que la explicación recibida o tradicional de la acción y reacción pone el carro delante de los caballos\.__
+
+ Mejor aún: ésa es una razón\. La otra, sugerida antes, es que las meras regularidades de sucesión no son por sí mismas garantía de haber encontrado causas\. 
+
+
+## 183\-184
+__STRAWSON__ __P__\. \(1992\-1997:183\-184\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ __La idea general que he venido recomendando … es que, aunque en realidad aprendamos mucho sobre la operación de la causalidad en el mundo observando regularidades de sucesión__, esto es así sólo porque las *nociones* generales de eficacia causal y de respuesta causal, de efectos que se logra que se den de diversas formas específicas se encuentran ya alojadas en nosotros mismos: se encuentran ya implícitas en una amplia gama de conceptos de cosa, cualidad, acción y reacción que pertenecen a nuestro surtido básico de conceptos de lo observable\. Es por eso que Kant está fundamentalmente en lo cierto frente a Hume… Kant tuvo una visión certera de la idea central, una visión que quizá no sería inaceptable expresar, siguiendo en mayor o menos medida sus propias palabras, diciendo que el concepto de eficacia causal no deriva de que se tenga experiencia de un mundo de objetos, sino que es una presuposición de esa experiencia; o quizá sea mejor decir que ese __concepto está ya con nosotros cuando se inicia eso que podría denominarse «experiencia»\.__
+
+__STRAWSON__ __P__\. \(1992\-1997:__184__\-__185__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+* *Señalé… que la noción de acción mecánica, experimentada u observada directamente, y la noción derivada indirectamente de f__uerza física \(atracción y repulsión\) desempeñan un papel fundamental en la__ __elaboración de teorías causales__\. Proporcionan modelos de explicación\. Sin embargo, en un estadio temprano del teorizar humano encontramos vigente el modelo\. \(El modelo suplementario está él mismo conectado con el modo de derivación que sugerí para __las nociones generalizadas de atracción y repulsión__ físicas\)\. Me refiero al modelo de la acción y motivación humanas por fiarnos de una conjunción constante de motivo y movimiento que hayamos observado no sabemos por qué actuamos sino en realidad como lo hacemos\. Semejante idea es absurda\. __En líneas generales, tenemos conocimiento inmediato de lo que nos importa, de lo que hacemos o tratamos de hacer__\. __Ese conocimiento es una especie de conocimiento causal inmediato: conocimiento de nuestros deseos y objetivos cuando nos movemos *para* tratar de satisfacerlos o cumplirlos__\. En la medida en que podemos atribuir un efectos acontecido en el mundo al acto de un agente, en la medida en que éste \(o ésta\) actuó por los motivos que conocemos a partir de nuestro propio caso, en esa medida sentimos que podemos comprenderlo\. __En la medida en que podemos concebir que ciertos efectos, deseados o temidos por nosotros, se hallan dentro del poder de ciertos agentes, concebimos también que *podemos* influir para producir o evitar esos efectos en tanto que podemos proporcionar a esos agentes la motivación oportuna\. __
+
+__STRAWSON__ __P__\. \(1992\-1997:__185__\-__186\-187__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Pues no puede mostrarse de forma plausible que tanto nuestro conocimiento de la __eficacia causal__ que tienen en general los motivos como la extensión teórica se ese modelo de eficacia causal a la esfera de lo sobrehumano descansen sobre los fundamentos de Hume; es decir, sobre la observación de que «__ciertos eventos… siguen *siempre* a ciertos fenómenos__, \[y de\] que ello sólo se debe a __muchas sucesiones percibidas comparativamente coincidentes con fenómenos anteriores»__\.\.\.
+
+… *Las teorías* que les siguieron \[a las de lo sobrehumano\] tuvieron mayor éxito explicativo\. Las ganancias resultantes de mejorar el conocimiento de la propensión causal y del poder causal no sólo mejoraron nuestra comprensión, sino que aumentaron la certeza de la predicción y la capacidad de control\. Ya hemos visto cómo las nociones de generalidad y de normalidad de ación y reacción son inseparables de las de propensión y poder causales, que son inseparables de la propensión y poder causales, que son inseparables, a su vez, de las nociones de tipo de sustancia, o de las calases naturales, y de las nociones de cualidades por las que podrán definir unos de otros los individuos de una misma clase; y resulta fácil apreciar cómo la presión teórica y la presión práctica tenderán por igual a orientar la investigación en una cierta dirección: en la dirección que conduce de las meras regularidades a las invariabilidades, de las propensiones a las leyes estrictas, __Pues la demanda de explicación no sólo genera la ignorancia de qué circunstancias características inducían una res*puesta* característica__ __de su poder causal producía un efecto característico__\. 
+
+
+## 187\-188
+__STRAWSON__ __P__\. \(1992\-1997:__187\-188__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+… Para alcanzar proposiciones que sean suficientemente generales y que tengan también el carácter de ley estricta, debemos hacer abstracción del nivel de observación ordinaria, de toda la complejidad de las circunstancias características propias de las situaciones particulares propias de las situaciones particulares y remitirnos a los términos de una teoría física particular\. \.\.\. señala un gran vacío existente entre nuestras explicaciones causales habituales de eventos y circunstancias particulares y la idea de una apelación explícita a la ley estricta\.
+
+ Es éste un punto a propósito del cual Mill, por ejemplo, parece haber estado confundido del todo… __Considérese su explicación de causa, «hablando filosóficamente», como «la suma total de condiciones, positivas y negativas, tomadas conjuntamente, la totalidad de las contingencias de cada descripción de las cuales, si de actualizan, se sigue invariablemente el consecuente»__\. Por ejemplo, un hombre cae en *un tramo* de escalera con escalones de piedra cuando inicia el descenso por ella\. Los escalones están resbaladizos y la mente del hombre se halla en otra parte\. Esto es una explicación suficiente de su caída\. Pero, obviamente, no todos los hombres que tienen preocupaciones caen en todos los tramos de escaleras con escalones resbaladizos por las que desciendan\. Ni se nos ocurre formular o concebir leyes que no admitan excepciones … 
+
+
+## 188
+__STRAWSON__ __P__\. \(1992\-1997:__188__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+De hecho, suponemos que hay leyes mecánicas que no admiten excepciones y que son verdaderamente generales, pero que se hallan fraguadas siguiendo un patrón diferente: el patrón propio de los términos relativamente abstractos de la teoría física\. No entra en nuestra perspectiva llegar a saber, ni nos interesa investigar con detenimiento,* cómo* se aplican estas otras leyes en un caso particular como el que nos ocupa\.* *Así pues, en lo que concierne a la explicación causal ordinaria la explicación de Mill queda curiosamente lejos de la verdad\.
+
+ Habiendo dicho esto, podría parecer que estoy obligado a responder a dos preguntas sobre las leyes teóricas: ¿Cómo se establecen tales leyes? ¿Y cómo se aplican en la práctica, es decir, cómo se las *usa* para obtener los resultados deseados? … Estas preguntas pertenecen a la filosofía de la ciencia y de la ciencia aplicada… Pero para los propósitos del momento … el establecimiento de tales leyes exige, primero, la elaboración de hipótesis; y segundo, que las hipótesis sean comprobadas… de forma cuantitativa…* en situaciones observacionales cuidadosamente ideadas*—es decir, situaciones tan controladas que sea posible conocer exactamente los rasgos de la situación que afectan a la presunta ley—, 
+
+__*STRAWSON*__* *__*P*__*\. \(1992\-1997:*__*190*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ Antes* *de concluir*, *quiero mencionar una extraña consecuencia filosófica de adherirse* al* punto de vista recibido acerca de la __causalidad, __o a un elemento esencial de esa concepción; o lo que viene a ser virtualmente lo mismo, a una consecuencia de negar las diversas maneras en que la noción de causa forma realmente parte de nuestras ideas ordinarias de las cosas\. Este elemento esencial del punto de vista recibido es la doctrina de que, __por lo que respecta a su contenido objetivo, la noción de causa puede reducirse a la invariabilidad de la asociación de los tipos de acontecimiento y circunstancia__\. La terminología preferida al utilizar esta noción es la de las __condiciones necesarias y suficientes__\. Así, tenemos formulaciones como la siguiente: si se dan circunstancias de un tipo, X, entonces el que acontezca un evento de tipo α es necesario y suficiente para que subsiguientemente acontezca un evento de tipo  β\. El esquema es claramente equivalente a este otro: si se dan circunstancias de un tipo, X, entonces el que acontezca un evento de tipo β es suficiente y necesario para que haya previamente acontecido un evento de tipo α\. Supongamos que se den las circunstancias del tipo X y que tienen lugar, en ese mismo orden, los eventos particulares α y β\. P__or lo que respecta a la necesidad y la suficiencia, no existe razón alguna para preferir decir que el evento del tipo α es una, o la causa del evento de tipo β, en lugar de la inversa__; no hay razón, de hecho, para que en absoluto distingamos entre causa y efecto en vez de admitir, por ejemplo, una relación simétrica de recíproca dependencia causal\. Y sin embargo, parecemos obstinados en alimentar el prejuicio que favorece esa distinción: en __pensar que, mientras que las causas preceden a sus efectos o que ambos son simultáneos, los efectos nunca preceden a sus efectos a sus causas__…
+
+
+## 187\-192
+__STRAWSON__ __P__\. \(1992\-1997:__187\-192__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+ ¿Deberíamos decir, entonces, finalmente … que «causa» es un nombre de una relación que mantienen en la naturaleza distintas existencias? ¿O deberíamos negar esto y considerarla más bien el nombre de una noción categorial general que invoquemos en el contexto de la explicación de circunstancias particulares y del descubrimiento de mecanismos generales de producción de tipos generales de efecto? No creo que importe mucho cómo contestemos\. En realidad, la adopción del asegunda de estas vías no excluye del todo la primera\. Porque cuando propiamente invocamos un hecho particular o una conjunción de hechos en la explicación de otro; y cuando tanto los eventos y circunstancias particulares mencionados en el enunciado que expresa la explicación como los hechos explicados son existencias distintas, no parece que se ocasione perjuicio al*guno* diciendo que semejantes eventos y circunstancias particulares mantienen de hecho una particular relación a la que podemos llamar causal, al margen de cómo se describa\. Aunque la relación se dé sólo porque los eventos y circunstancias particulares sean de clases descritas en las proposiciones que explican y las proposiciones explicadas\.
+
+
+## 195
+__STRAWSON__ __P__\. \(1992\-1997:__195__\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+
+Capítulo 10 LIBERTAD Y NECESIDAD
+
+ 
+
+ Como último paso abordo una cuestión que, bajo diversas formas, ha preocupado y dejado perplejos, tanto como la que más, a la parte reflexiva de la humanidad desde tiempo inmemorial: la cuestión de la libertad, o la falta de libertad , de la voluntad humana\. Como foco de la discusión elijo dos tesis de la *Etica* de Spinoza\.
+
+ De acuerdo con la primera de estas tesis, el sentimiento de libertad de decisión y acción, que experimentamos cada día, no es sino una ilusión, puesto que implica una creencia que es incompatible con el reinado universal de la causalidad natural\. Según la segunda tesis, este sentimiento ilusorio lo causa una combinación de dos factores: de un lado, la *conciencia q*ue tenemos de nuestras acciones, decisiones y deseos; y de otra, nuestra ignorancia de sus causas*\. Ambas tesis suscitan dudas\. *Ofreceré razones para cuestionar, en realidad para rechazar, estas dudas\.
+
+ Que tenemos un sentimiento de libertad, que necesariamente actuamos, como dice Kant, conforme a la *idea* de libertad es algo que en general se admite\. Que este sentimiento encierra una creencia incompatible con el reinado universal de la causalidad natural es cosa que frecuentemente se niega\.
+
+__STRAWSON__ __P__\. \(1992\-1997:195\-__196__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+El compatibilista de a pie mantendrá, no que no haya presencia de causalidad en las acciones libres, sino que no haya presencia de ciertas clases de causalidad, *como diría él \[Kant\]*, de coacción\. Y en seguida estará dispuesto a ilustrar lo que quiere decir con ejemplos de fuerza física o coerción psicológica intrusa\.
+
+ Quien, partiendo de esta base, cuestione la primera tesis está obligado, si ha de ser coherente, a hacer lo mismo con la segunda: con __la tesis del origen causal del sentimiento de libertad__\. Pues difícilmente podrá conceder que el conocimiento de las causas haga que esas causas determinen lo que antes de ser conocidas no determinaban; y seguramente tampoco querrá admitir, en lugar de ello, que ese conocimiento sea la causa de que un auténtico sentimiento de libertad se vea reemplazado por una coacción ilusoria…\.
+
+ ¿Pueden satisfacerse estos requisitos? En un nivel al menos, si\. __Los hombres no ignoran en general las causas inmediatas de sus acciones: muy a menudo saben que combinaciones de deseo, preferencia, creencia y percepción les inducen a obrar del modo en que lo hacen__\. __No todas sos razones son recionalizaciones__\. En lo concerniente a las causas más remotas de sus acciones, es decir, a las causas de sus propios deseos, disposiciones y preferencias, tienen a menudo una idea razonablemente precisa de sus fuentes, reconociendo no sólo el poder determinante que tiene en general la educación, el aprendizaje, el entorno y la gerencia , sino también el de la influencia específica de este o aquel elemento de esas fuerzas determinantes\. No existe ignorancia crasa de las causas; por ello, no cabe atribuir el sentimiento de libertad a esa ignorancia\. ¿__De dónde procede, entonces, ese sentimiento__? O mejor, quizás, ¿en qué consiste?
+
+
+## 196\-197\-198
+__STRAWSON__ __P__\. \(1992\-1997:__196\-197\-198__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+ Aquí sólo puedo esbozar una respuesta\. Primero, deberíamos considerar que nuestros deseos y preferencias no son, en general, algo que únicamente notemos en nosotros mismos como presencias ajenas\. En gran medida, no son lo que somos\. La idea gana fuerza por el hecho mismo de que haya excepciones; es decir, por l__a presencia ocasional en algunos sujetos de disposiciones y deseos que ellos experimentan como__ __coerciones intrusas\.__ … En segundo lugar, deberíamos considerar la experiencia de la deliberación y ponerla en relación con la idea de que __nuestros deseos y preferencias no son, en general, algo que percibimos en nosotros mismos como presencias ajenas__\. …
+
+ Finalmente, deberíamos considerar la experiencia de ser agentes\. Cuando una acción básica nuestra resulta, por una ruta causal normal, de una intención específica de actuar de esa forma —intención que, a su vez, es resultado de una combinación de deseos y creencias pertinentes—, e__ntonces no sólo tenemos conocimiento inmediato de que nuestra acción ha sido como teníamos la intención de que fuese, sino también de que ha sido ejecutada intencionalmente…__ a veces puede suceder que alguien actúe tal y como intenta actuar y, sin embargo, __no ejecuta la acción intencionalmente__\.__ La acción puede derivar causalmente de la combinación apropiada de deseo y creencia__, pero la ruta causal que lleva desde el deseo y la creencia hasta la acción puede ser errónea\. __El pensamiento que anticipa la acción puede, por ejemplo, perturbarnos o enervarnos hasta el punto que nos encontremos a nosotros mismos realizando *de manera no intencionada* precisamente esos movimientos *que teníamos la intención * de hacer…__ *En tales* casos está ausente la experiencia de ser agentes\.
+
+
+## 198\-199
+__STRAWSON__ __P__\. \(1992\-1997:__198\-199__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+ He aquí, entonces, una parte al menos de la fenomenología del sentimiento de libertad\. El que nos encontremos a nosotros mismos en nuestro deseos y preferencias y el que, en general, no los vemos como presencias ajenas dentro de nosotros, la experiencia de la deliberación que realza y refuerza el sentimiento de nuestro yo y la experiencia constantemente repetida de ser agente, todo ello contribuye, quizás, a construir __el sentimiento de libertad__\. __Al experimentarlo nosotros mismos, lo atribuimos también a los demás\.__
+
+ … un hecho que, en general, no está causalmente amenazado por el conocimiento de las causas particulares, ni amenazado lógicamente por la creencia general en el reinado de la causalidad universal; no se halla amenazado lógicamente porque no es una creencia y, por lo tanto, no es incompatible con esa creencia general\. Sin embargo, __el sentimiento de libertad, ese hecho natural, está estrechamente vinculado a otras actitudes hacia nosotros mismos y hacia los demás, a otros sentimientos para con nosotros mismos y para con los demás, __y a otros conceptos que nos aplicamos a nosotros mismos y que aplicamos también a los demás\. … El general, se puede decir que lo que se discute aquí son las nociones, actitudes y sentimientos asociados al juicio moral, a la idea de premio moral\. __Ahora bien, es cierto que en general se piensa —podría decirse que es una tesis acerca de la conciencia moral común— que lo apropiado de estas actitudes y sentimien*tos* y la aplicabilidad de estas nociones requiere… que el agente pueda haber actuado de manera diferente de como lo hizo entonces\. __
+
+
+## 199\-200
+__STRAWSON__ __P__\. \(1992\-1997:__199\-200__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+ Ciertamente, es verdad que muchas veces, en el contexto del juicio moral, especialmente si el juicio es desaprobatorio, se pueden proferir las palabras «Él podría haber actuado de otra forma», u otras palabras que digan lo mismo\. Pero, cuando se las profiere, ¿son esas palabras realmente equivalentes a «No hubo impedimentos o barreras naturales suficientes, de la clase que fuese, sin importar su complejidad, que le impidieran actuar de otra manera»? … a mi mí me parece parece difícil aceptar esa equivalencia\. …
+
+ … __*Nadie *ha podido nunca formular de manera inteligible en qué consistiría ese estado de cosas\., esa condición de la libertad, que se ha considerado necesaria para fundamentar nuestros juicios y actitudes morales__\. La pregunta :«Si creemos en esa condición, ¿qué es exactamente lo que creemos?» permanece incontestada y es, creo, incontestable\. 
+
+ Algunos de los que han encarado este hecho, pero que también han sentido, o han pensado que sentían, una tensión irreconciliable entre el reinado de la causalidad y la posesión de actitudes morales, han concluido que éstas encierran algo intrínsecamente confuso\. Esta conclusión se hace eco de Spinoza\.
+
+ 
+
+
+## 200\-201
+__STRAWSON__ __P__\. \(1992\-1997:__200\-201__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+ No obstante, es una conclusión equivocada; o al menos resulta equivocado que se la extraiga de esa manera y por esa razón\. __Nuestra predisposición a tener actitudes o sentimientos morales es un hecho natural, como lo es los sentimientos de liberta__d\. He señalado que están relacionados… __Al hablar del sentimiento de libertad, lo relacioné estrechamente con el sentimiento del yo\. Nuestros deseos, decisiones y acciones no se sienten en general como algo ajeno__, cosas que simplemente suceden en nosotros o que nos pasan, como un dolor o un golpe\. Somos los unos y las otras\. Nuestra conciencia de todo ello es conciencia de nosotros mismos\. Dije que atribuimos a otros ese mismo sentimiento de libertad y ese mismo sentimiento del yo\. __Vemos a los otros como otros yoes__; __y somos conscientes de que cada uno de ellos ve también así a los demás__\. Pero no concluimos nada de todo esto por medio de un razonamiento analógico\. A los demás los sentimos como a otros yoes, y lo hacemos de muy *diversas* formas, ligadas íntimamente a los hechos que interesan a los hombres y a sus interacciones; y __semejante diversidad es precisamente la diversidad de actitudes y emociones morales__ y personales que experimentamos hacia los otros; __actitudes y emociones que encuentran su correlato en las que ellos tienen hacia nosotros mismos\. __
+
+ 
+
+
+## 201\-204
+__STRAWSON__ __P__\. \(1992\-1997:__201\-204__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+… Lo que me ha interesado rebatir es la tesis de que estas emociones y actitudes, junto a los sentimientos de asociados de libertad, del yo y de los otros yo, descansan en una o más creencias incompatibles con la doctrina del reinado universal de la causalidad natural\.
+
+ *Naturalmente*, hay más cosas que decir sobre el alcance de las explicaciones físicas del comportamiento humano… Muchas clases generales de dependencia de lo mental y del comportamiento respecto de lo físico son bien conocidas\. Se puede modificar la percepción, simular la memoria, reducir o potenciar la agresividad, la depresión o el impulso sexual, por ejemplo, por medios electrónicos\. Se puede prever un gran incremento de esta clase de conocimiento\. Y el conocimiento de estas dependencias y la disponibilidad de las técnicas para sacar partido de ellas puede seguramente, en ciertos casos, contribuir a inhibir, o cuanto menos atenuar la fuerza de, esas actitudes y reacciones morales y personales cuya base es lo que está en disputa\. Así pues,, podría preguntarse, ¿no debería generalizarse este efecto inhibitorio? Todos los rasgos generales que se manifiestan en los episodios concretos del comportamiento humano, por muy *nuancé* que sea la descripción que estamos inclinados a dar de ellos deben tener, suponemos, una base física\.
+
+
+## 205\-206
+__STRAWSON__ __P__\. \(1992\-1997:__205\-206__\)\. Análisis y metafísica\. Una introducción a la filosofía\.
+
+… Otra parte de la respuesta consiste en la observación obvia de que la creencia general, y seguramente justificada, en la base física de la mente es muy diferente, y queda muy lejos, de ese conocimiento detallado y específico de las correspondencias psicofísicas que antes declaré imposibles\. Es por estas dos razones, por lo tanto, por lo que puede decirse que nuestro conocimiento de las clases generales de dependencia de lo mental de lo físico únicamente contribuye, y tan sólo lo hace en ciertos casos, a modificar o a inhibir reacciones y actitudes morales y personales\. Pero el tema es complicado y sin duda merece un tratamiento más completo que el que le reservo aquí\.
+
+La segunda observación que ha de hacerse sobre el alcance de las expiaciones físicas del comportamiento humano es la siguiente…\. Lo describí en los términos humanos de la intención y el motivo\. … pues los mecanismos del movimiento corporal no manifiestan discontinuidad alguna con los más finos mecanismos electroquímicos de la armazón humana…
+
+… __Entender el comportamiento humano como algo que consiste meramente en movimiento físico excluiría *por sí solo* las actitudes y los sentimientos en cuestión; pues estas actitudes y sentimientos surgen sólo cuando el comportamiento se entiende o se experimenta como acción intenciona__l\.
+

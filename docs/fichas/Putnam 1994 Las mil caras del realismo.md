@@ -1,0 +1,512 @@
+# Putnam 1994 Las mil caras del realismo
+
+
+## 18\-19\-20
+PUTNAM, H\. \(1994:18\-19\-20\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+P\. 18\-19\-20 Introducción por Miguel Quintanilla
+
+ Lo que Putnam llama realismo interno, o realismo pragmático \.\.\. En esencia se trata de dar respuesta a la artificiosa pregunta siguiente: __¿hasta qué punto podemos decir, con cierto fundamento, que conocemos el mundo real?__ …
+
+ *En efecto*, cada día tenemos la experiencia de que sale un sol por la mañana y no ponemos en duda que el sol que sale hoy es el mismo que salió ayer, a pesar de que de esto nunca hemos tenido una experiencia concreta … no podemos compartir directamente las experiencias del resto de la gente \(precisamente porque son sus propias experiencias\) ello no nos impide hablar con otros, entender lo que dicen y compartir a veces sus conocimientos y opi*niones*\. Tampoco sería más confortable nuestra posición si nos pasáramos al extremo contrario y nos declaráramos dispuestos a admitir sólo aquellas opiniones e ideas que estuvieran sólidamente fundadas en la lógica y en las matemáticas: podríamos entonces hilar largos razonamientos, todos verdaderos, pero vacíos de contenido, de manera que no seríamos capaces de concluir nada relevante acerca de nada real: podríamos utilizar los números para sumar, multiplicar, etc\., pero no podríamos contar ovejas con ellos, porque las ovejas no son entidades matemáticas\.
+
+PUTNAM, H\. \(1994:20\-\-21\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Aristóteles supuso que la facultad humana del entendimiento podía captar las ideas generales a partir de las cosas concretas\. Con el desarrollo de la ciencia moderna, el problema volvió a plantearse con mayor crudeza\. … Muchas de las evidencias del sentido común se vinieron abajo; y comenzó a aceptarse, como dice Putnam, que «el rastro de la serpiente humana está por todas partes»: es decir, que el sujeto humano deja su propia impronta en todas las ideas, representaciones y teorías con las que pretendemos conocer la realidad\. De modo que no es posible seguir hablando de un mundo real, independiente de nosotros, y un sujeto humano capaz de conocerlo objetivamente\. Kant … definió la situación: el mundo objetivo, tal como lo *conocemos*, es el resultado de nuestra propia actividad intelectiva\. Con otras palabras: somos nosotros, con nuestra propia capacidad sensorial e intelectual, quienes organizamos la experiencia en categorías que nos la hace comprensible y así construimos las cosas y los hechos, las relaciones de causalidad, las regularidades que observamos en la naturaleza, etc\. …
+
+De acuerdo con Kant el cometido de la razón humana no consiste en descubrir o representar el mundo real sino en construir los conceptos que nos permiten entenderlo\. 
+
+
+## 21\-22
+PUTNAM, H\. \(1994:21\-22\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Por otra parte debemos admitir que nuestra propia noción de «mundo que nos rodea» depende de nosotros mismos\. Con otras palabras: desearíamos poder decir que nuestros conceptos y representaciones se corresponden de alguna manera con el mundo real, pero al mismo tiempo tenemos que admitir que lo que llamamos mundo real no es nada que podamos identificar al margen de nuestros conceptos y representaciones\.
+
+ __Hay dos respuestas__ clásicas \(y en realidad prekantianas\) a este problema: __la respuesta dogmática y la respuesta escéptica__\. La respuesta dogmática \(que Putnam identifica con lo que él llama el real*ismo metafísico*\) se puede resumir en las siguientes tesis:
+
+1\. El mundo existe independientemente de nuestros conceptos y representaciones
+
+2\. El mundo objetivo e independiente tiene una estructura determinada; es decir está compuesto de cosas, propiedades, hechos objetivos que existen independientemente de que nosotros los conozcamos o no\.
+
+3\. Una representación verdadera o correcta del mundo es aquella que se refiere a objetos realmente existentes en el mundo y describe las propiedades que esos objetos realmente tienen\.
+
+4\. Existe \(aunque no la conozcamos todavía\) una imagen o representación completa del mundo objetivo tal como es en sí mismo \(lo que Putnam identifica como «el punto de vista del ojo de Dios»\.
+
+
+## 22\-23
+PUTNAM, H\. \(1994:22\-23\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ La respuesta escéptica adopta como punto de partida la constatación de que no existe ninguna forma de establecer una correspondencia fiable entre nuestras representaciones y las supuestas propiedades objetivas del mundo independiente de nosotros\. A partir de aquí la conclusión más radical es que no podemos saber ni decir nada con sentido acerca de la realidad, todos nuestros discursos son pura palabrería\.
+
+ Tanto el realismo metafísico como el relativismo escéptico son … teorías típicamente prekantianas\. Y sin embargo, siguen estando de plena actualidad\. Hay razones para ello\. Por una parte, una cierta actitud realista parece imprescindible para poder entender una parte fundamental de nuestra cultura: el aprecio por la verdad y la íntima convicción de que el avance del conocimiento —espacialmente del conocimiento científi*co*— *tiene algo* que ver con un aplicación efectiva de nuestros conocimientos *verdaderos*, es decir, con nuestra capacidad de representar adecuadamente una parte cada vez más importante de la realidad\. El propio Kant advertía que es un *escándalo para la filosofía y para la razón humana* el que haya que admitirse la existencia de los objetos exteriores sólo a modo ce *creencia*, es decir como una opinión que no podemos justificar racionalmente\. 
+
+ 
+
+
+## 23\-24
+PUTNAM, H\. \(1994:23\-24\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Es en este contexto donde hay que situar la teoría del realismo interno de Putnam\. Se trata de realizar un doble movimiento: por una parte recuperar la visión kantiana de la filosofía, radicalizándola y, por otra, de demostrar que el resultado es plenamente satisfactorio, es decir que podemos recuperar lo que podríamos llamar el contenido *sano *del realismo \(lo que Putnam llama realismo con minúscula\), evitando tanto el dogmatismo del Realismo metafísico \(el realismo con mayúscula\) con el nihilismo al que conduce en último término el escepticismo radical\. 
+
+ Es especialmente relevante a este respecto la introducción del tema del realismo interno que hace Putnam … se trata de recuperar el realismo del sentido común, frente a las pretensiones del realismo científico \(del realismo metafísico disfrazado de científico\) que, a la postre, resulta incompatible con esa noción de realidad que se pretendía fundamentar\. Dicho en términos muy simples … la situación pod*ría describirse* así: el realista ingenuo mantiene dos tipos de pretensiones, por una parte considera que el mundo real es el mundo de su experiencia cotidiana, el mundo repleto de sillas, de mesas, personas con las que habla, etc\.; por otra parte pretende que ese mundo de su experiencia cotidiana es exactamente una parte del mundo real, es decir, del mundo tal como existe por sí mismo, independientemente de cualquier experiencia que cualquier sujeto pueda tener de él\.
+
+
+## 24\-25
+PUTNAM, H\. \(1994:24\-25\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Sin embargo tales pretensiones son incompatibles con el realismo científico, pues la ciencia actual, en especial la ciencia física, nos dice que el mundo de nuestra experiencia cotidiana no es real: no sale y se pone el sol, sino que es la tierra la que da vueltas, no hay sillas y mesas sólidas, sino campos y partículas subatómicas o, pero aún, perturbaciones en el continuo espacio\-temporal, etc\., y esta es la *verdadera realidad* del mundo del realista ingenuo\. De manera que la única forma de mantener la segunda pretensión del realista ingenuo \(la de que el mundo existe independientemente de la experiencia del mundo real\), pero al alto costo de tener que concluir que, una vez abandonada la referencia sólida del realismo, lo que tenemos es un «mundo real» plagado de proyecciones humanas, de creaciones de nuestro espíritu, y además compatible con infinitas creaciones diferentes\.  …
+
+ La salida de Putnam consiste en cambiar de dirección en la revisión de los presupuestos del realismo ingenuo: el problema no es tanto su primera pretensión \(la de que el mundo que nos rodea de si*llas, mesa*s y cubitos de hielo sea real\) sino la segunda: la de que sea legítimo decir que hay un mundo real independiente de nuestra experiencia de las sillas, las mesas y los cubitos de hielo \(o, para el caso, también de nuestra experiencia científica de los campos de fuerza, los fenómenos cuánticos y las dimensiones matemáticas del espacio\-tiempo\)\. 
+
+
+## 25
+PUTNAM, H\. \(1994:25\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Con otras palabras, podemos ser realistas, como lo somos en la vida cotidiana, lo que no podemos es mantener la ilusión de que se puede hablar de un mundo independiente de nuestra experiencia o de «objetos en sí», al margen de los conceptos con los que representamos esos objetos\. El resultado es que el realismo \(el realismo pragmático de nuestra experiencia cotidiana\) va indisolublemente unido a cierto relativismo conceptual: la realidad es la realidad tal como es concebida, lo real es siempre relativo al aparato conceptual que utilizamos para hablar o representar el mundo real\. 
+
+ Según Putnam, este relativismo conceptual del realismo interno o pragmático no tiene por qué conducir a conclusiones escépticas radicales: aunque los hechos sean relativos a los esquemas conceptuales que utilizamos para describirlos, ello no quiere decir que no podamos distinguir, dentro de determinado esquema conceptual, entre hechos reales y no reales, o paralelamente, entre enunciados verdaderos y falsos acerca de los hechos\. 
+
+
+## 31\-32
+PUTNAM, H\. \(1994:31\-32\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ Dicho de otra forma: parece que si aceptamos el realismo interno de Putnam, con todas sus consecuencias, podemos estar perdiendo algo importante de esa concepción del mundo que el propio Putnam aprecia … una posible vía de salida consiste en revisar las tesis del realismo metafísico que Putnam rechaza\. Hemos resumido en cuatro tesis\. El punto central del realismo metafísico está en la tercera tesis, que es la tesis de la verdad como correspondencia\. Las dos primeras son necesarias para que la concepción de la verdad como correspondencia tenga sentido\. La cuarta parece una consecuencia d ella tercera …
+
+ De hecho lo que podríamos llamar *realismo tentativo* o hipotético podría caracterizarse por las siguientes tesis:
+
+1\. La realidad objetiva existe independientemente de que la conozcamos o no\.
+
+2\. La realidad objetiva independiente tiene en sí misma algún grado de organización o estructura\.
+
+3\. *El conocimiento* humano, y en especial el conocimiento científico, pretende conseguir una representación adecuada de la realidad objetiva\.
+
+4\. Es posible alcanzar, a través de la investigación científica, representaciones adecuadas, aunque parciales e incompletas, de la realidad objetiva\.
+
+ A diferencia del realismo metafísico que critica Putnam, esta versión del realismo no incorpora la tesis del Ojo de Dios, ni la teoría ingenua de la verdad como correspondencia o, mejor aún, como copia o reflejo de la realidad\. Sin embargo acepta las tesis implícitas en el realismo del sentido común\. Y además acepta como legítima la pretensión de que el conocimiento científico pueda ser una representación adecuada aunque parcial e incompleta del mundo real\.
+
+
+## 32\-33
+PUTNAM, H\. \(1994:32\-33\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Introducción por Miguel Quintanilla
+
+ En realidad no hay tanta distancia entre las consecuencias filosóficas de este realismo tentativo y del realismo interno de Putnam\. De hecho, el realismo tentativo puede aceptar, como Putnam, que sólo podemos hablar acerca del mundo real a través de nuestros esquemas conceptuales, pero de ahí se infiere que nuestras representaciones del mundo real son siempre parciales e incompletas, no que carezca de sentido suponer que representan algo independiente de ellas mismas\. …
+
+ *En realidad* lo único que realmente diferencia al realismo tentativo que proponemos del realismo interno que propone Putnam es que el primero asume la hipótesis metafísica que comparten tanto el realismo se sentido común como el realismo científico, sin tener que asumir al mismo tiempo la tesis ingenua de la verdad como correspondencia \(o copia\) del mundo real ni mucho menos la tesis metafísica de la existencia de una representación completa de la realidad \(la tesis del Ojo de Dios\) …
+
+
+## 42\-44
+PUTNAM, H\. \(1994:42\-44\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Conferencia I\. ¿queda todavía algo por decir acerca de la realidad y la verdad?
+
+ En primer lugar, esta perspectiva ilustra el hecho de que el Realismo con una «R» mayúscula no siempre da lo que el ingenuo espera de él\. Si hay algún atractivo del Realismo que sea enteramente legítimo e la apelación al sentimiento del sentido común de que *por supuesto *hay mesas y sillas, y cualquier filosofía que no diga que realmente no existen —que realmente sólo hay datos de los sentidos, o sólo «textos», o lo que sea—, es algo más que disparatada\.
+
+ *Es importante*, para esta forma de pensar, que ciertas propiedades familiares de la mesa —su tamaño, la forma el lugar— sean propiedades «reales», descriptibles, por ejemplo, en el lenguaje de la geometría analítica de Descartes\. Otras propiedades «secundarias», de las cuales el color es un ejemplo clave, no son tratadas como propiedades reales en el mismo sentido\. De ninguna propiedad «actualmente ejemplificada» \(no disposicional\) por ese enjambre de moléculas \(o por esa región espacio\-temporal\), reconocida en la física matemática, puede decirse que sea lo que todos nosotros llamábamos su color\.
+
+
+## 44\-45
+PUTNAM, H\. \(1994:44\-45\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ ¿Qué pasa con las propiedades disposicionales? A menudo se sostiene que el color es simplemente una función de *reflexión de la luz*, esto es, de la disposición de un objeto \(o de la superficie de un objeto\) para absorber selectivamente ciertas longitudes de onda de luz incidente y reflejar otras\. Pero , verdaderamente, no tiene mucho que ver con la realidad de los colores\. Las investigaciones recientes no sólo han mostrado que estas consideración es demasiado simple … Una estrella roja, una manzana roja y un vaso lleno de agua coloreada de rojo son rojos por razones físicas bastante distintas\. De hecho, puede haber un número infinito de condiciones físicas diferentes que podrían producir la disposición de reflejar \(o emitir\) luz roja y absorber luz de otras longitudes de onda\. Una propiedad disposicional cuya «explicación» no disposicional subyacente sea tan poco uniforme simple*mente* no es susceptible de ser representada como una función matemática de variables dinámicas\. Y éstas—las variables dinámicas— son los parámetros que esta forma de pensar considera como las «características» de los «objetos» externos\.  
+
+ Otro problema radica en los *matices* resultan ser algo mucho más subjetivo de lo que pensábamos\. De hecho, cualquier tono en el cuadro de colores correspondiente a la parte verde del espectro será clasificado como «verde estándar» por algún sujeto, aunque esté al final del extremo «amarillo\-verde» o del extremo «azul\-verde»\.
+
+
+## 45\-46
+PUTNAM, H\. \(1994:45\-46\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Resumiendo … La idea de que existe una __propiedad__ que todos los objetos rojos tienen en común ―la misma en todos los casos―, y otra propiedad que todos los objetos verdes tienen en común  ―la misma en todos los casos―, __es una especie de ilusión__ en la perspectiva que hemos ido aceptando cada vez más desde la época de Descartes y Locke\.
+
+ Sin embargo, Locke y Descartes nos dieron un sofisticado sustituto para nuestra noción precientífica del color … Ese sustituto involucra la idea de un dato de los sentidos \(con la salvedad de que, en el vocabulario de los siglos XVII y XVIII, los datos de los sentidos eran llamados «ideas» o «im*presiones»* \)\. El jersey rojo que yo veo no es rojo a la manera como pensaba que lo era \(no hay ninguna «magnitud física» que sea su rojez\), pero__ tiene una disposición … para afectarme de una cierta forma ―para hacerme tener datos de los sentidos__―\. Y éstos, los datos de los sentidos, verdaderamente tienen una clase de «rojez» simple, uniforme y no disposicional\. 
+
+ Esta es la famosa imagen, la imagen dualista del mundo físico y sus __cualidades primarias__, por un lado, y de la mente y sus __datos de los sentidos__, por otro de la cual los filósofos han estado peleando, como dice Husserl, desde los tiempos de Galileo\. Y __Husserl tiene la intuición … de que esta imagen es desastrosa\.__
+
+
+## 46\-47
+PUTNAM, H\. \(1994:46\-47\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Pero, ¿por qué desastrosa? … Por alguna razón, la *solidez* está prácticamente el el mismo barco que el color\. Si los objetos no tienen color tal como «inocentemente» parecen tenerlo, tampoco tienen solidez tal como «inocentemente» parecen tenerla\. \[Nota pie de pág N\.º 4 La noción de sentido común «solidez» no debería ser confundida con la noción de los físicos de estar «en estado sólido»\. Por ejemplo, una duna de arena está en «estado sólido», pero no es sólida en el sentido ordinario del término; mientras que una botella de leche puede ser sólida, aunque la mayor parte de su contenido no esté en estado sólido\.\] \. Esto es lo que conduce a Sellars a decir que objetos del sentido común, del tipo de los cubitos de hielo, no existen realmente\. ¿Cuál es nuestra concepción de un típico objeto del sentido *común* aparte de algo sólido \(o líquido\) que exhiben ciertos colores? Lo que realmente hay, en la metafísica científica de Sellars, son objetos de la física matemática, por un lado, y «sensaciones desnudas», por otro\. Ésta es la imagen que acabo de describir como «desastrosa»; la imagen que niega precisamente el tipo de realismo del hombre común, su realismo sobre las mesas y las sillas\.
+
+
+## 47\-48
+PUTNAM, H\. \(1994:47\-48\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ La réplica \(la réplica que hará un filósofo que acepta la imagen post\-galileana\) me parece obvia: «Te sientes simplemente nostálgico de un mundo más antiguo y más simple\. Esta imagen funciona; nuestra aceptación de ella es «inferencia basada en la mejor explicación»\. No podemos considerar como objeción una perspectiva que no conserve todo lo que el hombre de la calle alguna vez creyó falsamente»\. 
+
+ Aunque se trate de una inferencia basada en la mejor explicación, es bastante extraña\. ¿Cómo discurre la explicación familiar de lo que ocurre cuando «veo algo rojo»? La luz choca contra el objeto … y se refleja hacia mi ojo\. … Hay una imagen en la retina … Se producen ciertos impulsos nerviosos \(… se discute la relevancia de las transmisiones químicas de neurona a neurona, en contraste con las eléctricas\)\. Ocurren cosas que el cerebro, algunas de las cuales entendemos gracias al trabajo de Hubel y Wiesel, David Marr y otros\. Y, *entonces* —ésta es la parte misteriosa—, de alguna manera surge un «dato de los sentidos» o una «sensación desnuda»\. ¿Es esto una *explicación*?
+
+
+## 48
+PUTNAM, H\. \(1994:48\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Una «explicación» que involucra conexiones de un tipo que no entendemos en absoluto \(conexiones en «suspenso nomológico» las llamó Herbert Feigl\), y respecto a las cuales no tenemos siquiera el esbozo de una teoría, es una explicación por medios algo más oscuros que los fenómenos que ha se ser explicado\. … cada uno de los apartados del relato acerca del dato de los sentidos es una suposición \-teoría; y una teoría de una clase muy peculiar\. Y, sin embargo, el papel epistemológico que la filosofía tradicional supone que juegan los «datos de los sentidos» exige de ellos que sean lo que es «dado» que sean, *aquello de lo cual estemos absolutamente seguros independientemente de la teoría científica*\. El tipo de realismo científico que hemos heredado del siglo XVII aún no ha perdido todavía todo su prestigio, pero nos ha hecho cargar con una imagen desastrosa del mundo\. Ya va siendo hora de buscar una imagen diferente\.
+
+
+## 48\-49
+PUTNAM, H\. \(1994:48\-49\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Propiedades intrínsecas: las disposiciones
+
+ Quiero sugerir que el problema con la imagen «objetivista» del mundo … *es mucho* más profundo que la postulación de «datos de los sentidos»; los datos de los sentidos son, por decirlo así, los síntomas visibles de una enfermedad del sistema, como las marcas pústulas en el caso de la viruela\. La raíz profunda de la enfermedad en el sistema descansa en la noción de una «propiedad intrínseca», una propiedad que algo tiene «en sí mismo», al margen de cualquier contribución hecha por el lenguaje o la mente\.
+
+ Esta noción, y la noción correlativa de una propiedad que es meramente «apariencia», o meramente algo que nosotros «proyectamos» en el objeto, ha resultado ser tremendamente robusta, a juzgar por el atractivo que ha tenido para diferentes tipos de filósofos\. A pesar de sus profundos desacuerdos … idealistas subjetivos así como dualistas y materialistas\- aceptaron la distinción … Un idealista subjetivo diría que sólo hay datos de los sentidos \(o mentes y datos de los sentidos, en algunas versiones\), y que «rojo» es una propiedad intrínseca de estos objetos, mientras que la persistencia \(estar allí incluso cuando no miramos\) es algo que nosotros «proyectamos» ; un dualista o un materialista diría que los objetos «extraños» tienen persistencia como una propiedad intrínseca, pero que rojo es, en su caso, algo que nosotros «proyectamos»
+
+
+## 50\-51
+PUTNAM, H\. \(1994:50\-51\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ … La idea de que estas propiedades están «en» las cosas mismas, como propiedades intrínsecas, es una «proyección» espontánea\.
+
+ El talón de Aquiles de esta historia es la noción de disposición estricta a una disposición que algo tiene para hacer algo, *no importa lo que ocurra\. *Llamaré *disposición* ceteris paribus a una disposición para hacer algo bajo «condiciones normales»\. …
+
+ La disposición de los cuerpos con una mesa en reposo no igual a cero de viajar a velocidades por debajo de la velocidad de la luz es una disposición *estricta*; es físicamente imposible para un cuerpo con una masa en reposo no igual a cero viajar a la velocidad de la luz\. Por supuesto, la noción de «disposición estricta» presupone la noción de «necesi*dad física*» … ¿Qué ocurre con el azúcar para disolverse en agua?
+
+ Esta no es una disposición estricta, ya que el azúcar que se coloca en el agua ya saturada con azúcar … no se disolverá\. ¿Es, entonces, una disposición estricta la disposición del azúcar para disolverse en *agua químicamente pura*? … vemos que hay infinitamente muchas condiciones físicamente posibles en las cuales el azúcar «se des\-disuelve» en vez de permanecer disuelto\. 
+
+ … entonces la *solubilidad* tampoco es una propiedad «intrínseca» de ninguna cosa externa\. Y, de manera similar, tampoco lo es ninguna disposición «en igualdad de circunstancias»
+
+
+## 52\-53\-54
+PUTNAM, H\. \(1994:52\-53\-54\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Propiedades intrínsecas: la intencionalidad
+
+ Bien, ¿qué hay de malo en ello? ¿Por qué no deberíamos decir que las disposiciones \(o, al menos, *las* *disposiciones* «en igualdad de condiciones», tales como la solubilidad\) tampoco están «en las cosas mismas» sino, más bien, en algo que nosotros «proyectamos» en esas cosas? 
+
+ … La proyección consiste en pensar que algo tiene propiedades que no tiene, pero que podemos imaginar \(quizás porque alguna cosa con la que estamos familiarizados realmente las tiene\), sin ser consistente de que esto es lo que estamos haciendo\. Es, pues, una especie de *pensamiento* … ¿Tiene algo que decirnos acerca del pensamiento \(o, como los filósofos dicen, acerca de la «intencionalidad», es decir, acerca del *tratar sobre algo*\) la conocida imagen «objetivista»?
+
+ Descartes, efectivamente, pretendió que debería hacerlo\. Su tesis consistía en que hay dos sustancias fundamentales —la mente y la materia—, no una sola, y que de modo equivalente, debería haber dos ciencias fundamentales: la física y la psicología\. Pero hemos dejado por completo de pensar en la mente como una «sustancia» separada … nunca ha llegado a surgir una psicología como «ciencia fundamental» que explique la la naturaleza del pensamiento \(incluyendo cómo los pensamientos pueden ser verdaderos o falsos, justificados o no justificados, sobre algo o sobre nada\)\. En consecuencia, explicar las características del mundo del sentido común, incluyendo el color, la solidez, la causalidad \(incluyendo la causalidad porque, si las disposiciones *son* *«proyecciones»*, la noción de sentido común de «la causa» de algo es una «proyección»; depende de la noción de «condiciones normales» exactamente en el mismo sentido\), en términos de una operación mental llamada «proyección» es justamente explicar cada una de estas características del mundo del sentido común en función del *pensamiento*\.
+
+
+## 54\-55
+PUTNAM, H\. \(1994:54\-55\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Pero, *¿no era esto lo que se les acusaba de hacer a los idealistas?\.* … el efecto de lo que se llama «realismo» en filosofía consiste en negar su realidad objetiva, en convertirlo simplemente en *pensamiento*\. Son los filósofos que, en un sentido u otro, se mantienen en la tradición neokantiana ―James, Husserl, Wittgenstein― los que mantienen que las mesas y sillas del sentido común, las sensaciones y los electrones, son *igualmente reales*, y no realistas metafísicos\.
+
+¿Por qué la intencionalidad es un problema tan insoluble?
+
+ … *La razón es* clara: no hemos tenido éxito a la hora de dar algún contenido a la teoría de que el pensamiento es, justamente, una propiedad primitiva de una misteriosa «sustancia»: la mente\. …
+
+Si, a diferencia del Kant de la primera Crítica … insistimos en ser fieles a los supuestos «objetivistas» fundamentales\. El único canino que entonces podemos tomar es el de que *los fenómenos mentales tienen que ser, en algún sentido, estrechamente derivados de fenómenos físicos*, como Diderot y Hobbes ya habían propuesto\. Por «supuestos objetivistas fundamentales» entiendo a\) el supuesto de que se puede trazar una clara distinción entre las propiedades tienen «en sí mismas» y las propiedades que «nosotros proyectamos», y b\) el supuesto de que la ciencia fundamental … nos dice qué propiedades tienen las cosas «en sí mismas»\.
+
+
+## 55\-56
+PUTNAM, H\. \(1994:55\-56\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+\(Aunque quisiéramos suponer, junto con Wilfrid Sellars, que las «sensaciones desnudas» —las cualidades sensibles fundamentales de la experiencia— no van a ser reducidas a física, sino que de alguna forma han de añadirse a la ciencia fundamental en algún siglo futuro, ello no afectaría mucho a la situación; Sellars no adelanta que la *intencionalidad* se *convertirá* en algo que tenemos que añadir, en ese mismo sentido, sino más bien supone que una teoría del «uso de las palabras» es todo lo que se necesita para dar cuenta de ella\)\.
+
+ El objetivismo moderno se ha convertido simplemente en materialismo\. Y el problema central para el materialismo consiste en «explicar la aparición de la mente»* *… significa resolver el problema de Brentano, esto es, decir en términos *reductivos* qué es «pensar que hay muchos gatos en el vecindario» y qué es «recordar dónde está París», etc\., ¿por qué deberíamos pensar ahora que esto es posible? Si se ha demostrado que reducir el color, la solidez o la solubilidad a la física fundamental es imposible, ¿por qué debería ser más fácil de resolver este programa reduccionista mucho más ambicioso?
+
+
+## 56\-57
+PUTNAM, H\. \(1994:56\-57\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+P\. 56\-57
+
+ Empezando a finales de la década de los cincuenta, yo mismo propuse un programa en filosofía de la mente que ha llegado a ser ampliamente conocido bajo el nombre de «funcionalismo»\. Mi «funcionalismo» afirmaba que los seres pensantes son *composicionalmente plásticos*, esto es, que no hay ningún estado o evento físico \(es decir,  ninguna condición necesaria y suficiente expresable a través de una fórmula finita del lenguaje de la física fundamental de primer orden\) para ser, ni siquiera, una ocurrencia *físicamente posible* \(dejamos de aparte la «posibilidad lógica» o la «posibilidad metafísica»\) de un pensamiento con un contenido proposicional dado, o un sentimiento de cólera, o un dolor, etc\. A *fortiori*, las actitudes proposicionales, las emociones, los sentimientos, no son *idénticos a estados cerebrales, ni siquiera* a estados físicos caracterizados más ampliamente\. Cuando propuse esta tesis, se*ñalé* que pensar sobre la mentalidad, la afectividad, etc\., de un ser como aspectos de su *organización para realizar una función* nos permite reconocer que cualquier clase de «sistema» o de ser lógicamente posible podría ser consciente, exhibir mentalidad y afecto, etc\., exactamente en el mismo sentido sin tener la misma materia… Ya que seres con constituciones físicas muy diferentes \(e incluso «no\-físicas»\) podrían tener la misma organización funcional\.
+
+
+## 57\-58
+PUTNAM, H\. \(1994:57\-58\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Lo que queremos investigar es la naturaleza de la organización funcional humana \(y animal\), no la naturaleza de una misteriosa «sustancia» por un lado, o una simple información fisiológica adicional, por otro\.
+
+ También propuse una teoría acerca de en qué consistía nuestra organización funcional, una teoría que actualmente he abandonado —era la teoría de que nuestra organización funcional era la de una máquina de Türing— La he abandonado porque creo que hay buenos argumentos que muestran que los estados mentales no son sólo composicionalmente plásticos sino, también, *computacionalmente plásticos*\. Lo que quiero decir con esto es que criaturas físicamente posibles que crean que hay muchos gatos en el vecindario, o lo que sea, pueden hacerlo mediante un *número indefinido de «programas diferentes»\. *La hipótesis de que hay una condición necesaria y suficiente en términos computacionales *cun *físicos\) para la presencia de una creencia dada es poco realista, justamente en el mismo sentido de que la teoría de que hay una condición necesaria y suficiente, en términos fenomenalistas, para la presencia de una mesa *es poco* realista\. Tal condición tendría que ser infinitamente larga, y no construida de acuerdo con ninguna regla efectiva, ni siquiera conforme a una prescripción no efectiva que pudiéramos proponer sin usar los propios términos que han de reducirse\.
+
+
+## 58
+PUTNAM, H\. \(1994:58\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Ni siquiera creo que todos los *humanos* que tengan la misma creencia \(en diferentes culturas, o con diferentes cuerpos de conocimiento y recursos conceptuales\) tengan en común una característica física *cum* computacional que pueda ser «identificada con» esa creencia\. El «nivel intencional», simplemente, no es reductible al «nivel computacional» más de lo que pueda serlo al «nivel físico»
+
+ Si esto es correcto, entonces el objetivista tendrá que concluir que *también la intencionalidad debe ser mera «proyección»\. … *Como vimos, ¡la propia noción de «proyección» *presupone* la intencionalidad\!
+
+ Por extraño que parezca, y a pesar de su carácter absurdo, la idea de que el pensamiento es una mera proyección está siendo defendida por varios filósofos en los Estados Unidos y en Inglaterra\. La fuerza de la tradición «objetivista» es tan intensa que algunos filósofos abandonarán las más profundas intuiciones que tenemos sobre nosotros\.mismos\-en\-el\-mundo antes que preguntarse \(como hicieron Husserl y Wittgenstein\) si la imagen completa no es un error\.
+
+
+## 58\-59
+PUTNAM, H\. \(1994:58\-59\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Por ello, en las últimas décadas del siglo XX nos encontramos con filósofos inteligentes que pro*ponen* que la intencionalidad misma es algo que nosotros proyectamos adoptando una «perspectiva» hacia ciertas partes del mundo \(¿como si «adoptar una perspectiva» no fuera, a su vez, una noción intencional\!\), filósofos inteligentes que pretenden que nadie tiene realmente actitudes propocicionales \(creencias y deseos\), que «creencia» y «deseo» son unicamente nociones de una falsa teoría llamada «psicología natural» y filósofos inteligentes que defienden que no existe una propiedad como la «verdad» ni una relación como la referencia, que «es verdad» no es más que una locución que usamos para «elevar el nivel del lenguaje»\. —Uno de ellos es Richard Rorty, un pensador de gran profundidad —observa que está comprometido a rechazar las intuiciones que subyacen a cualquier clase de realismo \(y no sólo al realismo metafísico\), aunque la mayoría de éstos pensadores escriben como si estuvieran *salvando* el realismo \(en su versión materialista\), ¡abandonando la intencionalidad\! *¿*Es como si no hubiera ningún problema en decir «yo no niego que hay un mundo externo; lo que niego es que pensemos sobre el»*\! *Créanlo, ésta es también la forma en que escribía Foucault\. 
+
+
+## 60
+PUTNAM, H\. \(1994:60\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+«El rastro de la serpiente humana está en todas partes»
+
+ *Si en objtivismo* del siglo XVII ha conducido a la filosofía del siglo XX a un callejón sin salida, la solución no es caer en el relativismo extremo … la solución no es ni caer en el relativismo extremo… ni negar nuestro realismo de sentido común\. Hay mesas, sillas y cubitos de hielo … Mi historia pasada de moda del seductor y la inocente doncella significaba un doble aviso: uno contra el abandono del realismo del sentido común y, simultáneamente, un aviso contra el supuesto de que la manera de hablar del siglo XVII de «mundo externo» e «impresiones de los sentidos», «propiedades intrínsecas» y «proyecciones», etc\., entrañaba, de alguna forma, un rescate de nuestro realismo de sentido común\. 
+
+
+## 61\-62
+PUTNAM, H\. \(1994:61\-62\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+… aún hay algo nuevo, algo *inacabado e importante* que decir sobre la realidad y la verdad\.
+
+Y esto es lo que yo creo\.
+
+ La clave para desarrollar el programa de conservar el realismo de sentido común a la vez que se evitan los absurdos y antinomias del realismo metafísico y sus variedades \(marca X: materialismo, marca Y: idealismo subjetivo; marca Z: dualismo …\) es algo que yo he llamado *realismo interno *\(¡Debería haberlo llamado realismo pragmático\!\)\. El realismo interno es, en el fondo, únicamente la insistencia en que el realismo no es incompatible con la relatividad conceptual\. Se puede ser *al mismo tiempo* un realista y un relativista conceptual\. El realismo \(con una «r» minúscula\) ha sido ya introducido … es la perspectiva que toma nuestro esquema de sentido común familiar, tanto como nuestros esquemas científicos, artísticos y otros, en sentido literal, sin ayudarse de la noción de la cosa «en sí misma»\.
+
+Pero, ¿qué es la relatividad conceptual?
+
+Relatividad conceptual suena como «relativismo», per no tiene ninguna de las implicaciones del relativismo del tipo «no existe ninguna verdad que descubrir \.\. “verdadero” no es más que un nombre para aquello en lo que un grupo de gente puede est*ar de acuerdo*»\. 
+
+
+## 64
+PUTNAM, H\. \(1994:64\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Pero, entonces, se tendrá que conceder que, al menos, la distinción entre qué entidades son «entidades abstractas» y qué entidades son «objetos concretos» sea relativa a una versión\. Los realistas metafísicos continúan, hasta el momento presente, discutiendo sin los puntos \(puntos espacio\-temporales, en la actualidad, más que puntos en un plano o en un espacio tridimensional\) son individuos o propiedades, particulares o simples límites, etc\. Mi opinión es que Dios mismo, si consintiera en responder a la pregunta «¿existen realmente los puntos o son meros límites?», diría «no lo sé»; no porque Su omnisciencia sea limitada, sino porque hay un límite más allá del cual las preguntas no tienen sentido\.
+
+ Un último punto antes de que deje estos ejemplos: *dada* una versión, la pregunta «¿cuántos objetos hay» tiene una respuesta; ésta es «tres» en el caso de la primera versión \(«el mundo de Carnap»\) y «siete» \(u «ocho»\) en el caso de la segunda versión \(«el mundo del lógico polaco»\)\. Una vez que aclaramos cómo estamos usando «objeto» \(o «existe»\) tiene una respuesta que no es , en absoluto, un asunto de «convención»\. 
+
+
+## 62
+PUTNAM, H\. \(1994:62\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Por eso digo que este tipo de ejemplo no da apoyo al relativismo cultural *radical*\. Nuestros conceptos pueden ser relativos a una cultura, pero de aquí no se sigue que la verdad o la falsedad de cualquier cosa que digamos usando esos conceptos sea simplemente «decidida» por la cultura\. *Aunque* la idea de que hay un punto arquimediano o un uso de «existe» inherente al mundo mismo, desde la cual la pregunta «¿cuántos objetos existen *realmente?*» cobra sentido, es una ilusión
+
+ Si esto es correcto, entonces ha de ser posible ver cómo puede ocurrir que lo que sea en un sentido el «mismo» mundo \(de dos versiones están profundamente relacionadas\) pueda ser descrito como si consistiera en «mesas y sillas» \(y estas descritas como coloreadas, poseyendo propiedades disposicionales, etc\.\) en un versión y como si consistiera en regiones espacio\-temporales, partículas y campos, etc\., en otras versiones\. Exigir que todas ellas deban ser reducibles a una única versión e cometer el error de suponer que «cuáles son los objetos reales» es una pregunta que tiene sentido *independientemente de nuestra elección de los conceptos*\.
+
+
+## 69\-70
+PUTNAM, H\. \(1994: 69\-70\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Conferencia III EL REALISMO Y LA RAZONABILIDAD
+
+… Para algunos filósofos, las disposiciones son simplemente parte del «mobiliario del universo»; para otros, el uso de una noción disposicional en el análisis filosófico es un signo de «debilidad de criterios» del deseo de «explicar lo oscuro por lo todavía más oscuro»; para otros más \(quizá para la mayoría silenciosa\), las nociones de disposicionales son inevitables en la práctica, pero dudosas desde el punto de vista teórico\.
+
+… es sólo desde la aparición de la lógica matemática cuando nos hemos dado cuenta de lo difícil que es dar una interpretación de los condicionales contrafácticos y los predicados disposicionales en términos veritativo\-funcionales\. 13 … 
+
+\[Nota 13: En lógica, se dice que una cierta forma de conectar enunciados es veritativo\-funcional si el valor de la verdad del enunciado resultante puede ser determinado dados sólo los valores de verdad de sus componentes\. Todos los condicionales contrafácticos tienen antecedentes falsos y, normalmente, también consecuentes falsos; pero algunos de ellos son verdaderos y algunos falsos\. En consecuencia, el contrafáctico no es una función\-de\-verdad de sus partes\.\]\.
+
+
+## 71
+PUTNAM, H\. \(1994:71\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+… Algo es rojo si muestra cierta tendencia —la tendencia a producir ciertas «impresiones sensoriales» … o cierto «estado cerebral» … Pero, ¿qué significa «tener la tendencia»? Las tendencias … no ejemplifican las operaciones de las leyes estrictas \(en el sentido moderno de «ley estricta»\)\. Son cosas poco sólidas que se manifiestan a sí mismas «bajo condiciones normales»\. Para analizar el lenguaje disposicional necesitamos un análisis de la expresión «bajo condiciones normales», o algo similar, y, de hecho, los intentos por producir una teoría hachos por autores contemporáneos involucran nociones tales como «similitud» de un mundo posible en su totalidad con otro mundo en su totalidad ―nociones que intentan expresar, o al menos sustituir, la deseada noción de estadio de cosas «normal»\.―\. Sin embargo, las nociones actualmente más de moda ―la noción de «similitud»― de mundos posibles —sólo ilustran la distancia del lenguaje contrafáctico \(y disposicional\) de la imagen del mundo de la física: lo ilustran introduciendo un primitivo metafísico que resulta como un dolor de 
+
+muelas\.
+
+
+## 72\-73
+PUTNAM, H\. \(1994:72\-73\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Otros filósofos han sugerido que las afirmaciones disposicionales como «X es venenoso» en absoluto predican una *propiedad*; son maneras en las cuales realizamos el acto de habla de *permitir una inferencia*\. Como expresa J\.L\. Mackie … tales afirmaciones pueden ser definibles bajo condiciones apropiadas* sin* poseer ninguna propiedad que un realista reconocería como «verdad» \(ellos «no son simplemente verdaderos», declaró\)\. Lo que muchas de estas teorías tienen en común es un rechazo a que la semántica de los enunciados disposicionales sea la semántica clásica bivalente de las condiciones\-de\-verdad\. …
+
+ Surgen alternativas similares en relación a las nociones de *causalidad* y de *explicación* \(concebida como una relación entre eventos o entre «situaciones», más que como una relación entre afirmaciones\)\. De forma parecida a las disposiciones, las relaciones causales y explicativas pueden ser estrictas \(el evento o «situación» descritos como la causa pueden estar conectados por leyes estrictas al evento o situación que son considerados como el efecto\) o pueden ser imprecisas \(el evento o situación descritos como la causa pueden producir el efecto sólo «bajo condiciones favorables»\)\. Y las relaciones causales imprecisas son, una vez más, embarazosas desde el punto de vista de la imagen «objetivista» —la imagen de la naturaleza como la máquina del mundo\.
+
+
+## 73\-74
+PUTNAM, H\. \(1994:73\-74\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Si pudiéramos definir en términos fisicalistas *qué * es para un hecho o situación ser sólo una «circunstancia acompañante», podríamos ser capaces de explicar «X produjo Y» en el sentido de que , *dadas las circunstancias concomitantes*, se seguirá de las leyes físicas que Y ocurría si ocurriera X; pero, desafortunadamente, una distinción intrínseca entre situaciones que son capaces de ser «productivas» y situaciones que sólo son «circunstancias» acompañantes y tiene más que ver con las nociones medievales \(y aristotélicas\) de «causalidad eficiente» que con las post\-newtonianas\. Y, una vez más, algunos filósofos han propuesto *rechazar* del todo las relaciones causales y explicativas imprecisas\. Mientras que otros han sugerido que las relaciones causales y explicativas imprecisas tengan sólo «condiciones de asertabilidad» y no «condiciones de verdad»\.
+
+ *Mi propia* perspectiva … se diferencia de todas estas\. Todos estos autores asumen que podemos trazar la distinción entre lo que es «simplemente verdadero» y lo que tiene «condiciones de asertabilidad», o el corte entre lo que es ya verdadero o falso … o entre lo que es una «proyección» y lo que es una propiedad independiente y unitaria de las cosas en sí mismas\. 
+
+
+## 75\-76
+PUTNAM, H\. \(1994:75\-76\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Pienso que, al menos epistemológicamente, el intento de dibujar esta distinción, de hacer este corte, ha sido un fracaso total\. Ha llegado el momento de ensayar la hipótesis metodológica de que no puede hacerse ningún corte como ése\. … Considérese, por ejemplo, el continuo entre lo relativamente «subjetivo« \(o, al menos, relativo a una cultura y a unos intereses\)\. Prefilosóficamente, muchos de nosotros probablemente estaríamos de acurdo en el orden que las siguientes propiedades tendrían a través de este continuo:
+
+1\. Ser muy divertido \(como en «la conducta de los niños pequeños es a menudo divertida»\)\.
+
+2\. Ser una región del espacio que contiene al menos un átomo de hidrógeno \(adóptese para esto la física clásica … no la mecánica cuántica o la relatividad\)\.
+
+3\. Un caso aislado de condicional contrafáctico —p\. ej\., la propiedad de que predicamos de una cerilla particular en un momento particular cuando decimos de ella que *habría* encendido si *hubiera sido frotada en ese momento\.*
+
+*5\. Significar «¿habla francés?» *\(predicado de una expresión concreta\)\.
+
+Ahora, cuando se nos pide hacer un «corte tipo Dedekind» —convertir esta ordenación en una dicotomía—, encontramos que no hay para nada un acuerdo en nuestras intuiciones filosóficas\. … La empresa no vale la pena\. El juego se ha acabado\. Podemos hacer una ordenación a grandes rasgos … pero la idea de «un punto en el cual» la subjetividad cesa y la Objetividad\-con\-una\- *O mayúscula* comienza se ha mostrado quimérica\. 
+
+
+## 77\-79
+PUTNAM, H\. \(1994:77\-79\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Si esto es correcto, entonces deben ser abandonadas otras famosas dicotomías\. Dos de ellas ya han sido mencionadas, son
+
+ Proyección/Propiedad de la cosa en sí
+
+y
+
+ «Potencia»/Propiedad de la cosa en sí misma\.
+
+ El rechazo a estas tres dicotomías es la esencia del «realismo interno» … 
+
+ … A menos que tomemos seriamente nuestras intuiciones, no podremos hacer filosofía seria\. … 
+
+*La tarea del filósofo*, tal como yo la veo, consiste en discernir *cuáles* de nuestras intuiciones podemos mantener y cuáles debemos abandonar en un período de cambio conceptual, así como material, enorme y sin precedentes\.
+
+ Aún me llamo a mí mismo un «realista» … pero ¿se puede ser un realista sin dicotomías? … estas dicotomías se han convertido en lentes distorsionadoras que nos impiden ver los fenómenos reales … En particular, ¿no es la dicotomía entre lo que es una «proyección humana» —lo que ¿no es «simplemente verdadero», lo que tiene «condiciones de asertabilidad» más que «condiciones de verdad realista» — y lo que está en las cosas «mismas» *constitutiva* del realismo? … Lejos de ser *constitutiva* del realismo de *sentido común*, esta dicotomía tiende a socavarlo … 
+
+
+## 79\-80\-81
+PUTNAM, H\. \(1994:79\-80\-81\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Lo que es extraño, en relación al temor de que sólo el realista metafísico pueda salvar al sentido *común* del demonio del relativismo, es que incluso los realistas metafísicos reconocen que los mandatos de racionalidad van más allá de lo que ellos quieren llamar «verdad realista»\. Mackie no pensó que las afirmaciones causales del lenguaje ordinario, por ejemplo, «el fallo de la válvula de seguridad causó que la caldera explotara», fuera «simplemente verdadera», aunque, ciertamente, él habría distinguido entre las «razonables» y las «no razonables»\. Quizás tales afirmaciones tienen sólo condiciones de «asertabilidad» más que condiciones de «verdad», quizás se utilizan para permitir «licencias inferenciales» más que para «describir», pero esto no las hace arbitrarias …
+
+ *En resumen*, mi propia posición aún involucra el rechazo de otra dicotomía:
+
+ \(Tipo de afirmación\)
+
+ Poseyendo sólo condiciones de asertabilidad vs Poseyendo condiciones de verdad
+
+ Podemos saber que es «verdad» simplemente, que el agua habría hervido si hubiese encendido el fuego, sin tener la más ligera idea sobre si esta «verdad» es una «verdad realista» \(algo «simplemente verdadero» en el sentido de Mackie\) o sólo una idealización de la «asertabilidad garantizada»\. Ni necesitamos suponer que la pregunta tiene sentido\. Rechazar la dicotomía entre clases de «verdad» —__clases de verdad en el mundo del sentido común— no es lo mismo que decir que «todo vale__»
+
+
+## 81\-82
+PUTNAM, H\. \(1994:81\-82\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Realidad sin dicotomías
+
+ ¿Cómo puede uno estas seguro de que esto no sea puro idealismo lingüístico?  … cuántos objetos hay en el mundo … *es* algo relativo a la elección de un esquema conceptual\. ¿Cómo puede uno proponer esta clase de doctrina relativista y todavía pretender creer que hay algo en la idea de una «extremidad», algo en la idea de que «allí fuera» hay algo independiente del lenguaje y la mente?
+
+ Bien, no es tan difícil\. Vean de nuevo el cuadro que les mostré:
+
+ Mundo 1 Mundo 2
+
+ x1, x2, X3 x1,x2,x3, x1 \+ x2,
+
+ x1 \+ x3, x2 \+ x3
+
+ x1 \+ x2 \+ x3
+
+\(Un mundo al estilo de Carnap\) \(El «mismo» mundo al estilo de los lógicos polacos\)
+
+ *Cómo vamos* a responder a la pregunta «cuántos objetos hay?» ―el método de «contar» o la noción de lo que constituye un «objeto»― depende de nuestra elección \(llamamos a esto una «convención»\) … Si escojo el leguaje de Carnap, debo decir que hay tres objetos … Si escojo el lenguaje del lógico polaco … debo decir que hay siete \(recuerden el «objeto nulo» 0\)\. Hay «hechos externos» * y podemos decir cuáles son\.* Lo que no podemos decir \-porque no tiene sentido\- es que los hechos sean *independientes de todas las elecciones conceptuales\.*
+
+
+## 83\-86\-87
+*PUTNAM, H\. \(1994:83\-86\-87\)\. Las mil caras del realismo\. Barcelona: Paidós\.*
+
+Las cosas independientes de todas las elecciones conceptuales son las masas; nuestra contribución conceptual es la forma del molde\. … Si responden que … los «átomos» de la masa son x1, x2, x3 y que las otras partes son las sumas merológicas que contienen más de un «átomo», entonces habremos adoptado simplemente la versión del lógico polaco\. … el realismo interno niega que ésta sea una manera más «correcta» de ver la situación que la de insistir en que sólo existen realmente los «individuos» de Carnap\. 
+
+*Esto es*, tómese la posición en la que uno estaría «en lo correcto» en cualquiera de los casos por igual\. Entonces, ¡habrían llegado a la posición que he llamado «realismo interno»\!
+
+ Lo que es erróneo con la noción de objetos que existen «independientemente» de los esquemas conceptuales es el hecho de no haber estándares ni siquiera para el uso de las nociones lógicas al margen de las elecciones conceptuales\. Lo que la metáfora del molde de pastas intenta conservar es la idea ingenua de que al menos una categoría \-la antigua categoría de objeto o sustancia\- tiene una interpretación absoluta\. La alternativa a esta idea no es la concepción de que, en algún sentido inconcebible, todo no es más que lenguaje\. Podemos y debemos insistir en que algunos hechos están allí para ser descubiertos y no para ser legislados por nosotros, aunque eso sea algo que hay que decir una vez que *se ha * adoptado una manera de hablar, un lenguaje, un «esquema conceptual»\.
+
+ 
+
+
+## 87
+PUTNAM, H\. \(1994:87\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Hablar de los «hechos» sin especificar el lenguaje que va utilizarse no es hablar de nada; la palabra «hechos» no tiene fijado su uso por la realidad misma más de lo que lo tiene la palabra «existe» o la palabra «objeto»\.
+
+ Por supuesto, la adopción del realismo interno es la renuncia a la noción de «cosa en sí» … El realismo interno dice que la noción de una «cosa en sí» no tiene sentido; y no porque «no podamos conocer las cosas en sí»\. Ésta fue la razón de Kant, pero éste, aunque admitía que la noción de una cosa en sí *puede ser «vacía», *le permitió a ésta tener todavía un sentido de tipo formal\. El realismo interno dice que no sabemos de qué estamos hablando cuando hablamos sobre las «cosas en sí»\. Y esto significa que la dicotomía entre propiedades «intrínsecas» y propiedades que no son intrínsecas también colapsa —se colapsa porque se supone que las propiedades «intrínsecas» son sólo propiedades que de las cosas tienen «en sí mismas»― … y ya es el momento de admitir que lo que el círculo abarca es un territorio sin valor\. 
+
+ Una dicotomía cuyo relación con estas nociones puede no ser tan evidente en la dicotomía entre una «semántica de condiciones de verdad» y una «semántica de condiciones de asertabilidad»
+
+
+## 88\-89
+PUTNAM, H\. \(1994:88\-89\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+¿Cómo es el mundo sin dicotomías? Parece a la vez familiar y diferente … La idea de que la mayor parte de nuestra realidad mundana es una ilusión … se abandona de una vez por todas\. Pero la realidad mundana parecerá diferente porque estamos forzados a reconocer que muchas de nuestras descripciones corrientes reflejan nuestros intereses y elecciones\. 
+
+ Imaginen que una válvula de escape de una olla a *presión* se atasca y que la olla a presión explota\. Decimos ―y el relativista conceptual lo verá como una afirmación perfectamente «verdadera», sin hacer ninguna protesta sobre si es «simplemente verdadera» o sólo una «buena licencia inferencial»― «la válvula atascada causó que la olla a presión explotara»\. No decimos, la «presencia de ▲ causó que la olla a presión explotara», donde ▲ es, digamos, una parte arbitraria de la superficie de la olla con una forma irregular, de 0\.1 cm de área …\. 
+
+ ¿Por qué, entonces, hablamos de una cosa y no de otra como «causante» de la explosión? … En consecuencia, cuando preguntamos «por qué tuvo lugar la explosión?, sabiendo lo que sabemos y teniendo los intereses que tenemos, nuestro «espacio de explicación» consta de dos alternativas:
+
+1\. La explosión tiene lugar\.
+
+2\. Todo funciona como es debido\.
+
+
+## 89\-90
+PUTNAM, H\. \(1994:89\-90\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+P\. 89–90
+
+ Lo que queremos saber, en otras palabras, es por qué 1 es lo que ocurrió, en oposición a 2\. Simplemente no estamos interesados en por qué 1 es lo que ocurrió en oposición a alternativas tales como:
+
+3\. *El elemento* en la superficie ▲ falta, y no tiene lugar en ninguna explosión\.
+
+ Esta «relatividad explicativa» es paralela a la relatividad en nuestros uso de locuciones tales como «causó» y «la causa»\. Ya que la pregunta «¿por qué explotó la olla a presión» presupone un espacio de explicación que no incluye la alternativa 3, o alternativas similares, y entendemos tales factores como la presencia de ▲ como «condiciones del entorno» y no como «causas»\.
+
+ Esta relatividad de las causas a los intereses y a las condiciones del entorno, no mencionada en la explicación de la «ciencia dura» del suceso en cuestión, no convierte a la causalidad en algo que nosotros simplemente legislamos\. Dados nuestros intereses y lo que vemos como condiciones conexas del entorno, sería simplemente falso decir que fue la pared de la olla a presión lo que causó la explosión \(a menos que aquélla fuese defectuosa …\)\. Nuestro esquema conceptual restringe el «espacio» de descripciones que tenemos a nuestra disposición; pero no predetermina las respuestas a nuestras preguntas\.
+
+
+## 91
+PUTNAM, H\. \(1994:91\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ … Si queremos ser generosos y dejar un sitio a esta útil manera de hablar, a la vez que negar que exista una distinción entre «__causas__» en la naturaleza misma, sólo podemos decir que las afirmaciones __causales tienen condiciones de «asertabilidad» en el lenguaje ordinario pero no, estrictamente hablando, «condiciones de verdad__»\.
+
+ El problema con todo esto … es que si la distinción entre causas/condiciones del entorno es fundamentalmente subjetiva, no descriptiva del mundo en sí mismo, entonces las explicaciones filosóficas habituales de la naturaleza metafísica de la *referencia* están en bancarrota\. Barwise y Perry, por ejemplo, nos dicen que lo que vincula ciertos estados de hechos con ciertos estados mentales es que los estados de hechos *causan* aquellos estados mentales; en esto consiste el vínculo intencional, al menos en ciertos casos básicos metafísicos\. Glymour y Devitt \(de forma independiente\) nos dicen que las palabras están conectadas con sus referentes a través de «conexiones causales»\. Richard Boyd nos dice que la «teoría causal de la referencia es correcta porque la teoría causal del conocimiento es correcta»\. Pero nociones de las que dependen las teorías causales del conocimiento y la referencia ―la diferencia entre una causa y una mera condición del entorno, la legitimidad de los contrafácticos― son precisamente las que la interpretación de las afirmaciones causales y de los contrafácticos como «licencias inferenciales» ponen en entredicho\. … entonces no puede mantenerse también que ellas explican cómo llega a existir la referencia en el mundo tal como el mundo es «en sí mismo»\.
+
+
+## 92
+PUTNAM, H\. \(1994:92\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Tampoco ayudaría el dualismo, si quisiéramos adoptarlo\. Porque, ¿qué descripción tenemos de la mente «en sí misma»? La exposición de Kant de la bancarrota de la «psicología racional» todavía se mantiene\.
+
+… pero el sueño de encontrar una relación universal bien definida entre una \(supuesta\) totalidad de *todos* los hechos y una sentencia verdadera arbitraria en un lenguaje arbitrario es sólo el sueño de la noción absoluta de un hecho \(o de un «objeto»\) y de una relación absoluta entre sentencias y los hechos \(o los objetos\) «en sí» 
+
+
+## 96
+PUTNAM, H\. \(1994:96\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ CONFERENCIA III
+
+ LA IGUALDAD Y NUESTRA IMAGEN MORAL DEL MUNDO
+
+… y el punto central de la primera Crítica no es que todo lo que nosotros conozcamos sean «experiencias» en el sentido empirista, esto es, que todo lo que conozcamos sean datos de los sentidos\. La primera crítica, tal como yo la leería, *rechaza* la noción de un dato de los sentidos, es decir, de un objeto cuya «esencia sea ser percibido» y en cuya constitución el sistema conceptual no juegue ningún papel\. Para Kant, las sensaciones —los «objetos en sentido interno»— están al mismo nivel que los llamados «objetos externos» están tan cogidas en la red de la creencia y la conceptualización como lo están los objetos externos\. No representan un «dato» incorrupto, que de alguna forma asegura nuestro conocimiento \. \. \. presenté a Kant como el primer filósofo que rechazó la idea de la verdad como correspondencia con una realidad pre\-estructurada\.
+
+ Si Kant estaba diciendo que la verdad no debe ser pensada como correspondencia con una realidad pre\-estructurada o auto\-estructurada, si estaba diciendo que nuestra contribución conceptual no puede ser aislada y que lo «que\-hace\-la\-verdad» y lo «que\-hace\-la\-verificación» de nuestras creencias está *dentro y no fuera* de nuestro sistema conceptual, entonces Kant puede ser llamado acertadamente el primer «realista interno»\.
+
+
+## 125\-126
+PUTNAM, H\. \(1994:125\-126\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Defendí la idea de que algo puede ser a la vez un hecho y un valor … «Pero, ¿no tiene que admitir que hay mucho más acuerdo en los resultados científicos que en los valores éticos? ¿No muestra esto que hay una clase de objetividad que tienen los resultados científicos y de la que carecen los valores éticos?
+
+ Un argumento está implícito en la pregunta\. Podemos llamarlo *argumento a partir de la no conflictividad*\. La idea es que la marca de *status* cognitivo está, de alguna forma, en la posibilidad de convertirse en conocimiento «público», es decir, de llegar a ser algo no controvertido\.
+
+ N*o quiero* sugerir que alguien realmente piense que sólo lo que no es controvertido es realmente conocimiento\. La idea, más bien, es que los «hechos» pueden ser demostrados «científicamente»\. Si existe controversia sobre una cuestión fáctica es porque aún no hemos realizado suficientes experimentos, o acumulado suficientes datos\. Lo que sea un hecho puede «en principio» ser establecido de manera que exija el asentimiento de todas las «personas racionales», donde a menudo se considera que esto significa que todas las personas *cultas*, o todas las personas *inteligentes*\. Así, Weber argumentó que los juicios de valor sólo pueden ser asunto de «fe»; y pensó que esto quedaba suficientemente demostrado al señalar que existían algunos valores occidentales acerca de cuya corrección no podía convencer a un «mandarín chino»
+
+ El tema con el que quiero comenzar hoy es este supuesto carácter «público» de los hechos, la idea de que los hechos pueden «en principio» establecerse más allá de la controversia\.
+
+ No está claro en absoluto que esta idea sea correcta, ni siquiera para las «ciencias duras»\. La ciencia ha cambiado de opinión de forma sorprendente acerca de la edad del universo, y puede hacerlo de nuevo\.
+
+
+## 128\-129
+PUTNAM, H\. \(1994:128\-129\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+La presencia de otras áreas, áreas que no cuentan como «auténtica ciencia», de disputas que no pueden resolverse, ¿muestra realmente que se están haciendo afirmaciones «subjetivas» o «sin significado cognitivo»? Y \(ya que he estado enseñando recientemente a William James\), ¿cuáles serían las consecuencias para nuestras vidas si respondiéramos *seriamente* «sí» a esta pregunta? ¿Cuál es el «valor en efectivo» de creer que sólo lo que puede ser establecido más allá de la controversia tiene algo que ver con la «cognición», el conocimiento, la comprensión?
+
+ No es poco\. Considérese, por un momento, nuestro conocimiento *histórico\. *Tuve ocasión de leer recientemente un trabajo de un gran historiador \[Henri Pirenne:*Mohammed and Charlemagne*\] quien construyó una potente defensa de la concepción según la cual la civilización «medieval» no comenzó realmente con la caída de Roma\. Bajo el reinado merovingio, arguye este historiador, la civilización que prevaleció era aún reconociblemente «romana»\. Los cambios drásticos que crearon lo que todavía hoy nos representamos como civilización «medieval» ―la desaparición del latín, excepto entre monjes muy estudiosos, la ascensión de los príncipes germanos del norte, la ruptura completa con Bizancio, todo el orden feudal― llegó como con*secuencia *del surgimiento del Islam, y de la conquista islámica de Egipto, el África romana y España\. Este es el típico ejemplo de reconstrucción histórica\.
+
+
+## 132
+PUTNAM, H\. \(1994:132\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ Hoy día, sin embargo, la misma creencia de que hay «leyes de la conducta social» de un tipo preciso —y la creencia de que el destino de la ciencia social es parecerse a la física— se ha convertido en una opinión minoritaria entre los científicos sociales y también entre los filósofos y metodólogos de las ciencias sociales\. Ciertamente, ésta es una creencia empírica; si es falsa, entonces las teorías históricas como la que tomé como ejemplo no pueden\. Es este sentido, ser verificadas más allá de un controversia significativa\.
+
+
+## 137
+PUTNAM, H\. \(1994:137\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+Recuerdo en cierta ocasión a Donald Davidson haciéndome la pregunta retórica:«¿Qué entraña decir que los lenguajes intencionales son de “segunda clase” si vamos a continuar usándolos?»\. La pregunta era una buena pregunta pragmatista\. Me parece que el corazón de pragmatismo ―del pragmatismo de James Dewey, sino del de Peirce― estaba en la insistencia en la supremacía del punto de vista del agente\. Si creemos que debemos adoptar cierto punto de vista, usar un cierto «sistema conceptual», cuando estamos comprometidos en la actividad práctica, en el más amplio sentido de «actividad práctica», entonces no debemos avanzar simultáneamente en la afirmación de que ésa no es realmente «la forma como son las cosas en sí mismas»\. Aunque los filósofos tradicionalmente se han permitido conservar un doble conjunto de libros de esta forma, el efecto es perpetuar al menos dos errores intelectuales: conduce a degradar la noción de *creencia* \(recuerden, el pragmatismo estaba inspirado por la definición de Bain de creencia —«aquello sobre lo cual una persona está preparada para actuar»—\); y conduce a caer en la ficción de que hay un punto de vista del ojo de Dios y podemos imaginar útilmente\.
+
+
+## 138
+PUTNAM, H\. \(1994:138\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+ … Podemos llegar a pensar en la historia y la política como en algo que no es más que una lucha por el poder, con la verdad como recompensa para la concepción victoriosa\. Pero, entonces, nuestra cultura —todo lo que es de valor en nuestra cultura—habrá acabado\.
+
+ Puede parecer que esto no es un argumento\. Se dirá que solamente he señalado que la creencia es este tipo de cientificismo —en un cientificismo que mantiene *seriamente* que todo lo que puede ser colocado más allá de la controversia no es cognitivo— tendría consecuencias desastrosas y que esto no muestra que la concepción sea falsa\. … he argumentado en otro lugar que las concepciones verificacionistas … se autorrefutan\. Mi propósito consistía en romper el agarradero que cierta imagen tiene en nuestro pensamiento; la imagen de un dualismo, una división dicotómica de nuestro pensamiento en dos reinos, un reino de «hechos» que pueden establecerse más allá de la controversia, y un reino de «valores» donde estamos siempre en un desacuerdo sin esperanza\. Lo que espero que hayamos recordado todos nosotros … es la gran extensión de nuestro pensamiento que no consiste en «juicios de valor», pero que es, por otro lado, tan «controvertido» como los juicios de valor\. Ninguna persona cuerda debería creer que algo es «subjetivo» meramente porque no puede ser situado más allá de la controversia\.
+
