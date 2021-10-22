@@ -1,0 +1,46 @@
+# Project information
+site_name: Ciencias del Significado
+# site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Valmore Agelvis
+site_description: >-
+  Fichero sobre Ciencias del Significado del profesor Dr. Valmore Agelvis
+
+# Copyright
+copyright: Copyright &copy; 2021 Valmore y Matias Agelvis.
+
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  favicon: images/dualbook.png
+  icon:
+    logo: material/book-open
+
+extra:
+  social:
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@valmore.agelvis
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:agelvis@ula.ve
+
+markdown_extensions:
+  - attr_list
