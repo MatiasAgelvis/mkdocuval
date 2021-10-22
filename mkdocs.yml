@@ -18,6 +18,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
+    - search.suggest
+    - search.share
   palette:
     - scheme: default
       primary: indigo
@@ -41,6 +43,10 @@ extra:
       link: https://medium.com/@valmore.agelvis
     - icon: fontawesome/solid/paper-plane
       link: mailto:agelvis@ula.ve
+
+plugins:
+  - search
+  - pdf-export
 
 markdown_extensions:
   - attr_list

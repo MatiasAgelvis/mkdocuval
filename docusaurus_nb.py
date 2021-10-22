@@ -70,6 +70,15 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     # get parent folder name
     parent_folder = file.split('/')[-2]
     content = re.sub(r'(!\[.*?\]\()(.*?)(\))', r'\1{}/\2\3'.format(parent_folder), content)
+
+    # remove mammoth given headers
+    content = re.sub(r'<a.*?><\/a>## (.*)', r'__\1__', content)
+
+    # mitigate improperly bolded words
+    # starting late
+    content = re.sub(r' (\w)__(\w+)', r' __\1\2', content)
+    # ending early
+    content = re.sub(r' (\w+)__(\w)', r' __\1\2', content)
     
     # add page titles
     flags = re.IGNORECASE
