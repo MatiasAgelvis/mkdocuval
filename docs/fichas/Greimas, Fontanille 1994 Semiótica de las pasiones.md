@@ -86,13 +86,13 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 __p\.21 EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="el-aroma"></a>## El aroma
+__El aroma__
 
 Las pasiones aparecen en el discurso como portadoras de efectos de sentido muy peculiares; despiden un aroma equívoco, difícil de determinar\. La interpretación que la semiótica ha retenido es que el aroma específico emana de la organización discursiva de las estructuras modales…
 
 Reconocer que las pasiones no son propiedades exclusivas de los sujetos \(o del sujeto\), sino propiedades del discurso entero…
 
-<a id="la-vida"></a>## La vida
+__La vida__
 
 ¿Es posible reiterar sin consideración alguna la concepción según la cual el ser vivo es una estructura de atracciones y repulsiones? ¿Es posible pensar la foria antes de su división en euforia y disforia?\.\.\.se trata de pronunciarse acerca de la prioridad de derecho de lo “sensitivo” con respecto a lo “cognoscitivo” o a la inversa\.
 
@@ -184,7 +184,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.34\-35 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="X890933a9c43d58ba37d71e27edbb28942a97d57"></a>## Modulaciones, modalizaciones y aspectualizaciones
+__Modulaciones, modalizaciones y aspectualizaciones__
 
 Es posible reconocer formas dominantes de tensividad; en la medida en que esas elecciones definen un cierto modo de acceder a la significación para el sujeto epistemológico y al valor para los sujetos narrativos –como sucede con el incoativo en Éluard\-, es posible considerar que manifiestan los que podrían ser llamados “estilos semióticos”: la agitación del inquieto, la vacilación del veleidoso, el estilo “agresivo” del voluntarista, son otras tantas manifestaciones aspectuales de la manera en que la significación y el valor advienen en diferentes tipos de discurso o para cada uno de los sujetos así caracterizados\. Desde otro punto de vista, en ausencia de una manifestación directa o indirecta de las modalizaciones, el examen de la selección de los aspectos dominantes permite plantear la existencia de tal o cual modulación dominante en el nivel profundo, que habría sido convocada prioritariamente por la puesta en discurso\. Al suponer que esta modulación es predominante, resulta posible sospechar y prever que la organización modal, en el caso de que exista en inmanencia, deberá ser afectada u orientada en consecuencia\.
 
@@ -206,7 +206,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.36 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="X56411e7548e380f9ab37c439587779df27b3711"></a>## Por un mundo cognoscible/ El discernimiento
+__Por un mundo cognoscible/ El discernimiento__
 
 *Para conocer, es preciso negar*\. Cierto es que las “proformas” de objetos ya se le presentan, que las modulaciones del devenir introducen ya una especie de “respiración” \-¿un ritmo?, ¿un tiempo?\- en la protensividad, pero nada se encuentra categorizado todavía, nada presenta contornos discretos\. La negación es la primera operación mediante la cual el sujeto se funda a sí mismo como *sujeto operador *y funda al mundo como cognoscible\. En cierta manera, se trata de una especie de disjunción: la primera era la disyunción con respecto a la necesidad óntica como estado del azar; la segunda es una disyunción con respecto a la modulación continua de las tensiones y a un mundo de valores no cognoscible\. Esta negación se analiza en dos tiempos\.
 
@@ -218,7 +218,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.37\-38 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="X91262fb202ce19e587f4e40ba8b3295d9ecf16c"></a>## Por un mundo cognoscible/ El discernimiento
+__Por un mundo cognoscible/ El discernimiento__
 
 El segundo gesto, que sólo es la otra faz del primero, es una *contradicción, la negación en sentido categorial\. *El discernimiento\-negación aplicado a una sombra de valor no puede instalar más que a no\-S1*, *primer término del cuadrado semiótico\. En efecto, el sujeto tensivo, transformado en sujeto operador mediante esta disyunción, no puede discretizar sino sombras de valor, de las que se encuentra separado merced a la escisión: no tiene otra cosa que “discernir” más que la ausencia\. Dicho en otros términos, para hacer advenir la significación y estabilizar la tensividad, el sujeto operador no tiene otra solución que *categorizar la pérdida del objeto*, y ésta es la razón por la que la primera operación discreta en una negación; no es sino bajo esta condición que, en virtud de la introducción de lo discontinuo, el sujeto podrá conocer el objeto detrás de las sombras de valor\. Sin la contradicción, el discernimiento no determinaría más que una pura singularidad en el continuo tensivo y fracasaría en su intento de hacer advenir la significación…una vez confirmada y sostenida como devenir, la escisión actancial y la distribución de las tensiones se equilibran globalmente\. Así se llega a una fase de equilibrio en la que la dinámica interna de la foria choca contra la estabilización del devenir\.
 
@@ -300,7 +300,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.42 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="de-las-valencias-al-valor"></a>## De las valencias al valor
+__De las valencias al valor__
 
 …las valencias se ven particularmente convertidas en propiedades de los objetos sintácticos…\.el concepto de objeto de valor: un objeto que da un “sentido” \(una orientación axiológica\) a un proyecto de vida y un objeto que encuentra su significación en la diferencia, por oposición a otros objetos\. De hecho, la aparición del objeto de valor depende de lo que suceda a las valencias\. La valencia es una “sombra” que suscita el presentimiento del valor; el objeto sintáctico es una forma, un “contorno” de objeto comparable al que proyecta frente a él el sujeto durante la percepción de la Gestalt y que es codefinitorio del sujeto; el objeto de valor es un objeto cargado semánticamente; pero –y he ahí la clave\- la carga semántica descansa en una categorización surgida de la valencia misma…\.
 
@@ -348,7 +348,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE\.\(1994\[1991\]\)\. *Semiótica de las pasion
 
 p\.48 LA EPISTEMOLOGÍA DE LAS PASIONES
 
-<a id="el-ser-del-hacer"></a>## El ser del hacer
+__El ser del hacer__
 
 Regresando a las modalizaciones propiamente dichas y a los sujetos de estado susceptibles de ser afectados por la pasión, se distinguirán dos clases de ellas…Esta distinción ya ha sido identificada hace tiempo merced a la oposición terminológica entre *competencia modal y existencia modal*\. Está claro, por ejemplo, que el sujeto de la “envidia” es un puro sujeto de estado que no se transforma en sujeto modal más que por medio del *querer\-estar\-ser*…En cambio, la descripción de la “emulación” no puede prescindir de alguna presentación del hacer y de las modalidades necesarias para llevarlo a cabo…En efecto, la “emulación” instala un *querer\-hacer\-“igual o mejor que el otro*”; pero este *querer\- hacer *proviene de un *querer\-ser*\- “aquel o como aquel que hace”, es decir, proviene de una identificación con cierto estado modal ajeno, en otros términos, la emulación no tiene como finalidad la reproducción de un programa del otro, sino la reproducción de la “imagen” modal que proporciona el otro al cumplir con su programa, …de este modo, un “estado de cosas” se convierte en un “estado de ánimo”, la imagen modal de la que sí misma apunta el sujeto de la emulación…\. La pasión atañe, pues,
 
@@ -360,7 +360,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.50\-51 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="Xc5c48cfed4f49be3ea0f6afe66098c5fdfaaa7b"></a>## Modos de existencia y simulacros existenciales
+__Modos de existencia y simulacros existenciales__
 
 Por otro lado, en semiótica narrativa se reconoce una serie repertoriada de roles del sujeto que caracterizan a los diferentes *modos de existencia del actante narrativo *en el transcurso de las transformaciones…Esta serie se limita a tres roles…
 
@@ -382,7 +382,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.53 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="Xe1db13eb7a93345aa5ed442845bbfa833a102f2"></a>## Sujetos modales y simulacros existenciales
+__Sujetos modales y simulacros existenciales__
 
 Examinemos brevemente, a manera de ejemplo, la “humildad”: ¿será considerado el “humilde” no competente, pobre o tonto por el hecho de juzgarse de buena gana “insuficiente”?\.\.\. La humildad no reside en un modo de existencia característico de un estado de cosas, sino en un modo de existencia característico de un estado de ánimo\.\.lo que importa es la disjunción en la que se representa y hacia la que tiende…\.
 
@@ -394,7 +394,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.54\-55 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="los-simulacros-modales"></a>## Los simulacros modales
+__Los simulacros modales__
 
 …la hipótesis de que, para describir las pasión, la única estructura generalizable sería la de la intersubjetividad\.\.potencial, una especie de interactancialidad de contornos vagos…
 
@@ -408,7 +408,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.56 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="los-simulacros-pasionales"></a>## Los simulacros pasionales
+__Los simulacros pasionales__
 
 Se considera que el simulacro es una configuaración que resulta únicamente de la apertura de un espacio imaginario como consecuencia de las cargas modales que afectan al sujeto: los simulacros existenciales y los cambios “imaginarios” de roles actanciales \-…constituyen las principales propiedades de estos simulacros en sentido restringido\. Estos simulacros aparecen en el discurso como producto de desembragues localizados, con los que el sujeto apasionado inserta escenas de sus “imaginarios” en la cadena discursiva; …
 
@@ -418,7 +418,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.56 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="los-simulacros-pasionales-1"></a>## Los simulacros pasionales
+__Los simulacros pasionales__
 
 Extraer todas las consecuencias del análisis de las pasiones consiste en postular que toda comunicación \(e interacción\) entre simulacros modales y simulacros que todos los interactantes y las culturas a las que pertenecen han contribuido a construir\. Una posición como ésta no hace sino concretar las sugerencias hechas desde el nivel epistemológico, a propósito de la manera de concebir la intersubjetividad en el momento en el que el sujeto tensivo se desdobla en un “otro” e interioriza, sobre el fondo de la fiducia, el *cuerpo otro *como “intersujeto”\.
 
@@ -430,7 +430,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.58\-59 __LA EPISTEMOLOGÍA DE LAS PASIONES DISPOSITIVOS MODALES: DEL DISPOSITIVO A LA DISPOSICIÓN\.__
 
-<a id="el-ordenamiento-modal-del-estar-ser."></a>## El ordenamiento modal del estar\-ser\.
+__El ordenamiento modal del estar\-ser\.__
 
 La mayoría de las configuraciones pasionales se encuentran definidas en los diccionarios de lengua como “disposiciones para”, “sentimiento que lleva a”, “estado interior del que se inclina hacia” y, por su lado, la descripción de la “disposición” o de la “inclinación” se hace en términos de comportamiento o de acción\. Si la disposición o la inclinación desemboca en el “hacer”, podemos suponer que comprenden cierto ordenamiento del “estar\-ser” con vistas al “hacer”\. Pero plantear en estos términos la cuestión de la eficacia de la pasión equivaldría a considerarla como una simple competencia, cuyas modalizaciones producirán *ipso facto *un efecto de sentido pasional\.
 
@@ -440,7 +440,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.58\-59 __LA EPISTEMOLOGÍA DE LAS PASIONES DISPOSITIVOS MODALES: DEL DISPOSITIVO A LA DISPOSICIÓN\.__
 
-<a id="el-excedente-pasional"></a>## El excedente pasional
+__El excedente pasional__
 
 Si nos contentáramos con ello, el universo pasional sería coextensivo del universo modal y no habría razón para distinguirlo y, a *fortiori*, para intentar dilucidar los principios de la articulación entre ambos\. Ahora bien, incluso cuando la pasión es parcialmente traducible como “competencia para hacer”, ésta no agota y jamás explica por sí sola el efecto pasional\. Por ejemplo la “impulsividad” puede ser traducida como una cierta asociación entre *querer\-hacer y poder\- hacer *…pero una pasión como ésta presenta un “excedente” modal que aparece en superficie bajo la forma del “intensivo”y del “incoativo” ; lo que caracteriza al impulsivo es, más bien, una manera de ser o estar al hacer…En efecto, si se considera únicamente una “conducta” impulsiva, el doble rasgo “intensivoíncoativo” se presenta como una simple sobredeterminación accidental de la competencia modal de base\. Pero si, por otra parte, se caracteriza al sujeto como “impulsivo”, entonces se considera que esta sobredeterminación *rige y patemiza *a la competencia modal y asegura su actualización en cualquier circunstancia…la configuración pasional comprenderá un principio rector, parcialmente independiente de las modalizaciones propiamente dichas, en especial las modalizaciones del hacer\.
 
@@ -456,9 +456,9 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 ## 68
 __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasiones*
 
-<a id="p.68-la-epistemología-ed-las-pasiones"></a>## p\.68 __LA EPISTEMOLOGÍA ED LAS PASIONES__
+__p\.68 __LA EPISTEMOLOGÍA ED LAS PASIONES____
 
-<a id="X4392033df15229d0b4393f9d281228c0bec2802"></a>## La disposición como programación discursiva
+__La disposición como programación discursiva__
 
 A final de cuentas, esta propiedad de las disposiciones pasionales explica muchas cosas\. Para empezar, la existencia de un principio rector que emana de la protensividad permite definir las disposiciones como “programaciones discursivas” y explicar cómo es posible que aparezcan, en el nivel del discurso, como potencialidades de hacer o como series de estados ordenados \(lo que comúnmente llamamos “actitudes”\) A este respecto, el sujeto apasionado funciona como ciertas memorias de respaldo en informática: por una parte, los archivos son guardados de manera compacta, ilegibles e inutilizables en ese estado; por otra, existe un comando que los restaura y los vuelve accesibles para el usuario\. El dispositivo modal sería similar a esta versión “comprimida” y no accesible, el principio protensivo y rector sería el comando de restauración, y la disposición sería el resultado legible y accesible y, en consecuencia, operativo del conjunto del procedimiento\.
 
@@ -468,9 +468,135 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.69 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-<a id="la-disposición-como-aspectualización"></a>## La disposición como aspectualización
+__La disposición como aspectualización__
 
 Al haber construido y definido el devenir en el espacio teórico del sentir mínimo, su encarnación discursiva es totalmente apropiada para la transformación de las series modales en disposiciones pasionales, en la medida en que esta encarnación implica al mismo tiempo una suspensión de la pura racionalidad narrativa y cognoscitiva\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. De los estados de cosas a los estados de ánimo\. *México: Siglo XXI\-Benemérita Universidad de Puebla\.
+
+*P\. 96 *Capítulo 2\. A propósito de la avaricia
+
+Como las pasiones sólo tienen existencia discursiva gracias al __uso__, comunitario o individual, su estudio no puede restringirse a las generalidades y a los “noemas” semánticos y sintácticos que las constituyen … 
+
+ En cuento al exceso, representa aquí una intensidad del sentimiento, acompañada de un juicio moral peyorativo\. La pasión se mide entonces en una escala en la que la moral instituye *umbrales* de apreciación: el apego al dinero puede ser más o menos vivo; no obstante, habiendo alcanzado el umbral moral, se convierte en la avaricia\. El umbral no es, empero, una frontera entre una no pasión y una pasión, sino entre dos formas pasionales que el diccionario, en su propia nomenclatura, llamaría respectivamente un “sentimiento” y una “pasión”
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+*P\. 129  El reembrague sobre el sujeto tensivo*
+
+\.\.\.el cuerpo sintiente del sujeto apasionado\. La descripción modal o incluso la veridictoria del simulacro pasional no basta para explicar la irrupción del cuerpo de la configuración de la avaricia y de la disipación\.
+
+ Para eso hay que regresar a los modos de existencia\. Sólo hemos considerado la interpretación narrativa: proyectada sobre el recorrido del sujeto narrativo, la serie de los modos de existencia organiza las diferentes transformaciones de la junción\. Pero la misma serie pueden también ser proyectada sobre el recorrido de la construcción teórica, desde las precondiciones de la significación hasta la manifestación discursiva … De cualquier forma, en el caso del recorrido teórico, los modos de existencia ya no son los del sujeto narrativo, sino los del *sujeto epistemológico\.*
+
+  
+
+*GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. Semiótica de las pasiones\. *
+
+P\. 129
+
+*Al preguntarnos sobre los antecedentes de una semiótica de las pasiones, hemos tenido que reconocer, anteriormente al recorrido del sujeto epistemológico *propiamente dicho, una fase tensiva en la que es prefigurado por un *“casi sujeto”, un sujeto sintiente*; interviene enseguida una fase de discretización y de categorización en el que llega a ser *sujeto conocedor; la ubicación de la sintaxis narrativa de superficie lo convierte en sujeto de búsqueda*; en fin, durante la puesta en discurso, puede ser asimilado al *sujeto discurrente*\.
+
+ Siendo el sujeto discurrente el sujeto de la instancia *ad quem*, es llamado realizado, al haber completado la totalidad del recorrido hasta la performance discursiva, conforme con la cadena de presuposiciones que rige el recorrido de los modos de existencia\. El sujeto de búsqueda es llamado *actualizado* al estar situado en el nivel de las estructuras semionarrativas de superficie; éste presupone al sujeto conocedor, quien instala las “estructuras elementales”, término *ab quo* del recorrido generativo y podemos considerar por eso como *virtualizado*\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 130
+
+¿Qué hacer con el sujeto potencializado en ese caso? Este último, recordémoslo, está situado deductivamente entre el sujto actualizado y el sujeto realizado: ¿a qué instancia correspondería un sujeto epistemológico situado entre las estructuras semionarrativas de superficie y las estructuras discursivas? La única respuesta plausible ─y coherente con nuestras proposiciones iniciales─ sería la siguiente: el sujeto potencializado es el de la praxis enunciativa, instancia de mediación dialéctica entre la instancia semionarrativa y la instancia discursiva\. Como el sujeto narrativo potencializado, es susceptible de explotar la competencia adquirida con vistas a la performance, con otros fines en especial imaginarios\. Ahora bien, si el imaginario del sujeto narrativo consiste en simulacros, el imaginario del sujeto epistemológico, imaginario en la teoría misma, no puede ser más que el espacio tensivo de la foria, aquél en el que esbozamos un “casi sujeto”, un sujeto sintiente\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 130
+
+* *En la economía general de la teoría, la potencialización sería, entonces, esa praxis mediadora que, conjugando los productos del recorrido generativo y aquellos de la tensividad fórica, los fijaría, los almacenaría como “potencialidades” del uso, al lado de las “virtualidades” del esquema\.
+
+ Desde ese momento y en el recorrido de la construcción teórica, el sujeto potencializado representaría la única instancia en la que el cuerpo tendría todos sus privilegios, como constitutivo de los efectos de sentido\. Al resultar la existencia semiótica de una mutación interna de los productos de la percepción ─lo exteroceptivo engendra lo interoceptivo por medio de lo propioceptivo─, guarda la memoria del propio cuerpo\. Una vez discretizado y categorizado, sólo guarda huellas de lo propioceptivo en la polarización de la masa tímica en euforía/disforia\. Por la potencialización del uso, sólo la enunciación podrá de nuevo solicitar al “sentir” y al cuerpo como tales\.
+
+ Un reembrague sobre el sujeto sintiente también es necesario para convocar en el discurso los efectos somáticos de la pasión …
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 131 Dos gestos culturales: la sensibilización y la moralización
+
+ La *sensibilización* es la operación por la cual la cultura interpreta una parte de los dispositivos modales, considerados deductivamente como efectos de sentido pasionales\. En la lengua, la *sensibilización* se manifiesta, o bien en condensación ─gracias a la lexicalización de los efectos de sentido─ o bien en expansión ─bajo la forma de sintagmas que comprenden uno de los términos genéricos de la nomenclatura y una serie que enuncia un comportamiento, una actitud o un hacer\. En el discurso, es reconocida concretamente, entre otras cosas, o bien gracias al distanciamiento entre los roles temáticos y los roles patémicos propiamente dichos, o bien merced a la imposibilidad de reducir una disposición a una simple competencia, en la medida que el paso al acto no agote ahí los efectos\.
+
+ La moralización* *es la operación por la cual una cultura remite un dispositivo modal sensibilizado a una norma, concebida principalmente para regular la comunicación pasional en una comunidad dada*\. *Sea de origen individual o colectivo, la moralización señala, entonces, la inserción de una configuración en un espacio comunitario\. Ella se manifiesta en lengua por la presencia de la proyección o del mejoramiento, en general por medio de juicios de exceso, de insuficiencia o de mesura, ya sea la condensación en los lexemas que nombran la pasión, o bien en expansión en las glosas que las definen\. En discurso, la moralización se reconoce por el hecho de que un observador social está encargado de evaluar el efecto de sentido y es susceptible, con el fin de producir tales juicios, de atribuirse un rol actancial en la configuración\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 131 La sensibilización \.Variaciones culturales
+
+Las diferentes culturas, áreas o épocas tratan de manera variable los mismos dispositivos modales, como la testimonia la configuración de la avaricia\. La generosidad, por ejemplo,ha conocido tales avatares\. Para comenzar, ha cambiado la modalización regente que define la isotopía modal: del *poder*, que subtendía la generosidad ligada a la “grandeza”, al “coraje” y, más generalmente, a todas las acepciones que invocan los “grandes recursos” del sujeto que “da más de lo que debe”, y aquí el “más” es la manifestación de una motivación endógena, independiente de las obligaciones\. En seguida, *el querer \-\(estar\) ser* mismo ha sido tratado sucesivamente como “cualidad” \(“cualidad de un alma orgullosa, bien nacida”\), como “sentimiento” \(“sentimiento de humanidad que lleva a mostrarse benévolo, caritativo, a perdonar, a aceptar a un enemigo”\), y, en fin, como “disposición” \(disposición a dar más de lo que uno debe\)\.
+
+ La sensibilización del dispositivo modal de la generosidad es muy superior en la época clásica y se acompaña a demás de una moralización positiva extrema, ya que esa “cualidad” es el criterio de un nacimiento noble, que define el ser “hereditario” del sujeto\. La sensibilización disminuye gradualmente, ya que en la generosidad clasificada com o “disposición” se reconoce, en todo caso, una competencia inscrita como “tendencia” del sujeto, pero no un “sentimiento” o una “pasión”\.
+
+… P\. 132 
+
+La sensibilización es pues la primera fase realizable de la puesta en discurso de las pasiones …
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 132\-133 La sensibilización en acto
+
+Sin embargo, la sensibilización así definida es sólo comprendida en sus efectos, una vez que, habiendo hecho su parte la praxis enunciativa, el efecto de sentido pasional se convierte en estereotipo, y el estereotipo, en un primitivo pasional dentro de un uso dado\. Esos efectos suponen un proceso, es decir, operaciones que pertenecen a la puesta en discurso …
+
+la sensibilización no es solamente una operación abstracta necesaria para la teoría de las pasiones, sino que además es observable en los dispositivos concretos, bajo el mismo tenor que otras operaciones de la sintaxis discursiva\.
+
+La sensibilización tiene, así, como explicación, su lugar dentro de la economía general de la teoría, y, a la vez, como descripción dentro del recorrido discursivo de construcción del sujeto apasionado: de alguna manera, verticalmente, construye las taxonomías culturales que filtran los dispositivos modales para manifestarlos como pasiones en el discurso y, horizontalmente, toma su lugar en la sintaxis discursiva de la pasión, como un proceso en toda la extensión de la palabra … Por esa razón podemos convenir en denominar *patemización* a la sensibilización concebida como una operación perteneciente a la sintaxis discursiva\. De hecho, desde el punto de vista genético, la patemización precedería a la sensibilización concebida como una instancia cultural; ella puede no ser más que un caso aislado, pero puede también entrar en el uso; desde ese momento, las secuencias modales que afectan son identificadas como pasiones en ese uso y la praxis enunciativa realiza su obra\. La sensibilización como operación enunciativa es, pues, secundaria\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\. *
+
+P\. 134 El cuerpo sensible
+
+La vocación de una semiótica de las pasiones es la de describir y también explicar los efectos discursivos de la sensibilización\. \.\.
+
+ En el afán de las explicaciones extrasemióticas o parasemióticas, se podría, por ejemplo, imaginar que la sensibilización es una operación de origen psicosomático y que ciertos dispositivos modales actuarían sobre el soma como “en terreno favorable”\. De todas maneras, esa hipótesis plantea más problemas de los que resuelve, y que habría entonces que demostrar cómo las culturas pueden determinar los “terrenos favorables” que les serían específicos\. 
+
+P\. 135
+
+De hecho, en la medida que la sensibilización sobredetermina el proceso por el cual los semas exteroceptivos e interoceptivos son homegeneizados por lo propioceptivo, trasciende la oposición entre lo innato y lo adquirido\. Pero, lamentablemente, carecemos de informaciones sobre la manera como el propio cuerpo puede intervenir en el proceso\. A la vista de las axiologías y de la oposición entre la foria y la disforia, nos hemos contentado en imaginar que la propioceptividad actuaba únicamente por atracciones y repulsiones\. Pero nada dice que el cuerpo no sea capaz de producir simbolizaciones elementales más complejas, las cuales, sin suscribirse aún a un funcionamiento semiótico, prepararían la sensibilización de las formas significantes\. …
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\.*
+
+P\. 135\-136
+
+Desde un punto de vista epistemológico, si el relativismo cultural de la aprehensión patémica de los significados del mundo natural pudiera explicarse por la presencia de “esquemas sensibles” en el imaginario humano, resultaría que la existencia semiótica misma sería afectada\. Si desde un punto de vista sintáctico se puede postular un “terreno favorable” para la manifestación de las pasiones, se debe a que el recorrido del sujeto apasionado no comienza con la sensibilización\.
+
+· La constitución pasional
+
+Podríamos pensar en el concepto griego de *hexis*, que significa a la vez la “manera de \(estar\-\)ser, la “constitución” \-en el sentido médico, por ejemplo\- o el hábito, ya sea del cuerpo, o del espíritu…
+
+ A manera de hipótesis de trabajo, se podría entonces considerar a la *hexis* sensible como una sobredeterminación cultural de las pregnancias biológicas, que se traduciría por una articulación específica de la zona propioceptiva y que proyectaría “esquemas sensibles” sobre la existencia semiótica\. Las disposiciones y las imágenes finales convocadas en los discursos realizados encontrarían o no encontrarían un eco en esos esquemas sensibles y, por ese hecho, producirían o no producirían efectos de sentido pasionales\. La sensibilización presupondría en este caso, en el nivel de las precondiciones de la significación, una “constitución” del sujeto sintiente\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\.*
+
+P\. 136\-137 
+
+Por otro lado, si se admite que la sensibilización puede ser aprehendida a la vez por sus efectos en la praxis enunciativa y como operación discursiva, puede uno preguntarse si la “constitución” del sujeto apasionado no podría también ser considerada desde dos puntos de vista diferentes\. \.\. hasta ahora sólo hemos examinado la eventualidad de una “predisposición” del sujeto sintiente en el recorrido de la construcción teórica, partiendo de la idea de la propioceptividad podría ser constitutiva ya del sujeto apasionado\. Se puede uno preguntar aquí cuál sería la forma discursiva de una constitución “en acto”, es decir, cómo se instala el terreno favorable para la eclosión pasional en el recorrido sintáctico del sujeto\. … El apego y el desapego intervienen incluso si el dispositivo modal no está ubicado, y, *a fortiori*, todavía cuando no está sensibilizado … En ausencia de objetos de valor y de sistemas de valores, el sujeto sólo tendría que ver con las “sombras de valor” que le propone la *fiducia*, el apego o el desapego serían dos posiciones extremas sobre la gradación continua de la fiducia\.
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\.*
+
+*P\. 137\-138*
+
+… en efecto, las “costumbres” son “hábitos” codificados e integrados en una cultura y no se confunden con la repetición\. Es un hecho que el rol temático del “cazador” se construye por aprendizaje y repetición; sin embargo, no induce *ipso facto* un “hábito” y “costumbres”\.
+
+ Volvemos a encontrar aquí la hexis, lo que permite decir que Mme\. De Bergeton está “constituida” para ser avara antes incluso de llegar a serlo y que la sensibilización propiamente dicha, provocada por el cambio de discurso, tiene su raíz en ese estado previo\. El hábito no es, por supuesto, sino una de las formas posibles \(adquirida, en el ejemplo\) de la construcción del sujeto apasionado\.
+
+º Esbozo de un recorrido patémico
+
+Independientemente de su carácter “adquirido” o “innato”, la *constitución* se presenta como una predisposición general del sujeto discursivo para los recorridos pasionales que le esperan, definiendo su modo de acceso al mundo de los valores y seleccionando de antemano ciertas pasiones antes que otras\. Así, remontando el curso de la sintaxis discursiva a partir de la manifestación pasional, encontramos sucesivamente: la *sensibilización*, que aplica a una *disposición, que prolonga ella misma una constitución\. *En el otro sentido, no se puede razonar más que por términos de probabilidades\. Mme\. Bergeton habría podido sufrir la influencia de las costumbres y los hábitos provinciales, sin por lo mismo, adquirir una verdadera disposición a la avaricia; esa disposición jamás habría podido ser sensibilizada si el cambio de contexto no hubiera intervenido\. De ahí que la sintaxis discursiva del sujeto apasionado se establezca provisionalmente así:
+
+CONSTITUCIÓN → DISPOSICIÓN → SENSIBILIZACIÓN
+
+GREIMAS A\.J\. y J\. FONTANILLE \(1994\[1991\]\)\. *Semiótica de las pasiones\.*
+
+*P\. 138\-139\-140 ͦ La moralización*
+
+* *Numerosos juicios éticos señalan la actividad de un actante evaluador en la configuración de la avaricia\. Estos juicios moralizan comportamientos que, en sí mismos, serían neutros; el economizador e un rol no moralizado \-o evaluado positivamente\- el avaro es evaluado negativamente; el comportamiento llamado “interesado” es evaluado negativamente en la configuración estudiada, mientras que en la economía política es evaluado positivamente, a partir de A\. Smith, entre otros, pero también en pedagogía, en la que es considerada una llave del éxito\. …
+
+ͦ Pasiones socializantes
+
+Para comprender mejor la moralización, podemos por lo pronto interrogarnos sobre quien es el responsable\. Cuando se encuentra en semiótica una evaluación sobre el hacer o el estar\-ser de un sujeto, ordinariamente se buscan las huellas de un Destinador\-juez y se considera que su hacer judicativo pertenece a la etapa terminal del esquema narrrativo canónico\. Pero se trata aquí del esquema narrativo canónico y el recorrido del sujeto apasionado se encuentra atrapado en un simulacro que no permite tratarlo como un recorrido narrativo clásico\. 
 
 
 ## 159

@@ -80,7 +80,7 @@ __LYONS, J\.__ \(1997:__40__\) *Semántica lingüística*\. *Una* introducción\
 
 __Teorías del significado y clases de significado __1\.4      Contabilidad y masa
 
- La palabra española ‘lenguaje’, como la palabra ‘significado’, tiene una amplia gama de sentidos \(o acepciones\)\. Pero la precisión primera y más importante que se ha de hacer sobre la palabra ‘lenguaje’ es que \(como ‘significado' y otros varios sustantivos españoles\) es __categorialmente ambivalente__ con respecto a la propiedad semántica pertinente de la __contabilidad__: es decir, puede usarse \(como ‘cosa’, ‘idea’, etc\.\) como sustantivo contable \(que significa que, cuando se usa en singular, combinado con un artículo, definido o indefinido, o algún otro tipo de __determinante__, tiene sentido específico\); pero también puede usarse \(como ‘agua’, ‘información’, etc\.\), como sustantivo de masa \(es decir, un sustantivo de referente contable\) que, con determinante o sin él, normalmente denota, no una entidad individual de conjunto o entidades, sino un agregado o masa ilimitada de materia o sustancia, en sentido genérico\. La condición de ‘contable’ de una palabra no tiene manifestación gramatical —no está __gramaticalizada__ \(morfológica o sintácticamente\)— en todas las lenguas naturales…
+ La palabra española ‘lenguaje’, como la palabra ‘significado’, tiene una amplia gama de sentidos \(o acepciones\)\. Pero la precisión primera y más importante que se ha de hacer sobre la palabra ‘lenguaje’ es que \(como ‘significado' y otros varios sustantivos españoles\) es __categorialmente ambivalente__ con respecto a la propiedad semántica pertinente de la __contabilidad:__ es decir, puede usarse \(como ‘cosa’, ‘idea’, etc\.\) como sustantivo contable \(que significa que, cuando se usa en singular, combinado con un artículo, definido o indefinido, o algún otro tipo de __determinante__, tiene sentido específico\); pero también puede usarse \(como ‘agua’, ‘información’, etc\.\), como sustantivo de masa \(es decir, un sustantivo de referente contable\) que, con determinante o sin él, normalmente denota, no una entidad individual de conjunto o entidades, sino un agregado o masa ilimitada de materia o sustancia, en sentido genérico\. La condición de ‘contable’ de una palabra no tiene manifestación gramatical —no está __gramaticalizada__ \(morfológica o sintácticamente\)— en todas las lenguas naturales…
 
 
 ## 40\-41
@@ -110,13 +110,13 @@ __LYONS, J\.__ \(1997:__47\-55\-56__\) *Semántica lingüística*\. *Una* introd
 
 __Teorías del significado y clases de significado\.__ Palabras: formas y significados
 
-__ __Uno de los supuestos tácticos con el que hemos venido operando y que se puede explicitar ahora es que las palabras \(y otras expresiones, incluyendo sintagmas y oraciones\) tienen significado\. También tienen __forma__: de hecho, en español y en cualquier otra lengua natural con un sistema de escritura asociado, alfabético o no alfabético, de uso común, las palabras tienen una forma oral y una forma escrita convencionalmente aceptada…
+__ __Uno de los supuestos tácticos con el que hemos venido operando y que se puede explicitar ahora es que las palabras \(y otras expresiones, incluyendo sintagmas y oraciones\) tienen significado\. También tienen __forma:__ de hecho, en español y en cualquier otra lengua natural con un sistema de escritura asociado, alfabético o no alfabético, de uso común, las palabras tienen una forma oral y una forma escrita convencionalmente aceptada…
 
 *Teniendo* en cuenta la posibilidad de usar la palabra ‘forma’ como un nombre contable y como un nombre masa…se puede decir ahora que dos formas son idénticas \(en un sentido de ‘idéntico’\) si tienen la misma forma…El que dos \(o más\) formas escritas puedan ser fonéticamente idénticas se ilustra con el español: Por ejemplo, dos formas orales serán fonéticamente idénticas si tienen la misma pronunciación; y dos formas escritas \(en una lengua dotada de escritura alfabética\) serán ortográficamente idénticas si tienen el mismo deletreo, la misma sucesión de letras\. 
 
 \[Otros ejemplos en español: *vaca* y *baca, halla y haya, olla y hoya\. *
 
-__\[hozar y osar__: *’Si el Imperio Yanqui hoza profanar el sagrado suelo de la tierra de Bolívar*'\]
+__\[hozar y osar:__ *’Si el Imperio Yanqui hoza profanar el sagrado suelo de la tierra de Bolívar*'\]
 
 
 ## 56
@@ -401,7 +401,7 @@ FORMAS Y EXPRESIONES
 
  Sin embargo, no todas las expresiones recogidas en un diccionario son palabras\. Algunas de ellas son lo que tradicionalmente se conoce como__ sintagmas; __y las expresiones sintagmáticas como expresiones de palabra, han de ser diferenciadas, en principio, de la forma o formas con las que guardan relación por medio de las reglas flexivas de la lengua\. Por ejemplo, 'pasar por alto' es una expresión sintagmática, cuyas formas son*, pasa por alto, pasaba por alto*, etc\. Son las muestras de estas formas las que se manifiestan en los enunciados de la lengua\.
 
- Las expresiones de una lengua se dividen en dos grupos\. Un grupo, finito en número, está constituido por expresiones __léxicamente simples__: los __lexemas__\. Éstas son  expresiones que uno esperaría encontrar recogidas en un diccionario, son unidades de vocabulario de una lengua, con las que se construyen los elementos del segundo grupo, las expresiones __léxicamente compuestas__, por medio de las reglas gramaticales \(es decir, sintácticas y morfológicas\) de la lengua\. 
+ Las expresiones de una lengua se dividen en dos grupos\. Un grupo, finito en número, está constituido por expresiones __léxicamente simples:__ los __lexemas__\. Éstas son  expresiones que uno esperaría encontrar recogidas en un diccionario, son unidades de vocabulario de una lengua, con las que se construyen los elementos del segundo grupo, las expresiones __léxicamente compuestas__, por medio de las reglas gramaticales \(es decir, sintácticas y morfológicas\) de la lengua\. 
 
 __Lo que se recoge en un diccionario convencional son expresiones de palabras__
 
@@ -454,7 +454,7 @@ HOMONIMIA Y POLISEMIA; AMBIGÜEDAD LÉXICA Y GRAMATICAL
 ## 82
 __LYONS, J\.__ \(1997:__82__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\.
 
-La homonimia absoluta es bastante común: véase ‘llama’, 'llama', ’banco’\(«Institución financiera»\), 'banco' \(«Asiento alargado»\)’banda’\(«Cinta ancha de tafetán de colores determinados que se lleva atravesada desde el hombro al costado opuesto\.\.\.\.»\)Pero existen también numerosos tipos de lo que voy a llamar __homonimia parcial__: es decir, los casos donde \(a\) hay identidad de \(como mínimo\) una forma y \(b\) se satisfacen una o dos pero no las tres condiciones mencionadas\. Por ejemplo, los verbos 'poder’ y 'podar’ comparten las formas podemos, podéis; pero no *puedo, puedes, puede o pode, podes, pode*, etc\.; y podemos o podéis como formas de ‘poder’ no son sintácticamente equivalentes a las formas podemos, podéis, de ‘podar’\.
+La homonimia absoluta es bastante común: véase ‘llama’, 'llama', ’banco’\(«Institución financiera»\), 'banco' \(«Asiento alargado»\)’banda’\(«Cinta ancha de tafetán de colores determinados que se lleva atravesada desde el hombro al costado opuesto\.\.\.\.»\)Pero existen también numerosos tipos de lo que voy a llamar __homonimia parcial:__ es decir, los casos donde \(a\) hay identidad de \(como mínimo\) una forma y \(b\) se satisfacen una o dos pero no las tres condiciones mencionadas\. Por ejemplo, los verbos 'poder’ y 'podar’ comparten las formas podemos, podéis; pero no *puedo, puedes, puede o pode, podes, pode*, etc\.; y podemos o podéis como formas de ‘poder’ no son sintácticamente equivalentes a las formas podemos, podéis, de ‘podar’\.
 
 
 ## 83
@@ -520,7 +520,7 @@ Las expresiones con igual significado son __sinónimos\.__ Habrá que hacer dos 
 
 Nota: Respecto a los sinónimos, damos por supuesto que no existen dos términos de sentido idéntico absoluto que no sean variantes sintácticas \(*grande, gran*\), variantes de acento\(*período, periodo, beréber, bereber*\), variantes derivadas \(*centellar, centellear; censal, censual*\) o bien variantes gráficas \(*obscuro, oscuro; cenceñada, cencellada; clistel, clister*\)\. N\. del t\.
 
-__Cuasisinónimos__: Nota 19: Son expresiones que, teniendo una intersección de significado o núcleo semántico común, se diferencian por motivos dialectales \(chaqueta, saco\), de registro social \(policía, madero; cabeza\. Tarro\) de distinta connotación de diferencia social \(aliviarse, dar a luz\), de profesión del hablante \(muerto, interfacto\), de confesión \(musulmán\. Mahometano\), de tendencia política \(conservador, reaccionario\), de edad \(orina, pipí\), de sexo \(mono, bonito\), de arcaísmo \(fidalgo, hidalgo\), de cultismo \(evento, acontecimiento\), de intensificación \(guapetón, guapo\), de humos, ironía o parodia \(pata, pierna, pinrel, pie\), de afectividad laudativa \(esbelto, delgado\), de afectividad peyorativa \(flaco, delgado; matasanos, médico\), de eufemismo \(diantre, demonio; invidente, ciego\)\. N del t
+__Cuasisinónimos:__ Nota 19: Son expresiones que, teniendo una intersección de significado o núcleo semántico común, se diferencian por motivos dialectales \(chaqueta, saco\), de registro social \(policía, madero; cabeza\. Tarro\) de distinta connotación de diferencia social \(aliviarse, dar a luz\), de profesión del hablante \(muerto, interfacto\), de confesión \(musulmán\. Mahometano\), de tendencia política \(conservador, reaccionario\), de edad \(orina, pipí\), de sexo \(mono, bonito\), de arcaísmo \(fidalgo, hidalgo\), de cultismo \(evento, acontecimiento\), de intensificación \(guapetón, guapo\), de humos, ironía o parodia \(pata, pierna, pinrel, pie\), de afectividad laudativa \(esbelto, delgado\), de afectividad peyorativa \(flaco, delgado; matasanos, médico\), de eufemismo \(diantre, demonio; invidente, ciego\)\. N del t
 
 
 ## 88
@@ -602,7 +602,7 @@ __Significado del léxico\. Las palabras como unidades de significado\.__
 
 Sinonimia
 
- La tercera de las condiciones enumeradas de la sinonimia absoluta era la identidad en todas las dimensiones del significado\. El sentido de significado más ampliamente reconocido como apropiado a esta distinción es el significado descriptivo \(o proposicional\) \.\.\. De hecho muchas teorías semánticas limitarían el concepto de sinonimia a lo que yo llamaré __sinonimia des*criptiva*__: identidad de significado descriptivo\.\.\. De momento, será suficiente decir __dos expresiones tienen el mismo significado descriptivo__ \(es decir, son descriptivamente sinónimos\) __si, y sólo si, las proposiciones que contienen a una de ellas implican necesariamente proposiciones idénticas que contengan a la otra expresión y viceversa__\. Según este criterio\.\.\.'grande' y 'amplio' son sinónimos desde el punto de vista descriptivo \(en uno de los sentidos y respecto a determinada gama de contextos\)\. Por ejemplo, no puedo sin contradicción, afirmar simultáneamente que alguien vive en una casa grande y al mismo negar que vive en una casa amplia\.
+ La tercera de las condiciones enumeradas de la sinonimia absoluta era la identidad en todas las dimensiones del significado\. El sentido de significado más ampliamente reconocido como apropiado a esta distinción es el significado descriptivo \(o proposicional\) \.\.\. De hecho muchas teorías semánticas limitarían el concepto de sinonimia a lo que yo llamaré __sinonimia des*criptiva*:__ identidad de significado descriptivo\.\.\. De momento, será suficiente decir __dos expresiones tienen el mismo significado descriptivo__ \(es decir, son descriptivamente sinónimos\) __si, y sólo si, las proposiciones que contienen a una de ellas implican necesariamente proposiciones idénticas que contengan a la otra expresión y viceversa__\. Según este criterio\.\.\.'grande' y 'amplio' son sinónimos desde el punto de vista descriptivo \(en uno de los sentidos y respecto a determinada gama de contextos\)\. Por ejemplo, no puedo sin contradicción, afirmar simultáneamente que alguien vive en una casa grande y al mismo negar que vive en una casa amplia\.
 
  Un ejemplo de sinonimia descriptiva es el de la relación que se da en inglés 'bachelor' \[soltero\] y 'unmarried man' \[hombre no casado\]\. \(Hay quienes negarían que estas dos expresiones son, de hecho, sinónimos descriptivos, basándose en que un hombre divorciado, aunque no casado, no es soltero…\)\.
 
@@ -702,7 +702,7 @@ __El significado gramatical, que no se puede asignar en su totalidad a las forma
 
 … lo que se designó como formas de palabra llanas son formas de las categorías mayores del habla: nombres, verbos y adjetivos\. Las formas de palabra vacías, en contraste, en español … pertenecen a una amplia variedad de clases de formas menores, que se definen, tradicionalmente, por su función sintáctica más que por su contenido semántico\.
 
- Por este motivo, las formas de palabra vacías las describen los lógicos tradicionalmente, no como términos independientes o __categorías__, sino como __sincategoremáticas__: es decir, como formas cuyo significado y función lógica deriva de la manera en que se combinan con \(si\-\) las categorías mayores definidas independientemente\. 
+ Por este motivo, las formas de palabra vacías las describen los lógicos tradicionalmente, no como términos independientes o __categorías__, sino como __sincategoremáticas:__ es decir, como formas cuyo significado y función lógica deriva de la manera en que se combinan con \(si\-\) las categorías mayores definidas independientemente\. 
 
 
 ## 99
@@ -766,7 +766,7 @@ __LYONS, J\.__ \(1997:__106__\) *Semántica lingüística*\. *Una* introducción
 
 __3\. DEFINICIÓN DEL SIGNIFICADO DE LAS PALABRAS__
 
-En la definición de tales palabras, los diccionarios bilingües se basan fundamentalmente en el concepto de __sinonimia interlingüística__: por ejemplo, diciendo en un diccionario español\-inglés que \(la palabra española\) ‘perro’ tiene \(más o menos\) el mismo significado que \(la palabra inglesa\) ‘dog’\. Los diccionarios monolingües también hacen uso del concepto de sinonimia \(intralingüística, más que interlingüística\)\. Pero las definiciones de un diccionario monolingüe suelen combinar la paráfrasis, desde el punto de vista de la sinonimia parcial intralingüística, con el análisis y descripción 
+En la definición de tales palabras, los diccionarios bilingües se basan fundamentalmente en el concepto de __sinonimia interlingüística:__ por ejemplo, diciendo en un diccionario español\-inglés que \(la palabra española\) ‘perro’ tiene \(más o menos\) el mismo significado que \(la palabra inglesa\) ‘dog’\. Los diccionarios monolingües también hacen uso del concepto de sinonimia \(intralingüística, más que interlingüística\)\. Pero las definiciones de un diccionario monolingüe suelen combinar la paráfrasis, desde el punto de vista de la sinonimia parcial intralingüística, con el análisis y descripción 
 
 Por ejemplo, al diccionario nos podría decir que los perros son animales que pertenecen a una especie y géneros particulares, que son carnívoros y que se han domesticado, y así sucesivamente\. … Aquí quiero indicar las definiciones tradicionales del diccionario puede verse que definen\.\.\.dos aspectos diferentes, pero complementarios, del significado léxico: denotación y sentido\.
 
@@ -856,7 +856,7 @@ Expresiones básicas y no básicas
 
  Ya hace más de medio siglo que Bertrand Russell estableció una distinción \.\.\. entre lo que él llamó __palabras objeto y palabras de diccionario __\.\.\. Las palabras objeto, nos dice, «se definen desde el punto de vista lógico como palabras que aisladas poseen significado y, desde un punto de vista psicológico, como palabras que han sido aprendidas sin que para ello haya sido necesario haber aprendido previamente cualquier otra palabras»\. Las palabras del diccionario, por el contrario, «son teóricamente superfluas», porque se pueden definir y aprender gracias a las palabras objeto, lógica y psicológicamente más básicas\.
 
-*Las palabras objeto* se aprenden por demostración o, como dicen los filósofos, por __ostensión__: o sea, __mostrando al que aprende __la palabra un número suficiente de objetos incluidos en la denotación, o extensión, de cada palabra objeto\. Dicho de otro modo, la __definición ostensiva __—la definición por ostensión— supondría señalar uno o más objetos denotados por la palabra en cuestión diciendo
+*Las palabras objeto* se aprenden por demostración o, como dicen los filósofos, por __ostensión:__ o sea, __mostrando al que aprende __la palabra un número suficiente de objetos incluidos en la denotación, o extensión, de cada palabra objeto\. Dicho de otro modo, la __definición ostensiva __—la definición por ostensión— supondría señalar uno o más objetos denotados por la palabra en cuestión diciendo
 
  \(1\) Esto es un\(a\) X\.
 
@@ -924,7 +924,7 @@ __3\. DEFINICIÓN DEL SIGNIFICADO DE LAS PALABRAS__       Tipos naturales \(y cu
 
  El estructuralismo contrasta al respecto con el __atomismo__\.\.\.el estructuralismo destaca la interdependencia de las entidades más que su existencia individual y separada\. De hecho, el estructuralismo como doctrina filosófica mantiene en su formulación extrema que las entidades no tienen esencia al margen de la estructura que les viene impuesta por el pensamiento o la lengua sobre cosas que, de otro modo, estarían indiferenciadas\. Es una doctrina atrevida que ha intoxicado a muchos semantistas\. Atemperada con una dosis adecuada de realismo ingenuo, no sólo es filosófica y psicológicamente defendible, sino que proporciona, en mi opinión, una base empírica para la semántica lingüística con más eco que el de cualquier teoría atomista del significado\.
 
- El realismo ingenuo puede diferir del realismo filosófico\. Pero los defensores de cada uno suponen de modo parecido que la realidad exterior se compone de entidades cuya existencia es independiente del pensamiento y de la lengua\. Y aún más, muchos filósofos realistas estarían de acuerdo con los realistas ingenuos en decir que el mundo externo está constituido por seres físicos cuya existencia es tan independiente de la mente como de la lengua y que algunas o todas de estas entidades \(personas, animales, cosas\) pueden agruparse en lo que tradicionalmente se llaman __tipos naturales__: esto es, categorías cuyos miembros comparten la misma naturaleza o esencia\. \(‘Tipo’ en este contexto se ha de entender en el sentido de «género» o «clase»\.\) Los candidatos más elementales para poseer la cualidad de tipos son, obviamente, las especies vivientes, que, como se dice tradicionalmente, se reproducen a sí mismas cada una según su tipo…
+ El realismo ingenuo puede diferir del realismo filosófico\. Pero los defensores de cada uno suponen de modo parecido que la realidad exterior se compone de entidades cuya existencia es independiente del pensamiento y de la lengua\. Y aún más, muchos filósofos realistas estarían de acuerdo con los realistas ingenuos en decir que el mundo externo está constituido por seres físicos cuya existencia es tan independiente de la mente como de la lengua y que algunas o todas de estas entidades \(personas, animales, cosas\) pueden agruparse en lo que tradicionalmente se llaman __tipos naturales:__ esto es, categorías cuyos miembros comparten la misma naturaleza o esencia\. \(‘Tipo’ en este contexto se ha de entender en el sentido de «género» o «clase»\.\) Los candidatos más elementales para poseer la cualidad de tipos son, obviamente, las especies vivientes, que, como se dice tradicionalmente, se reproducen a sí mismas cada una según su tipo…
 
 
 ## 119
@@ -1014,7 +1014,7 @@ __LYONS, J\.__ \(1997:__129\-130__\) *Semántica lingüística*\. *Una* introduc
 
 __El enfoque estructural__
 
- Desde un punto de vista semántico, la estructura léxica de una lengua —la estructura de su vocabulario—se puede considerar como un__a__ red de __relaciones de sentido__: es como una tela en la que cada hilo es una relación y cada nudo de la tela es un lexema diferente\.
+ Desde un punto de vista semántico, la estructura léxica de una lengua —la estructura de su vocabulario—se puede considerar como un__a__ red de __relaciones de sentido:__ es como una tela en la que cada hilo es una relación y cada nudo de la tela es un lexema diferente\.
 
  Los términos clave aquí son 'estructura' y 'relación', que, en el contexto actual, cada uno propone y define otro\. Es la palabra 'estructura \(por medio del adjetivo correspondiente 'estructural'\) la que ha proporcionado la etiqueta —'estructuralismo’—que distingue la lingüística moderna de la lingüística anterior\. Ha habido, y hay, muchas escuelas de lingüística estructural; y algunas de ellas, hasta recientemente, no se han interesado mucho en la semántica\.\.\.
 
@@ -1098,7 +1098,7 @@ __LYONS, J\.__ \(1997\) *Semántica lingüística*\. *Una* introducción\. Barce
 
 __El enfoque estructural __4\.2 Análisis componencial 
 
-Los lexemas usados hasta ahora para ilustrar principios del análisis componencial se pueden considerar como palabras que denotan propiedades\. Son comparables a lo que los lógicos llaman __predicados monádicos __o de una posición\.\.\.Por ejemplo, si 'Juan' se asocia con el predicado monádico 'muchacho' \(por medio de lo que tradicionalmente se llama cópula\.\.\.\) y si el artículo indefinido __*un*__ semánticamente vacío se añade delante de la forma *muchacho* \.\.\.el resultado es una oración declarativa simple que puede usarse para expresar la proposición «Juan es un muchacho»\.\.\.Otras palabras, especialmente los verbos transitivos \(como 'golpear', 'matar'\) la mayoría de las preposiciones, y nombres como 'padre', 'madre', etc\., denotan relaciones __diádicas__, __son predicados de dos posiciones__: denotan la relación establecida entre dos entidades que se manifiestan por las expresiones que ocupan los dos lugares \(o alternativamente, como en el caso de 'padre', 'madre', etc\., el conjunto de entidades que se pueden designar por el conjunto de expresiones que llaman una de las posiciones\)\. Esto quiere decir que su descomposición ha de dar cuenta de la direccionalidad de las relaciones\. Por ejemplo,
+Los lexemas usados hasta ahora para ilustrar principios del análisis componencial se pueden considerar como palabras que denotan propiedades\. Son comparables a lo que los lógicos llaman __predicados monádicos __o de una posición\.\.\.Por ejemplo, si 'Juan' se asocia con el predicado monádico 'muchacho' \(por medio de lo que tradicionalmente se llama cópula\.\.\.\) y si el artículo indefinido __*un*__ semánticamente vacío se añade delante de la forma *muchacho* \.\.\.el resultado es una oración declarativa simple que puede usarse para expresar la proposición «Juan es un muchacho»\.\.\.Otras palabras, especialmente los verbos transitivos \(como 'golpear', 'matar'\) la mayoría de las preposiciones, y nombres como 'padre', 'madre', etc\., denotan relaciones __diádicas__, __son predicados de dos posiciones:__ denotan la relación establecida entre dos entidades que se manifiestan por las expresiones que ocupan los dos lugares \(o alternativamente, como en el caso de 'padre', 'madre', etc\., el conjunto de entidades que se pueden designar por el conjunto de expresiones que llaman una de las posiciones\)\. Esto quiere decir que su descomposición ha de dar cuenta de la direccionalidad de las relaciones\. Por ejemplo,
 
  \(6\) «padre»= PROGENITOR & MACHO
 
@@ -1552,7 +1552,7 @@ __LYONS, J\.__ \(1997:__177__\) *Semántica lingüística*\. *Una* introducción
 
  \(23\) «Llueve y no llueve»
 
- __Las verdades lógicas, o tautológicas, son una subclase de las verdades__ __analíticas__: o sea, proposiciones cuya verdad está determinada totalmente por su significado\. Sin embargo, los lingüistas, de ordinario, suelen ampliar el sentido de los términos 'tautología' y 'contradicción' hasta abarcar, no sólo aquellas proposiciones \(y oraciones\) cuya verdad o falsedad está determinada por la forma lógica, como se suponía tradicionalmente, sino también todos los tipos de proposiciones \(y oraciones\) verdaderas o falsas analíticamente\.\.\.
+ __Las verdades lógicas, o tautológicas, son una subclase de las verdades__ __analíticas:__ o sea, proposiciones cuya verdad está determinada totalmente por su significado\. Sin embargo, los lingüistas, de ordinario, suelen ampliar el sentido de los términos 'tautología' y 'contradicción' hasta abarcar, no sólo aquellas proposiciones \(y oraciones\) cuya verdad o falsedad está determinada por la forma lógica, como se suponía tradicionalmente, sino también todos los tipos de proposiciones \(y oraciones\) verdaderas o falsas analíticamente\.\.\.
 
 
 ## 178\-179
@@ -2639,19 +2639,19 @@ se diría normalmente para implicar que los padres de Ana no le comprarán un Po
 
 
 ## 313\-314
-__LYONS, J\.__ \(1997__:313\-314__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\.
+__LYONS, J\.__ \(1997:__313\-314__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\.
 
  La segunda propiedad propuesta en general para distinguir la implicatura conversacional de otros tipos de implicación es su __calculabilidad__\. Y se mencionó antes \(y se ilustró\), en relación con la interpretación de enunciados metafóricos como *Juan es un tigre*\. Como se destacó allí, al calculabilidad \(o computabilidad\) de las implicaturas conversacionales es muy dependiente del contexto, y en muchos contextos, si no en todos, no es determinante\. Entre los lógicos suele ser tema de discusión y de * investigación* el hecho de que las implicaturas se calculan, en realidad, en contextos reales de enunciado y, en ese caso, si se calcula de modo deductivo y paso a paso, como se sugiere en \(36\)\. Otro punto hasta ahora no resuelto, es si es siempre proposicional el conocimiento de información supuesta en el cálculo por parte del destinatario \(que como destinatario las calcula\) de las implicaturas de la conversación\.
 
 
 ## 314
-__LYONS, J\.__ \(1997__:314__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\.
+__LYONS, J\.__ \(1997:__314__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\.
 
 Una tercera propiedad de las implicaturas conversacionales, según Grice, es lo que él llamó la __no aislabilidad__\. Esta propiedad se basa, al menos inicialmente, en una aplicación directa de la distinción no técnica, ordinaria entre significado y forma\. __Una implicación es no aislable si está unida de modo inseparable al significado de un enunciado y no deriva normalmente de su forma__\. De esta formulación de lo que se quiere decir por no aislabilidad se deduce que \(como advirtió el mismo Grice\) las implicaturas basada en el subprincipio de manera no necesariamente serán no aislables: __la manera como algo se dice \(en el sentido pertinente de ‘manera’ y de ‘decir’__\) __afecta a la forma de lo que se dice__\. Dos enunciados sinónimos se diferencian en la longitud, en la complejidad gramatical o en el tecnicismo o la oscuridad de las palabras usadas pueden dar origen de hecho, por este mismo motivo, a implicaturas diferentes\. Cuando lo hacen, obviamente __no será posible sustituir un enunciado por el otro en el mismo contexto sin cambiar las implicaturas asociadas con ellos__\. En otros ejemplos, sin embargo, sería posible variar la forma de todo el enunciado \(es decir, de una inscripción de enunciado\) y mantener constante su significado \(lo que se dice\) sin por eso afectar lo que se implica\.
 
 
 ## 316
-__LYONS, J\.__ \(1997__:316__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__316__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 9\.6\. ¿Qué es el contexto?
 
@@ -2661,11 +2661,11 @@ __LYONS, J\.__ \(1997__:316__\) *Semántica lingüística*\. *Una* introducción
 
 
 ## 319\-320
-__LYONS, J\.__ \(1997__:319\-320__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__319\-320__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 10\. __LA SUBJETIVIDAD DEL ENUNCIADO\.__
 
- Habiendo estudiado la idea de contexto … podemos volver ahora al tema de los actos de habla y la acción locutiva, Comenzaremos por la __referencia__: la relación que se establece entre las expresiones lingüísticas y lo que representa en el mundo \(o universo del discurso\) en ocasiones particulares de enunciado\. Consideraremos a continuación un tipo particular de referencia, la __deixis__, que depende de manera fundamental del tiempo y lugar de enunciación, así como de las funciones del hablante \(muy particular, de los agentes locutivos\) y del destinatario en el mismo acto de enunciación\.
+ Habiendo estudiado la idea de contexto … podemos volver ahora al tema de los actos de habla y la acción locutiva, Comenzaremos por la __referencia:__ la relación que se establece entre las expresiones lingüísticas y lo que representa en el mundo \(o universo del discurso\) en ocasiones particulares de enunciado\. Consideraremos a continuación un tipo particular de referencia, la __deixis__, que depende de manera fundamental del tiempo y lugar de enunciación, así como de las funciones del hablante \(muy particular, de los agentes locutivos\) y del destinatario en el mismo acto de enunciación\.
 
  Por eso vamos a considerar las categorías de __tiempo__ y de __aspecto__, que no son universales, pero que ambas, juntas o por separado, se encuentran en muchas lenguas, no relacionadas en todo el mundo\. Como veremos, el tiempo a diferencia del as*pecto*, *es * *una* categoría referencial \(y más en concreto, deíctica\)\. 
 
@@ -2673,7 +2673,7 @@ __LYONS, J\.__ \(1997__:319\-320__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 320\-321
-__LYONS, J\.__ \(1997__:320\-321__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__320\-321__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 10\.1 La referencia
 
@@ -2683,7 +2683,7 @@ __LYONS, J\.__ \(1997__:320\-321__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 321\-322
-__LYONS, J\.__ \(1997__:321\-322__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__321\-322__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  Los lógicos suelen analizar las proposiciones simples en expresiones de dos tipos: nombres y predicados\. Los nombres sirven para seleccionar entidades \(o conjuntos de entidades\) en determinado mundo posible, para __referirse__ a ellas y hacer aseveraciones sobre tales entidades\. Los predicados sirven para atribuir cualidades a entidades singulares \(o conjunto de entidades\) y para establecer relaciones entre pares ordenados, triplos, etc\., de entidades \(o conjuntos\)\. Todo esto se formaliza en la lógica de predicados estándar\.
 
@@ -2693,7 +2693,7 @@ __LYONS, J\.__ \(1997__:321\-322__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 324
-__LYONS, J\.__ \(1997__:324__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__324__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  Los dos componentes de las descripciones definidas, separables desde el punto de vista de la lógica, dan lugar a dos tipos distintos de __presuposición: __existencial y clasificatoria \(o categorial\)\. Por ejemplo, si uno utiliza la expresión ‘la mujer’ o ‘el hombre’, en lo que llamaré, de manera aproximada, un contexto ordinario, se comprometa con la presuposición existencial de que el referente existe y con la presuposición clasificatoria de que es de una clase o categoría determinada: la categoría de las personas\. Sin embargo, los filósofos y lingüistas han estudiado más ampliamente la presuposición existencial, frente a la violación de una presuposición clasificatoria \(por ejemplo, *La cuadruplicidad bebe dilación, El jueves está en la cama con el viernes*: véase el epígrafe 5\.2\) no se puede explicar como anómala en absoluto en el marco de una semántica de base oracional\. Si consideramos el hoy famoso ejemplo, no hay nada incorrecto en la oración
 
@@ -2703,7 +2703,7 @@ En el enunciado de esta oración \(para hacer una aseveración\) en un momento e
 
 
 ## 324\-325
-__LYONS, J\.__ \(1997__:324\-325__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\* 
+__LYONS, J\.__ \(1997:__324\-325__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\* 
 
 Considerada así, gran parte de los estudios recientes sobre la presuposición realizados por semantistas orientados por la filosofía parecen ser poco menos que inútiles para la semántica lingüística —por muy importante que puedan parecer a los que se hallan comprometidos con la teoría del significado estrictamente de condiciones de verdad—\. Pero hay algo más importante que decir al respecto\.
 
@@ -2711,13 +2711,13 @@ Considerada así, gran parte de los estudios recientes sobre la presuposición r
 
 
 ## 325
-__LYONS, J\.__ \(1997__:325__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__325__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  Segundo, la falsedad del contenido descriptivo de una expresión referencial —ya sea una descripción definida o no— no anula el acto de referencia ni lo invalida\. Se puede uno referir con éxito, pero equivocadamente , a alguien o algo por medio de una descripción que resulta ser falsa\. Supongamos —adoptando y modificando el hoy famoso ejemplo— que *x* e *y* están en una fiesta y que *x* ve a una tercera persona, *z*, que lleva en la mano un vaso lleno de líquido incoloro con hielo y limón\. En tales circunstancias *x* podría referirse acertadamente a *z *para que le entendiese y usando la expresión ‘el hombre \(ese\) que bebe gintónic’\. … Supongamos también ahora que el vaso de *z* contiene, no gintónic, sino agua \(e incluso que *z* no lo está bebiendo, o algo así, sino sólo llevándolo a una persona distinta\)\. El hecho de que sea falso el contenido descriptivo de ‘el hombre que bebe un gintónic’ no significa que *x* haya fracasado en su referencia a z \. Si *y* identifica con acierto a *z* como el referente que se pretende, *x* se ha referido a z con éxito\. Desde luego, x no tiene por qué estar equivocado sobre los hechos para referirse con éxito \(aunque falsamente\) a *z*\. Hay todo tipo de situaciones ordinarias en que, por cortesía u otros motivos, nos referimos a personas, animales o cosas mediante descripciones que sabemos o creemos que son falsas\. Por ejemplo, *x*, que sabe o cree que *z* es el fruto de una relación extramatrimonial entre la esposa de *y* y una tercera persona \(un hecho que *y* puede o no ignorar\) puede, a pesar de ello, referirse con acierto a *z* con el sintagma ‘el hijo de *y’* \(o ‘tu hijo’ cuando *x* le habla a *y*\)\.
 
 
 ## 325\-326
-__LYONS, J\.__ \(1997__:325\-326__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__325\-326__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  En suma, la auténtica verdad o falsedad del contenido descriptivo de una expresión referente no es directamente pertinente para su acierto referencial\. La interacción humana normal está regida por un conjunto de convenciones culturalmente determinadas, entre las cua*les* *la cortesía* suele moderar a la confianza de manera muy conveniente\. La máxima de Grice de la calidad \(«diga sólo lo que usted cree que es verdad»\) no opera en todos los contextos\.
 
@@ -2725,7 +2725,7 @@ __LYONS, J\.__ \(1997__:325\-326__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 326\-327
-__LYONS, J\.__ \(1997__:326\-327__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__326\-327__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
 Las descripciones definidas sólo son una de las muchas subclases de sintagmas nominales de núcleo nominal usado como expresiones referenciales\. Otra sería, naturalmente, la de las descripciones indefinidas … :’un hombre’, ‘una determinada muchacha’, etc\. Una tercera subclase, objeto de una gran cantidad de estudios e investigaciones, es la de los llamados sintagmas nominales cuantificados: ‘todos los hombres’, ‘cada muchacha’, etc\. En los intentos para formalizar el concepto de referencia y exagerar una firme posición teórica, han surgido todo tipo de problemas anteriormente insospechados … el problema de la __opacidad referencial__\.
 
@@ -2741,7 +2741,7 @@ y
 
 
 ## 327
-__LYONS, J\.__ \(1997__:327__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__327__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  En este capítulo se ha destacado que la referencia de casi todos los sintagmas, incluyendo los nombres propios, depende del contexto\. Sin embargo, lo que nos interesa aquí fundamentalmente es la segunda razón por la que \(2\) y \(3\) no tienen las mismas condiciones de verdad\. Esta es ‘la primera mujer primer ministro de Gran Bretaña’ puede recibir o una __interpretación literal por__ __extensión__ en que sirva para identificar a una determinada persona … o una __interpretación por__ __comprensión, __en que, para decirlo, en pocas palabras y quizá de manera tendenciosa por ahora, lo que interese no sea la persona concreta que el destinatario tiene en mente, sino determinado concepto que se adapta al contenido descriptivo de la expresión\. …
 
@@ -2749,7 +2749,7 @@ __LYONS, J\.__ \(1997__:327__\) *Semántica lingüística*\. *Una* introducción
 
 
 ## 328
-__LYONS, J\.__ \(1997__:328__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__328__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 10\.2 INDICIDAD Y DEIXIS
 
@@ -2759,15 +2759,15 @@ __LYONS, J\.__ \(1997__:328__\) *Semántica lingüística*\. *Una* introducción
 
 
 ## 329
-__LYONS, J\.__ \(1997__:329__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__329__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  
 
- Como ya dije antes, los términos ‘deixis’ e ‘índice’ nacen ambos del concepto de __referencia gestual__: o sea, de la identificación del referente por medio de algún gesto corporal por parte del hablante\. \(‘Deixis significa «indicar» o «mostrar» en griego:; ‘index’ es la palabra latina para el dedo señalador, igual que la española ‘índice’\. La indicación con la mano p el dedo es un método de identificación mediante un gesto corporal, que puede tener un origen natural, biológico, institucionalizado con esta función en muchas culturas\)\. Cualquier expresión referencial que tenga las mismas propiedades lógicas que un gesto corporal será deíctica por este motivo\. Los pronombres personales y demostrativos, en sus usos relevantes, son la clases más evidentes de expresiones lingüísticas que tienen estas propiedades claramente deícticas , según la definición etimológica\. Por ejemplo, en vez de decir *Yo soy feliz*, u hablante podría señalarse a sí mismo y decir *Feliz*; en lugar de decir *Eso es bonito*, podría apuntar a un determinado cuadro, en una exposición, y decir *Bonito*\. Naturalmente, podría apuntar simultáneamente al referente y utilizar la expresión deíctica apropiada; y de hecho, muchas expresiones deícticas se usan normalmente asociadas a determinado tipo de referencia gestual\.
+ Como ya dije antes, los términos ‘deixis’ e ‘índice’ nacen ambos del concepto de __referencia gestual:__ o sea, de la identificación del referente por medio de algún gesto corporal por parte del hablante\. \(‘Deixis significa «indicar» o «mostrar» en griego:; ‘index’ es la palabra latina para el dedo señalador, igual que la española ‘índice’\. La indicación con la mano p el dedo es un método de identificación mediante un gesto corporal, que puede tener un origen natural, biológico, institucionalizado con esta función en muchas culturas\)\. Cualquier expresión referencial que tenga las mismas propiedades lógicas que un gesto corporal será deíctica por este motivo\. Los pronombres personales y demostrativos, en sus usos relevantes, son la clases más evidentes de expresiones lingüísticas que tienen estas propiedades claramente deícticas , según la definición etimológica\. Por ejemplo, en vez de decir *Yo soy feliz*, u hablante podría señalarse a sí mismo y decir *Feliz*; en lugar de decir *Eso es bonito*, podría apuntar a un determinado cuadro, en una exposición, y decir *Bonito*\. Naturalmente, podría apuntar simultáneamente al referente y utilizar la expresión deíctica apropiada; y de hecho, muchas expresiones deícticas se usan normalmente asociadas a determinado tipo de referencia gestual\.
 
 
 ## 329
-__LYONS, J\.__ \(1997__:329’__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__329’__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  Vale la pena advertir en este punto que el concepto filosófico de __definición ostensiva__ … se basa en una comprensión de la referencia gestual y la deixis\. La ostensión es la referencia no verbal, gestual, destinada al cumplimiento de una función esencia en la definición de las expresiones lingüísticas, y cuando tiene éxito, entendida así\.
 
@@ -2775,7 +2775,7 @@ La ‘ostensión’ es, simplemente, una palabra basada en el latín, con el mis
 
 
 ## 329\-330
-__LYONS, J\.__ \(1997__:329\-330__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__329\-330__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  La etimología puede explicar el origen del término ‘deixis’, pero naturalmente, no puede dar una explicación completa de su uso ordinario\. Para hacer esto hemos de recurrir al concepto de __contexto deíctico__, que opera como una parte integrante del contexto de enunciación\. Cada acto de enunciación, cada acto locutivo, sucede en un contexto espacio temporal cuyo centro, o __punto cero__, se puede designar como el aquí\-y\-ahora\. Pero ¿cómo identificamos el aquí\-y\-ahora de cada enunciación? Una breve reflexión nos con*vencerá de * no hay otro modo de definir los adverbios demostrativos españoles ‘aquí’ y ‘ahora’ … más que relacionándolos o bien \(i\) con el lugar y el momento de enunciación, o bien \(ii\) con el lugar y el tiempo de un acto mental de conciencia o reflejo más o menos consciente\. La primera se puede designar como __deixis locutiva__; y la segunda, como __deixis cognitiva__… 
 
@@ -2783,19 +2783,19 @@ __LYONS, J\.__ \(1997__:329\-330__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 330
-__LYONS, J\.__ \(1997__:330__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__330__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 El contexto deíctico, por tanto, se centra sobre el aquí\-y\-ahora del hablante: es, a este respecto, __egocéntrico__ \(se caracteriza por un determinado tipo de egocentricidad del hablante\)\. El pronombre de primera persona, ‘yo’, en español, refiere \(normalmente\) al propio hablante: es decir, a cualquiera que esté hablando en un momento cualquiera\. Dado que la función de hablante, o en términos más generales, la función de agente locutivo, pasa de una persona a otra en el curso de una conversación, el punto cero del contexto deíctico cambia de uno a otro interlocutor conjuntamente con la referencia del ‘yo’ y el ‘aquí’\. Naturalmente, no sufre el mismo cambio la referencia ‘ahora’, ya que el hablante y el oyente operan, normalmente, con el mismo marco temporal compartido de referencia, por el acto de enunciación\. Así ocurre también, naturalmente, con el pasado, presente y futuro que \(en la deixis locutiva\) se definen explícita o implícitamente por relación al momento de enunciación\. Podemos considerar el pronombre ‘yo’ y los adverbios demostrativos ‘aquí’ y ¡’ahora… como expresiones referenciales que se reducen a una sola e identifican los componentes separables lógicamente del punto cero espaciotemporal del contexto deíctico…
 
 
 ## 331
-__LYONS, J\.__ \(1997__:331__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__331__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  La manera en que la deixis espaciotemporal puede decirnos qué proposición se ha expresado \(en el enunciado de determinada oración, por parte de un hablante particular, en un preciso momento\)… Lo que hay que hacer aquí se reduce a resaltar la cuestión general de que muchos enunciados \(es decir, inscripciones de enunciado\) en todas las lenguas son indiciales o deícticos, en el sentido de __que el valor veritativo de las proposiciones que expresan está determinado por las dimensiones espaciotemporales del contexto deíctico del contexto deíctico__\. Si el enunciado contiene un pronombre persona, un demostrativo de cualquier tipo, un verbo en tiempo pasado, presente o futuro, cualquiera, de una gran cantidad de expresiones como ‘ayer’, ‘el próximo año’, ‘por todas partes’, o un verbo como ‘ir’ o ‘traer’, es bastante evidente que expresará distintas proposiciones en contextos deícticos diferentes …
 
 
 ## 331
-__LYONS, J\.__ \(1997__:331__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__331__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  Pero las dimensiones espaciotemporales del contexto deíctico pueden estar implicada en un enunciado incluso cuando no hagan explícitas ni gramatical ni léxicamente; y esto no siempre se menciona o, si se menciona, no se destaca como merece\. Consideremos un enunciado como
 
@@ -2809,13 +2809,13 @@ El español, naturalmente, como muchas lenguas \(pero no todas\), gramaticaliza 
 
 
 ## 332\-333
-__LYONS, J\.__ \(1997__:332\-333__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__332\-333__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
- Hay que establecer ahora dos distinciones\. La primera entre lo que yo llamaré __deixis pura __e __impura__: entre expresiones cuyo significado se puede explicar completamente por medio del concepto de deixis y expresiones cuyo significado es deíctico en parte y en parte no deíctico\. Por ejemplo, los pronombres de primera persona y de segunda persona en español, ‘yo’ y ‘tú’, son puramente deícticos: refieren al agente locutivo y al destinatario, sin transmitir información adicional sobre ellos\. De modo parecido, los adjetivos y adverbios demostrativos \(en contraste con los pronombres demostrativos\) ‘este’ frente a ‘ese’ y ‘aquí’ frente a ‘ahí’, cuando se usan con referencia espaciotemporal, son deícticos puros: identifican al referente \(una entidad o lugar\) en relación con la localización del acto locutivo y sus participantes\. Pero los pronombres de tercera persona singular, por el contrario, ‘él’ y ‘ella’ y ‘ello’, son deícticos impuros: codifican las distinciones del significado tradicionalmente asociadas a los términos ‘masculino’, ‘femenino’ y ‘neutro’\. Dado en que estas distinciones se basan en __propiedades del referente__ que no tienen nada que ver con la ubicación espaciotemporal de ‘él’, ‘ella’ o ‘ello’ o con función en el acto locutivo, son claramente no deícticas \.Las ex*presiones deícticas* imputas \(es decir, no exclusivamente deícticas\) codifican y combinan la información deíctica y la no deíctica\.
+ Hay que establecer ahora dos distinciones\. La primera entre lo que yo llamaré __deixis pura __e __impura:__ entre expresiones cuyo significado se puede explicar completamente por medio del concepto de deixis y expresiones cuyo significado es deíctico en parte y en parte no deíctico\. Por ejemplo, los pronombres de primera persona y de segunda persona en español, ‘yo’ y ‘tú’, son puramente deícticos: refieren al agente locutivo y al destinatario, sin transmitir información adicional sobre ellos\. De modo parecido, los adjetivos y adverbios demostrativos \(en contraste con los pronombres demostrativos\) ‘este’ frente a ‘ese’ y ‘aquí’ frente a ‘ahí’, cuando se usan con referencia espaciotemporal, son deícticos puros: identifican al referente \(una entidad o lugar\) en relación con la localización del acto locutivo y sus participantes\. Pero los pronombres de tercera persona singular, por el contrario, ‘él’ y ‘ella’ y ‘ello’, son deícticos impuros: codifican las distinciones del significado tradicionalmente asociadas a los términos ‘masculino’, ‘femenino’ y ‘neutro’\. Dado en que estas distinciones se basan en __propiedades del referente__ que no tienen nada que ver con la ubicación espaciotemporal de ‘él’, ‘ella’ o ‘ello’ o con función en el acto locutivo, son claramente no deícticas \.Las ex*presiones deícticas* imputas \(es decir, no exclusivamente deícticas\) codifican y combinan la información deíctica y la no deíctica\.
 
 
 ## 333
-__LYONS, J\.__ \(1997__:333__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__333__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 Considérese por ejemplo,
 
@@ -2835,13 +2835,13 @@ y \(9\) ¿Quién es esa persona?
 
 
 ## 334\-335
-__LYONS, J\.__ \(1997__:334\-335__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__334\-335__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  Las lenguas varían apreciativamente con respecto al tipo de información no deíctica con la información deíctica en el significado de expresiones particulares\. Es importante señalar que la parte no deíctica del significado de los deícticos impuros puede ser o descriptiva \(o proposicional\) o socioexpresiva\. La última suele estar codificada en el significado de los pronombres: de manera apreciable, y en una escala sin paralelo en lenguas europeas, en lenguas como el japonés, coreano, javanés y muchas otras del sudeste asiático\. La llamada distinción T/V, que se encuentra en muchas lenguas europeas, como ‘tú’ frente a ‘usted’, en español, ‘tú frente a ‘vos’ en francés, ‘du’ frente a ‘Sie’ en alemán, etc\., muy estudiada en publicaciones de sociolingüística y psicolingüística, ejemplifica el fenómeno en una relativamente pequeña y sólo con respecto a los pronombres usados para referirse al desti*natario*\. … La segunda distinción \(que no se ha de confundir con la distinción entre deixis pura e impura\) es la que se da entre __deixis primaria__ y __secundaria__\. 
 
 
 ## 337
-__LYONS, J\.__ \(1997__:337__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__337__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  El término ‘tiempo’ es uno de esos términos de la gramática tradicional que quienes no manifiestan ningún dominio especial de la lingüística usan ampliamente en su sentido tradicional\. Una de las precisiones hechas en el epígrafe anterior era que hay muchas lenguas naturales que no tienen tiempo gramatical\. Muchos estudiantes encuentran difícil aceptar esto, en principio\. Es importante destacar, por tanto, que el que una lengua no tenga tiempo gramatical no significa que los hablantes de tal lengua \(por ejemplo, el chino y el malayo\) no puedan distinguir lingüísticamente entre sucesos en presente o pasado o bien entre sucesos en presente y futuro\. Lo que significa es que tales distinciones de referencia temporal deíctica están lexicalizados, en vez de gramaticalizadas\. Es como si en español tuviéramos una oración sin tiempo, gramaticalmente correcta, como
 
@@ -2857,15 +2857,15 @@ para referirse al presente, al paso y al futuro, según el caso\.
 
 
 ## 337\-338
-__LYONS, J\.__ \(1997__:337\-338__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__337\-338__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 En español, la referencia deíctica temporal está gramaticalizada \(como tiempo y flexión verbal\) y lexicalizada \(en una gama de adverbios temporales\)\. A menudo, sin embargo, el tiempo gramatical es redundante, porque el contexto aclara si el suceso expresado tuvo lugar en el pasado, tiene lugar en el presente o tendrá lugar, ocurrirá, en el futuro\. No hay nada raro, por tanto, en que una lengua no posea tiempo gramatical\. Las lenguas carentes de tiempo \(gramatical\) no son intrínsecamente menos expresivas o semánticamente más pobres \(supuesto que tienen una gama suficientemente amplia de expresiones léxicas\) que las lenguas dotadas de tiempo \(gramatical\)\. Deberíamos añadir, de pasada, que es posible, por supuesto, definir el término ‘tiempo’ de manera que incluya las expre*siones léxicas*\. … En el uso habitual de lingüistas \(si no de filósofos y lógicos\) el tiempo gramatical es por definición una materia de gramaticalización\.
 
- Se suele aceptar que el tiempo gramatical supone, no la simple referencia temporal como tal, sino la referencia temporal __deíctica__: es decir, que supone la referencia al momento o intervalo de tiempo determinado según el momento del enunciado\. Cuando se usa con lo que suele considerar como el __significado básico__, el tiempo presente \(en cualquier lengua que tenga un tiempo presente\) refiere o al momento del mismo enunciado \(el punto cero temporal, el aquí\-y\-el\-ahora del contexto lingüístico\) o, más en general, al intervalo o el período de tiempo que contiene el momento del enunciado\.
+ Se suele aceptar que el tiempo gramatical supone, no la simple referencia temporal como tal, sino la referencia temporal __deíctica:__ es decir, que supone la referencia al momento o intervalo de tiempo determinado según el momento del enunciado\. Cuando se usa con lo que suele considerar como el __significado básico__, el tiempo presente \(en cualquier lengua que tenga un tiempo presente\) refiere o al momento del mismo enunciado \(el punto cero temporal, el aquí\-y\-el\-ahora del contexto lingüístico\) o, más en general, al intervalo o el período de tiempo que contiene el momento del enunciado\.
 
 
 ## 338\-339
-__LYONS, J\.__ \(1997__:338\-339__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__338\-339__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 Las definiciones tradicionales de ‘tiempo’, en las que se basan todas las definiciones estándar de diccionario, se equivocan o son defectuosas en que no hacen explícito el carácter esencialmente deíctico de tiempo gramatical… 
 
@@ -2873,7 +2873,7 @@ Ante todo, tienden a ser tipológicamente restringidas, porque consideran el tie
 
 
 ## 339
-__LYONS, J\.__ \(1997__:339__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__339__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 Dada la direccionalidad objetiva y subjetiva del tiempo, en la naturaleza y como expresión delos seres humanos, por supuesto se puede definir el pasado, el presente y el futuro de manera universal en relación con el punto cero temporal \(locutivo o cognitivo\) del contexto deíctico\. No se sigue, sin embargo, que todas las lenguas con tiempo deban tener necesariamente un tiempo pasado, un tiempo presente y un tiempo futuro\. Hay, en principio, muchas maneras diferentes en que se puede gramaticalizar las distinciones de referencia temporal deíctica\. Muchos sistemas de tiempo de una lengua natural son, de hecho, básicamente dicotómicos, más que tricotómicos\.
 
@@ -2881,7 +2881,7 @@ Dada la direccionalidad objetiva y subjetiva del tiempo, en la naturaleza y como
 
 
 ## 345
-__LYONS, J\.__ \(1997__:345__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__345__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
 10\.4 LA CATEGORÍA GRAMATICAL DEL ASPECTO
 
@@ -2889,25 +2889,25 @@ __LYONS, J\.__ \(1997__:345__\) *Semántica lingüística*\. *Una* introducción
 
 
 ## 346
-__LYONS, J\.__ \(1997__:346__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__346__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  Como se ha dicho, la definición del aspecto en la teorías lingüística general es controvertida\. Un punto de controversia es si en esencia es una categoría temporal o no\. Para simplificar la exposición se va a suponer que lo es\. Al hacer esta suposición se presenta tácitamente una explicación objetivista, más que subjetivista, del aspecto … Las teorías subjetivistas del aspecto destacarían el punto de vista del hablante \(o agente locutivo\), más que las supuestas características temporales objetivas de la situación \(estado de las cosas, sucesos, procesos, etc\.\) que se describen por el contenido proposicional de la oración enunciada… yo destacaría que, aun cuando se supone que el aspecto es básicamente una categoría objetiva, temporal, en todas las lenguas que tienen aspecto hay muchos usos subjetivos de forma aspectualmente marcadas…
 
 
 ## 346
-__LYONS, J\.__ \(1997__:346’__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__346’__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  Entonces ¿cómo se definiría el aspecto como una categoría objetiva temporal? Es imposible dar el mismo tiempo de respuesta a esta pregunta que a la pregunta de qué es el tiempo\. Para lo que aquí nos interesa, una definición general del aspecto se podría enunciar en los siguientes términos: __el aspecto es una categoría que resulta a partir de la gramaticalización de la configuración temporal interna \(o contorno\) de las situaciones \(acciones, sucesos, estados, etc\.\)__ \.Por desgracia, no hay una palabra española que recoja el sentido de «acciones, sucesos, estados, etc\.»\)\. Algunos especialistas usan la palabra ‘situación’ \(como hago yo\) como un término técnico para este fin, aclarando que este sentido técnico denota el estado de los asuntos y de los sucesos momentáneos, por un lado, y de las actividades y de los procesos por otro\.
 
 
 ## 347
-__LYONS, J\.__ \(1997__:347__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__347__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  El aspecto, por tanto, es una categoría gramatical\. A diferencia del tiempo, sin embargo, se relaciona intrínsecamente con el verbo o, más en general, con el predicado\. Mientras que el significado expresado parece que no es parte del significado proposicional de las oraciones, no hay duda de que el tipo de significado expresado por el aspecto \(supuesto de que el aspecto es básicamente una categoría objetiva, temporal\) se incluye en el contenido proposicional de las oraciones \(o cláusulas\)\. Razonablemente, ‘canta’ y ‘cantaba’ tienen el mismo contenido proposicional \( y en contextos apropiados pueden expresar exactamente la misma proposición\)\. Con este análisis de su significado, el tiempo gramatical será un operador oracional que sitúa la proposición \(de manera deíctica\) en el mundo que pretende describir\. Pero ‘cantó’ y ‘cantaba’ no son equivalentes ni semánticamente ni en términos de condiciones de verdad en ningún mundo que se pretenda describir\. Considerado desde le punto de vista semántico —y más en particular desde el punto de vista de la semántica formal—, __la diferencia entre el tiempo y el aspecto que acabamos de mencionar, junto con que el primero es deíctico y el segundo no le es, es quizá la diferencia más importante entre estas dos categorías gramaticales__\.
 
 
 ## 347\-348
-__LYONS, J\.__ \(1997__:347\-348__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__347\-348__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  __Entre los conceptos que se suelen suscitar en los estudios del aspecto se puede señalar: la duración, lo puntual, la terminación, la frecuencia y el inicio o arranque de la acción__\. Sería imposible en el espacio de que disponemos considerar cómo se codifican estas propiedades temporales en los sistemas gramaticales de las lenguas particulares\. 
 
@@ -2917,7 +2917,7 @@ __LYONS, J\.__ \(1997__:347\-348__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 348\-349
-__LYONS, J\.__ \(1997__:348\-349__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__348\-349__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
 Por supuesto, en el mundo físico no hay sucesos ideales: un destello de un relámpago, o un golpe en la puerta, como el mismo Big Bang, han tenido objetivamente alguna extensión en el tiempo \(o espacio\-tiempo\)\. Pero situaciones que, de hecho, tiene una extensión temporal \(es decir, duración\) pueden percibirse, subjetivamente, como instantáneas \(es decir, como sucesos\)\. Además \(entrando en el meollo de la cuestión\), las situaciones que son clara y perceptiblemente durativas pueden representarse como sucesos: es decir, como situaciones cuya extensión temporal o estructura temporal interna sea irrelevante o inapreciable\. La elección entre aspecto perfectivo y el imperfectivo en ruso … es, en este sentido, subjetiva, aunque la distinción aspectual en sí misma se defina en términos de lo que parecen ser los conceptos objetivos de extensión temporal e instantaneidad\. …
 
@@ -2925,13 +2925,13 @@ Por supuesto, en el mundo físico no hay sucesos ideales: un destello de un rel�
 
 
 ## 349\-350
-__LYONS, J\.__ \(1997__:349\-350__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__349\-350__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  Según el punto de vista adoptado aquí, el mundo contiene un conjunto de entidades de primer orden \(con propiedades de primer orden\) incluidas en determinadas categorías ontológicas \(o tipos naturales\); también contiene agregados de sustancias o materia \(con propiedades de primer orden\), cuyas porciones se pueden individualizar, cuantificar, enumerar —y ser tratadas lingüísticamente como entidades— usando los recursos léxicos y gramaticales de la lenguas naturales particulares\. Todas las lenguas naturales, se puede suponer, dotan a sus usuarios con los medios para designar entidades de primer orden y expresar proposiciones que las describen en términos de sus propiedades \(de primer orden, reales o atribuidas, esenciales o eventuales\. Tale lenguas tienen la capacidad expresiva de los lenguajes formales de primer orden\. … Permite a sus usuarios cosificar o hipotetizar las propiedades de entidades de primer orden, las relaciones que mantienen entre ellos, y los procesos, actividades y estados \(así como los tipos de situaciones\) en que están involucrados\. Entre los recurso léxicos que el español proporciona para este fin se incluyen los nombres contables de segundo orden empleados en la oración anterior y a lo largo de este epígrafe \(‘propiedad’, ‘relación’, ‘proceso’, ‘situación’, etc\.\) junto con los verbos apropiados \(‘ocurrir’, ‘suceder’, ‘durar’, etc\.\) y adjetivos \(‘instantáneo’, *‘estático’/’dinámico’*, ‘durativo’, etc\.\) que nos permiten tratarlos metalingüísticamente como entidades ontológicamente\.
 
 
 ## 349\-350
-__LYONS, J\.__ \(1997__:349\-350__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__349\-350__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  Entre los recursos gramaticales que proporciona el español para este fin se incluyen los cuantificadores, los determinantes y los clasificadores usados primariamente para la referencia del primer orden: su uso secundario para la referencia de segundo orden \(con expresiones como ‘la situación en la que Juan se encontró a sí mismo’\. ‘la fase inicial de este proceso continuó’, et\.\) es lo que justifican el empleo en este contexto de términos filosóficos tradicionales de ‘cosificación’ e ‘hipostatización’\. …
 
@@ -2943,7 +2943,7 @@ __LYONS, J\.__ \(1997__359__\) *Semántica lingüística*\. *Una* introducción\
 
 
 ## 359\-360
-__LYONS, J\.__ \(1997__:359\-360__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
+__LYONS, J\.__ \(1997:__359\-360__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. 
 
  El mismo prejuicio intelectual y objetivista es evidente, como hemos señalado, en *los tratamientos *lógicos de la modalidad, donde el objetivismo se relaciona estrechamente con la proposicionalización\. Pero … el objetivismo también se encuentra en consideraciones estándar de la deixis \(incluyendo el tiempo\), el aspecto y otros fenómenos\.
 
@@ -2951,15 +2951,15 @@ __LYONS, J\.__ \(1997__:359\-360__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 360
-__LYONS, J\.__ \(1997__:360__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__360__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
 Aunque el dualismo metafísico no nos interesa aquí directamente, se ha de destacar su relación histórica con el dualismo del sujeto y el objeto\. Por esta relación histórica, sin duda, las asociaciones peyorativas del término ‘subjetividad’\. La ‘subjetividad’ en la tradición empirista se asoció con cierto tipo de un mentalismo no científico y no testificable de manera empírica\. Mientras que la ‘objetividad’ se asoció con un fuerte materialismo científico decimonónico \(ahora anticuado\)\. Sin ir más lejos en esta cuestión, se puede decir que la ‘subjetividad’, tal como el término se ha usado aquí, denota la propiedad \(o conjunto de propiedades\) de ser un sujeto de conocimiento \(es decir, de cognición, sentimiento y percepción\) o bien un sujeto de acción \(un agente\)\. Denota la propiedad de lo que el mismo Descartes llamó una «entidad pensante» \(en latín ‘res cognitans\), de lo que identificó, como han hecho otros, con el yo o el ego\. Al decir esto, , no me comprometo, sin embargo, con una posición dualista tajante, cartesiana o postcartesiana, entre el sujeto y el objeto del conocimiento\.
 
 
 ## 360\-361
-__LYONS, J\.__ \(1997__:360\-361__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__360\-361__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
- Y lo mismo se puede decir del concepto general de subjetividad\. Lo que interesa más en particular al lingüista es la __subjetividad locutiva__: la subjetividad del enunciado\. Si aceptamos de manera no crítica, por ahora, la distinción postcartesiana \(y postkantiana\) del ego subjetivo \(interno\), o yo, y del no ego objetivo \(externo\), o no yo, podemos decir de la subjetividad locutiva que es la expresión de sí mismo o sí misma del agente locutivo \(del hablante o del escritor, *del enunciado*\) en el acto del enunciado\. __La subjetividad locutiva es, en definitiva, la expresión de uno mismo en el uso de la lengua__\. 
+ Y lo mismo se puede decir del concepto general de subjetividad\. Lo que interesa más en particular al lingüista es la __subjetividad locutiva:__ la subjetividad del enunciado\. Si aceptamos de manera no crítica, por ahora, la distinción postcartesiana \(y postkantiana\) del ego subjetivo \(interno\), o yo, y del no ego objetivo \(externo\), o no yo, podemos decir de la subjetividad locutiva que es la expresión de sí mismo o sí misma del agente locutivo \(del hablante o del escritor, *del enunciado*\) en el acto del enunciado\. __La subjetividad locutiva es, en definitiva, la expresión de uno mismo en el uso de la lengua__\. 
 
  Definido así en concepto de subjetividad locutiva, podría parecer totalmente indiscutible y nada nuevo ni especialmente interesante\. Después de todo, la expresión del yo es algo de lo que hablamos con bastante libertad de manera no técnica en el discurso ordinario… Cuando nos ponemos a estudiar el concepto de subjetividad locutiva desde la perspectiva de la teoría lingüística moderna, sin embargo, en seguida descubrimos que está lejos de ser tan claro como podría parecer a simple vista\.
 
@@ -2967,7 +2967,7 @@ __LYONS, J\.__ \(1997__:360\-361__\) *Semántica lingüística*\. *Una* introduc
 
 
 ## 361\-362
-__LYONS, J\.__ \(1997__:361\-362__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__361\-362__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
 Muchos filósofos y psicólogos han argumentado conscientemente, sin embargo, que no se puede establecer una distinción así entre el sujeto y el objeto del conocimiento: más en concreto, que la estructura bipartita sujeto\-predicado del latín \(y otras lenguas europeas como el francés, el español, el inglés, el alemán, etc\.\) confundió a Descartes cuando separó el ego de su cognición en su famoso análisis de la proposición \(compuesta\) expresada en latín por la oración ‘cogito, ergo sum’ … __Los lingüistas no necesitan tomar postura sobre la valide de los argumentos filosóficos y psicológicos __\(aunque puedan aportar pruebas pertinentes basadas en el análisis gramatical y semántico de determinadas lenguas naturales\)\. Pero no deben aceptar de manera no crítica lo que yo designo como la consideración dualista estándar del yo, o el ego, como el sujeto del conocimiento y de la actividad\.
 
@@ -2975,7 +2975,7 @@ Muchos filósofos y psicólogos han argumentado conscientemente, sin embargo, qu
 
 
 ## 362\-365
-__LYONS, J\.__ \(1997__:362\-365__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
+__LYONS, J\.__ \(1997:__362\-365__\) *Semántica lingüística*\. *Una* introducción\. Barcelona: Paidós\. \*\*\*\*\*
 
  
 

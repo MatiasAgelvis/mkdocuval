@@ -4,5 +4,5 @@ hide:
   - toc
 ---
 
-# __Fichero de Ciencias del Significado__
+# __Blog de cine__
 ## Prof. Dr. Valmore Agelvis

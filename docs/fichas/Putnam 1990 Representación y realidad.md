@@ -114,7 +114,7 @@ __PUTNAM, H\. __\(1990:__24__\)\. *Representación y realidad*\.
 ## 25\-26
 __PUTNAM, H\. __\(1990:__25\-26__\)\. *Representación y realidad*\.
 
-Esto parece poco convincente y algo antifilosófico, pues *¿no es acaso* el propósito de toda reconstrucción racional “ajustar” las vagas nociones del sentido común? No queremos que la “reconstrucción racional” de una noción comparta la vaguedad de la noción preanalítica\. Si recordamos que no son las palabras como “juego” las que en realidad preocupan a Wittgenstein, sino precisamente palabras como “referencia”, “lenguaje”, “significado”, la situación es muy distinta\. … Y es precisamente l__a textura abierta de la referencia__\* lo que hace fracasar a las concepciones filosóficas clásicas\.
+Esto parece poco convincente y algo antifilosófico, pues *¿no es acaso* el propósito de toda reconstrucción racional “ajustar” las vagas nociones del sentido común? No queremos que la “reconstrucción racional” de una noción comparta la vaguedad de la noción preanalítica\. Si recordamos que no son las palabras como “juego” las que en realidad preocupan a Wittgenstein, sino precisamente palabras como “referencia”, “lenguaje”, “significado”, la situación es muy distinta\. … Y es precisamente __la textura abierta de la referencia__\* lo que hace fracasar a las concepciones filosóficas clásicas\.
 
 \* ¿Habrá algo de esto en la afirmación de Fabbri \(2000:37, 40\-41\): “creo que una característica del giro semiótico es que no acepta el principio de la arbitrariedad del signo” ; ”Es decir, la materia vista la dirección de la forma se convierte en sustancia \(las materias del mundo son tales porque ya estén preformadas\) y la forma es una organización de esta sustancia que mantiene cierto número de relaciones con ella, más o menos motivadas o inmotivadas\. Esta es una hipótesis esencial\.” ?\[VA\] Siendo la percepción una propioceptividad, ¿supone cierta ontología estésica? Me refiero a esa “textura abierta”\. La no arbitrariedad entraña “sustancias”, “propiedades”? Volvemos al reino de la metafísica? El propósito de la semiótica es la “reconstrucción del sentido” , aclara la semiótica; esa reconstrucción supone un “ajuste” de las nociones de sentido común?
 
@@ -176,7 +176,7 @@ __PUTNAM, H\. __\(1990:__30__\)\. *Representación y realidad*\.
 
 
 ## 30\-31
-__PUTNAM, H\. __\(1990__: 30\-31__\)\. *Representación y realidad*\.
+__PUTNAM, H\. __\(1990:__ 30\-31__\)\. *Representación y realidad*\.
 
  __Tres razones por las cuales el mentalismo no puede ser correcto__
 
@@ -188,13 +188,13 @@ La doctrina denominada “holismo del significado” surgió como reacción al p
 
  __Así, el holismo se opone … al positivismo__\. La concepción de los positivistas del lenguaje sostiene que todas las palabras descriptas significativas de nuestro lenguaje tienen que definirse en términos de un vocabulario “básico” consistente en palabras que representan nociones *epistemológicamente más primitivas* que, digamos, los términos teóricos de la ciencia\. El candidato favorito de los positivistas era un vocabulario constituido por términos de sensación, o bien por términos para lo supuestamente “observable”\. Si formulamos el positivismo como una tesis sobre las condiciones de verdad de las oraciones y no como una tesis sobre la definibilidad de los términos, podemos decir que, históricamente, los positivistas fueron los primeros en señalar que el significado de una oración debía estar dado por \(o ser posible de estar dado por\) una __regla que determine exactamente en qué situaciones empíricas puede afirmarse la oración\. …__
 
-__PUTNAM, H\. \(__1990__:31\-32\)\. *Representación y realidad*\.__
+__PUTNAM, H\. \(__1990:__31\-32\)\. *Representación y realidad*\.__
 
 __ __Básicamente los filósofos \(incluso los positivistas\) se dieron cuenta de que no es posible contrastar una teoría enunciado por enunciado\. … Los postulados individuales de una teoría, por lo general, no tienen \(o tienen muy pocas\) consecuencias empíricas cuando los separamos de los demás enunciados de la teoría\. … *Como* apunta __Quine,__ __ los enunciados se someten “como un todo” a la prueba de la experiencia, y no cada uno por separado \(de ahí el término “holismo”\.\)__
 
  *Lo mismo *\[↑\] vale para el lenguaje de la vida cotidiana\. Si alguien le dice, por ejemplo, que *el ladrón entró por la ventana y hay barro fuera de la ventana*, usted “deducirá” que hay *hay huellas de los pies en el barro\. *Pero esto no es una consecuencia lógica de los hechos relatados, pues usted ha hecho uso de una hipótesis auxiliar no enunciada: *si el ladrón entró por la ventana, caminó por la tierra para llegar a la ventana*, junto a otros rubros de información general\. \. Si su informante le dice “No, usaba zancos”, entonces no esperará encontrar huellas de zapatos en el barro sino hoyos de diferente forma\. Lo que tiene valor empírico es el cuerpo completo de enunciados empíricos de cada elemento individual\.
 
-__PUTNAM, H\. \(__1990__:32\-33\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__32\-33\)\. __*Representación y realidad*__\.__
 
  En el lenguaje ordinario, en contraste con el lenguaje formalizado, este fenómeno se halla mucho más difundido en virtud de la denominada “no monotonicidad” de la lógica del discurso de la vida cotidiana\. En un lenguaje formalizado, si decimos “Todos los pájaros vuelan” y “Los avestruces son pájaros”, se puede deducir que “Los avestruces vuelan”\. Pero el lenguaje ordinario no es así\. Si digo “Los halcones vuelan”, no pretendo que el oyente deduzca que un halcón con las alas rotas vuela\. __Lo que podemos esperar depende del sistema total de creencias\. Si el lenguaje describe la experiencia, lo hace a través de un sistema de enunciados y no enunciado por enunciado\.__
 
@@ -218,7 +218,7 @@ __Identidad pero no esencia__
 
 \[Caso del Dr\. Ignaz Semmelweis, médico partero en el hospital general de Viena en 1847\. El que fue mandado al manicomio por lavarse las manos\. El sabía de microorganismos provenientes de autopsia y de la falta de asepsia\. Los contagios pasaban través de los médicos que iban a la sala de partos sin lavarse las manos\. Semmelweis intuía el contagio sin pruebas, excepto las estadísticas\. Obligaba a los médicos a lavarse antes de operar, pedía a limpiar el mobiliario, las camas, la ropa de cama, etc\. El desinfectaba con agua clorada sin tener pruebas\. La palabra higiene\(asepsia\) es la misma pero su significado no, no hay esencias en las palabras\.\]
 
-__PUTNAM, H\. \(__1990__:35\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__35\)\. __*Representación y realidad*__\.__
 
  
 
@@ -226,11 +226,11 @@ __PUTNAM, H\. \(__1990__:35\)\. __*Representación y realidad*__\.__
 
  Alguna vez demostré que las nociones de __creencia justificada, creencia garantizada o creencia razonable__ no eran reducibles a nociones fisicalistas\. … hacer un análisis reduccionista de la noción de __creencia justificada__, digamos, identificando “estar justificado con “ser el resultado de tales y tales métodos” o “de tal y tal algoritmo” o “de tal y tal programa de computación”, ese algoritmo tendría que ser tan complejo como la descripción de la “inteligencia general” de un juez inductivo ideal\. 
 
-__PUTNAM, H\. \(__1990__:35\-36\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__35\-36\)\. __*Representación y realidad*__\.__
 
  Hemos visto, a partir de nuestro breve análisis del holismo del significado, que *contrastar* una teoría no es algo que se pueda hacer simplemente examinando las definiciones operativas de todos los términos y contrastando, uno por uno, los enunciados que conforman la teoría\. Antes bien, requiere cosas tan intangibles como evaluar la simplicidad \(que, a su vez, no es un único factor sino cosas muy diferentes en situaciones diferentes\) y confrontarla con nuestro deseo de __lograr una predicción__ __acertada__ y de conservar parte de la doctrina anterior\. Requiere olfato para elegir la transacción “correcta” entre estos valores\. La capacidad de realizar estas evaluaciones y transacciones es lo que Fodor llama __“inteligencia general”__, y no cree que pueda ser explicada en términos de “módulos” en un futuro previsible\. Para Fodor, es inútil tratar de describir la naturaleza de la inteligencia general y su “hipótesis de modularidad” apunta precisamente a separar el problema de comprender el “órgano del lenguaje” del problema de comprender la inteligencia general\.
 
-__PUTNAM, H\. \(__1990__:36\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__36\)\. __*Representación y realidad*__\.__
 
 __ __Ahora bien, quiero señalar que las nociones reunidas bajo el título de “significado” \(o “__intencionalidad__”\), por ejemplo, las nociones cruciales de “__idéntico significado__” e “i__déntica referencia__” son tan complejas como las nociones reunidas bajo el título de “inteligencia general”\. … 
 
@@ -238,7 +238,7 @@ __ __Ahora bien, quiero señalar que las nociones reunidas bajo el título de �
 
  
 
-__PUTNAM, H\. \(__1990__:38\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__38\)\. __*Representación y realidad*__\.__
 
  __Esta decisión ilustra lo que se denomina “caridad” o “beneficio de la duda” en la interpretación __… Toda interpretación depende de la caridad, pues siempre __tenemos que descontar por lo menos algunas diferencias de creencia cuando interpretamos__\. Por ejemplo, supongamos que estamos leyendo una novela escrita en inglés hace 200 años y nos encontramos con el sustantivo “*plant*” \[planta\]\. Normalmente identificamos sin vacilar “plant” con la actual palabra inglesa “*plant*”\. No obstante, al hacerlo estamos ignorando una multitud de diferencias en las creencias\. Por ejemplo, nosotros creemos que las plantas contienen clorofila, conocemos la fotosíntesis y el ciclo oxígeno\-dióxido de carbono, etc\. Estos aspectos son fundamentales para nuestra noción actual de planta\. Pero eran desconocidos hace 200 años\. …\. En síntesis, consideramos que el concepto “planta” tiene una identidad a través del tiempo pero no esencia y que el concepto “electrón” __tiene una identidad a través del tiempo pero no una esencia__\. 
 
@@ -246,15 +246,15 @@ __PUTNAM, H\. \(__1990__:38\)\. __*Representación y realidad*__\.__
 
  Ver J\.L\. Borges *Funes el memorioso*\.
 
-__PUTNAM, H\. \(__1990__:39\-40\)\. __*Representación y realidad*__\.__
+__PUTNAM, H\. \(__1990:__39\-40\)\. __*Representación y realidad*__\.__
 
-… No hay esperanzas de hallar una teoría sobre la identidad del significado o la referencia que se aplique a casos tan difíciles y que sea independiente de nuestra explicación de la “inteligencia general”\. … En consecuencia, l__a decisión de interpretar a alguien de un modo y no de otro se halla íntimamente vinculada con los juicios normativos__\.
+… No hay esperanzas de hallar una teoría sobre la identidad del significado o la referencia que se aplique a casos tan difíciles y que sea independiente de nuestra explicación de la “inteligencia general”\. … En consecuencia, __la decisión de interpretar a alguien de un modo y no de otro se halla íntimamente vinculada con los juicios normativos__\.
 
  Si reflexionamos sobre el papel que cumple la noción de __identidad del significado__ en lógica, dejará de *parecernos* sorprendente que dicha noción tenga una dimensión normativa\. En lógica, cometer* equivocidad*, esto es, usar un término en un sentido en un momento del razonamiento \(inductivo o deductivo\) y en un sentido distinto en otro momento del mismo,__ es una falacia\.__ \.\.
 
  En suma, en virtud del papel *epistémico* que cumplen nociones como “cometer equivocidad”, es necesario que las interpretaciones de modo que el significado de una palabra se mantenga idéntico \(en el sentido de ser tratado como idéntico\) en los procedimientos normales de fijación y justificación de creencias\.
 
-__PUTNAM, H\. \(__1990__:41\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__41\)\. __*Representación y realidad*\.
 
 3\. Nuestros conceptos dependen de nuestro entorno físico y social de un modo que la evolución \(que en lo que respecta a nuestros cerebros, terminó hace 30\.000 años\) no podía prever\.
 
@@ -264,25 +264,25 @@ Conexiones entre 1, 2 y 3\.
 
  Los mentalistas que siguen a Fodor sostienen que existe un repertorio innato de representaciones semánticas en cuyos términos pueden definirse explícitamente todos nuestros conceptos\.\. El punto 3 destaca una dificultad obvia: ¿cómo podrían ser innatos conceptos como “carburador”? Los pueblos primitivos que no están familiarizados con los motores de combustión interna pueden adquirir sin dificultad tales conceptos\. Según la concepción de Fodor, esto se debe a que el “lenguaje del pensamiento” de estos pueblos contenía el concepto “carburador” antes de adquirir la palabra correspondiente a ese concepto, aunque en su historia evolutiva no hubiera nada que pudiera explicar cómo adquirieron el concepto\. … una parte importante del argumento a favor del holismo del significado afirma que los cambios en los “procedimientos” de una comunidad que regulan el uso de un item del léxico normalmente no concuerdan con cambios en el significado del item … \)”momentum”, “electrón”, “planta”, etc\.\)\.
 
-__PUTNAM, H\. \(__1990__:42\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__42\)\. __*Representación y realidad*\.
 
  Por otra parte, si la *lingua mentis *no es innata, entonces la representación mental correspondiente a un rubro dado del lenguaje público puede variar, al menos en sus aspectos sintácticos … Las palabras de la *lingua mentis* de hablantes distintos que tienen “formas” sintácticas diferentes y distintos procedimientos asociados con ellas, pueden, no obstante, tener el mismo significado y la misma denotación\. \(Si redefinimos el sonido “significado” de manera que cualquier diferencia entre los dos procedimientos que un hablante asocia con la palabra “gato” y los procedimientos que un segundo hablante asocia con “gato” cuenta como diferencia en el “significado” de la palabra, entonces no tendremos una teoría del significado sino un rotundo “cambio de tema”\)\. Además, si las representaciones semánticas del cerebro no están compuestas por un __conjunto innato de primitivos semánticos__, sino que se forman a partir de la experiencia, como las palabras del lenguaje público, no hay ninguna razón para creer que una representación dada \(descrita sintácticamente\) no pueda tener significados diferentes para grupos distintos de seres humanos \(“significados diferentes” según criterios utilizados por un buen intérprete\)\. … “Traducir” nuestro lenguaje público a la *lingua mentis* no resuelve el problema del contenido conceptual, sino que lo desplaza de un lenguaje a otro\. 
 
-__PUTNAM, H\. \(__1990__:43\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__43\)\. __*Representación y realidad*\.
 
  Existen conexiones entre 1, 2 y 3 que es importante observar\. El argumento en contra del positivismo y en contra de la posibilidad de definir todos nuestros conceptos a partir de algún repertorio básico de “nociones epistemológicamente primitivas”, fue resumido en el punto 1\. El núcleo del argumento decía que adoptar la concepción del significado según la cual los descubrimientos científicos \(el descubrimiento de que el agua es H2O, de que la cantidad de movimiento no es exactamente el producto de masa por velocidad, de que los electrones obedecen al Principio de Complementariedad, etc\.\) cambian de significado de los términos pertinentes, violaría el principio mencionado en el punto 2, que dice que los significados deben ser tratados como idénticos en los procesos habituales de fijación y justificación de creencias\. Afirmar que cambiamos el significado de la palabra “agua” cuando decimos que el agua es H2O no sólo contradice nuestras ideas intuitivas de sinonimia, sino que viola este principio interpretativo que es fundamental para la fijación epistémica de la noción de “cambio de significado”\.
 
-__PUTNAM, H\. \(__1990__:43\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__43\)\. __*Representación y realidad*\.
 
  Además, hay una conexión entre los puntos 1 y 3: si las primeras concepciones de los positivistas lógicos hubieran sido correctas \(es decir, si el punto 1 hubiera sido falso \[El significado es holístico\], la evolución no habría tenido que proporcionarnos conceptos “innatos” tan improbables como *carburador* o *carga positiva*, aunque la hipótesis de lo innato fuera verdadera\. Bastaba con proveernos de un repertorio de nociones básicas \(los términos observacionales\) a partir de las cuales se podrían definir aquellos conceptos\. Pero \(como reconoce Fodor\) nuestros términos no pueden definirse a partir de un conjunto de términos mucho más pequeño y biológicamente más primitivo que el léxico total\. En síntesis, la verdad del holismo del significado refuta la única respuesta biológicamente plausible a la objeción 3 … En suma, el complicado mentalismo del MIT no queda refutado por ninguno de estos puntos, sino por 1,2 y 3 actuando en conjunto\.
 
-__PUTNAM, H\. \(__1990__:44\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__44\)\. __*Representación y realidad*\.
 
  En realidad, la razón por la cual comencé la discusión de las teorías computacionalistas y fisicalistas del significado … fue precisamente para mostrar cómo las teorías pueden entrar en colisión con el principio del holismo del significado y con varios “principios de caridad” \(en particular, con el principio de que los significados se preservan en la fijación normal de creencias\)\. … los argumentos que he desarrollado contra Fodor, especialmente los que se basan en el holismo del significado y en la máxima interpretativa de que los significados no son __alterados por los procedimientos normales de fijación y justificación de creencias … __
 
  … debemos considerar un aspecto importante del significado que hasta ahora he omitido deliberadamente\. Se trata del __carácter “interactivo” del significado, en el sentido de que depende no sólo de lo que está en nuestras cabezas sino también de lo que está en nuestro entorno y de cómo interactuamos con este entorno\.__
 
-__PUTNAM, H\. \(__1990__:45\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__45\)\. __*Representación y realidad*\.
 
  __ Capítulo__ __2 El significado, la gente y el mundo__
 
@@ -292,7 +292,7 @@ Etimológicamente, *meaning *\[significado\] se relaciona con *mind* \[mente\]\.
 
 \* \[VA: Ver fichas de Saussure al final de este archivo sobre la noción de “signo” como “concepto”, similar a la expuesta aquí: sgte/sgdo = signo y Sgdo\. es un concepto\. Luego, la noción saussureana de signo es aristotélica\. El significado es un concepto que junto con el significante, FORMA\(N\) el signo\]\.
 
-__PUTNAM, H\. \(__1990__:46\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__46\)\. __*Representación y realidad*\.
 
  … Usaré el término corriente “representación mental” en lugar de “concepto” porque la idea de que los conceptos son justamente eso: representaciones de la mente, es, en sí misma, una parte esencial de la imagen\.
 
@@ -306,13 +306,13 @@ __PUTNAM, H\. \(__1990__:46\)\. __*Representación y realidad*\.
 
 
 ## 46\-47
-__PUTNAM, H\. __\(1990__:46\-47\)\. __*Representación y realidad*\.
+__PUTNAM, H\. __\(1990:__46\-47\)\. __*Representación y realidad*\.
 
  Decir que son falsos es afirmar que no pueden existir cosas tales como “representaciones mentales” que satisfagan al mismo tiempo estas tres condiciones\. __No niego que a veces pensamos con ayuda de palabras, imágenes__ y otros signos e incluso puede que el pensamiento inconsciente sea aun más rico en el uso de las representaciones que conocemos\. Los modelos computacionales del cerebro/mente se tienen, por cierto, la noción de procesamiento de las representaciones\. Pero recordemos que la teoría aristotélica del significado… no dice *solamente* que pensamos en términos de representaciones mentales\. Es esencial para la teoría que la __identidad__ y la __diferencia__ de estas representaciones estén referidas a la *identidad de significado*; que cuando decimos que dos palabras tienen o no el mismo significado, lo que estamos diciendo es que están *asociadas* o no con la misma representación mental\. También es parte de la imagen aristotélica … que la identidad y la diferencia de las representaciones mentales asociadas sean lo que determina si dos palabras se refieren o no a la misma cosa\.
 
  Una manera de ver en dónde reside el problema quizá sea la siguiente: el modelo aristotélico … es como el modelo del criptógrafo de la mente\. Todos reconocen que la __identidad __y la __diferencia__ del significado no son lo mismo que la __identidad __y la __diferencia __de la palabra \(o el signo\)\. 
 
-__PUTNAM, H\. \(__1990__:47\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__47\)\. __*Representación y realidad*\.
 
  La palabras francesa “chat*” \[gato\] *no es lo mismo que la palabra “gato”, aunque ambas tienen el mismo significado\. Vemos nuevamente que la __identidad __y la __diferencia__ __de la referencia no son lo mismo que la__ __identidad y la diferencia de la palabra o signo__\. “He” \[él en inglés\] es el mismo signo, al menos fonéticamente, en hebreo y en inglés; ¡pero en hebreo significa “ella”\! Del mismo modo “bonnet” es fonética y ortográficamente la misma palabra en inglés británico y en inglés norteamericano, pero en inglés británico puede denotar, además, la cubierta de un automóvil, cosa que no ocurre en el inglés norteamericano\. Por otra parte, el “he” hebreo y el “he” inglés son ambos pronombres personales, y el “bonnet” norteamericano y el “bonnet” inglés son ambos sustantivos concretos\. En cada caso, las dos palabras son indiscernibles en el plano sintáctico\.
 
@@ -322,7 +322,7 @@ __PUTNAM, H\. \(__1990__:47\)\. __*Representación y realidad*\.
 
 Gato y misifú\. Can y perro\.
 
-__PUTNAM, H\. \(__1990__:48\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__48\)\. __*Representación y realidad*\.
 
  … __el modelo criptógrafo__ —el modelo de la comprensión del signo como su “decodificación” en una *lingua mentis *innata— __postula que un plano más profundo existe identidad entre signo y significado__\.
 
@@ -330,17 +330,17 @@ __PUTNAM, H\. \(__1990__:48\)\. __*Representación y realidad*\.
 
  Por otro lado, se supone que aun en la *lingua mentis* es posible que dos representaciones diferentes tengan la misma *referencia* \(denotación\)\. “Animal racional” y “bípedo implume” son dos “conceptos” diferentes que tienen la misma referencia \(un ejemplo popular entre los filósofos griegos\)\. Pero en la *lingua mentis*, cada signo designa un conjunto de cosas y lo designa sin ambigüedad en cada mundo posible\.
 
-__PUTNAM, H\. \(__1990__:48\(2\)\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__48\(2\)\)\. __*Representación y realidad*\.
 
  En algunas versiones de la teoría, lo que hace de hace de *animal racional* y *bípedo implume* dos conceptos diferentes, aunque abarquen las mismas cosas, es el hecho de que existe algún mundo posible en donde hay animales racionales que no son bípedos implumes y/o bípedos implumes que no son animales racionales\. __De ese modo, la *lingua mentis* es representada como una suerte de Lengua ideal__ en que los signos diferentes difieren siempre en el significado y en la que signos diferentes difieren en la referencia, no necesariamente en el mundo real, pero si al menos en alguno de los mundos posibles\. 
 
-__PUTNAM, H\. \(__1990__:48\-49\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__48\-49\)\. __*Representación y realidad*\.
 
  En este punto debemos ser muy cautelosos\. Lo que hace creíble que la mente \(o cerebro\) piense \(o compute\) *por medio* de representaciones es que todo el pensamiento que conocemos se vale de representaciones\. Pero ninguno de los métodos de representación que conocemos —discurso oral, escritura, pintura, grabado en piedra, etc\.— tienen la propiedad mágica de no admitir representaciones diferentes con el mismo significado\. __Ninguno de los métodos de representación que conocemos __—discurso oral, escritura, grabado en piedra, etc\.—__ tiene la propiedad mágica de no admitir representaciones diferentes con el mismo significado\. __Ninguno de los métodos de representación que conocemos tiene la propiedad de que las representaciones se refieran a los que las representaciones se refieran *intrínsecamente* a los que habitualmente se refieren, sea ello lo que fuere\. Todas las representaciones que conocemos se asocian con su referencia, que es contingente y susceptible de variación a medida que cambia el mundo y la cultura\. Este hecho debería bastarnos para desconfiar de las teorías que postulan un reino de “representaciones” con propiedades tan improbables
 
 … Según este punto de vista, las mismas representaciones tienen siempre los mismos “contenidos”, aunque los hablantes hayan crecido en entornos radicalmente distintos\.
 
-__PUTNAM, H\. \(__1990__:49\-50\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__49\-50\)\. __*Representación y realidad*\.
 
 La división de la labor lingüística
 
@@ -350,7 +350,7 @@ La división de la labor lingüística
 
 En concurso ponen a una señora a decir otro nombre para sal \(“cloruro de sodio”\)l: “Lo que pone usted en el huevo de su esposo”\. A lo cual responde ella :“talco”\. ¿Cuál era el estado mental en cada caso?
 
-__PUTNAM, H\. \(__1990__:50\-51\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__50\-51\)\. __*Representación y realidad*\.
 
 __*La referencia *es un fenómeno social\. __
 
@@ -358,25 +358,25 @@ __*La referencia *es un fenómeno social\. __
 
 __ … *En cualquier* caso, decir que el significado total de la palabra “oro” sólo es conocido por algún grupo de expertos, sea cual fuere, y que los demás sólo conocemos una parte del significado de dicha palabra, no es de ninguna utilidad para los mentalistas \(aunque Gareth Evans no hubiera estado de acuerdo\)\.__
 
-__PUTNAM, H\. \(__1990__:51\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__51\)\. __*Representación y realidad*\.
 
- __El objetivo del mentalismo es identificar una palabra con algo que se halla en el cerebro/mente de todo hablante que sabe usar la palabra__: en consecuencia, es una limitación para las teorías mentalistas el hecho de que el significado deba ser público\. Una teoría del significado que hace del significado la propiedad, por así decirlo, de un grupo de expertos no explicaría aquello que pensadores como Fodor o Chomsky han tratado de explicar\.
+ __El objetivo del mentalismo es identificar una palabra con algo que se halla en el cerebro/mente de todo hablante que sabe usar la palabra:__ en consecuencia, es una limitación para las teorías mentalistas el hecho de que el significado deba ser público\. Una teoría del significado que hace del significado la propiedad, por así decirlo, de un grupo de expertos no explicaría aquello que pensadores como Fodor o Chomsky han tratado de explicar\.
 
  ¿Qué es lo que ocurre? Si diferentes expertos conocen diferentes criterios para determinar si algo es oro y el hombre de la calle no conoce ningún criterio en absoluto, pero debe confiar en expertos, entonces ¿cómo podemos decir siquiera que la palabra “oro” tiene un significado? …
 
 En primer lugar, __lo que son las representaciones mentales o las descripciones mentales o las imágenes mentales en el cerebro/mente de las personas no determina, por lo general, la referencia de una palabra que saben cómo usar__\. Para la mayoría de nosotros, la representación mental de la palabra “oro” no va más allá de decirnos que se trata de un metal precioso de color amarillo\.
 
-__PUTNAM, H\. \(__1990__:52\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__52\)\. __*Representación y realidad*\.
 
  Por cierto, no indica la referencia de la palabra “oro” exactamente\. En el caso de “gorrión” o “petirrojo”, la representación mental nos dice mucho menos; y en el caso de “olmo” y “haya”, la representación mental no sirve para nada \(al menos si se trata de mi representación mental\)\. Pero lo que demostramos con ello __no es que esas palabras dejen de referirse a algo,__ __sino que la representación mental del hablante típico no es la que designa la referencia__\. Mientras sigamos el supuesto aristotélico de que la palabra “se ciñe al mundo” porque se asocia con una representación mental que se ciñe al mundo, no veremos más allá de nuestras narices\. Seguiremos pensando que las representaciones mentales deben escoger los referentes de la palabra, si no lo hacen, ¿quién lo hará? __Si equiparamos las representaciones mentales con el “significado” de la palabra, entonces daremos por cierto que el *significado* de un signo debe ser, simultáneamente: 1\) algo mental y 2\) “ceñirse al mundo” __\.\.\.
 
-__PUTNAM, H\. \(__1990__:53\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__53\)\. __*Representación y realidad*\.
 
  Vamos a suponer que abandonamos estos supuestos\. En consecuencia, somos libres para aceptar que la referencia existe y que es importante e interesante; y que las representaciones mentales existen y son, quizás, importantes e interesantes; pero __no debemos identificar más los problemas de referencia con los problemas de representación menta__l\. …
 
  Vamos a observar ahora qué ocurre cuando separamos los problemas\. Para empezar, observamos el problema de la referencia\. Luego veremos que es muy difícil —en mi opinión, imposible— aportar una teoría *reduccionista* de la referencia\. Pero si lo que nos proponemos no es una reducción de la noción de referencia a otras nociones consideradas más básicas desde el punto de vista metafísico o una teoría de “cómo el lenguaje se ciñe al mundo”, sino simplemente una descripción eficaz acerca de cómo palabras como “petirrojo”, “oro” y “olmo” pueden hacer referencia a algo, entonces no es difícil aportar una teoría\. … Si los expertos de un país determinan que algo es oro … y los expertos de otro país lo determinan valiéndose de una prueba diferente y si ambas pruebas coinciden … entonces la comunicación puede proseguir perfectamente bien\. __No hay razón para pensar que estas pruebas constituyen “el significado” de la palabra__\. 
 
-__PUTNAM, H\. \(__1990__:54\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__54\)\. __*Representación y realidad*\.
 
  Existe una *división lingüística* del trabajo\.__ El lenguaje es una forma de actividad cooperativa y no una actividad esencialmente individualista\. La imagen aristotélica es errónea cuando supone que todo lo necesario para el uso de la lengua está almacenado en la mente individual; pero ninguna lengua funciona, en realidad, de esa manera\.__
 
@@ -384,11 +384,11 @@ En suma, la referencia se fija *socialmente* y no está determinada por las cond
 
 Saussure \(1916\): los signos son realidades que tienen su asiento en el cerebro” \(p\. 42\) “El objeto concreto de nuestro estudio es, pues, el producto social depositado en el cerebro de cada uno, o sea la lengua” \(p\. 51\)
 
-__PUTNAM, H\. \(__1990__:54 \(2\)\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__54 \(2\)\)\. __*Representación y realidad*\.
 
 \(Si lo aceptamos, surgirá entonces un nuevo enigma: ¿por qué tenemos la noción de significado? Si podemos aceptar que las palabras se refieren a las cosas que se refieren sin recurrir a la noción de que están asociadas con “significados” fijos que determinan su referencia, entonces ¿por qué deberíamos tener la noción de significado? Pero esto no constituye realmente un enigma\. La mejor manera de habérselas con gente que habla una lengua distinta o, en ocasiones, habérselas con gente que habla nuestra propia lengua de un modo distinto, es encontrar una “__equivalencia” __entre ambas lenguas tal que, habida cuenta de la diferencia de deseos y creencias, sea dable esperar que al expresar una expresión en otra lengua, en un contexto dado, se evoquen respuestas similares a las que uno normalmente esperaría si estuviese en la propia comunidad lingüística y expresara la expresión “equivalente” en la propia lengua\.
 
-__PUTNAM, H\. \(__1990__:55\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__55\)\. __*Representación y realidad*\.
 
 Los olmos, las hayas y Searle
 
@@ -396,7 +396,7 @@ Los olmos, las hayas y Searle
 
  Searle no dice, por cierto, que las personas piensan conscientemente \(o incluso inconscientemente\): “Cuando digo ‘olmo’ pretendo referirme a los árboles que los expertos, en quienes confío, de momento, denominan ‘olmo’”\. Lo que Searle cree en que ésta es la “intención” de la gente, se la formule o no a sí misma en palabras \(o representaciones inconscientes\)__\. Un supuesto fundamental de su teoría es que existen condiciones “intencionadas” de la referencia__\. Además, esta afirmación está acompañada, en sus escritos, por un __extraño cuento metafísico acerca de cómo el lenguaje se ciñe al mundo\.__ __En su opinión, el hecho de que un concepto de mi mente sea capaz de referirse a algo fuera de mi mente se *explica por la química cerebral*__\.
 
-__PUTNAM, H\. \(__1990__:56\-57\)\. __*Representación y realidad*\.
+__PUTNAM, H\. \(__1990:__56\-57\)\. __*Representación y realidad*\.
 
 … Searle concede que los conceptos \(según él los entiende\) no pueden identificarse con los “significados” … Ningún filósofo … ha sostenido jamás que sea *analítico* que los olmos se denominen “elms” \(por angloparlantes o por mí o por los expertos en quienes confío, etc\.\)\[“Ume” en alemán, “orme” en francés\] … Según esta teoría, se cometería un error al traducir la palabra inglesa “elm” por la alemana “Ulme” o la francesa “orme, ¡ya que las tres difieren en su significado tanto como difieren “olmo”, “haya” y “arce”\! …
 
@@ -500,7 +500,7 @@ __PUTNAM, H\. \(__1990:__78\-79\)\. __*Representación y realidad*\.
 
 __PUTNAM, H\. \(__1990:__79\-80\)\. __*Representación y realidad*\.
 
- Ahora podemos reformular la concepción fodoriana acerca del __contenido estricto__ de modo que responda a la siguiente objeción: hasta el momento, los contenidos estrictos son sólo fórmulas no interpretadas de un lenguaje hipotético llamado mentalés\. Las fórmulas contenidas en el sistema de representación del cerebro, o “lenguaje”, están asociadas, efectivamente, con algo no lingüístico, aunque en la mayoría de los casos ello no determinan la referencia de nuestros términos\. Las palabras “olmo” y “haya” se asocian con el estereotipo de un árbol común de hojas caducas\. *Usando* el lenguaje de Fodor, podríamos decir que las palabras “olmo” y “haya” y “árbol común de hojas caducas” tienen el mismo “contenido estricto” pero difieren en el significado en la medida en que poseen un “contenido amplio” diferente\. El contenido estricto de “olmo” y “haya” \(la “configuración” apropiada en el módulo visual correspondiente\) no me permite distinguir los olmos de las hayas\. Sin embargo, contiene información empírica relevante sobre las propiedades observables de los olmos y las hayas \(por ejemplo, “que son árboles de hojas caducas”\)\. Según la concepción de Fodor y Chomsky, la __división de la labor lingüística__ pone de manifiesto que el c__ontenido estricto__ __de un término puede contener información suficiente sobre las propiedades observables de un referente, sin contener información suficiente como para permitir que se *identifique* efectivamente el referente__\. Por ejemplo si no puedo distinguir la plata de la aleación de metales \.\. ello no demuestra que “plata” y “metal plateado” tengan el mismo significado en el sentido de idéntico contenido amplio, pero tampoco demuestra que la “plata” y el “metal plateado” tengan el mismo contenido estricto\. 
+ Ahora podemos reformular la concepción fodoriana acerca del __contenido estricto__ de modo que responda a la siguiente objeción: hasta el momento, los contenidos estrictos son sólo fórmulas no interpretadas de un lenguaje hipotético llamado mentalés\. Las fórmulas contenidas en el sistema de representación del cerebro, o “lenguaje”, están asociadas, efectivamente, con algo no lingüístico, aunque en la mayoría de los casos ello no determinan la referencia de nuestros términos\. Las palabras “olmo” y “haya” se asocian con el estereotipo de un árbol común de hojas caducas\. *Usando* el lenguaje de Fodor, podríamos decir que las palabras “olmo” y “haya” y “árbol común de hojas caducas” tienen el mismo “contenido estricto” pero difieren en el significado en la medida en que poseen un “contenido amplio” diferente\. El contenido estricto de “olmo” y “haya” \(la “configuración” apropiada en el módulo visual correspondiente\) no me permite distinguir los olmos de las hayas\. Sin embargo, contiene información empírica relevante sobre las propiedades observables de los olmos y las hayas \(por ejemplo, “que son árboles de hojas caducas”\)\. Según la concepción de Fodor y Chomsky, la __división de la labor lingüística__ pone de manifiesto que el __contenido estricto__ __de un término puede contener información suficiente sobre las propiedades observables de un referente, sin contener información suficiente como para permitir que se *identifique* efectivamente el referente__\. Por ejemplo si no puedo distinguir la plata de la aleación de metales \.\. ello no demuestra que “plata” y “metal plateado” tengan el mismo significado en el sentido de idéntico contenido amplio, pero tampoco demuestra que la “plata” y el “metal plateado” tengan el mismo contenido estricto\. 
 
  
 
@@ -576,7 +576,7 @@ __PUTNAM, H\. \(__1990:__91\)\. __*Representación y realidad*\.
 
 __PUTNAM, H\. \(__1990:__92\)\. __*Representación y realidad*\.
 
- __En distintas ocasiones he advertido que identificar el significado con el papel conceptual implica un cambio de tema y no una explicación del significado__\. Si algunos lectores… identificar el significado con el papel conceptual en sentido intuitivo no implicaría un cambio de tema … pero sería igualmente erróneo\. Y sería un error porque la identificación de los papeles conceptuales en sentido intuitivo \(es decir, la identificación de creencias “esenciales”, inferencias “esenciales”, etc\.\) presupone la identificación de creencias en tanto idénticas o diferentes, esto es, presupone l__a noción ordinaria de significado__\.__ El papel conceptual no es un sustituto de esta noción__\. 
+ __En distintas ocasiones he advertido que identificar el significado con el papel conceptual implica un cambio de tema y no una explicación del significado__\. Si algunos lectores… identificar el significado con el papel conceptual en sentido intuitivo no implicaría un cambio de tema … pero sería igualmente erróneo\. Y sería un error porque la identificación de los papeles conceptuales en sentido intuitivo \(es decir, la identificación de creencias “esenciales”, inferencias “esenciales”, etc\.\) presupone la identificación de creencias en tanto idénticas o diferentes, esto es, presupone __la noción ordinaria de significado__\.__ El papel conceptual no es un sustituto de esta noción__\. 
 
    
 
@@ -762,7 +762,7 @@ P\. 121\-122
 ## 122
 __PUTNAM, H\. __\(1990:__122__\)\. *Representación y realidad\. *
 
- Este punto de vista sería razonable si mi objeción al funcionalismo se basara únicamente en el hecho de que la determinación del significado depende en parte del entorno social y en parte de la naturaleza de las cosas externas\. … __El significado y la referencia dependen de lo que denominé “descontar las diferencias de creencia__”\. Los funcionalistas como David Lewis o yo mismo sabemos que l__a atribución de significado__ a las “representaciones” de una persona, __la interpretación del lenguaje__ \(o signos del pensamiento\) de una persona, __deben realizarse juntamente con la atribución de creencias y deseos a la persona interpretada__\. Pero, en la práctica, dicha atribución no puede hacer jamás que los deseos y creencias del otro resulten idénticos a los nuestros\. Cuando es lícito considerar que dos palabras son sinónimos …\. depende de nuestros criterios de “razonabilidad”\.
+ Este punto de vista sería razonable si mi objeción al funcionalismo se basara únicamente en el hecho de que la determinación del significado depende en parte del entorno social y en parte de la naturaleza de las cosas externas\. … __El significado y la referencia dependen de lo que denominé “descontar las diferencias de creencia__”\. Los funcionalistas como David Lewis o yo mismo sabemos que __la atribución de significado__ a las “representaciones” de una persona, __la interpretación del lenguaje__ \(o signos del pensamiento\) de una persona, __deben realizarse juntamente con la atribución de creencias y deseos a la persona interpretada__\. Pero, en la práctica, dicha atribución no puede hacer jamás que los deseos y creencias del otro resulten idénticos a los nuestros\. Cuando es lícito considerar que dos palabras son sinónimos …\. depende de nuestros criterios de “razonabilidad”\.
 
 
 ## 122\-123
@@ -770,7 +770,7 @@ __PUTNAM, H\. __\(1990:__122\-123__\)\. *Representación y realidad*\.* *
 
  __Una definición funcionalista de la sinonimia y la correferencialidad formalizaría__ \(y, probablemente, “*reconstruiría* racionalmente”\) __e*stos criterios intuitivos de razonabilidad*__\. Y esto no es más fácil que examinar la naturaleza humana * in toto*\. __La idea de construir tal definición de sinonimia o correferencialidad es totalmente utópica\.__ 
 
- Para comprender cuán difícil es discernir que dos expresiones no son sinónimos, cabe señalar … cuando decimos, por ejemplo, que “gato” en castellano y “*meew” en thai *o “*gorbeh”* en persa son sinónimos —estamos haciendo una *proyección sobre proyecciones,* pues no sólo descontamos las diferencias entre “gatos comunes” y “gatos siameses” o “gatos persas” al clasificarlos a todos simplemente como “gatos”, sino que inferimos de su conducta verbal que el hombre tailandés o iraní consideran nuestros “gatos comunes” como “*meew” respectivamente \(pero no como “meew común” *o “gorbeh común”\)\. Las dificultades son, en efecto, tan grandes, y tan numerosos los casos controvertibles, que algunos filósofos \(especialmente __Quine\) han propuesto eliminar la noción de significado, por lo menos en ciencia, y hablar sólo de referencia__\. Pero es imposible soslayar las decisiones sobre l__a identidad de referencia__ que, como las decisiones acerca de la sinonimia, implican __descontar las diferencias de creencia__ \(y Quine no lo logra\)\.
+ Para comprender cuán difícil es discernir que dos expresiones no son sinónimos, cabe señalar … cuando decimos, por ejemplo, que “gato” en castellano y “*meew” en thai *o “*gorbeh”* en persa son sinónimos —estamos haciendo una *proyección sobre proyecciones,* pues no sólo descontamos las diferencias entre “gatos comunes” y “gatos siameses” o “gatos persas” al clasificarlos a todos simplemente como “gatos”, sino que inferimos de su conducta verbal que el hombre tailandés o iraní consideran nuestros “gatos comunes” como “*meew” respectivamente \(pero no como “meew común” *o “gorbeh común”\)\. Las dificultades son, en efecto, tan grandes, y tan numerosos los casos controvertibles, que algunos filósofos \(especialmente __Quine\) han propuesto eliminar la noción de significado, por lo menos en ciencia, y hablar sólo de referencia__\. Pero es imposible soslayar las decisiones sobre __la identidad de referencia__ que, como las decisiones acerca de la sinonimia, implican __descontar las diferencias de creencia__ \(y Quine no lo logra\)\.
 
 
 ## 124\-125
@@ -790,7 +790,7 @@ __PUTNAM, H\. \(__1990:__126\-127\)\. __*Representación y realidad*__\.* *__
 
  Esto no es una verdadera reducción de la relación de referencia en términos físico\-computacionales, sino una mera lista de todos los casos en los cuales una instancia físicamente posible se refiere a un objeto o a una clase de objetos físicamente posibles\. Una “relación” como la que se encuentra a la derecha de la “definición” —una relación caracterizada por una lista infinita que, a su vez, no está construida mediante una regla expresada en un número finito de palabras— no puede aparecer en enunciados llamados “leyes”, ni tampoco en las explicaciones\. …
 
- *Algunos filósofos* sostienen que, además de la noción de posibilidad física, poseemos otra noción de posibilidad: l__a posibilidad metafísica__\. … __y agregan que la “intensión” de la *referencia* no queda especificada hasta tanto no especifiquemos la extensión de “se refiere a” en todos los mundos metafísicamente posibles __\(y no sólo en los físicamente posibles\)\.
+ *Algunos filósofos* sostienen que, además de la noción de posibilidad física, poseemos otra noción de posibilidad: __la posibilidad metafísica__\. … __y agregan que la “intensión” de la *referencia* no queda especificada hasta tanto no especifiquemos la extensión de “se refiere a” en todos los mundos metafísicamente posibles __\(y no sólo en los físicamente posibles\)\.
 
  Si adoptamos este punto de vista, la afirmación de que es posible, en principio, definir la referencia en términos físico\-computacionales significa que podemos definir una relación físico\-computacional … cuya extensión en cualquier mundo metafísicamente posible coincide con la extensión de “se refiere a”\. 
 
@@ -798,7 +798,7 @@ __PUTNAM, H\. \(__1990:__126\-127\)\. __*Representación y realidad*__\.* *__
 ## 127\-128
 __PUTNAM, H\. __\(1990:__127\-128__\)\. *Representación y realidad*\.* *
 
-Si la noción de “posibilidad metafísica” no nos parece suficientemente fundamentada para satisfacer semejante requisito, sólo requeriremos que la extensión de un __*definiens*__ aceptable coincida con la extensión “s__e refiere a__” en cualquier cualquier mundo físicamente posible … si no se satisface, entonces a *fortiori* tampoco se satisfará el requisito “metafísico” más fuerte\. 
+Si la noción de “posibilidad metafísica” no nos parece suficientemente fundamentada para satisfacer semejante requisito, sólo requeriremos que la extensión de un __*definiens*__ aceptable coincida con la extensión “ __serefiere a__” en cualquier cualquier mundo físicamente posible … si no se satisface, entonces a *fortiori* tampoco se satisfará el requisito “metafísico” más fuerte\. 
 
 \( … Lewis y al*guna vez Carnap*\) intentaban demostrar que el lenguaje de cosas materiales era traducible al lenguaje de datos sensibles, las anteriores consideraciones no son totalmente distintas de las que se plantearon en la discusión acerca del fenomenalismo\. Al principio, los feneomenalistas sostenían que los enunciados sobre cosas materiales podrían ser “traducidos” a enunciados de *longitud infinita* sobre datos sensibles; pero inmediatamente se les señaló que, a menos que la traducción fuera finita … carecía de sentido discutir cuestiones acerca de si existe o no traducción, si es correcta, si es filosóficamente esclarecedora, etc\. Los antifenomenalistas decían: “__pruébenlo o cállense__”\.
 
@@ -830,7 +830,7 @@ __PUTNAM, H\. __\(1990:129\-__130__\)\. *Representación y realidad*\.* *
 ## 130\-131
 __PUTNAM, H\. __\(1990:__130\-131__\)\. *Representación y realidad*\.* *
 
- __Si hubiera un repertorio de palabras universales y biológicamente innatas__ —digamos, “términos observacionales”— en función del cual todas las palabras fueran analíticamente definibles, entonces la definición de “analiticidad” y la identificación de estos conceptos básicos lingüísticamente universales __resolverían el problema para el caso de los seres humano__s … __pero esta clase de soluciones queda descartada en virtud del holismo del significado__ … \(Además, la palabra puede tener el mismo significado aunque nuestro repertorio de oraciones “analíticas” sea diferente\. Por ejemplo, para el que vive en una monarquía, la oración “las personas elegidas por el rey para *ocupar altos* cargos son funcionarios públicos” puede formar parte de un repertorio de oraciones analíticas; en cambio, para quien está familiarizado con presidentes y no con reyes, las oraciones “analíticas” de su lenguaje sobre funcionarios públicos serán distintas; no obstante, esto no constituye diferencia alguna en el significado de “funcionario público”\)\.
+ __Si hubiera un repertorio de palabras universales y biológicamente innatas__ —digamos, “términos observacionales”— en función del cual todas las palabras fueran analíticamente definibles, entonces la definición de “analiticidad” y la identificación de estos conceptos básicos lingüísticamente universales __resolverían el problema para el caso de los seres  __humanos… __pero esta clase de soluciones queda descartada en virtud del holismo del significado__ … \(Además, la palabra puede tener el mismo significado aunque nuestro repertorio de oraciones “analíticas” sea diferente\. Por ejemplo, para el que vive en una monarquía, la oración “las personas elegidas por el rey para *ocupar altos* cargos son funcionarios públicos” puede formar parte de un repertorio de oraciones analíticas; en cambio, para quien está familiarizado con presidentes y no con reyes, las oraciones “analíticas” de su lenguaje sobre funcionarios públicos serán distintas; no obstante, esto no constituye diferencia alguna en el significado de “funcionario público”\)\.
 
 
 ## 131\-132
@@ -852,7 +852,7 @@ El número de neuronas de mi cerebro no es exactamente igual al número de de ne
 ## 133\-134
 __PUTNAM, H\. __\(1990:__133\-134__\)\. *Representación y realidad*\.* *
 
- En síntesis, lógicas inductivas diferentes pueden imponer diferentes “probabilidades a *priori*”\. Dado que l__a necesidad de supervivencia reducirá a variabilidad__, debemos recordar que estamos hablando de todas las especies físicamente posibles en todos los entornos físicamente posibles \(algunas de estas “especies” serán artefactos, como robots\), es decir, de todos los modos en que la evolución \(o lo que fuere\) podría actuar para producir vida inteligente, que sean compatibles con leyes físicas y no solamente del modo como la evolución actúa, de hecho, en el único entorno efectivamente existente\.
+ En síntesis, lógicas inductivas diferentes pueden imponer diferentes “probabilidades a *priori*”\. Dado que __la necesidad de supervivencia reducirá a variabilidad__, debemos recordar que estamos hablando de todas las especies físicamente posibles en todos los entornos físicamente posibles \(algunas de estas “especies” serán artefactos, como robots\), es decir, de todos los modos en que la evolución \(o lo que fuere\) podría actuar para producir vida inteligente, que sean compatibles con leyes físicas y no solamente del modo como la evolución actúa, de hecho, en el único entorno efectivamente existente\.
 
  *En este punto* se hace evidente cuando abandonamos el supuesto \(falso, de todos modos\) de que los organismos existentes son “racionales” en el sentido que la teoría de la decisión otorga a ese término\. __Es bien sabido que los seres humanos no son racionales en ese sentido__ y las “irracionalidades” \(que pueden ser, por cierto, adaptativas\) de las distintas especies sensibles físicamente posibles dependerán nuevamente de la especie particular y del entorno particular al que está adaptada esa especie …
 
@@ -1016,7 +1016,7 @@ __PUTNAM, H\. __\(1990:__155__\-__156__\)\. *Representación y realidad*\.* *
 
  En lugar de usar la noción de causación basada en los mundos posibles y en una teoría metafísica de las “clases naturales”, podemos adherirnos a la noción de los *físico\-matemáticos*, pero sin aceptar que las disyunciones de estados maximales que no tienen “nada en común” sean “realizaciones” de los términos de nuestra teoría\.   … tropezaríamos otra vez \[con\] la falta de razones para pensar que hay *estados* \(además de disyunciones infinitas\), en el sentido de estados “neuronales”, “físicos”  o incluso “computacionales”, que son “realizaciones” de los nombres y las descripciones de las actitudes proposicionales de la psicología popular\.
 
- En “Philosophy Our Mental Life”, el último de mis ensayos “funcionalistas”, mi propuesta tropezó con el mismo problema\. Después de abandonar la idea de que el formalismo de Turing es un modelo adecuado para la mente, empleé en su lugar … la “teoría psicológica”\. __Establecí que dos sistemas son “funcionalmente isomorfos” __cuando existe una función de los “estados” de uno sobre los “estados” del otro que los convierte en modelos *isomorfos* de esa teoría psicológica\. __La “nueva” tesis del funcionalismo era la siguiente__: __todos los estados mentales \(actitudes proposicionales, experiencias, etc\.\) se conservan en el isomorfismo funcional__\. … Con la noción de isomorfismo funcional se evitaba postular que es estado físico que cumple el papel de un estado mental dado debe ser el mismo en el caso de diferentes especies o aun en el caso de organismos diferentes\. Pero se suponía que era posible encontrar un estado físico para cada actitud proposicional en el caso de un organismo único\. 
+ En “Philosophy Our Mental Life”, el último de mis ensayos “funcionalistas”, mi propuesta tropezó con el mismo problema\. Después de abandonar la idea de que el formalismo de Turing es un modelo adecuado para la mente, empleé en su lugar … la “teoría psicológica”\. __Establecí que dos sistemas son “funcionalmente isomorfos” __cuando existe una función de los “estados” de uno sobre los “estados” del otro que los convierte en modelos *isomorfos* de esa teoría psicológica\. __La “nueva” tesis del funcionalismo era la siguiente:__ __todos los estados mentales \(actitudes proposicionales, experiencias, etc\.\) se conservan en el isomorfismo funcional__\. … Con la noción de isomorfismo funcional se evitaba postular que es estado físico que cumple el papel de un estado mental dado debe ser el mismo en el caso de diferentes especies o aun en el caso de organismos diferentes\. Pero se suponía que era posible encontrar un estado físico para cada actitud proposicional en el caso de un organismo único\. 
 
 
 ## 156\-157
@@ -1024,7 +1024,7 @@ __PUTNAM, H\. __\(1990:__156\-157__\)\. *Representación y realidad*\.
 
 Los organismos diferentes sólo deben ser “funcionalmente isomorfos” y no tienen que “realizar” del mismo modo la teoría psicológica apropiada\. En efecto, es posible que haya organismos que poseen actitudes proposi*cionales y que* no son “funcionalmente isomorfos”, pues … un sistema puede ser intencional siendo modelo de *cualquier *“teoría psicológica” \.
 
-… Vemos otra vez que en la concepción de Lewis sólo hay una teoría psicológica que nos ocupa: la psicología popular o psicología del sentido común … son, s__egún Lewis, todos los sistemas intencionales que existen__ … En ambos casos la teoría psicológica simplemente reemplaza el formalismo computacional \(las máquinas de Turing o lo que fuere\) en la tarea de “definir implícitamente” los estados mentales relevantes; y en ambos casos, se ha entendido de manera similar la noción de un “modelo” de una teoría psicológica, en tanto ello implica posesión de estados *físicos* que desempeñen los papeles que los estados mentales supuestamente desempeñan según la teoría psicológica\. 
+… Vemos otra vez que en la concepción de Lewis sólo hay una teoría psicológica que nos ocupa: la psicología popular o psicología del sentido común … son, __según Lewis, todos los sistemas intencionales que existen__ … En ambos casos la teoría psicológica simplemente reemplaza el formalismo computacional \(las máquinas de Turing o lo que fuere\) en la tarea de “definir implícitamente” los estados mentales relevantes; y en ambos casos, se ha entendido de manera similar la noción de un “modelo” de una teoría psicológica, en tanto ello implica posesión de estados *físicos* que desempeñen los papeles que los estados mentales supuestamente desempeñan según la teoría psicológica\. 
 
 
 ## 158\-159
@@ -1038,7 +1038,7 @@ __PUTNAM, H\. __\(1990:__159\-160__\)\. *Representación y realidad*\.* *
 
 La teoría de Lewis nuevamente examinada
 
-__Iré más lejos__: la psicología popular no puede desempeñar el papel que Lewis le asigna, o sea __el de definir las actitudes proposicionales__\. Si no puede desempeñar el papel, entonces las “trivialidades que constituyen nuestro conocimiento común” serían el sumario de todas maneras posibles de tener una creencia que podamos describir\. Y Lewis no nos ha dado ninguna razón para pensar que lo sean\. Consideremos ahora la creencia de que la nieve es blanca … Supongamos que un *habitante de*l futuro, que pertenece a una cultura ultracientífica y habla una lengua que no se vincula a ninguna de las nuestras, tiene una creencia que debería interpretarse de ese modo … ¿Resolveríamos el problema utilizando creencias de nuestra cultura, tales como: “__todos lo saben, todos saben que todos lo saben__”, etc\.?
+__Iré más lejos:__ la psicología popular no puede desempeñar el papel que Lewis le asigna, o sea __el de definir las actitudes proposicionales__\. Si no puede desempeñar el papel, entonces las “trivialidades que constituyen nuestro conocimiento común” serían el sumario de todas maneras posibles de tener una creencia que podamos describir\. Y Lewis no nos ha dado ninguna razón para pensar que lo sean\. Consideremos ahora la creencia de que la nieve es blanca … Supongamos que un *habitante de*l futuro, que pertenece a una cultura ultracientífica y habla una lengua que no se vincula a ninguna de las nuestras, tiene una creencia que debería interpretarse de ese modo … ¿Resolveríamos el problema utilizando creencias de nuestra cultura, tales como: “__todos lo saben, todos saben que todos lo saben__”, etc\.?
 
  Esos hablantes podrían creer que la nieve es blanca basándose en un calculo de mecánica cuántica … Así, las trivialidades sobre los “estímulos sensoriales” que nos producen el estado mental de creer que la nieve es blanca con tal o cual probabilidad, no se aplicarían a dichos hablantes\. Imaginemos que no sólo llegan a la creencia de modo distinto, sino que los estímulos sensoriales que a nosotros nos bastan les son insuficientes, al menos son un prolijo cálculo \(pues no van directamente de los estímulos sensoriales al “estado mental”\)\.
 
@@ -1102,7 +1102,7 @@ Con la ciencia de la computación se introdujo un paradigma totalmente nuevo ace
 
 Objetividad y relatividad conceptual
 
- Lo que presentaré ahora no es, en realidad, una teoría; en todo caso, no una teoría de la intencionalidad … __No veo ninguna posibilidad de una teoría científica de la “naturaleza” del reino de lo intencional__, y el supuesto mismo de que esta teoría debe ser posible, s__i existe algo que “tiende” a los fenómenos intencionales, es un supuesto que considero completamente equivocado__ …
+ Lo que presentaré ahora no es, en realidad, una teoría; en todo caso, no una teoría de la intencionalidad … __No veo ninguna posibilidad de una teoría científica de la “naturaleza” del reino de lo intencional__, y el supuesto mismo de que esta teoría debe ser posible, __si existe algo que “tiende” a los fenómenos intencionales, es un supuesto que considero completamente equivocado__ …
 
 
 ## 168
@@ -1166,7 +1166,7 @@ __PUTNAM, H\. \(__1990:__175\)\. __*Representación y realidad*\.
 
 __PUTNAM, H\. \(__1990:__176\)\. __*Representación y realidad*\.
 
- __Mi concepción es la siguiente__: __*un enunciado es verdaderamente respecto de una situación sólo en el caso de que sea correcto usar las palabras que de esa manera componen el enunciado al describir la situación*__\. … significa, ni más ni menos, que un hablante “suficientemente bien colocado” que use las palabras que de esa manera estará plenamente autorizado a considerar que el enunciado es verdadero con respecto a esa situación\. 
+ __Mi concepción es la siguiente:__ __*un enunciado es verdaderamente respecto de una situación sólo en el caso de que sea correcto usar las palabras que de esa manera componen el enunciado al describir la situación*__\. … significa, ni más ni menos, que un hablante “suficientemente bien colocado” que use las palabras que de esa manera estará plenamente autorizado a considerar que el enunciado es verdadero con respecto a esa situación\. 
 
 ¿__Qué significa “un hablante suficientemente bien colocado__”? Eso depende del enunciado que se esté considerando\. No hay algoritmo que determine si una posición epistémica dada es mejor o peor para hacer un juicio arbitrario\. Pero hechos del tipo “si usted tiene que decidir si E es verdadero, entonces es mejor hallarse en la circunstancia C1, que en la circunstancia C2\. “no son hechos “trascendentes”; hay hechos que deben ser determinados por la capacidad de* *los hablantes, si tienen suerte de hallarse en la circunstancia correcta\. ¿__Cuáles son las clases de circunstancias correctas__? Eso depende del juicio que esté considerando\.
 
@@ -1184,7 +1184,7 @@ Mi diagnóstico actual sobre el funcionalismo
 
  Para finalizar, me referiré a las principales __dificultades con las cuales tropieza el realismo científico en sus intentos por explicar la intencionalidad__ \(entre ellos mi propio “funcionalismo”\) … En primer término reparemos en las dificultades que presen*tan los programas* señalados hasta el momento: “mentalistas”, “funcionalistas”, “fisicalista *cum *funcionalistas”, “sociofuncionalistas”, etc\. 
 
-*Como vimos* en el primer capítulo, l__a referencia no es solamente un problema de “conexiones causales” sino un problema de interpretación__ \(de ahí el ejemplo del flogisto \.\.\); __y la interpretación es un problema especialmente holístico__\. Hemos afirmado que una “formalización” completa de la interpretación es un proyecto tan utópico como una “formalización” completa de Fijación de Creencias\.
+*Como vimos* en el primer capítulo, __la referencia no es solamente un problema de “conexiones causales” sino un problema de interpretación__ \(de ahí el ejemplo del flogisto \.\.\); __y la interpretación es un problema especialmente holístico__\. Hemos afirmado que una “formalización” completa de la interpretación es un proyecto tan utópico como una “formalización” completa de Fijación de Creencias\.
 
 __PUTNAM, H*\. \(*__*1990:*__*181\-182\)\. *__*Representación y realidad\.*
 

@@ -70,11 +70,11 @@ __LEVINSON, S\. __\(1983\-1998:__6__\)\.* Pragmática*\. Barcelona: Teide\.
 
 
 ## 6\-7
-__LEVINSON, S\.__ \(1983\-1998__:6\-7__\)\. *Pragmática\. *Barcelona: Teide*\.*
+__LEVINSON, S\.__ \(1983\-1998:__6\-7__\)\. *Pragmática\. *Barcelona: Teide*\.*
 
  Un ámbito que se ha propuesto para la pragmática, bastante restringido, es que la pragmática debería limitarse a tratar los principios del uso del lenguaje y no tener nada que ver con la descripción de la estructura lingüística\. O, acogiéndonos al la definición de Chomsky entre __competencia __y __actuación__, la pragmática sólo se ocupa de los principios de la actuación en el uso del lenguaje\. Así Katz y Fodor \(1963\) sugirieron que una teoría de la pragmática \(o una teoría de la __selección de ajuste__ como ellos la llamaron\) se ocuparía esencialmente de la desambiguación según contextos en que *fueran enunciadas\.* De hecho está claro que los contextos hacen mucho más que simplemente seleccionar entre varias interpretaciones semánticas disponibles de las oraciones —por ejemplo la ironía, el eufemismo y otros fenómenos por el estilo son tipos de uso que de hecho crean nuevas interpretaciones en sus contextos\. Con todo, podría afirmarse que la gramática \(en el sentido amplio que incluye la fonología, la sintaxis y la semántica\) se ocupa de __asignar un significado a las formas lingüísticas independientemente del contexto, mientras que la pragmática se ocupa de la posterior interpretación de estas formas en un contexto:↓__
 
-__LEVINSON, S\. \(__1983\-1998__:7\-8\)\. __*Pragmática*__*\. *__Barcelona: Teide\.
+__LEVINSON, S\. \(__1983\-1998:__7\-8\)\. __*Pragmática*__*\. *__Barcelona: Teide\.
 
 \[Las gramáticas\] son teorías acerca de la estructura de tipos de oraciones \.\.\.Las teorías pragmáticas, por el contrario, no hacen nada para explicar la estructura de las construcciones lingüísticas o las propiedades y relaciones gramaticales … sino que explican el razonamiento de los hablantes y de los oyentes elaborando la correlación en un contexto entre una muestra de oración y una proposición\. A este respecto, una teoría pragmática es parte de la actuación \(Katz, 1977:19\)
 
@@ -878,7 +878,7 @@ __LEVINSON, S\.__ \(1989\-1983:__99’__\)\. *Pragmática*\. Barcelona: Teide\.
 
 
 ## 99\-100
-__LEVINSON, S\.__ \(1989\-1983__:99\-100__\)\. *Pragmática*\. Barcelona: Teide\.
+__LEVINSON, S\.__ \(1989\-1983:__99\-100__\)\. *Pragmática*\. Barcelona: Teide\.
 
 Ante \(32\), en consecuencia, leeremos el enunciado como una secuencia de eventos que ocurrieron en ese orden:
 
@@ -1734,7 +1734,7 @@ __LEVINSON, S\.__ \(1989\-1983:__189\-190__\)\.* Pragmática*\. Barcelona: Teide
 
 \(iii\) Las presuposiciones sobreviven en contextos modales, condicionales y disyunciones en particular 
 
- Una manera de hablar acerca de estas propiedades de proyección y que ha ejercido cierta influencia, debida a Karttunen \(1973, 1974\) es denominar l*os contextos* en \(iii\) __agujeros__, y los contextos en \(ii\) f__iltros__ – una terminología que ya introdujimos de paso\. Para Karttunen también existe la tercera importante categoría de los __tapones__, incluyendo a los verbos de decir que, como hemos demostrado, es una propiedad dudosamente genuina del problema de proyección\. 
+ Una manera de hablar acerca de estas propiedades de proyección y que ha ejercido cierta influencia, debida a Karttunen \(1973, 1974\) es denominar l*os contextos* en \(iii\) __agujeros__, y los contextos en \(ii\) __filtros__ – una terminología que ya introdujimos de paso\. Para Karttunen también existe la tercera importante categoría de los __tapones__, incluyendo a los verbos de decir que, como hemos demostrado, es una propiedad dudosamente genuina del problema de proyección\. 
 
 
 ## 190
@@ -1826,7 +1826,7 @@ y difieren solamente en que \(167\) posee la presuposición adicional \(169\) y 
 ## 197\-198
 __LEVINSON, S\.__ \(1989\-1983:__197\-198__\)\.* Pragmática*\. Barcelona: Teide\.
 
- Las dos teorías que vamos a analizar asumen que las presuposiciones forman por lo tanto parte del significado convencional de las expresiones, incluso aunque no sean inferencias semánticas\. Esto podría servir para distinguir las presuposiciones de las implicaturas conversacionales, ya que de otro modo comparten muchas de las mismas propiedades de defectibilidad, puesto que las implicaturas conversacionales son no __separables__:__ es decir, no es posible encontrar otro modo de transmitir las mismas condiciones veritativas que no posea las implicaturas en cuestión__\. Por otro lado, no parece haber ningún problema en encontrar una manera de expresar el mismo contenido veritativo que en \(167\) o \(168\), evitando al mismo tiempo transmitir \(169\) o \(170\) respectivamente ⎯por ejemplo diciendo \(166\)\. 
+ Las dos teorías que vamos a analizar asumen que las presuposiciones forman por lo tanto parte del significado convencional de las expresiones, incluso aunque no sean inferencias semánticas\. Esto podría servir para distinguir las presuposiciones de las implicaturas conversacionales, ya que de otro modo comparten muchas de las mismas propiedades de defectibilidad, puesto que las implicaturas conversacionales son no __separables:____ es decir, no es posible encontrar otro modo de transmitir las mismas condiciones veritativas que no posea las implicaturas en cuestión__\. Por otro lado, no parece haber ningún problema en encontrar una manera de expresar el mismo contenido veritativo que en \(167\) o \(168\), evitando al mismo tiempo transmitir \(169\) o \(170\) respectivamente ⎯por ejemplo diciendo \(166\)\. 
 
 LEVINSON, S\. \(1989:217\-218\)\. *Pragmática*\. Barcelona: Teide\. 
 
@@ -2050,7 +2050,7 @@ __LEVINSON, S\.__ \(1989:__226\-227__\)\. *Pragmática*\. Barcelona: Teide\.
 
 \(ii\)__ acto ilocucionario: __el que, al enunciar una oración, hace una declaración, una oferta, una promesa, etc\., en virtud de la __fuerza__ convencional con él asociada \(o con su perífrasis performativa específica\)
 
-\(iii\) __acto perlocucionario__: el hecho de ocasionar efectos en a audiencia por medio de la enunciación de una oración, siendo tales efectos específicos de las circunstancias de enunciación
+\(iii\) __acto perlocucionario:__ el hecho de ocasionar efectos en a audiencia por medio de la enunciación de una oración, siendo tales efectos específicos de las circunstancias de enunciación
 
  El foco de interés de Austin, evidentemente, es el segundo tipo, el acto ilocucionario, y de hecho el término __acto e habla__ ha llegado a referirse exclusivamente a este tipo de acto\. Austin, prudentemente, argumentó que \(i\) y \(ii\) son separables, y que por lo tanto el estudio del significado podía seguir adelante de forma independiente, aunque suplementado por por una teoría de los actos ilocucionarios\. La distinción entre \(ii\) y \(iii\) era para Austin más problemática\. Algunos ejemplos nos indicarán cómo creía él que se aplica la distinción:
 
@@ -2206,7 +2206,7 @@ LEVINSON, S\. \(1989:236\-240\)\. *Pragmática*\. Barcelona: Teide\.
 
 5\.3 Antítesis: la reducción de la fuerza ilocucionaria a la semántica y sintaxis corrientes
 
- Directamente opuesta a la Tesis se encuentra una posición que podríamos denominar A__ntítesis__: según la Antítesis no hay necesidad de crear ninguna teoría especial de la fuerza ilocucionaria porque los fenómenos que analizó Austin pueden asimilarse a las teorías al uso de la sintaxis y la semántica veritativa\. …
+ Directamente opuesta a la Tesis se encuentra una posición que podríamos denominar __Antítesis:__ según la Antítesis no hay necesidad de crear ninguna teoría especial de la fuerza ilocucionaria porque los fenómenos que analizó Austin pueden asimilarse a las teorías al uso de la sintaxis y la semántica veritativa\. …
 
  *Armados con* la Antítesis podrían formar ahora que pueden reducir por completo la teoría de los actos de habla a cuestiones de sintaxis y de semántica veritativa\. El hecho de que toda oración al ser enunciada posee lo que parece ser una ‘fuerza ilocucionaria’ se explica por la presencia garantizada de una cláusula performativa subyacente o manifiesta, que posea la propiedad peculiar de ser verdadera por el simple hecho de ser dicha afortunadamente —de ahí la intuición de que n tiene sentido considerar su falsedad\. Las denominadas ‘condiciones de fortuna’ de los diferentes actos de habla son simplemente parte del significado de los verbos performativos implícitos o explícitos, que pueden entenderse en términos de entrañamiento o de presuposición semántica … El resultado básico es que la fuerza ilocucionaria se reduce a una “semántica de variedad de jardín”
 
@@ -2450,7 +2450,7 @@ __LEVINSON, S\.__ \(1989:__364\-365__\)\. *Pragmática*\. Barcelona: Teide\.
 ## 365
 __LEVINSON, S\.__ \(1989:__365__\)\. *Pragmática*\. Barcelona: Teide\.
 
- Dado que la noción de fuerza ilocucionaria indirecta puede realizarse en términos de análisis de la conversación … de ahí se sigue que la estructura del discurso y la estructura de la oración están estrechamente relacionadas también en este área\. Hay otras muchas clases de interacción entre la estructura conversacional y la sintaxis … por ejemplo, muchos procesos sintácticos generales parecen estar motivados por aspectos de la organización conversacional como a__lternativa de turnos__ y la __enmienda__\. Pero quizá los más interesantes se hallen en el área incluida bajo la \(bastante confusa\) noción de tema, puesto que muchos de los procesos sintácticos llamados __reglas de movimiento__ parecen poseer la función de indicar cómo se relacionan la información de la cláusula con lo que se ha hablado anteriormente\. Aquí es pertinente una especulación general que hicimos en el primer capítulo: quizás la gran mayoría de la maquinaria derivada en la sintaxis de las lenguas naturales puede explicarse funcionalmente haciendo referencia a las tareas conversacionales especializadas que muchas estructuras sintácticas parecen estar configuradas para ejecutar\.
+ Dado que la noción de fuerza ilocucionaria indirecta puede realizarse en términos de análisis de la conversación … de ahí se sigue que la estructura del discurso y la estructura de la oración están estrechamente relacionadas también en este área\. Hay otras muchas clases de interacción entre la estructura conversacional y la sintaxis … por ejemplo, muchos procesos sintácticos generales parecen estar motivados por aspectos de la organización conversacional como __alternativa de turnos__ y la __enmienda__\. Pero quizá los más interesantes se hallen en el área incluida bajo la \(bastante confusa\) noción de tema, puesto que muchos de los procesos sintácticos llamados __reglas de movimiento__ parecen poseer la función de indicar cómo se relacionan la información de la cláusula con lo que se ha hablado anteriormente\. Aquí es pertinente una especulación general que hicimos en el primer capítulo: quizás la gran mayoría de la maquinaria derivada en la sintaxis de las lenguas naturales puede explicarse funcionalmente haciendo referencia a las tareas conversacionales especializadas que muchas estructuras sintácticas parecen estar configuradas para ejecutar\.
 
  
 

@@ -10,7 +10,7 @@ De una manera sucinta, diremos que un problema es pragmático si no concierne, e
 
 
 ## 11
-__MOESCHLER J\., y A\. REBOUL__ \(1994\-1999__:11__\) *Diccionario enciclopédico de pragmática\. *
+__MOESCHLER J\., y A\. REBOUL__ \(1994\-1999:__11__\) *Diccionario enciclopédico de pragmática\. *
 
 …la pragmática se desarrolló principalmente en la tradición intelectual anglosajona\. La excepción notoria, en el ámbito francófono, está representada por los trabajos de Oswald Ducrot, que se clasifican cómodamente bajo la etiqueta de *pragmática* integrada, significando con esto que la pragmática se desarrolló principalmente en los Estados Unidos y en Inglaterra, fue inicialmente en virtud de la importancia de las corrientes analíticas en filosofía, pero también de las opciones radicales adoptadas por la teoría lingüística desde hace unos treinta años bajo la influencia de Chomsky\. Los problemas mayores de la pragmática, como el de los actos de habla o el de las *implicaturas *\(o implicitaciones\), que suscitaron un interés sin medida común en lingüística\. ¿Por qué? Nuestra respuesta es que el interés que los lingüistas han mostrado por los aspectos pragmáticos del lenguaje se debe principalmente a una reacción frente a las tesis radicales de Chomsky, en particular a la tesis de la autonomía de la sintaxis
 
@@ -42,7 +42,7 @@ El punto de partida de la pragmática se puede situar en los trabajos de los fil
 
 
 ## 18
-__MOESCHLER J\., y A\. REBOUL__ \(1994\-1999__:18__\) *Diccionario enciclopédico de pragmática\. *
+__MOESCHLER J\., y A\. REBOUL__ \(1994\-1999:__18__\) *Diccionario enciclopédico de pragmática\. *
 
  Pero, paralelamente, las conferencias de Grice fueron también determinantes, ya que Grice mostró que el lenguaje natural no era, como lo creían en su época los lógicos y filósofos analíticos, imperfecto, sino que las relaciones lógicas puestas en práctica por los enunciados en la comunicación \(en particular las relaciones de implicación y de inferencia\) estaban regidas por principios o reglas que tenían su fundamento en una concepción racional de la comunicación\. Desde entonces se hacía posible explicar cómo se comunica más de lo que significa con un enunciado…Grice defiende la tesis según la cual los contenidos comunicados indirectamente en la comunicación \(lo que él llamó *las implicaturas\) *se corresponden con los aspectos no vericondicionales de los enunciados\. En otros términos, lo que es implicado no se desprende únicamente del contenido informativo del enunciado del que se podrá decir que es, según los mundos o las circunstancias, verdadero o falso\.
 
@@ -414,7 +414,7 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*35’*__*\) Diccionario enci
 
 2\.3\.1\. La orientación sociolingüística
 
-Una primera orientación consiste en __rechazar la limitación de la competencia sólo al ámbito lingüístico__\. En la tradición de la etnografía de la comunicación \(cfr\. Gumperz y Hymes 1972, Gumperz 1989\), para la que el enunciado no puede ser separado del marco social y cultural en el que se ha proferido, la competencia lingüística se amplía a la competencia comunicativa: un conjunto de saberes, culturales e interaccionales, y una capacidad para actuar de forma apropiada en contextos o situaciones específica\. En ese marco, la pragmática se inscribiría en la sociolingüística: el estudio de la contextualización del lenguaje \(Gumperz 1989\), de la variación sociolingüística \(Lavob, 1976, 1978\), de los ritos de la interacción \(Goffman 1973, 1974, 1987\) prima sobre el estudio del sistema\. En resumen, en el estudio del lenguaje el acento se pone en sus f__unciones__ y no en sus __estructuras\. __
+Una primera orientación consiste en __rechazar la limitación de la competencia sólo al ámbito lingüístico__\. En la tradición de la etnografía de la comunicación \(cfr\. Gumperz y Hymes 1972, Gumperz 1989\), para la que el enunciado no puede ser separado del marco social y cultural en el que se ha proferido, la competencia lingüística se amplía a la competencia comunicativa: un conjunto de saberes, culturales e interaccionales, y una capacidad para actuar de forma apropiada en contextos o situaciones específica\. En ese marco, la pragmática se inscribiría en la sociolingüística: el estudio de la contextualización del lenguaje \(Gumperz 1989\), de la variación sociolingüística \(Lavob, 1976, 1978\), de los ritos de la interacción \(Goffman 1973, 1974, 1987\) prima sobre el estudio del sistema\. En resumen, en el estudio del lenguaje el acento se pone en sus __funciones__ y no en sus __estructuras\. __
 
 __*MOESCHLER J\., y A\. REBOUL \(1994\-1999:36\) Diccionario enciclopédico de pragmática\. *__
 
@@ -780,7 +780,7 @@ Austin se encuentra así confrontando el problema de distinguir realizativos y c
 
 En un artículo aparecido unos años después de *Los actos del lenguaje, «A classification of ilocutionary acts» \[“Una clasificación de los actos ilocucionarios\]* \(Searle 1977, 1979 …\), Searle aborda los actos ilocucionarios desde el ángulo de la clasificación\. Empieza por recordar las cinco categorías de base establecidas por Austin: *los judicativos, los ejercitativos, los compromisivos, los comparativos, los expositivos*\. En su artículo se propone como tarea examinar y modificar, si fuera necesario, esta clasificación de Austin en algunos de sus aspectos\.
 
- Searle parte e una distinción entre __verbos ilocucionarios __y __actos ilocucionarios__: esta distinción se basa en la distinción entre el aspecto ilocucionario del lenguaje que trasciende las diferencias entre lenguas particulares y los verbos ilocucionarios que pertenecen a lenguas particulares\.
+ Searle parte e una distinción entre __verbos ilocucionarios __y __actos ilocucionarios:__ esta distinción se basa en la distinción entre el aspecto ilocucionario del lenguaje que trasciende las diferencias entre lenguas particulares y los verbos ilocucionarios que pertenecen a lenguas particulares\.
 
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:7*__*4*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
@@ -788,15 +788,15 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:7*__*4*__*\) Diccionario enciclo
 
 Searle da una lista de los criterios que propone para el establecimiento de una taxonomía de los actos ilocucionarios\.
 
-\(1\) La __finalidad del acto__: la *finalidad del acto finalidad ilocucionaria* corresponde las condiciones esenciales del análisis searliano de los actos del lenguaje\. Constituye una parte de su *fuerza ilocucionaria*\.
+\(1\) La __finalidad del acto:__ la *finalidad del acto finalidad ilocucionaria* corresponde las condiciones esenciales del análisis searliano de los actos del lenguaje\. Constituye una parte de su *fuerza ilocucionaria*\.
 
-\(2\) La __dirección de la relación de ajuste entre las palabras y el mundo__: concierne al contenido proposicional del acto y es una parte o una consecuencia de su finalidad ilocucionaria\. En una aserción, las palabras tienen que «ajustarse» al mundo; en una promesa, en cambio, el mundo, a través de los actos del locutor, debe «ajustarse» a las palabras\.
+\(2\) La __dirección de la relación de ajuste entre las palabras y el mundo:__ concierne al contenido proposicional del acto y es una parte o una consecuencia de su finalidad ilocucionaria\. En una aserción, las palabras tienen que «ajustarse» al mundo; en una promesa, en cambio, el mundo, a través de los actos del locutor, debe «ajustarse» a las palabras\.
 
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:7*__*4’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
-\(3\) Los __estados psicológicos expresados__: cuando un locutor realiza un acto ilocucionario, indica *ipso facto* una actitud en relación con el contenido proposicional del acto\. El estado psicológico, como se observará, corresponde a la condición de sinceridad del análisis de los actos de habla\.
+\(3\) Los __estados psicológicos expresados:__ cuando un locutor realiza un acto ilocucionario, indica *ipso facto* una actitud en relación con el contenido proposicional del acto\. El estado psicológico, como se observará, corresponde a la condición de sinceridad del análisis de los actos de habla\.
 
-\(4\) La __fuerza con la que la finalidad ilocucionaria es presentada__: depende a menudo del mayor o menor grado de explicación del acto, o, si el acto es explicativo, del verbo realizativo empleado\.
+\(4\) La __fuerza con la que la finalidad ilocucionaria es presentada:__ depende a menudo del mayor o menor grado de explicación del acto, o, si el acto es explicativo, del verbo realizativo empleado\.
 
 Comparemos, por orden de fuerza creciente, los ejemplos \(59\), \(60\) y \(61\)
 
@@ -816,19 +816,19 @@ TAXONOMÍA SEARLIANA DE LOS ACTOS ILOCUCIONARIOS
 
 \(6\) Las __relaciones del enunciado con los intereses del locutor y del interlocutor: __esto corresponde a otra condición preparatoria\.
 
-\(7\) Las __relaciones con respecto del discurso__: esto concierne principalmente a los expositivos de la clasificación austiniana, es decir, los verbos tipo *répondre, conclure, objeter \[“responder, concluir, objetar*”\], etc\. Se les puede añadir conectores como *cependant, par ailleurs *\[“sin embargo, por otro lado”\], etc\.
+\(7\) Las __relaciones con respecto del discurso:__ esto concierne principalmente a los expositivos de la clasificación austiniana, es decir, los verbos tipo *répondre, conclure, objeter \[“responder, concluir, objetar*”\], etc\. Se les puede añadir conectores como *cependant, par ailleurs *\[“sin embargo, por otro lado”\], etc\.
 
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*75*__*\) Diccionario enciclopédico de pragmática…*
 
 \(8\) Las __diferencias en el contenido proposicional que son determinadas por mecanismos vinculados a la fuerzas ilocucionaria: __ pensemos en la diferencia entre la relación, que concierne a estados de cosas pasadas o presentes, pero no futuros, y la predicción, que concierne a estados de cosas futuras\.
 
-\(9\) Las __diferencias entre los actos que sólo pueden ser realizados por actos de habla y los que también se pueden realizar de otra manera__: se puede decir, enunciar un diagnóstico, etc\., sin decir que se hace, mientras que no se puede presentar juramento sin decir que se hace\.
+\(9\) Las __diferencias entre los actos que sólo pueden ser realizados por actos de habla y los que también se pueden realizar de otra manera:__ se puede decir, enunciar un diagnóstico, etc\., sin decir que se hace, mientras que no se puede presentar juramento sin decir que se hace\.
 
 \(10\) Las __diferencias entre actos que requieren instituciones extralingüísticas para su realización y los que no las requieren: __pensemos en la excomunión, la declaración de guerra, etc\.
 
-\(11\) Las __diferencias entre los actos cuyo verbo correspondiente tiene un uso realizativo y aquellos cuyo verbo no tiene tal uso__: pensemos en los verbos como *verter o menacer* \[“presumir” o “amenazar”\]\.
+\(11\) Las __diferencias entre los actos cuyo verbo correspondiente tiene un uso realizativo y aquellos cuyo verbo no tiene tal uso:__ pensemos en los verbos como *verter o menacer* \[“presumir” o “amenazar”\]\.
 
-\(12\) El __estilo de la realización del acto__: se puede pensar en las diferencias entre *annocer *\[“anunciar”\] y *confier *\[“confiar”\]\.
+\(12\) El __estilo de la realización del acto:__ se puede pensar en las diferencias entre *annocer *\[“anunciar”\] y *confier *\[“confiar”\]\.
 
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*75\-76*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
@@ -842,13 +842,13 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*76*__*\) Diccionario enciclo
 
 \(ii\) los __directivos: __la finalidad ilocucionaria de los directivos es que el locutor pretende hacer que el interlocutor haga algo; la dirección de ajuste va del mundo a las palabras; la actitud correspondiente a la condición de sinceridad es el deseo; el contenido proposicional es que el interlocutor tiene que hacer lago; la estructura sintáctica profunda es Yo te verbo ilocucionario que tu VP \(en futuro\);
 
-\(iii\) los __compromisionarios__: la finalidad ilocucionaria de los compromisionarios es obligar al locutor a realizar cierto\(s\) acto\(s\); la dirección de ajuste va del mundo a la palabra; la condición de sinceridad concierne a la intención; el contenido proposicional es que el locutor hará algo; la estructura sintáctica profunda es Yo \(te\) verbo ilocucionario que yo VP \(en futuro\);
+\(iii\) los __compromisionarios:__ la finalidad ilocucionaria de los compromisionarios es obligar al locutor a realizar cierto\(s\) acto\(s\); la dirección de ajuste va del mundo a la palabra; la condición de sinceridad concierne a la intención; el contenido proposicional es que el locutor hará algo; la estructura sintáctica profunda es Yo \(te\) verbo ilocucionario que yo VP \(en futuro\);
 
 \(iv\) los __expresivos: __la finalidad ilocucionaria de los expresivos es expresar el estado psicológico, especificado por la condición de sinceridad, en relación con el estado de cosas especificado en el contenido proposicional; en los expresivos, no hay dirección de ajuste y la verdad de la proposición expresada se presupone; la estructura profunda es Yo te verbo ilocucionario de yo/tú VP;
 
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*76’*__*\) Diccionario enciclopédico de pragmática\.\.\.\*\*\*\*\**
 
-\(v\) los __declarativos__: tienen como característica provocar la verdad de su contenido proposicional; son los que representan al comienzo de la teoría de los actos de habla la clase de los realizativos; implican una institución extralingüística así como estatus respectivos muy específicos para el locutor y el interlocutor; la dirección de ajuste es doble, va tanto del sentido palabras\-mundo como en el sentido mundo\-palabras; la estructura sintáctica profunda es Yo verbo ilocucionario NP1 \+ NP2\.
+\(v\) los __declarativos:__ tienen como característica provocar la verdad de su contenido proposicional; son los que representan al comienzo de la teoría de los actos de habla la clase de los realizativos; implican una institución extralingüística así como estatus respectivos muy específicos para el locutor y el interlocutor; la dirección de ajuste es doble, va tanto del sentido palabras\-mundo como en el sentido mundo\-palabras; la estructura sintáctica profunda es Yo verbo ilocucionario NP1 \+ NP2\.
 
 En resumen, los verbos ilocucionarios no son siempre marcadores de finalidad ilocucionaria sino que marcan otras características del acto ilocucionario\. __Según Searle, la conclusión más importante, al término de esta clasificación, es que no hay, como querrían Wittgenstein y sus sucesores, un número infinito de juegos del lenguaje, sino una ausencia de claridad en lo que se refiere a los criterios utilizados para delimitar los juegos del lenguaje\.__
 
@@ -1126,7 +1126,7 @@ Relevancia
 
 La teoría de la relevancia puede resumirse partiendo de las cuatro tesis siguientes …
 
-\(i\) La comunicación verbal no es solamente una cuestión de __código__: es también una cuestión de __inferencia\.__
+\(i\) La comunicación verbal no es solamente una cuestión de __código:__ es también una cuestión de __inferencia\.__
 
 \(ii\) En el procesamiento de los enunciados intervienen dos tipos de procesos mentales: procesos vinculados a la __representación__ \(responsables de la formación de las hipótesis\) y procesos vinculados a la __computación __\(responsables de los cálculos inferenciales\)\.
 
@@ -1154,7 +1154,7 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:99\-8\-99\) *__*Diccionario 
 
  2\.1\.1\.  __Modelo del código__
 
-La característica principal del modelo del código es una concepción simétrica de la comunicación: el proceso de descodificación es la contrapartida simétrica del proceso de codificación\. La ventaja del modelo del código es que tiene un __fuerte poder explicativo__: explica la buena comunicación…
+La característica principal del modelo del código es una concepción simétrica de la comunicación: el proceso de descodificación es la contrapartida simétrica del proceso de codificación\. La ventaja del modelo del código es que tiene un __fuerte poder explicativo:__ explica la buena comunicación…
 
 Son las perturbaciones que pueden afectar el canal, perturbaciones a las que denominamos técnicamente «ruidos»\.
 
@@ -1226,7 +1226,7 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\-102\) *__*Diccionario e
 
  __2\.2\.2   Computación__
 
-La dimensión computacional del procesamiento del enunciado está en el origen de las inferencias\. En la terminología de S & W, el resultado *de una* inferencia tiene como premisas una hipótesis contextual y el enunciado mismo se denomina __implicación contextual__: la implicación contextual es pues una proposición que no habría podido ser extraída, ni sólo del contexto, ni sólo del enunciado\. El proceso que asocia hipótesis contextuales y forma \(menos que\) proposicional se denomina c__ontextualización\.__
+La dimensión computacional del procesamiento del enunciado está en el origen de las inferencias\. En la terminología de S & W, el resultado *de una* inferencia tiene como premisas una hipótesis contextual y el enunciado mismo se denomina __implicación contextual:__ la implicación contextual es pues una proposición que no habría podido ser extraída, ni sólo del contexto, ni sólo del enunciado\. El proceso que asocia hipótesis contextuales y forma \(menos que\) proposicional se denomina __contextualización\.__
 
  El componente computacional \(o sistema deductivo\) sólo contiene __reglas deductivas de eliminación\. __ Una regla deductiva es una regla de eliminación si y sólo si produce información nueva, i\.e\. __implicaciones no triviales__\. Las  __reglas de introducción__, por su parte, autorizan la redundancia o iteración, y producen de esta manera __implicaciones triviales\.__ 
 
