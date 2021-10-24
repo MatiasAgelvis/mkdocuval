@@ -6,7 +6,7 @@ python3 docusaurus_nb.py
 
 python3 setup_blog.py
 
-# ipython -c "%run to_pdf.ipynb"
+ipython -c "%run to_pdf.ipynb"
 
 # ipython -c "%run separate.ipynb"
 
