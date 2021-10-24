@@ -26,7 +26,10 @@ for file in glob.glob(join(IN_path, '*', '*.md')):
     # change the image paths
     # get parent folder name
     parent_folder = file.split('/')[-2]
+    # inline declared images
     content = re.sub(r'(!\[.*?\]\()(.*?)(\))', r'\1{}/\2\3'.format(parent_folder), content)
+    # referenced images
+    content = re.sub(r'(\[.*\]\s*:\s*)((?:.*?)\.(?:jpg|png))', r'\1{}/\2'.format(parent_folder), content)
 
     # copy the whole directory to the outpath
     shutil.copytree(IN_path, OUT_path, dirs_exist_ok=True)
