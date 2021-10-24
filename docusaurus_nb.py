@@ -78,8 +78,10 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     # starting late
     content = re.sub(r' (\w)__(\w+)', r' __\1\2', content)
     # ending early
-    content = re.sub(r' (\w+)__(\w)', r' __\1\2', content)
-    
+    content = re.sub(r'(\w+)__(\w) ', r' __\1\2', content)
+    # the colons seem to be annoying the parser
+    content = re.sub(r'__:', r':__', content)
+
     # add page titles
     flags = re.IGNORECASE
     pattern = get_regex_pattern(content)

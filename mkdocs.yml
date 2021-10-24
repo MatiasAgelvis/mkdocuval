@@ -26,13 +26,13 @@ theme:
       accent: indigo
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: Cambiar a paleta oscura 
     - scheme: slate
       primary: red
       accent: red
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: Cambiar a paleta clara
   favicon: images/dualbook.png
   icon:
     logo: material/book-open
@@ -44,9 +44,9 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:agelvis@ula.ve
 
-plugins:
-  - search
-  - pdf-export
+# plugins:
+#   - search
+#   - pdf-export
 
 markdown_extensions:
   - attr_list
