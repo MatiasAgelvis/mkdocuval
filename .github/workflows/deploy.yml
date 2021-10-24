@@ -27,6 +27,6 @@ jobs:
         with:
           python-version: 3.x
       - run: sudo apt install -y pandoc
-      - run: pip install mkdocs-material pypandoc mammoth mkdocs-pdf-export-plugin
+      - run: pip install mkdocs-material pypandoc mammoth mkdocs-pdf-export-plugin ipython
       - run: bash odt_to_html.sh
       - run: mkdocs gh-deploy --force
