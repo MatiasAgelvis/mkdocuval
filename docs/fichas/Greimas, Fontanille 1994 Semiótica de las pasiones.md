@@ -86,13 +86,13 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 __p\.21 EPISTEMOLOGÍA DE LAS PASIONES__
 
-__El aroma__
+#### El aroma
 
 Las pasiones aparecen en el discurso como portadoras de efectos de sentido muy peculiares; despiden un aroma equívoco, difícil de determinar\. La interpretación que la semiótica ha retenido es que el aroma específico emana de la organización discursiva de las estructuras modales…
 
 Reconocer que las pasiones no son propiedades exclusivas de los sujetos \(o del sujeto\), sino propiedades del discurso entero…
 
-__La vida__
+#### La vida
 
 ¿Es posible reiterar sin consideración alguna la concepción según la cual el ser vivo es una estructura de atracciones y repulsiones? ¿Es posible pensar la foria antes de su división en euforia y disforia?\.\.\.se trata de pronunciarse acerca de la prioridad de derecho de lo “sensitivo” con respecto a lo “cognoscitivo” o a la inversa\.
 
@@ -184,7 +184,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.34\-35 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Modulaciones, modalizaciones y aspectualizaciones__
+#### Modulaciones, modalizaciones y aspectualizaciones
 
 Es posible reconocer formas dominantes de tensividad; en la medida en que esas elecciones definen un cierto modo de acceder a la significación para el sujeto epistemológico y al valor para los sujetos narrativos –como sucede con el incoativo en Éluard\-, es posible considerar que manifiestan los que podrían ser llamados “estilos semióticos”: la agitación del inquieto, la vacilación del veleidoso, el estilo “agresivo” del voluntarista, son otras tantas manifestaciones aspectuales de la manera en que la significación y el valor advienen en diferentes tipos de discurso o para cada uno de los sujetos así caracterizados\. Desde otro punto de vista, en ausencia de una manifestación directa o indirecta de las modalizaciones, el examen de la selección de los aspectos dominantes permite plantear la existencia de tal o cual modulación dominante en el nivel profundo, que habría sido convocada prioritariamente por la puesta en discurso\. Al suponer que esta modulación es predominante, resulta posible sospechar y prever que la organización modal, en el caso de que exista en inmanencia, deberá ser afectada u orientada en consecuencia\.
 
@@ -206,7 +206,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.36 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Por un mundo cognoscible/ El discernimiento__
+#### Por un mundo cognoscible/ El discernimiento
 
 *Para conocer, es preciso negar*\. Cierto es que las “proformas” de objetos ya se le presentan, que las modulaciones del devenir introducen ya una especie de “respiración” \-¿un ritmo?, ¿un tiempo?\- en la protensividad, pero nada se encuentra categorizado todavía, nada presenta contornos discretos\. La negación es la primera operación mediante la cual el sujeto se funda a sí mismo como *sujeto operador *y funda al mundo como cognoscible\. En cierta manera, se trata de una especie de disjunción: la primera era la disyunción con respecto a la necesidad óntica como estado del azar; la segunda es una disyunción con respecto a la modulación continua de las tensiones y a un mundo de valores no cognoscible\. Esta negación se analiza en dos tiempos\.
 
@@ -218,7 +218,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.37\-38 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Por un mundo cognoscible/ El discernimiento__
+#### Por un mundo cognoscible/ El discernimiento
 
 El segundo gesto, que sólo es la otra faz del primero, es una *contradicción, la negación en sentido categorial\. *El discernimiento\-negación aplicado a una sombra de valor no puede instalar más que a no\-S1*, *primer término del cuadrado semiótico\. En efecto, el sujeto tensivo, transformado en sujeto operador mediante esta disyunción, no puede discretizar sino sombras de valor, de las que se encuentra separado merced a la escisión: no tiene otra cosa que “discernir” más que la ausencia\. Dicho en otros términos, para hacer advenir la significación y estabilizar la tensividad, el sujeto operador no tiene otra solución que *categorizar la pérdida del objeto*, y ésta es la razón por la que la primera operación discreta en una negación; no es sino bajo esta condición que, en virtud de la introducción de lo discontinuo, el sujeto podrá conocer el objeto detrás de las sombras de valor\. Sin la contradicción, el discernimiento no determinaría más que una pura singularidad en el continuo tensivo y fracasaría en su intento de hacer advenir la significación…una vez confirmada y sostenida como devenir, la escisión actancial y la distribución de las tensiones se equilibran globalmente\. Así se llega a una fase de equilibrio en la que la dinámica interna de la foria choca contra la estabilización del devenir\.
 
@@ -300,7 +300,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.42 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__De las valencias al valor__
+#### De las valencias al valor
 
 …las valencias se ven particularmente convertidas en propiedades de los objetos sintácticos…\.el concepto de objeto de valor: un objeto que da un “sentido” \(una orientación axiológica\) a un proyecto de vida y un objeto que encuentra su significación en la diferencia, por oposición a otros objetos\. De hecho, la aparición del objeto de valor depende de lo que suceda a las valencias\. La valencia es una “sombra” que suscita el presentimiento del valor; el objeto sintáctico es una forma, un “contorno” de objeto comparable al que proyecta frente a él el sujeto durante la percepción de la Gestalt y que es codefinitorio del sujeto; el objeto de valor es un objeto cargado semánticamente; pero –y he ahí la clave\- la carga semántica descansa en una categorización surgida de la valencia misma…\.
 
@@ -348,7 +348,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE\.\(1994\[1991\]\)\. *Semiótica de las pasion
 
 p\.48 LA EPISTEMOLOGÍA DE LAS PASIONES
 
-__El ser del hacer__
+#### El ser del hacer
 
 Regresando a las modalizaciones propiamente dichas y a los sujetos de estado susceptibles de ser afectados por la pasión, se distinguirán dos clases de ellas…Esta distinción ya ha sido identificada hace tiempo merced a la oposición terminológica entre *competencia modal y existencia modal*\. Está claro, por ejemplo, que el sujeto de la “envidia” es un puro sujeto de estado que no se transforma en sujeto modal más que por medio del *querer\-estar\-ser*…En cambio, la descripción de la “emulación” no puede prescindir de alguna presentación del hacer y de las modalidades necesarias para llevarlo a cabo…En efecto, la “emulación” instala un *querer\-hacer\-“igual o mejor que el otro*”; pero este *querer\- hacer *proviene de un *querer\-ser*\- “aquel o como aquel que hace”, es decir, proviene de una identificación con cierto estado modal ajeno, en otros términos, la emulación no tiene como finalidad la reproducción de un programa del otro, sino la reproducción de la “imagen” modal que proporciona el otro al cumplir con su programa, …de este modo, un “estado de cosas” se convierte en un “estado de ánimo”, la imagen modal de la que sí misma apunta el sujeto de la emulación…\. La pasión atañe, pues,
 
@@ -360,7 +360,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.50\-51 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Modos de existencia y simulacros existenciales__
+#### Modos de existencia y simulacros existenciales
 
 Por otro lado, en semiótica narrativa se reconoce una serie repertoriada de roles del sujeto que caracterizan a los diferentes *modos de existencia del actante narrativo *en el transcurso de las transformaciones…Esta serie se limita a tres roles…
 
@@ -382,7 +382,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.53 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Sujetos modales y simulacros existenciales__
+#### Sujetos modales y simulacros existenciales
 
 Examinemos brevemente, a manera de ejemplo, la “humildad”: ¿será considerado el “humilde” no competente, pobre o tonto por el hecho de juzgarse de buena gana “insuficiente”?\.\.\. La humildad no reside en un modo de existencia característico de un estado de cosas, sino en un modo de existencia característico de un estado de ánimo\.\.lo que importa es la disjunción en la que se representa y hacia la que tiende…\.
 
@@ -394,7 +394,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.54\-55 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Los simulacros modales__
+#### Los simulacros modales
 
 …la hipótesis de que, para describir las pasión, la única estructura generalizable sería la de la intersubjetividad\.\.potencial, una especie de interactancialidad de contornos vagos…
 
@@ -408,7 +408,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.56 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Los simulacros pasionales__
+#### Los simulacros pasionales
 
 Se considera que el simulacro es una configuaración que resulta únicamente de la apertura de un espacio imaginario como consecuencia de las cargas modales que afectan al sujeto: los simulacros existenciales y los cambios “imaginarios” de roles actanciales \-…constituyen las principales propiedades de estos simulacros en sentido restringido\. Estos simulacros aparecen en el discurso como producto de desembragues localizados, con los que el sujeto apasionado inserta escenas de sus “imaginarios” en la cadena discursiva; …
 
@@ -418,7 +418,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.56 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__Los simulacros pasionales__
+#### Los simulacros pasionales
 
 Extraer todas las consecuencias del análisis de las pasiones consiste en postular que toda comunicación \(e interacción\) entre simulacros modales y simulacros que todos los interactantes y las culturas a las que pertenecen han contribuido a construir\. Una posición como ésta no hace sino concretar las sugerencias hechas desde el nivel epistemológico, a propósito de la manera de concebir la intersubjetividad en el momento en el que el sujeto tensivo se desdobla en un “otro” e interioriza, sobre el fondo de la fiducia, el *cuerpo otro *como “intersujeto”\.
 
@@ -430,7 +430,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.58\-59 __LA EPISTEMOLOGÍA DE LAS PASIONES DISPOSITIVOS MODALES: DEL DISPOSITIVO A LA DISPOSICIÓN\.__
 
-__El ordenamiento modal del estar\-ser\.__
+#### El ordenamiento modal del estar\-ser\.
 
 La mayoría de las configuraciones pasionales se encuentran definidas en los diccionarios de lengua como “disposiciones para”, “sentimiento que lleva a”, “estado interior del que se inclina hacia” y, por su lado, la descripción de la “disposición” o de la “inclinación” se hace en términos de comportamiento o de acción\. Si la disposición o la inclinación desemboca en el “hacer”, podemos suponer que comprenden cierto ordenamiento del “estar\-ser” con vistas al “hacer”\. Pero plantear en estos términos la cuestión de la eficacia de la pasión equivaldría a considerarla como una simple competencia, cuyas modalizaciones producirán *ipso facto *un efecto de sentido pasional\.
 
@@ -440,7 +440,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.58\-59 __LA EPISTEMOLOGÍA DE LAS PASIONES DISPOSITIVOS MODALES: DEL DISPOSITIVO A LA DISPOSICIÓN\.__
 
-__El excedente pasional__
+#### El excedente pasional
 
 Si nos contentáramos con ello, el universo pasional sería coextensivo del universo modal y no habría razón para distinguirlo y, a *fortiori*, para intentar dilucidar los principios de la articulación entre ambos\. Ahora bien, incluso cuando la pasión es parcialmente traducible como “competencia para hacer”, ésta no agota y jamás explica por sí sola el efecto pasional\. Por ejemplo la “impulsividad” puede ser traducida como una cierta asociación entre *querer\-hacer y poder\- hacer *…pero una pasión como ésta presenta un “excedente” modal que aparece en superficie bajo la forma del “intensivo”y del “incoativo” ; lo que caracteriza al impulsivo es, más bien, una manera de ser o estar al hacer…En efecto, si se considera únicamente una “conducta” impulsiva, el doble rasgo “intensivoíncoativo” se presenta como una simple sobredeterminación accidental de la competencia modal de base\. Pero si, por otra parte, se caracteriza al sujeto como “impulsivo”, entonces se considera que esta sobredeterminación *rige y patemiza *a la competencia modal y asegura su actualización en cualquier circunstancia…la configuración pasional comprenderá un principio rector, parcialmente independiente de las modalizaciones propiamente dichas, en especial las modalizaciones del hacer\.
 
@@ -456,9 +456,9 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 ## 68
 __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasiones*
 
-__p\.68 __LA EPISTEMOLOGÍA ED LAS PASIONES____
+#### p\.68 __LA EPISTEMOLOGÍA ED LAS PASIONES__
 
-__La disposición como programación discursiva__
+#### La disposición como programación discursiva
 
 A final de cuentas, esta propiedad de las disposiciones pasionales explica muchas cosas\. Para empezar, la existencia de un principio rector que emana de la protensividad permite definir las disposiciones como “programaciones discursivas” y explicar cómo es posible que aparezcan, en el nivel del discurso, como potencialidades de hacer o como series de estados ordenados \(lo que comúnmente llamamos “actitudes”\) A este respecto, el sujeto apasionado funciona como ciertas memorias de respaldo en informática: por una parte, los archivos son guardados de manera compacta, ilegibles e inutilizables en ese estado; por otra, existe un comando que los restaura y los vuelve accesibles para el usuario\. El dispositivo modal sería similar a esta versión “comprimida” y no accesible, el principio protensivo y rector sería el comando de restauración, y la disposición sería el resultado legible y accesible y, en consecuencia, operativo del conjunto del procedimiento\.
 
@@ -468,7 +468,7 @@ __GREIMAS A\. J\. y J\. FONTANILLE__\.\(1994\[1991\]\)\. *Semiótica de las pasi
 
 p\.69 __LA EPISTEMOLOGÍA DE LAS PASIONES__
 
-__La disposición como aspectualización__
+#### La disposición como aspectualización
 
 Al haber construido y definido el devenir en el espacio teórico del sentir mínimo, su encarnación discursiva es totalmente apropiada para la transformación de las series modales en disposiciones pasionales, en la medida en que esta encarnación implica al mismo tiempo una suspensión de la pura racionalidad narrativa y cognoscitiva\.
 

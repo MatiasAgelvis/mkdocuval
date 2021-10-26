@@ -72,7 +72,7 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     content = re.sub(r'(!\[.*?\]\()(.*?)(\))', r'\1{}/\2\3'.format(parent_folder), content)
 
     # remove mammoth given headers
-    content = re.sub(r'<a.*?><\/a>## (.*)', r'__\1__', content)
+    content = re.sub(r'<a.*?><\/a>## (.*)', r'#### \1', content)
 
     # mitigate improperly bolded words
     # starting late
