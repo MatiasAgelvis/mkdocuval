@@ -52,9 +52,12 @@ for file in glob.glob(join(DOCX_path, '*')):
 # * **write to a new file at parent folder**
 
 def get_regex_pattern(string):
+    # all patterns must match an entire expression and the number, in that order
     name = re.search(r'([\w\-]+)', string)[0]
-    pattern_A = r'([\*_]{0,5}%s.*?\(\d{4}(?:\\?-[0-9]{4})?\D*?(?:[\*_]){0,2}\D*?:\D*?(?:[\*_]){0,2}\D*?([0-9]+(?:\s{0,2}(?:\\-|y|,)\s{0,2}[0-9]+){0,3})\D*?\))' % name
-    pattern_B = r'([\*_]{0,5}%s(?:.*?\n{0,3}){0,3}[pP]\\?\s{0,3}\.\s{0,3}([0-9]+(?:\\-[0-9]+){0,3}))' % name
+    # matches the infix anotated titles
+    pattern_A = r'([\*_]{0,5}%s.*?\(\d{4}(?:\\?-[0-9]{4})?\D*?(?:[\*_]){0,2}\D*?:\D*?(?:[\*_]){0,2}\D*?([0-9]+(?:\s{0,2}\\?(?:-|y|,)\s{0,2}[0-9]+){0,3})\D*?\))' % name
+    # matches the postfix anotated titles
+    pattern_B = r'([\*_]{0,5}%s(?:.*?\n{0,3}){0,3}[pP]\\?\s{0,3}\.\s{0,3}([0-9]+(?:\\?-[0-9]+){0,3}))' % name
     
     return pattern_A if re.search(pattern_A, string) else pattern_B
 
@@ -72,7 +75,7 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     content = re.sub(r'(!\[.*?\]\()(.*?)(\))', r'\1{}/\2\3'.format(parent_folder), content)
 
     # remove mammoth given headers
-    content = re.sub(r'<a.*?><\/a>## (.*)', r'#### \1', content)
+    content = re.sub(r'<a.*?><\/a>## (.*)', r'### \1', content)
 
     # mitigate improperly bolded words
     # starting late
@@ -81,6 +84,8 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     content = re.sub(r'(\w+)__(\w) ', r' __\1\2', content)
     # the colons seem to be annoying the parser
     content = re.sub(r'__:', r':__', content)
+    # removes double minus
+    content = re.sub(r'(\d)\\-\\-(\d)', r'\1-\2', content)
 
     # add page titles
     flags = re.IGNORECASE
@@ -95,4 +100,3 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     with open(output_path, 'w+') as output_file:
         output_file.write('# ' + title + '\n\n')
         output_file.write(content)
-
