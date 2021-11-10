@@ -22,8 +22,8 @@ theme:
     - search.share
   palette:
     - scheme: default
-      primary: white
-      accent: deep orange
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Tema Diurno 
@@ -50,6 +50,12 @@ extra:
 
 markdown_extensions:
   - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 2
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 
 extra_css:
