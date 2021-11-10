@@ -8,8 +8,8 @@ import docusaurus_config as config
 import re
 join = os.path.join
 
-IN_path = 'BLOG'
-OUT_path = 'docs/blog'
+IN_path = config.BLOG_IN_path
+OUT_path = config.BLOG_OUT_path
 
 os.makedirs(IN_path, exist_ok=True)
 os.makedirs(OUT_path, exist_ok=True)
