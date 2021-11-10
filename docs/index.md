@@ -8,5 +8,5 @@ hide:
 # __Sitio web del profesor Valmore Agelvis__
 ## Prof. Dr. Valmore Agelvis
 
-[Visitar el Blog](blog){ .md-button }
-[Visitar el Fichero](fichas){ .md-button }
+[ :fontawesome-solid-comment-alt: Blog](blog){ .md-button .md-button--primary }
+[ :fontawesome-solid-archive: Fichero](fichas){ .md-button .md-button--primary}
