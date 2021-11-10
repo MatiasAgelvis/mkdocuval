@@ -1,3 +1,8 @@
+:root>*
+{
+    --md-typeset-a-color: green;
+}
+
 .md-top {
      /*
        prevents word breaking in viewports below 300px,
