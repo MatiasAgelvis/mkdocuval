@@ -22,17 +22,17 @@ theme:
     - search.share
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
-        name: Cambiar a paleta oscura 
+        name: Tema Diurno 
     - scheme: slate
       primary: red
       accent: red
       toggle:
         icon: material/weather-night
-        name: Cambiar a paleta clara
+        name: Tema Nocturno
   favicon: images/dualbook.png
   icon:
     logo: material/book-open
@@ -50,3 +50,7 @@ extra:
 
 markdown_extensions:
   - attr_list
+
+
+extra_css:
+  - stylesheets/extra.css
