@@ -24,7 +24,7 @@ def filename(path):
     return os.path.basename(path.rsplit('.')[0])
 
 
-# **Convert all odt to docxwith pandoc**
+# **Convert all odt to docx with pandoc**
 
 for file in glob.glob(join(ODT_path, '*')):
     outfile = join(DOCX_path, filename(file) + '.docx')
