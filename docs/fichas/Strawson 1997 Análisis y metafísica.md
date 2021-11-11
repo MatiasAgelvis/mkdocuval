@@ -2,11 +2,17 @@
 
 
 ## 12
-__STRAWSON, P\.__ \(1992\-1997\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\. SANFÉLIX V\. \(1997:12\)\. “El metafísico tolerante” En 
+__STRAWSON, P\.__ \(1992\-1997:12\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
+
+SANFÉLIX V\. \(1997:12\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
 
  Ya el propio Aristóteles nos da pie para dos concepciones muy diferentes de la __Metafísica__\. Por una parte ésta podría entenderse como una ciencia ocupada de un ámbito *especial* de la realidad, aquel que __*trasciende* o está más allá de lo físico__; el estudio, en suma, de las sustancias inmateriales como lo serían, por ejemplo y según cierta tradición, Dios y el alma\. Por la otra, como __una disciplina cuyo objeto sería clarificar los rasgos más *generales* de la realidad__ o, como decía el propio Aristóteles con una expresión célebre, como el estudio de «lo que es en tanto que es»\.
 
  Esta no es el lugar para rastrear la complicada relación entre la metafísica especial, o __trascendente__, y la metafísica general, u __ontológica__ … No es posible alcanzar un conocimiento teórico de Dios o del alma \(entendida, por ejemplo, a la manera cartesiana; como sustancia simple e inmaterial\), construir una teología o una psicología racional\. Pero esta conclusión escéptica o crítica, es el resultado que se obtiene al construir una metafísica general, una ontología, que no se entiende ahora, a la manera aristotélica, como una investigación de lo que es en tanto que es, sino de cómo podemos obtener conocimiento y, consecuentemente, de los límites de éste\.
+
+
+## 13\-14
+__STRAWSON, P\.__ \(1992\-1997:13\-14\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
 
 __SANFÉLIX V\.__ \(1997:13\-14\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
 
@@ -16,7 +22,13 @@ __SANFÉLIX V\.__ \(1997:13\-14\)\. “El metafísico tolerante”\. En Strawson
 
 __Resumamos: Strawson entiende que el núcleo de la filosofía es la metafísica; y por metafísica entiende la realidad ontológica, y por ontología entiende, a su vez, la tarea de presentar la estructura general de nuestro pensamiento sobre el mundo__\.
 
-__SANFÉLIX V__\. \(1997:16\-17\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+## 16\-17
+__STRAWSON, P\.__ \(1992\-1997:16\-17\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
+
+__SANFÉLIX V__\. \(1997:16\-17\)\. “El metafísico tolerante”\. En 
+## 448
+Strawson P\. \(1992\)\. Análisis y metafísica\.
 
  \.\.\. también podemos ahora dar una enumeración más completa: es una metafísica general, una ontología reflexiva que pretende describir el núcleo inmutable del esquema o sistema conceptual del que nos servimos para pensar la realidad\. Y es al conjunto de todo esto a lo que Strawson bautizó con un rótulo que ha hecho fortuna: «__Metafísica descriptiva__» …
 
@@ -30,7 +42,13 @@ Sin embargo, es dudoso que esta enumeración calme al historicista\. ¿En serio 
 
  
 
-__SANFÉLIX V__\. \(1997:17\-18\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
+
+## 17\-18
+__STRAWSON, P\.__ \(1992\-1997:17\-18\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
+
+__SANFÉLIX V__\. \(1997:17\-18\)\. “El metafísico tolerante”\. En 
+## 19
+Strawson P\. \(1992\)\. Análisis y metafísica\.
 
  Podemos argumentar, por ejemplo, y para empezar, apoyán*donos* en consideraciones de índole empírica\. Al fin y al cabo los seres humanos, __todos los seres humanos, constituimos una única especie; luego sería sensato esperar que nuestras respuestas frente a las presiones selectivas sean bastante homogéneas__\. ¿Pero quién duda de que nuestros esquemas conceptuales son una —a buen seguro lo más importante; desde luego también la más específicamente humana— de las clases que integran el conjunto de aquellas respuestas?:
 
@@ -42,13 +60,25 @@ Pero las consideraciones empíricas no son las únicas que Strawson podría aleg
 
 … debemos comprometernos con la existencia de un mínimo núcleo conceptual común que garantice la intertraducibilidad \(P\. 19\)
 
+
+## 24
+__STRAWSON, P\.__ \(1992\-1997:24\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
+
 __SANFÉLIX V\.__ \(1997:__24__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\.
 
  La primera, que su posición es legítima mientras no se convierta en un imperialismo conceptual que deviene en escepticismo agresivo contra la perspectiva no científica del sentido común\. __Una cosa es decir, por ejemplo, que podemos describir el mundo con el lenguaje de la física, y otra muy distinta afirmar que dado que en ese lenguaje no tiene cabida el vocabulario de la moral, o propiedades fenoménicas de los cuerpos como el color, o la misma conciencia, todo esto son ilusiones irreales__\. Cuando el revisionista se convierte en un naturalista radical, cientifista, propenso a afirmar cosas como las recién dichas, el metafísico descriptivo tiene todo el derecho a recordarle que su posición ontológica es extremadamente puritana, que deja fuera de su imagen de la realidad la mayor parte de lo que para los humanos es de interés, y que, por lo tanto, no tenemos porqué seguirle en su opción, que tenemos derecho a una ontología más tolerante o católica … que no le niega el honorífico título de «real» a todo aquello que el revisionista quiere dejar fuera\.
 
+
+## 34
+__STRAWSON, P\.__ \(1992\-1997:34\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
+
 __SANFÉLIX V__\. \(1997:__34__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\. Una introducción a la filosofía\. Barcelona: Paidós\-UAB\.
 
  Llegamos … a __la tesis no básica sino fundamental de Strawson:__ de entre todos los actos de referir y de predicar hay uno que tiene un carácter prioritario y paradigmático; aquel en que nos referimos a entidades particulares __espacio\-temporales atribuyéndoles propiedades generales que nos permiten reconocerlas__\. Con ello Strawson nos viene a decir que es la distinción ontológica entre particulares y universales, y la distinción epistemológica entre intuición y concepto, la que subyace a la distinción lógica entre sujeto y predicado\. Las oraciones que expresan nuestras creencias más básicas son aquéllas en las que nos referimos a entidades particulares intuibles para predicar de ellas conceptos de propiedades que permiten reconocerlas en el espacio y a través del tiempo\.
+
+
+## 35
+__STRAWSON, P\.__ \(1992\-1997:35\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
 
 __SANFÉLIX V\.__ \(1997:__35__\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)\. Análisis y metafísica\. Una 
 
@@ -58,11 +88,19 @@ __SANFÉLIX V\.__ \(1997:__35__\)\. “El metafísico tolerante”\. En Strawson
 
  
 
+
+## 36\-37\-38
+__STRAWSON, P\.__ \(1992\-1997:36\-37\-38\)\. Análisis y metafísica\. Una introducción a la filosofía\. Barcelona: Paidós\-UAB\.
+
 SANFÉLIX V\. \(1987:36\-37\-38\)\. “El metafísico tolerante”\. En Strawson P\. \(1992\)
 
  Aristóteles, Hume y Kant —la triada de clásicos en los que, sin duda, Strawson más se reconoce— todos ellos, de una manera u otra, enraizaron la reflexión metafísica en la naturaleza de la razón humana\. … no es menos cierto que inscriben la *misma *en un contexto que, por seguir a Strawson, podríamos denominar de «edificación»\. Aristóteles la ve como una disciplina liberal por antonomasia y como una actividad que culmina una ética de la excelencia\. Hume le exige una utilidad mundana que él cifra en su virtualidad antisuperticiosa y la inculcación en quien la practica de un carácter, por escéptico, tolerante\. Por último … pretendía Kant con su crítica limitar el conocimiento para hacer un sitio a la fe\. De modo que si Strawson fuera coherente con sus declaraciones explícitas acerca del alcance de su metafísica descriptiva, en este aspecto estaría enmendando la tradición que en otros continúa\.
 
 … Strawson ha heredado de Kant, y también si cabe con más fuerza de Wittgenstein, un propósito anticientificista para su reflexión\. En ella, como en la de Kant o en la Wittgenstein de cualquiera de sus etapas, encontramos razones para preservar lo que podríamos denominar el ámbito del significado, en una acepción amplia de este término que incluye no sólo en significado lingüístico —o si se prefiere, la dimensión intencional del mismo— sino también lo que podríamos llamar el significado vital\.  
+
+
+## 38
+__STRAWSON, P\.__ \(1992\-1997:38\)\. *Análisis y metafísica\. Una introducción a la filosofía*\. Barcelona: Paidós\-UAB\.
 
 __SANFÉLIX V__\. \(1997:38\)\. “El metafísico tolerante”\. En STRAWSON P\. \(1992\)\. *Análisis y metafísica*\. 
 
@@ -388,12 +426,16 @@ Las palabras «aquí» y «ahora» nos ayudan a lograr esto a causa de *su doble
 
  Por lo tanto, entonces, tenemos la noción de un usuario de conceptos con una experiencia que se extiende en el tiempo desde un cierto punto de vista espacial de una experiencia tanto *en* como *de* un mundo espacio\-temporalmente objetivo\. __Ahora bien, esta noción es precisamente la forma más general de la noción de *percepción sensible*__*, *tema éste que podría decirse que ha sido, hasta no hace demasiado, casi una obsesión profesional de los filósofos británicos\.
 
+
+## 110\-111
 __*STRAWSON*__* *__*P*__*\. \(1992:*__*110\-111*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
 
 * *Así, pues, __¿qué contiene la noción de percepción sensible como algo que da lugar a juicios sobre un mundo espacio\-temporal objetivo?__ Al hacer esta pregunta no se da a entender, como es natural, que la percepción sensible dé siempre lugar a juicios verdaderos\. __Podemos percibir mal y, de hecho, así acontece__\. Pero, sin duda, es un rasgo de nuestro habitual esquema de pensamiento el entender que la percepción sensible produce juicios que son verdaderos generalmente o de forma usual\. __Recuérdese que, cuando pensamos en el mundo como algo objetivo, pensamos en él como siendo lo que con independencia de cualquier juicio particular que se haga sobre él:__ __la verdad del juicio, *si es verdadero, consiste en su conformidad con la manera en que son las cosas del mundo*__*\. *De ahí que el mínimo de contenido que parece haber en la idea de que la percepción sensible da generalmente lugar a juicios verdaderos sobre el mundo espacio\-temporal objetivo sea que debería haber una relación de dependencia muy regular entre la experiencia propia de la percepción sensible y cómo son las cosas objetivamente\. \(En caso contrario, la verdad o la corrección normal de los juicios perceptivos sería inexplicable, una coincidencia extraordinaria\)\.
 
  *Evidentemente*, esta noción general de dependencia ha de cualificarse para recoger el hecho de que el ámbito de la experiencia de un sujeto en todo el tiempo tiene un límite; de manera que a esto se debe que la experiencia que tenga en un momento del tiempo dependerá tan sólo de ciertas partes o aspectos del mundo objetivo\.
 
+
+## 111
 __*STRAWSON*__* *__*P*__*\. \(1992:*__*111*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
 
  Poseemos, por lo tanto, esta noción de experiencia que acontece en el tiempo y cuyo carácter depende de una determinada distribución espacio\-temporal de rasgos objetivos relacionada con una cierta región espacio\-temporal central; la región ocupada por el sujeto\. En su sentido más amplio, ésta es la noción de una experiencia que *depende causalmente* de los rasgos objetivos en cuestión\. Pues bien, lo que quiero señalar ahora es que __esta noción de dependencia causal de la experiencia__, tenida en la percepción, de rasgos del mundo objetivo espacio\-temporal está implícita desde el principio mismo en el concepto de __percepción sensible, puesto que generalmente se piensa que produce juicios verdaderos sobre el mundo__\. No es algo que descubramos conforme avanza la ciencia, ni siquiera mediante una observación refinada\. Y tampoco exige un elaborado argumento filosófico\. __Esta noción de dependencia causal es plenamente inherente a la noción misma de percepción sensible pues ésta proporciona juicios verdaderos sobre un mundo espacio\-temporal objetivo__\. __De ahí que cualquier teoría filosófica que trate de ser fiel a nuestro marco general de ideas, a nuestro sistema general de pensamiento, debe incorporar esta noción general de dependencia causal__\. En esta medida, al menos, __habrá de ser una teoría causal de la percepción__\. Lo que descubrimos mediante observación refinada o científica es, naturalmente, cómo se establece de hecho esta relación general de dependencia causal, qué forma adopta, qué mecanismos encierra\. Estas preguntas tienen también interés filosófico, como veremos\.
@@ -638,7 +680,7 @@ __STRAWSON__ __P__\. \(1992:__136__\)\. *Análisis y metafísica\. Una introducc
 
  1\. Las creencias de cada usuario de conceptos se basan en parte en la *experiencia personal* de la realidad de la que tratan sus creencias; percepción y memoria contribuyen conjuntamente a la elaboración de su imagen del mundo\. \(__Algunas creencias lo son de primera mano__\)\.
 
- 2\. Una gran parte de las creencias que tienen acerca de la realidad objetiva el usuario de conceptos … no se basa en la experiencia personal de esa realidad objetiva de la que tienen un fundamento personal proceden de los informes de otros… \( __Lamayoría de las creencias no tienen un fundamento personal__\)\.
+ 2\. Una gran parte de las creencias que tienen acerca de la realidad objetiva el usuario de conceptos … no se basa en la experiencia personal de esa realidad objetiva de la que tienen un fundamento personal proceden de los informes de otros… \(La__mayoría de las creencias no tienen un fundamento personal__\)\.
 
 3\. Entre las creencias de los usuarios de conceptos necesariamente hay las que son generales\. Pues, a\) los conceptos de cosas objetivas que conservan su identidad en el cambio, y que surten y llenan el marco espacio\-temporal del mundo objetivo, son conceptos de cosas que exhiben en su comportamiento alguna regularidad; y b\) el mundo podría no ser escenario de acciones guiadas por un propósito, si careciéramos de creencias generales que generan expectativas condicionales\. \(__Algunas creencias han de ser generales__\)\.
 
@@ -898,7 +940,9 @@ __STRAWSON__ __P__\. \(1992:__171\-172__\)\. *Análisis y metafísica\. Una intr
 
  Pero, entonces, ¿qué es lo que hace que las descripciones que figuran en tales enunciados sean idóneas? En otras palabras, ¿qué hace que los hechos seleccionados sean apropiados para la relación de explicación? ¿Y cuál es la conexión entre la idoneidad de las descripciones, lo apropiado de los hechos, y la relación causal misma, la relación que, presumimos, se da en el mundo natural, con sus eventos, condiciones y relaciones causales\. __Hemos de pensar esto so pena de aceptar, en caso contrario, que la relación causal misma carece de existencia natural o que no tiene ninguna fuera de nuestras mentes: que la creencia es esta relación es simplemente la proyección en el mundo de una descripción subjetiva nuestra __—de la descripción, quizás, a considerar que algunos hechos explican otros—\. … *La atribución* de relación causal a una relación vigente al margen de cualquier disposición subjetiva por nuestra parte sólo podía fundamentarse en la observación de que ciertas otras relaciones que *podían* intrínsecamente detectarse en el caso particular se daban repetidamente en casos particulares semejantes\. Así, la relación causal, entendida como una relación que mantienen entre sí «objetos» … particulares, posee un carácter único según este punto de vista\.__ Se halla al servicio de la generalidad__\. No es … algo realmente presente en la situación particular que contiene los objetos particulares\. O por decirlo de otra forma:__ las generalizaciones causales no son generalizaciones de casos particulares de causalidad__; __más bien, los ejemplos particulares de causalidad se consideran tales por hacer particulares las generalizaciones causales__\.
 
-__ STRAWSON__ __P__\. \(1992:172\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
+__ 
+## 172
+STRAWSON__ __P__\. \(1992:172\)\. *Análisis y metafísica\. Una introducción a la filosofía\.*
 
  
 
@@ -992,6 +1036,8 @@ De hecho, suponemos que hay leyes mecánicas que no admiten excepciones y que so
 
  Habiendo dicho esto, podría parecer que estoy obligado a responder a dos preguntas sobre las leyes teóricas: ¿Cómo se establecen tales leyes? ¿Y cómo se aplican en la práctica, es decir, cómo se las *usa* para obtener los resultados deseados? … Estas preguntas pertenecen a la filosofía de la ciencia y de la ciencia aplicada… Pero para los propósitos del momento … el establecimiento de tales leyes exige, primero, la elaboración de hipótesis; y segundo, que las hipótesis sean comprobadas… de forma cuantitativa…* en situaciones observacionales cuidadosamente ideadas*—es decir, situaciones tan controladas que sea posible conocer exactamente los rasgos de la situación que afectan a la presunta ley—, 
 
+
+## 190
 __*STRAWSON*__* *__*P*__*\. \(1992\-1997:*__*190*__*\)\. Análisis y metafísica\. Una introducción a la filosofía\.*
 
  Antes* *de concluir*, *quiero mencionar una extraña consecuencia filosófica de adherirse* al* punto de vista recibido acerca de la __causalidad, __o a un elemento esencial de esa concepción; o lo que viene a ser virtualmente lo mismo, a una consecuencia de negar las diversas maneras en que la noción de causa forma realmente parte de nuestras ideas ordinarias de las cosas\. Este elemento esencial del punto de vista recibido es la doctrina de que, __por lo que respecta a su contenido objetivo, la noción de causa puede reducirse a la invariabilidad de la asociación de los tipos de acontecimiento y circunstancia__\. La terminología preferida al utilizar esta noción es la de las __condiciones necesarias y suficientes__\. Así, tenemos formulaciones como la siguiente: si se dan circunstancias de un tipo, X, entonces el que acontezca un evento de tipo α es necesario y suficiente para que subsiguientemente acontezca un evento de tipo  β\. El esquema es claramente equivalente a este otro: si se dan circunstancias de un tipo, X, entonces el que acontezca un evento de tipo β es suficiente y necesario para que haya previamente acontecido un evento de tipo α\. Supongamos que se den las circunstancias del tipo X y que tienen lugar, en ese mismo orden, los eventos particulares α y β\. __Por lo que respecta a la necesidad y la suficiencia, no existe razón alguna para preferir decir que el evento del tipo α es una, o la causa del evento de tipo β, en lugar de la inversa__; no hay razón, de hecho, para que en absoluto distingamos entre causa y efecto en vez de admitir, por ejemplo, una relación simétrica de recíproca dependencia causal\. Y sin embargo, parecemos obstinados en alimentar el prejuicio que favorece esa distinción: en __pensar que, mientras que las causas preceden a sus efectos o que ambos son simultáneos, los efectos nunca preceden a sus efectos a sus causas__…
