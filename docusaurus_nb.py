@@ -53,9 +53,9 @@ for file in glob.glob(join(DOCX_path, '*')):
 
 def get_regex_pattern(string):
     # all patterns must match an entire expression and the number, in that order
-    name = re.search(r'([\w\-]+)', string)[0]
+    name = re.search(r'([a-zA-Z0-9\-]+)', string)[0]
     # matches the infix anotated titles
-    pattern_A = r'([\*_]{0,5}%s.*?\(\d{4}(?:\\?-[0-9]{4})?\D*?(?:[\*_]){0,2}\D*?:\D*?(?:[\*_]){0,2}\D*?([0-9]+(?:\s{0,2}\\?(?:-|y|,)\s{0,2}[0-9]+){0,3})\D*?\))' % name
+    pattern_A = r'([\*_]{0,5}%s.*?\((?:[\*_]){0,5}\d{4}(?:\\?-[0-9]{4})?\D*?(?:[\*_]){0,5}\D*?:\D*?(?:[\*_]){0,4}\D*?([0-9]+(?:\s{0,2}\\?(?:-|y|,)\s{0,2}[0-9]+){0,3})\D*?\))' % name
     # matches the postfix anotated titles
     pattern_B = r'([\*_]{0,5}%s(?:.*?\n{0,3}){0,3}[pP]\\?\s{0,3}\.\s{0,3}([0-9]+(?:\\?-[0-9]+){0,3}))' % name
     
@@ -79,9 +79,9 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
 
     # mitigate improperly bolded words
     # starting late
-    content = re.sub(r' (\w)__(\w+)', r' __\1\2', content)
+    content = re.sub(r' ([a-zA-Z])__([a-zA-Z]+)', r' __\1\2', content)
     # ending early
-    content = re.sub(r'(\w+)__(\w) ', r' __\1\2', content)
+    content = re.sub(r'([a-zA-Z]+)__([a-zA-Z]) ', r'\1\2__', content)
     # the colons seem to be annoying the parser
     content = re.sub(r'__:', r':__', content)
     # removes double minus
