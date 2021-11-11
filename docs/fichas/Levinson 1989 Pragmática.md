@@ -74,6 +74,8 @@ __LEVINSON, S\.__ \(1983\-1998:__6\-7__\)\. *Pragmática\. *Barcelona: Teide*\.*
 
  Un ámbito que se ha propuesto para la pragmática, bastante restringido, es que la pragmática debería limitarse a tratar los principios del uso del lenguaje y no tener nada que ver con la descripción de la estructura lingüística\. O, acogiéndonos al la definición de Chomsky entre __competencia __y __actuación__, la pragmática sólo se ocupa de los principios de la actuación en el uso del lenguaje\. Así Katz y Fodor \(1963\) sugirieron que una teoría de la pragmática \(o una teoría de la __selección de ajuste__ como ellos la llamaron\) se ocuparía esencialmente de la desambiguación según contextos en que *fueran enunciadas\.* De hecho está claro que los contextos hacen mucho más que simplemente seleccionar entre varias interpretaciones semánticas disponibles de las oraciones —por ejemplo la ironía, el eufemismo y otros fenómenos por el estilo son tipos de uso que de hecho crean nuevas interpretaciones en sus contextos\. Con todo, podría afirmarse que la gramática \(en el sentido amplio que incluye la fonología, la sintaxis y la semántica\) se ocupa de __asignar un significado a las formas lingüísticas independientemente del contexto, mientras que la pragmática se ocupa de la posterior interpretación de estas formas en un contexto:↓__
 
+
+## 7\-8
 __LEVINSON, S\. \(__1983\-1998:__7\-8\)\. __*Pragmática*__*\. *__Barcelona: Teide\.
 
 \[Las gramáticas\] son teorías acerca de la estructura de tipos de oraciones \.\.\.Las teorías pragmáticas, por el contrario, no hacen nada para explicar la estructura de las construcciones lingüísticas o las propiedades y relaciones gramaticales … sino que explican el razonamiento de los hablantes y de los oyentes elaborando la correlación en un contexto entre una muestra de oración y una proposición\. A este respecto, una teoría pragmática es parte de la actuación \(Katz, 1977:19\)
@@ -148,6 +150,8 @@ __LEVINSON, S\.__ \(1983\-1998:__11’__\)\. *Pragmática\. *Barcelona: Teide\.
 
  Una objeción a esta definición podría ser que el ámbito de la pragmática parecería por lo tanto variar considerablemente según la clase de teoría semántica que se adoptara —las teorías semánticas restringidas, como las basadas en las condiciones veritativas, dejarían un gran residuo de ‘significado’ para que fuese estudiado en la pragmática; otras … aparentemente más amplias, como algunas de aquellas basadas en componentes o rasgos del significado, dejarían a la pragmática mucho menos de qué encargarse\. Debe admitirse desde luego que hasta cierto punto la naturaleza de una teoría pragmática debe depender decisivamente del tipo de teoría semántica adoptado, pero eso será verdad para cualquier definición de pragmática que pida un dominio exclusivo, complementario y que no se superponga a la semántica\. Pero es importante ver que esta dependencia es sólo parcial, ya que ahora sabemos lo suficiente acerca de la naturaleza del significado en el sentido amplio para que sea probable que existen áreas substanciales que no puedan ser adaptadas a __ninguna __teoría semántica basada en principios homogéneos\.
 
+
+## 12
 LEVINSON, S\. \(1983\-1998:12\)\. *Pragmática\. *Barcelona: Teide\.
 
  Aquí enumeraremos siete de estos presuntos componentes del significado o relaciones inferenciales de un enunciado …
@@ -356,6 +360,8 @@ __LEVINSON, S\.__ \(1983\-1998:__21\-25\-26__\)\. *Pragmática\. *Barcelona: Tei
 
 ¿Cuáles son los __objetivos__ de una teoría pragmática? … Una manera abstracta de pensar sobre esto es considerar una teoría pragmática como una ‘caja negra’ \(un mecanismo todavía inexplicado\) y preguntar: ¿Cuál debería ser la información de entrada de esta teoría , y cuál debería ser la producción de salida? ¿Qué es lo que se quiere que prediga la teoría, dada determinada información? Entonces podemos considerar una teoría como una __función* *__en el sentido matemático, que asigna un conjunto de entidades \(el __dominio\) __a otro conjunto de entidades \(el __recorrido\)__; … No está de ningún modo tan claro lo que deberían ser la información de entrada y la producción de salida de una teoría pragmática\.
 
+
+## 28\-29
 LEVINSON, S\. \(1983\-1998:28\-29\)\. *Pragmática\. *Barcelona: Teide\.
 
 Otras concepciones de la pragmática podrían ser en el fondo coherentes con éstas hasta cierto punto\. Por ejemplo, … la definición de pragmática como aquello que se ocupa de los aspectos codificados del contexto podría ser menos restrictiva de lo que parece a primera vista, ya que si en general \(a\) los principios de uso del lenguaje tienen como corolario los principios de interpretación y \(b\) es probable que los principios del uso del lenguaje afectan a la larga a la gramática … entonces las teorías acerca de los aspectos pragmáticos del significado estarán estrechamente relacionados con las teorías cerca de la gramaticalización de los aspectos contextuales\. Por lo tanto la multiplicidad de definiciones alternativas podría parecer mayor de lo que realmente es\.
@@ -540,6 +546,8 @@ equivaldrá a una especificación de las circunstancias bajo las que esto sería
 
 1 El contraste existente aquí entre los modos de referencia independiente del contexto y dependiente del contexto no es en realidad tan simple —es posible que en última instancia, muchos tipos de expresiones de referencia dependan de información contextual…
 
+
+## 49
 LEVINSON, S\. \(1983\-1998:49\)\. *Pragmática\.* Barcelona: Teide\.
 
 En este caso, para poder poder evaluar la veracidad de \(5\) nos hace falta saber, además de los hechos históricos, ciertos detalles acerca del contexto en que fue enunciada \(en esta ocasión, la identidad del hablante\)\. La expresión *I*, “Yo” no es por supuesto el único rasgo problemático del inglés; los siguientes ejemplos nos plantean el mismo tipo de problemas \(la expresión deíctica pertinente en esta cursiva, convención que se seguirá a lo largo del capítulo\):
@@ -564,6 +572,8 @@ solamente en el caso de que __en el momento de hablar__ haya un hombre en Marte,
 
 \(11\) There *was* a man on Mars, *Había* un hombre en Marte
 
+
+## 89
 LEVINSON, S\. \(1983\-1998:89\)\. Pragmática\. Barcelona: Teide\.
 
 __3\.0 Implicatura conversacional__
@@ -634,6 +644,8 @@ A: Do you have the ability to tell me the time *of the present momento, as stand
 
 …Claramente, el __objeto__ del intercambio en su totalidad, esto es, una demanda de información específica y un intento de ofrecer tanta información de este tipo como sea posible, no está de ningún modo directamente expresado por \(2\); así, la laguna existente entre lo literalmente __se dice__ en \(2\) y lo que se transmite en \(3\) es tan substancial, que no podemos esperar que una teoría semántica proporcione más que una pequeña parte de una explicación de cómo nos comunicamos usando el lenguaje\. La noción de implicatura ofrece la posibilidad de superar tal laguna, dando una explicación de cómo se transmite efectivamente gran parte, por lo menos, del material en cursiva de \(3\)\.
 
+
+## 90\-91
 LEVINSON, S\. \(1989\-1983:90\-91\)\. *Pragmática*,\. Barcelona: Teide\.
 
  En tercer lugar, parece probable que la noción de implicatura provoque substanciales simplificaciones tanto en la estructura como en el contenido de las descripciones semánticas\. Considérese por ejemplo:
@@ -746,6 +758,8 @@ __LEVINSON, S\.__ \(1983\-__1992\-92__\-__93__\)\. *Pragmática\. *Barcelona*: *
 
 *La segunda* teoría de Grice, en la cual desarrolla en concepto de implicatura, es esencialmente una teoría sobre cómo la gente usa el lenguaje\. La sugerencia de Grice es que existe un conjunto de asunciones envolventes que guían el transcurso de la conversación\. Éstas surgen, parece, a partir de consideraciones racionales básicas y pueden formularse como líneas directrices para el uso eficiente y efectivo del lenguaje en la conversación con fines cooperativos más amplios\. Grice identifica como guías de esta clase cuatro máximas de conversación básicas o principios generales subyacentes al uso cooperativo eficiente del lenguaje, los cuales expresan conjuntamente un principio cooperativos general\. Estos principios se formulan como sigue:
 
+
+## 92\-93\-94
 LEVINSON, S\. \(1989\-1983:92\-93\-94\)\. *Pragmática*,\. Barcelona: Teide\.
 
  __ La teoría de la implicatura de Grice\.__
@@ -836,6 +850,8 @@ __LEVINSON, S\.__ \(1983\-1998:__94__\)\. *Pragmática\. *Barcelona*: *Teide\.
 
  Aquí, la contribución de B, si se toma al pie de la letra, no logra contestar la pregunta de A, y así parece violar cuando menos las máximas de cantidad y pertinencia\. Deberíamos esperar, por lo tanto, que el enunciado de B fuera interpretado como una respuesta no cooperativa, una indiferencia respecto al interés de A, por medio de un cambio de tema\. Pese a ello, es evidente que, a pesar de esta aparente falta de cooperación, intentamos interpretar el enunciado de B como cooperativa en algún nivel más profundo \(no\-superficial\)\. Hacemos esto asumiendo que es en realidad cooperativo y preguntándonos entonces qué posible conexión puede existir entre la situación de Bill y la situación de un VW amarillo; llegamos así a la sugerencia \(sugerencia que B en efecto transmite\) de que, si Bill tiene un VW amarillo, puede encontrarse \(Bill\) en casa de Sue\.
 
+
+## 94
 LEVINSON, S\. \(1983\-1998:__94__\)\. *Pragmática*,\. Barcelona: Teide\.
 
 En resumen, estas máximas especifican lo que deben hacer los participantes para conversar del modo más eficiente, racional y cooperativo: deben hablar sincera, pertinente y claramente, al tiempo que aportan información suficiente\.
@@ -852,6 +868,8 @@ __LEVINSON, S\.__ \(1983\-1998:__94\-95__\)\. *Pragmática\. *Barcelona*: *Teide
 
  Pero, ¿cuál es la fuente de estas máximas de comportamiento conversacional?, ¿son acaso reglas conversacionales que aprendemos del mismo modo que aprendemos, por ejemplo, los buenos modales en la mesa?\. Grice sugiere que las máximas no son en realidad convenciones arbitrarias, sino que describen medios racionales para poder efectuar intercambios cooperativos\. Si esto es así, deberíamos esperar que las máximas rigieran también aspectos del *comportamiento no* lingüístico; ciertamente parece que así ocurre\. … las máximas se derivan realmente de consideraciones generales de racionalidad aplicables a cualquier tipo de intercambio cooperativo y, si esto es así, deben tener además una aplicación universal, al menos en la medida en que lo permitan otras restricciones sobre la interacción específicamente culturales\. Esencialmente, esto también parece ser así\.
 
+
+## 94\-95
 LEVINSON, S\. \(1989\-1983:94\-95\)\. *Pragmática*,\. Barcelona: Teide\.
 
  Pero, ¿cuál es la fuente de estas máximas del comportamiento conversacional?, ¿son acaso reglas convencionales que aprendemos del mismo modo que aprendemos, por ejemplo, los buenos modales en la mesa__? Grice sugiere que las máximas no son en realidad convenciones arbitrarias, sino que describen medios racionales para poder efectuar intercambios cooperativos\.__ Si esto es así, deberíamos esperar que las máximas rigieran también aspectos del comportamiento no lingüístico; ciertamente parece que así ocurre … las máximas se derivan realmente de consideraciones generales de racionalidad aplicables a cualquier tipo de intercambio cooperativo y, si esto es así, deben tener además una aplicación universal, al menos en la medida en que lo permitan otras restricciones sobre la interacción específicamente culturales\. Esencialmente, esto también parece ser así\.
@@ -1231,6 +1249,8 @@ Nota al pie Nº 13: Esta definición, que no es exactamente la de Grice, explici
 
  
 
+
+## 105
 LEVINSON, S\. \(1983\-1998:105\)\. Pragmática\. Barcelona: Teide\.
 
 Propiedades esenciales de las implicaturas
@@ -1241,6 +1261,8 @@ A partir de las diferentes maneras de calcular las implicaturas, Grice sugiere q
 
 La segunda propiedad importante de las implicaturas es que \(a excepción de aquellas debidas a la Máxima de Manera\) son, según lo expresa Grice, __no separables__\. Con esto Grice quiere decir que las implicaturas están ligadas al contenido semántico de lo que se dice, no a la forma lingüística y que por lo tanto no pueden separarse de un enunciado sustituyendo simplemente las palabras del enunciado por sinónimos\. 
 
+
+## 108
 LEVINSON, S\. \(1983\-1998:108\)\. Pragmática\. Barcelona: Teide\.
 
 El tercer rasgo distintivo de las implicaturas es que son __calculables__\. Es decir, para cualquier supuesta implicatura debe ser posible construir un argumento del tipo de \(47\) más arriba, que muestre cómo, a partir del significado literal o del sentido del enunciado por un lado, y del principio de cooperatividad y de las máximas por otro, se sigue que un destinatario podría efectuar la inferencia en cuestión para preservar así la asunción de cooperatividad\.
@@ -1261,6 +1283,8 @@ Tipos de implicatura
 
  \(104\) La casa no era la mía
 
+
+## 117
 LEVINSON, S\. \(1983\-1998:117\)\. Pragmática\. Barcelona: Teide\.
 
 3\.2\.3 Tipos de implicatura
@@ -1289,6 +1313,8 @@ __LEVINSON, S\.__ \(1989\-1983:__117\-118__\)\.* Pragmática*\. Barcelona: Teide
 
  *La implicatura* de \(106\) es así una implicatura __particularizada__…
 
+
+## 117\-118
 LEVINSON, S\. \(1983\-1998:117\-118\)\. Pragmática\. Barcelona: Teide\.
 
  De modo que parece existir una implicatura conversacional __generalizada__ a partir de la expresión *an F*, “una/a F” hacia la sunción de que F es algo que no está estrechamente relacionado con el hablante\. En contraste con lo anterior están estrechamente relacionado con el hablante\. En contraste con lo anteror, \(105\) sólo implicitará \(106\) si tiene lugar en el particular emplazamiento que ilustra \(107\):
@@ -1323,6 +1349,8 @@ __LEVINSON, S\.__ \(1989\-1983:__118__\)\.* Pragmática*\. Barcelona: Teide\.
 
  En cualquier caso, está claro que las dos dimensiones se entrecruzan: por ejemplo, todas las implicaturas que surges a partir de la observación de la máxima de Pertinencia son particularizadas, puesto que los enunciados son pertinentes solamente en relación con el tema o asunto concretos de que se trate\. Así, la respuesta de Ben en \(107\) implícita \(106\) en virtud de su yuxtaposición a la pregunta de A en \(107\)\.
 
+
+## 118
 LEVINSON, S\. \(1983\-1998:118\)\. Pragmática\. Barcelona: Teide\.
 
 En cualquier caso, está claro que las dos dimensiones se entrecruzan: por ejemplo, todas las implicaturas que surgen a partir de la observación de la máxima de Pertinencia son particularizadas, puesto que los enunciados son pertinentes solamente en relación con el tema o asunto concretos de que se trate\. Así, la respuesta B en \(197\) implica \(106\) en virtud de su yuxtaposición a la pregunta de A en \(107\)\.
@@ -1347,6 +1375,8 @@ Las implicaturas convencionales son inferencias no condicionadas veritativamente
 
 *Puede esperarse* que las implicaturas convencionales contrasten con las implicaturas convencionales en la totalidad de propiedades distintivas que hemos comprendido para estas últimas\. Por ejemplo, las implicaturas convencionales serán __no cancelables__ puesto que no dependen de asunciones de factibles sobre la naturaleza del contexto: serán __separables__ porque dependen de los elementos lingüísticos concretos que se usan \(por ejemplo, si se substituye and, “y” por but, “pero”, se pierde la implicatura convencional pero se conservan las mismas condiciones veritativas\); no serán __calculadas__ utilizando principios pragmáticos ni conocimientos contextuales, sino más bien por convención \(por ejemplo, no hay modos de deducir, dadas las condiciones veritativas de but, que existe un contraste entre los dos conjunctos\)\. 
 
+
+## 118\-119
 LEVINSON, S\. \(1983\-1998:118\-119\)\. Pragmática\. Barcelona: Teide\.
 
 Grice ofrece solamente dos ejemplos: la palabra *but*, “pero” tiene el mismo contenido veritativo\-condicional \(o veritativo\-funcional\) que la palabra *and*, “y”, con una implicatura convencional adicional a fin de que haya algún contraste entre los conjuntos \(Grice, 1961\); el otro ejemplo lo constituye la palabra *therefore*, “por lo tanto”, que según Grice no contribuye en absoluto a as condiciones veritativas de las expresiones donde aparece \(Grice, 1975: 44\)\. Otros ejemplos que se han propuesto son los significados de *even*, “incluso” … y *yet*, “con todo, no obstante” \(Wilson, 1975\)\.
@@ -1361,6 +1391,8 @@ Por tanto, puede esperarse que tengan un contenido o significado relativamente _
 
  En cierto sentido la implicatura convencional no es un concepto muy interesante –es más bien un reconocimiento del fracaso de la semántica veritativamente condicionada para recoger todo el contenido o significado convencional de las palabras y expresiones del lenguaje natural\-\. Es natural por consiguiente que haya habido una resistencia a la acepción de la noción … y que se hayan hecho intentos de reducir los supuestos casos de implicatura convencional a aspectos de entrañamiento, la implicatura conversacional y la presuposición\.
 
+
+## 119
 LEVINSON, S\. \(1983\-1998:119\)\. Pragmática\. Barcelona: Teide\.
 
 En cierto sentido, la implicatura convencional no es un concepto muy interesante —es más bien un reconocimiento del fracaso de la semántica veritativamente condicionada para recoger todo el contenido o significado convencional de las palabras y expresiones del lenguaje natural— Es natural por consiguiente que haya habido una resistencia a la aceptación de la noción … y que hayan hecho intentos de reducir los supuestos casos de implicatura convencional a aspectos del entrañamiento, la implicatura conversacional y la presuposición\. … Los pocos ejemplos que ofreció Grice de las implicaturas convencionales animan a los aspirantes a reduccionistas … Pero se trata de un error, porque parece que las implicaturas convencionales son un componente central de un gran n´úmero de expresiones deícticas … Esto es particularmente cierto para los elementos ‘deícticos de discurso’ como los de \(110\) y los elementos socialmente deícticos como os de \(111\) \(cuando se usan para dirigirse a alguien\)\.
@@ -1369,6 +1401,8 @@ En cierto sentido, la implicatura convencional no es un concepto muy interesante
 
 \(111\) Sir, “\[señor”\], madam, \[“señora”\], mate, \[“camarada, colega”\], your honor, \[“su señoría”\], sonny, \[“hijito, chiquillo”\], hey, \[“eh, oiga”\], oi, \[“eh”\]
 
+
+## 119\-121
 LEVINSON, S\. \(1983\-1998:119\-121\)\. Pragmática\. Barcelona: Teide\.
 
  A través del concepto de implicatura convencional surgen diversos puntos importantes en torno s ls organización de la gramática\. De acuerdo con la explicación propuesta aquí, los elementos léxicos tendrán a menudo rasgos de significado que no estarán veritativamente condicionados sino que serán convencionales: de este modo un léxico de una lengua natural contendrá referencias a los componentes pragmáticos del significado\. En segundo lugar, las reglas sintácticas parecen ser sensibles a tales elementos del significado\. …
@@ -1385,12 +1419,16 @@ __LEVINSON, S\.__ \(1989\-1983:__121__\)\.* Pragmática*\. Barcelona: Teide\.
 
 __Pero en tal caso la sintaxis no es autónoma con respecto a la pragmática__, una afirmación a la que la mayor parte de los lingüistas se opondría…
 
+
+## 122
 LEVINSON, S\. \(1983\-1998:122\)\. Pragmática\. Barcelona: Teide\.
 
 Hemos descrito las clases de implicaturas cruciales en la bibliografía sobre el tema pero, como ya anticipó Grice, parece que ciertamente existen otros tipos no convencionales de inferencias producidas por distintas máximas o principios del uso del lenguaje\. Por ejemplo, veremos que existe __un principio de informatividad __que produce implicaturas en conflicto, algunas veces, con aquellas debidas a la máxima de Cantidad … existen también principios de cortesía que producen inferencias sistemáticas de una intrigante complejidad\.
 
  La proliferación de variedades de implicaturas nos recuerda el tema sobre el que insistimos … los recientes avances en pragmática tienen como consecuencia una visión ‘híbrida’ de la naturaleza del significado\. La significación total o contenido comunicativo de un enunciado puede dividirse, de acuerdo con Grice \(1976\), …\. Vemos aquí que el contenido veritativo de un enunciado \(lo que, en el especial de sentido de Grice da a esta expresión, se __dice__\) puede constituir tan sólo una pequeña parte de su significado total y; cuando examinamos otros temas de la pragmática seguiremos añadiendo nuevas clases de inferencias pragmáticas a este inventario\.
 
+
+## 122
 LEVINSON, S\. \(1989\-1983:122\)\. Pragmática\. Barcelona: Teide\.
 
 Una __escala __lingüística consiste en un conjunto de alternantes lingüísticos, o expresiones contrastivas de la misma categoría gramatical, que pueden ordenarse en un orden lineal por grados de __informatividad __o fuerza semántica\.
@@ -1423,6 +1461,8 @@ __LEVINSON, S\. __\(1989\-1983:__123\-124__\)\. *Pragmática*\. Barcelona: Teide
 
 Ahora una vez dada tal escala, existe una regla predicativa general que deriva un conjunto de implicaturas de Cantidad, a saber, si el hablante aseverara que se da cierto punto de la escala inferior o más débil \(es decir, un elemento hacia la derecha del conjunto ordenado de alternantes\), entonces implícita que no se da un punto superior o mas fuerte, si se asevera \(119\), se implícita conversacionalmente que no todos los chicos fueron a la fiesta, esto es así aun cuando sea perfectamente compatible con la veracidad de \(119\) que \(118\) sea verdadero…
 
+
+## 124
 LEVINSON, S\. \(1989\-1983:124\)\. Pragmática\. Barcelona: Teide\.
 
 Implicaturas escalares e implicaturas clausales 
@@ -1485,6 +1525,8 @@ __LEVINSON, S\.__ \(1989\-1983:__127__\)\.* Pragmática*\. Barcelona: Teide\.
 
 \(128\) I know John is away, Sé que Jhon está fuera
 
+
+## 127
 LEVINSON, S\. \(1989\-1983:127\)\. Pragmática\. Barcelona: Teide\.
 
 La idea intuitiva subyacente es ésta: si yo utilizo una expresión lingüística que no me compromete con una proposición inserta, prefiriéndola a otra expresión disponible más fuerte que sí me comprometería, entonces puede interpretarse que implícito que no estoy en situación \(epistémica\) de hacer la declaración más fuerte\. P\. 127
@@ -2163,6 +2205,8 @@ __LEVINSON, S\.__ \(1989\-1983:__197\-198__\)\.* Pragmática*\. Barcelona: Teide
 
  Las dos teorías que vamos a analizar asumen que las presuposiciones forman por lo tanto parte del significado convencional de las expresiones, incluso aunque no sean inferencias semánticas\. Esto podría servir para distinguir las presuposiciones de las implicaturas conversacionales, ya que de otro modo comparten muchas de las mismas propiedades de defectibilidad, puesto que las implicaturas conversacionales son no __separables:____ es decir, no es posible encontrar otro modo de transmitir las mismas condiciones veritativas que no posea las implicaturas en cuestión__\. Por otro lado, no parece haber ningún problema en encontrar una manera de expresar el mismo contenido veritativo que en \(167\) o \(168\), evitando al mismo tiempo transmitir \(169\) o \(170\) respectivamente ⎯por ejemplo diciendo \(166\)\. 
 
+
+## 217\-218
 LEVINSON, S\. \(1989:217\-218\)\. *Pragmática*\. Barcelona: Teide\. 
 
 Capítulo 5 ACTOS DE HABLA
@@ -2247,6 +2291,8 @@ Como prueba de la existencia de estas condiciones, considérese qué ocurre cuan
 
 \(6\) Oficiante: Will thou have this woman to the wedded wife… and, forsaking all other, keep thee only unto her, so long as ye both shall live?, ¿Quieres tomar esta mujer como tu legítima esposa… y\. Renunciando a todo lo demás, honrarla y respetarla, hasta que la muerte os separe?
 
+
+## 221
 LEVINSON, S\. \(1989:221\)\. *Pragmática*\. Barcelona: Teide\. 
 
  El novio debe decir *I will*, “Sí quiero”\. Además, el procedimiento debe ser completo, como lo requiere B \(ii\): si yo os apuesto seis peniques a que mañana lloverá, para que la apuesta surja efecto debéis ratificar el arreglo con *You are on*, “Hecho” o algo que tenga un efecto similar – o en la terminología de Austin, debe haber un entendimiento satisfactorio\. Finalmente, las violaciones de las condiciones C son insinceridades: aconsejar a alguien a que haga algo cuando pensamos que sería ventajoso para nosotros pero no para él, o que un jurado declare culpable a un acusado cuando sabe que es inocente, serían violaciones de la condición C \(i\)\. Y prometer hacer algo que no se tiene ninguna intención de efectuar sería una violación descarada de C \(ii\)\.
@@ -2255,6 +2301,8 @@ LEVINSON, S\. \(1989:221\)\. *Pragmática*\. Barcelona: Teide\.
 
  
 
+
+## 221\-222
 LEVINSON, S\. \(1989:221\-222\)\. *Pragmática*\. Barcelona: Teide\.
 
  Basándose en estas observaciones Austin declara que \(a\) algunas oraciones, las performativas, son especiales: al enunciarlas no nos limitamos a decir cosas \(a informar de situaciones\), sino que hacemos cosas; y \(b\) estas oraciones performativas logran llevar a término sus correspondientes acciones porque hay convenciones específicas que vinculan las palabras con procedimientos institucionales\. Los performativos, si se quiere, sólo son una clase especial de ceremonia\. Y a diferencia de los constatativos, que son evaluados como afortunados o desafortunados, según si se cumplen o no sus condiciones de fortuna\.
@@ -2295,6 +2343,8 @@ __LEVINSON, S\. __\(1989:__222\-223__\)\. *Pragmática*\. Barcelona: Teide\.
 
 que puede decirse como una demostración, como un simple relato de una acción concurrente\. Por lo tanto, necesitamos también otros criterios para aislar los performativos\.
 
+
+## 223
 LEVINSON, S\. \(1989:223\)\. *Pragmática*\. Barcelona: Teide\.
 
  En este caso se podría caer de nuevo en la definición de vocabulario —parece que sólo algunos verbos pueden emplearse en este marco sintáctico performativo, con la propiedad especial de que el mero hecho de enunciarlos ya supone realizar una acción … se demuestra que *declarar* es un verbo performativo, mientras que *batir* y *correr* no lo son\. Así ahora podemos tomar conjuntamente todos estos criterios: los enunciados performativos son identificables porque tienen la forma de oraciones activas en primera persona del presente del indicativo y porque su verbo principal la forma parte de un conjunto delimitado de verbos performativos, que pueden ir junto al adverbio *por la presente\.*
@@ -2319,12 +2369,16 @@ __LEVINSON, S\. __\(1989:__223’__\)\. *Pragmática*\. Barcelona: Teide\.
 
  B: I promise to come, Prometo venir
 
+
+## 224
 LEVINSON, S\. \(1989:224\)\. *Pragmática*\. Barcelona: Teide\.
 
  Por lo tanto, lo que Austin sugiere es que los performativos explícitos son sencillamente una manera relativamente especializada de mostrarse no ambiguo, o específico, acerca de qué acto se está ejecutando al hablar\. En cambio, también se pueden emplear métodos más crudos, menos explícitos y específicos, como el modo \(como *Ciérrala*, en vez de *Te ordeno que la cierres*\), o adverbios como *Estaré allí sin falta, *en vez de *Prometo estar allí*\), o partículas \(como *Por lo tanto, *X en vez de *Concluyo que X\) … *
 
  Sin embargo, a pesar del hecho de que Austin ha concebido que los enunciados pueden ser performativos sin que posean la forma normal de los performativos explícitos, también sugiere que los verbos performativos siguen siendo el mejor modo de iniciar un estudio sistemático de todos los diferentes tipos de enunciado performativo\. Esta sugerencia parece descansar en la afirmación de que todo performativo no explícito puede en principio adoptar la forma de un performativo explícito, de manera que el estudio de solamente estos últimos no omite ninguna variedad especial de acción que solo pueda ejecutarse mediante otros tipos de enunciado\. \(Este principio fue matizado por Searle \(1969: 199 *et seq\.\) *como un principio de expresabilidad general –”cualquier cosa que quiera decirse puede ser dicha”; 
 
+
+## 224\-225
 LEVINSON, S\. \(1989:224\-225\)\. *Pragmática*\. Barcelona: Teide\.
 
 * *Prestamos ahora nuestra atención al otro giro importante en la obra de Austin, además de la distinción original entre constatativos y performativos a la opinión de que hay toda una familia de actos de habla, de la que los constatativos y los varios performativos sólo son miembros particulares\. ¿Cómo llegó a producirse este cambio sustancial? En primer lugar, la clase de los performativos … se ha extendido lentamente hasta incluir los performativos *implícitos*, de manera que, por ejemplo, el enunciado *Go\!*, “ve/id” puede ser varias cosas: un consejo, una orden, una súplica o un desafío, según el contexto\. Así, en seguida se ve que los únicos tipos de enunciados que no realizan acciones además, o en vez de simplemente relatar hechos y acontecimientos, son las declaraciones o constatativos\. Pero, ¿son las declaraciones un tipo tan especial de enunciado? ¿No es posible que posean también un aspecto performativo? 
@@ -2345,6 +2399,8 @@ Parece que ejecute la acción de avisar y que, al mismo tiempo, emita una predic
 
  El fallo de la presuposición tiene, en el dominio de los constatativos, un claro paralelo en el dominio d ellos performativos, donde hace que el enunciado sea desafortunado o vacío\. Análogamente, si alguien ofrece consejo o la advertencia, está obligado a tener motivos fundados para el consejo o la advertencia, del mismo modo que uno debería ser capaz de respaldar una afirmación o un constatativo\. Si las motivaciones son débiles, los tres tipos de enunciado comparten el mismo tipo de infortunio\. O, considerando la condición de C, que requiere que las intenciones y sentimientos sean los adecuados, puede verse que del mismo modo que las promesas requieren intenciones sinceras acerca de una acción futura, también las declaraciones requieren creencias sinceras acerca de la objetividad de lo que se afirma\.
 
+
+## 225\-226
 LEVINSON, S\. \(1989:225\-226\)\. *Pragmática*\. Barcelona: Teide\.
 
  De ahí el estrecho paralelismo entre el infortunio de \(19\) y el infortunio de la declaración en \(20\) \(la ‘paradoja de Moore’\):
@@ -2397,6 +2453,8 @@ __LEVINSON, S\.__ \(1989:__227__\)\. *Pragmática*\. Barcelona: Teide\.
 
  En suma, el acto ilocucionario es lo que se logra directamente por la fuerza convencional asociada con la emisión de un cierto tipo de enunciado de acuerdo a un procedimiento convencional y, en consecuencia, es determinado \(al menos en prototipo\)\. Por contraste, un acto perlocucionario es específicamente dependiente de las circunstancias de la emisión, y por lo tanto no se logra de forma convencional por el simple hecho de enunciar ese enunciado concreto, e incluye todos aquellos efectos, intencionados o no intencionados, a menudo indeterminados, que pueda causar un enunciado concreto en una situación concreta\. Los limites de esta distinción son poco precisos, como Austin admite, pero como prueba operativa puede intentarse parafrasear la hipotética fuerza ilocucionaria de un enunciado como un performativo explícito: si puede hacerse, el acto que se ejecuta es un acto ilocucionario; si no, el acto realizado es un acto perocucionario\. 
 
+
+## 227\-228
 LEVINSON, S\. \(1989:227\-228\)\. *Pragmática*\. Barcelona: Teide\.
 
  Un problema concreto es que, aunque quisiéramos poder identificar los efectos perlocucionarios con las consecuencias de lo que se ha dicho, los actos ilocucionarios también tienen consecuencias *directas e* indirectas al mismo acto —hay el mismo problema del entendimiento \(incluyendo la comprensión de tanto la fuerza como el contenido del enunciado por parte del o de los destinatarios— y la necesidad de ratificar, por ejemplo, una apuesta o una oferta, mientras que ciertas ilociciones como prometer o declarar la guerra tienen acciones consecuentes específicas\. Este énfasis interactivo \(en lo que el receptor o receptores de un acto ilocucionario deben pensar o hacer\) en la obra de Austin ha sido por desgracia negligido en obras posteriores sobre la teoría del acto de habla \(véase Austin, 1962: Conferencia IX\)\.
@@ -2411,6 +2469,8 @@ En general, la teoría de Searle de los actos de habla es sencillamente la teor�
 
 __\[__Nota 10: Especialmente en el sentido de que donde las caracterizaciones de Austin de los actos de habla se especifican en términos de ‘relaciones familiares’, Searle prefiere delimitaciones estrictas, en términos de condiciones necesarias y suficientes\. Hay razones para pensar que el tratamiento de Searle en este punto es demasiado fuerte e inflexible … En general, recomendamos que los estudiantes acudan al tratamiento, a menudo más sutil, que hizo Austin de estas cuestiones\.\]
 
+
+## 229
 LEVINSON, S\. \(1989:229\)\. *Pragmática*\. Barcelona: Teide\.
 
  Esto mueve a Searle a sugerir que las condiciones de fortuna no son meras dimensiones en que los enunciados pueden salir mal, sino que de hecho son partes constituyentes de las varias fuerzas ilocucionarias\. Por ejemplo, supongamos que, mediante la producción del enunciado E, yo prometo sincera y afortunadamente venir mañana\. Para poder realizar esa acción debe darse el caso de que se cumpla cada una de las siguientes condiciones:
@@ -2437,10 +2497,14 @@ LEVINSON, S\. \(1989:229\)\. *Pragmática*\. Barcelona: Teide\.
 
 Algunas de estas condiciones, es decir, 7\-10, son claramente para todo tipo de actos ilocucionarios\. Si las descontamos nos quedan las condiciones específicas de una promesa; estas condiciones \(1\-6\) son las que constituyen verdaderamente una promesa —si se cumplen \(y si 7\-10 también se dan\) se ha prometido de manera efectiva, y si se ha prometido efectivamente \(y sinceramente\) entonces el mundo reúne las condiciones 1\-6 \(y también 7\-10\)\.
 
+
+## 229
 LEVINSON, S\. \(1989:229\)\. *Pragmática*\. Barcelona: Teide\.
 
  Ahora podemos emplear estas condiciones de fortuna, como una especie de cuadrícula para comparar diferentes actos de habla\. Para hacerlo nos será útil algún tipo de clasificación de las condiciones de fortuna, como las de Austin en \(4\); Searle sugiere una clasificación en cuatro tipos de condición, que dependen de cómo especifican el contenido proposicional, las precondiciones preparatorias, las condiciones de sinceridad y la condición esencial … Para que quede clara esta tipología nos será útil un ejemplo de comparación entre peticiones y las advertencias sobre la base de estas dimensiones \(véase tabla 5\.1\); el ejemplo procede de Searle \(1969: 66\-7\)\.:
 
+
+## 230
 LEVINSON, S\. \(1989:230\)\. *Pragmática*\. Barcelona: Teide\.
 
 Tabla 5\.1 Una comparación de las condiciones de fortuna en las peticiones y las advertencias
@@ -2469,6 +2533,8 @@ esencial Cuenta como un intento de que Cuenta como un compromiso de que
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+## 230
 LEVINSON, S\. \(1989:230\)\. *Pragmática*\. Barcelona: Teide\.
 
  Pero Searle no queda satisfecho … Sería mucho más interesante derivar un esquema general que delimite los tipos posibles de fuerza ilocucionaria basándose en unos principios generales\. Austin pensaba que se podía llegar a una clasificación interesante mediante una taxonomía de los verbos performativos, pero lo que Searle trata de encontrar es un esquema más abstracto basado en las condiciones de fortuna\. De hecho lo que propone \(Searle, 1976\) es que al hablar puedan ejecutarse solamente cinco tipos básicos de acción, mediante los siguientes cinco tipos de enunciados:
@@ -2485,6 +2551,8 @@ LEVINSON, S\. \(1989:230\)\. *Pragmática*\. Barcelona: Teide\.
 
  Esta tipología aunque quizá representa una mejora con respecto a la de Austin, es decepcionante en cuanto que carece de una base de principios; … ni siquiera está basada de un modo sistemático en las condiciones de fortuna\. No hay razón, por lo tanto, para pensar que es definitiva o exhaustiva\. …
 
+
+## 231
 LEVINSON, S\. \(1989:231\)\. *Pragmática*\. Barcelona: Teide\.
 
 En este punto resultaría útil la otra principal corriente del pensamiento postaustiniano, que trata de relacionar la fuerza ilocucionaria con la teoría de Grice del significado\-nn o intención comunicativa\. Strawson \(1964\) afirma que Austin iba desencaminado acerca del carácter de la fuerza ilocucionaria al tomar como casos paradigmáticos ilocuciones basadas en instituciones, como bautizar, declarar marido y mujer, declarar culpable, etcétera, que requieren toda una panoplia de disposiciones sociales pertinentes\. La “parte fundamental” de la comunicación humana no se lleva a cabo en absoluto mediante tales ilocuciones estrechamente ligadas a la cultura, sino más bien mediante clases específicas de __intención comunicativa__, en el sentido especial que esbozó Grice \(1975\) en su teoría del significado\. Este enfoque sugiere que, dada la condición especial de Searle, que generalmente establece la intención pertinente, las condiciones de fortuna de cada uno de los principales actos ilocucionarios pueden predecirse a partir de consideraciones generales de racionalidad y cooperación del tipo representado en las máximas de Grice\.\.\.
@@ -2513,10 +2581,14 @@ __LEVINSON, S__\. \(1989:__233__\)\. *Pragmática*\. Barcelona: Teide\.
 
 donde Vp es un verbo performativo obtenido del conjunto limitado y determinado de verbos performativos de la lengua en cuestión\. O’ es una oración de complemento \(cuyo contenido está a menudo restringido por el verbo performativo concreto\) y V p se conjuga en presente del indicativo activo\. 
 
+
+## 233\-234
 LEVINSON, S\. \(1989:233\-234\)\. *Pragmática*\. Barcelona: Teide\. \*\*\*\*\*
 
 Existen variaciones poco significativas acerca de si un determinado verbo performativo admite un complemento con *que* \(como en *Declaro que p*\) o un complemento con *por – infinitivo* \(como en *Me disculpo por reír*\), etcétera\. También podemos considerar que los tres tipos básicos de oración *del* *inglés* \(y de la mayoría de las lenguas\), a saber, el imperativo, el interrogativo y el declarativo, contienen indicadores convencionales gramaticalizados de fuerza ilocutoria, es decir, aquellos que van asociados gramaticalmente con los prefijos performativos \(o sintagmas\) explícitos *Te pido que, Te pregunto si * y *Te declaro que *\(como la única salvedad de que los performativos explícitos, aunque estén en forma declarativa, tienen la fuerza asociada con el verbo performativo manifiesto en cada caso\)\. Podemos decir que las oraciones que tienen un formato imperativo, interrogativo o declarativo, y quizás otros tipos de formato, son performativos implícitos\. 
 
+
+## 234\-235
 LEVINSON, S\. \(1989:234\-235\)\. *Pragmática*\. Barcelona: Teide\.
 
 … En cuarto lugar, se puede obtener una correcta caracterización de la fuerza ilocucionaria mediante la especificación del conjunto de las __condiciones de fortuna__ \(o CF\) para cada fuerza\. Las CF pueden clasificarse, siguiendo a Searle, en __condiciones preparatorias__, que atañen a los prerrequisitos del mundo real para cada acto ilocucionario, las __condiciones del contenido proposicional__ que especifican las restricciones en el contenido de O’ \(26\), y las __condiciones de sinceridad__, que establecen las creencias, sentimientos e intenciones por parte del hablante necesarios y adecuados para cada tipo de acción\. \(En el esquela de Searle existe también … una __condición necesaria__\), que es de un orden completamente diferente\.\) Así, establecer las condiciones de fortuna para cualquier acto ilocucionario es especificar exactamente cómo tiene que ser el contexto para que una determinada enunciación de una oración que se emplea convencionalmente para ejecutar este tipo de acto de habla específico, esperamos que basándose en las CF podremos establecer una clasificación de los actos de habla más abstracta y fundamentada que la clasificación sugerida por Austin, de un estudio de los verbos performativos por si mismos\.
@@ -2527,16 +2599,22 @@ __LEVINSON, S__\. \(1989:__235__\)\. *Pragmática*\. Barcelona: Teide\.
 
 … en el caso de los performativos explícitos el contenido proposicional parece incluir el mecanismo indicador de fuerza, puesto que si, como sugiere esta versión de la teoría de los actos de habla, el aspecto proposicional y el aspecto ilocucionario deben tratarse por separado, entonces el significado de *prometer en * *Por la presente prometo venir *es diferente del significado de *prometer* en *Prometo venir*\. En el primer caso tiene un uso performativo, en el segundo, un uso descriptivo; el primero se explica mediante referencia a CF, el segundo recurriendo a los conceptos semánticos de sentido y referencia\. Una solución a este problema, adoptada por Searle pero no por Austin, es considerar que el aspecto proposicional del significado no es después de todo tan distinto: pueden establecerse condiciones de uso para el uso descriptivo de *prometer* del mismo modo que se aplican las condiciones de fortuna para el uso performativo\. 
 
+
+## 235
 LEVINSON, S\. \(1989:235’\)\. *Pragmática*\. Barcelona: Teide\.
 
 Searle \(1969, 1979b\) trata por este medio de ampliar la teoría de los actos de habla en una teoría general de la semántica …\. aquí nos interesamos en la teoría de los actos de habla solamente como una teoría de la fuerza ilocucionaria\. Sin embargo, esto no resuelve la cuestión de cómo deben relacionarse los usos performativo y descriptivo de unas mismas palabras\. \(una posible línea a seguir por los teóricos de la Tesis es considerar que los prefijos performativos explícitos son tratados desde el punto de vista semántico exactamente igual que otras cláusulas no performativas, per que además de eso, las cláusulas performativas poseen una función indicadora de fuerza que no puede reducirse a la semántica corriente\.\)
 
  En este punto ya podemos establecer el principio central de la Tesis: la fuerza ilocucionaria es, un aspecto del significado totalmente irreductible en cuestiones de veracidad o falsedad\. Esto es, la fuerza ilocucionaria constituye un aspecto del significado que no puede ser comprendido en una semántica veritativa los actos ilocutorios deber ser descritos más bien en términos de condiciones de fortuna, que son especificaciones de su uso adecuado\. 
 
+
+## 235
 LEVINSON, S\. \(1989:235’’\)\. *Pragmática*\. Barcelona: Teide\.
 
 La razón es que mientras que las proposiciones describen \(o se corresponden con\) situaciones concretas y pueden ser caracterizadas plausiblemente en función de las condiciones bajo las que dichas proposiciones bajo las que dichas proposiciones serían verdaderas, las fuerzas ilocucionarias indican cómo deben tomarse tales descripciones o qué se supone que tiene que hacer el destinatario con una determinada proposición expresada … La fuerza ilocucionaria pertenece firmemente al reino de la acción y por lo tanto las técnicas adecuadas para su análisis deben hallarse en la teoría de la acción, y no en la teoría del significado, cuando éste se concibe estrechamente como en una semántica veritativa\. La tesis es así una teoría que propone manejar la fuerza ilocucionaria de un modo totalmente pragmático\.
 
+
+## 236\-240
 LEVINSON, S\. \(1989:236\-240\)\. *Pragmática*\. Barcelona: Teide\.
 
 5\.3 Antítesis: la reducción de la fuerza ilocucionaria a la semántica y sintaxis corrientes
@@ -2545,12 +2623,16 @@ LEVINSON, S\. \(1989:236\-240\)\. *Pragmática*\. Barcelona: Teide\.
 
  *Armados con* la Antítesis podrían formar ahora que pueden reducir por completo la teoría de los actos de habla a cuestiones de sintaxis y de semántica veritativa\. El hecho de que toda oración al ser enunciada posee lo que parece ser una ‘fuerza ilocucionaria’ se explica por la presencia garantizada de una cláusula performativa subyacente o manifiesta, que posea la propiedad peculiar de ser verdadera por el simple hecho de ser dicha afortunadamente —de ahí la intuición de que n tiene sentido considerar su falsedad\. Las denominadas ‘condiciones de fortuna’ de los diferentes actos de habla son simplemente parte del significado de los verbos performativos implícitos o explícitos, que pueden entenderse en términos de entrañamiento o de presuposición semántica … El resultado básico es que la fuerza ilocucionaria se reduce a una “semántica de variedad de jardín”
 
+
+## 264\-265
 LEVINSON, S\. \(1989: 264\-265\)\. *Pragmática*\. Barcelona: Teide 
 
 5\.6 La teoría de los actos de habla como cambio de contexto
 
  Un candidato para una teoría pragmática de los actos de habla lo constituye un enfoque que trata de los actos de habla como operaciones \(e el sentido de la teoría de conjuntos\) en un contexto, es decir, como funciones de contextos a contextos\. Entendemos el contexto como un conjunto de proposiciones que *describen* las creencias, conocimientos, compromisos, etcétera de los participantes en un discurso\. La intuición básica es muy sencilla: cuando se enuncia una oración no ha tenido lugar solamente la expresión de su significado; además de esto, el conjunto de asunciones de fondo se ha alterado\. La contribución que un enunciado hace a este cambio en el contexto es la fuerza o potencial de su acto de habla\. Así, yo asevero que *p,* añado al contexto que me comprometo con *p*\.
 
+
+## 265
 LEVINSON, S\. \(1989:265\)\. *Pragmática*\. Barcelona: Teide\.
 
  Bajo este punto de vista, la mayor parte de los actos de habla añaden algunas proposiciones al contexto; por ejemplo, las aseveraciones, las promesas y las órdenes funcionan de esta manera\. Podemos expresar cada uno de ellos como funciones de contextos a contextos de la siguiente forma aproximada:
@@ -2561,6 +2643,8 @@ LEVINSON, S\. \(1989:265\)\. *Pragmática*\. Barcelona: Teide\.
 
 \(iii\) Una orden que *p* es una función de un contexto donde H no requiere a O que provoque el estado de cosas descrito en *p, *a un contexto donde O es requerido por H a hacerlo
 
+
+## 265\-266
 LEVINSON, S\. \(1989:265\-266\)\. *Pragmática*\. Barcelona: Teide\. * *
 
 …* *Deberíamos señalar que no todos los actos de habla añaden proposiciones al contexto; algunos las suprimen, como por ej\. los permisos, retractaciones, o aboliciones\. Así, por ejemplo, podríamos caracterizar el hecho de dar un permiso como sigue:
@@ -2715,10 +2799,14 @@ Es importante ver, sin embargo, que los motivos para rechazar el AD consisten e 
 
  El análisis conversacional … ha sido iniciado por un grupo disidente de sociólogos, conocidos a menudo como __etnometodológistas__\. La importancia de las bases sociológicas para el pragmatista son las preferencias metodológicas que se derivan de ellas\. Este movimiento surgió como reacción a las técnicas cuantitativas y a la imposición arbitraria sobre los daos de categorías supuestamente objetivas \(de que dependen generalmente tales técnicas\), típicas de la sociología americana en general\. Por contraste, se arguyó de manera conveniente que el objeto apropiado de los estudios sociológicos es el conjunto de técnicas que los mismos miembros de una sociedad utilizan para interpretar y actuar dentro de sus propios mundos sociales … De ahí el uso del término etnometodología, del estudio de los métodos ‘étnicos’ \(es decir, propios de los participante\) de producción e interpretación de la interacción social\.  
 
+
+## 281
 LEVINSON, S\. \(1989:281\)\. *Pragmática*\. Barcelona: Teide\.
 
 A partir de estas bases surge cierta sana cantidad de teorización precoz y de categorías de análisis ad hoc: las categorías de análisis deberían ser en la medida de lo posible las mismas que se demuestre que utilizan los participantes al tratar de comprender la interacción; deben evitarse los constructos teóricos inmotivados y las intuiciones no fundamentadas\. A la práctica el resultado es un estructuralismo estricto y parco y un ascetismo teórico —el énfasis se pone en los datos y en los modelos que aparecen recurrentemente en ellos \.
 
+
+## 283
 LEVINSON, S\. \(1989:283\)\. *Pragmática*\. Barcelona: Teide\.
 
 6\.2\.1\.1 Algunos resultados básicos 6\.2\.1\.1 Alternancia de turnos
@@ -2769,6 +2857,8 @@ Introducción
 
  En estas conclusiones tratamos de atar algunos de los cabos sueltos de pensamiento que han discurrido a lo largo de este libro, considerando la relación entre pragmática y otras disciplinas\. Una de ellas quedará notablemente ausente: la filosofía, el ‘proveedor pródigo’, no puede reabsorber fácilmente los estudios empíricos que ha engendrado \(pero cfr\. Atlas 1979\)\. El contenido general de este libro ha sido la descripción de cómo, a partir de conceptos originales, en su mayor parte filosóficos, se ha desarrollado una serie de estilos empíricos de investigación, que conjuntamente forman el clima de la tradición pragmática angloamericana\. Como indica en la cita, Austin predijo, de hecho esperaba, este desarrollo de un campo que él, quizá más que cualquier otro individuo, hizo lo posible promover\.
 
+
+## 364
 LEVINSON, S\. \(1989:364\)\. *Pragmática*\. Barcelona: Teide\.
 
 7\.1 Pragmática y lingüística ‘nuclear’

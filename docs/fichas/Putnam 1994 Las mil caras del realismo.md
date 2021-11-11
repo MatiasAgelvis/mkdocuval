@@ -10,7 +10,9 @@ P\. 18\-19\-20 Introducción por Miguel Quintanilla
 
  *En efecto*, cada día tenemos la experiencia de que sale un sol por la mañana y no ponemos en duda que el sol que sale hoy es el mismo que salió ayer, a pesar de que de esto nunca hemos tenido una experiencia concreta … no podemos compartir directamente las experiencias del resto de la gente \(precisamente porque son sus propias experiencias\) ello no nos impide hablar con otros, entender lo que dicen y compartir a veces sus conocimientos y opi*niones*\. Tampoco sería más confortable nuestra posición si nos pasáramos al extremo contrario y nos declaráramos dispuestos a admitir sólo aquellas opiniones e ideas que estuvieran sólidamente fundadas en la lógica y en las matemáticas: podríamos entonces hilar largos razonamientos, todos verdaderos, pero vacíos de contenido, de manera que no seríamos capaces de concluir nada relevante acerca de nada real: podríamos utilizar los números para sumar, multiplicar, etc\., pero no podríamos contar ovejas con ellos, porque las ovejas no son entidades matemáticas\.
 
-PUTNAM, H\. \(1994:20\-\-21\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
+
+## 20\-21
+PUTNAM, H\. \(1994:20\-21\)\. *Las mil caras del realismo*\. Barcelona: Paidós\.
 
  Introducción por Miguel Quintanilla
 

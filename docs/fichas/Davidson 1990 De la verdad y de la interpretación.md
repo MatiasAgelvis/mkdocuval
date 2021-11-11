@@ -194,7 +194,7 @@ Esto lo ilustran claramente las oraciones de creencia\. __Su sintaxis es relativ
 ## 43
 __DAVIDSON__, Donald \(1984\-1990:__43’__\)\. De la verdad y de la interpretación\. Fundamentales…
 
- __Silos criterios semánticos fueran claros, la cuestión se reduciría a una inofensiva diferencia sobre terminología__; pero no lo son\. __Si bien hay acuerdo en que la tarea principal de la semántica es dar la interpretación semántica \(el significado\) de cada oración del lenguaje, __en ninguna parte de la literatura lingüística se podrá encontrar\. Al menos por cuanto yo se, una explicación llana del modo en que una teoría realiza su tarea, o el modo de determinar cuándo ella ha sido completada\.__ El contraste con la sintaxis es sorprendente\. La tarea principal de una modesta sintaxis es caracterizar la significatividad \(u oracionalidad\)__\. … ¿__Que tarea y comprobación tan claras y análogas existen para la semántica__?__ \*__
+Si__los criterios semánticos fueran claros, la cuestión se reduciría a una inofensiva diferencia sobre terminología__; pero no lo son\. __Si bien hay acuerdo en que la tarea principal de la semántica es dar la interpretación semántica \(el significado\) de cada oración del lenguaje, __en ninguna parte de la literatura lingüística se podrá encontrar\. Al menos por cuanto yo se, una explicación llana del modo en que una teoría realiza su tarea, o el modo de determinar cuándo ella ha sido completada\.__ El contraste con la sintaxis es sorprendente\. La tarea principal de una modesta sintaxis es caracterizar la significatividad \(u oracionalidad\)__\. … ¿__Que tarea y comprobación tan claras y análogas existen para la semántica__?__ \*__
 
 __\*__Para una exposición reciente acerca del papel de la semántica en la lingüística, véase Noam Chomsky, “Topics in the Theory of Grammar”\. En este artículo, Chomsky \(1\) insiste en la importancia crucial de la semántica en la teoría lingüística, \(2\) sostiene la superioridad de la gramáticas transformacionales sobre las gramáticas estructurales de frase sobre todo en base a que, si bien, las gramáticas estructurales de frase pueden ser adecuadas para definir la oracionalidad para \(al menos\) algunos lenguajes naturales, resultan inadecuadas como base de la semántica, y \(3\) hace referencia repetidamente al “estado más bien primitivo” de los conceptos de semántica y señala que la noción de interpretación semántica “aún resiste a cualquier análisis profundo”\.
 
@@ -748,7 +748,7 @@ __En mi teoría, que podemos llamar *teoría demostrativa* de la cita, la inscri
 
  *Imaginemos* la instancia particular de “esto” reforzada con dedos índices señalando hacia la instancia partículas de “Alicia dormía”\. 
 
-Descuento que resulta obvio que la teoría __demostrativa__ __asigna a las oraciones que contienen citas una estructura que una teoría de la verdad puede manipular sin  __complicaciones\(naturalmente se supone que hay alguna manera de dar cabida a demostrativos, y a este respecto ya he tratado de indicar que no existe ninguna dificultad real para hacer un lugar a elementos demostrativos o deícticos dentro de una teoría formal de la verdad\)\.
+Descuento que resulta obvio que la teoría __demostrativa__ __asigna a las oraciones que contienen citas una estructura que una teoría de la verdad puede manipular sin complicaciones__\(naturalmente se supone que hay alguna manera de dar cabida a demostrativos, y a este respecto ya he tratado de indicar que no existe ninguna dificultad real para hacer un lugar a elementos demostrativos o deícticos dentro de una teoría formal de la verdad\)\.
 
 
 ## 106
@@ -1014,7 +1014,7 @@ __DAVIDSON__, Donald \(1984\-1990:__129__\)\. *De la verdad y de la interpretaci
 ## 129
 __DAVIDSON__, Donald \(1984\-1990:__129 ‘__\)\. *De la verdad y de la interpretación*\. …
 
- La dificultad de alcanzar los tres requisitos es obvia\. Las primeras dos condiciones sugieren que el modo debe estar representado por operadores que gobiernan oraciones, siendo __oraciones  __gobernadas__indicativas__ \(en cuyo caso no se necesita un operador para el modo indicativo\) o neutrales \(en cuyo caso se necesita un operador para cada modo\)\. La tercera condición, sin embargo, parece prohibir todos los operadores menos los oracionales veritativos funcionales, y esta claro que que __los operadores veritativos funcionales no pueden servir para dar una interpretación plausible del modo\.__
+ La dificultad de alcanzar los tres requisitos es obvia\. Las primeras dos condiciones sugieren que el modo debe estar representado por operadores que gobiernan oraciones, siendo __oraciones gobernadas____indicativas__ \(en cuyo caso no se necesita un operador para el modo indicativo\) o neutrales \(en cuyo caso se necesita un operador para cada modo\)\. La tercera condición, sin embargo, parece prohibir todos los operadores menos los oracionales veritativos funcionales, y esta claro que que __los operadores veritativos funcionales no pueden servir para dar una interpretación plausible del modo\.__
 
  Me parece que __Dummett__ está en lo cierto cuando dice que la expresión sintáctica del modo no es igual a una expresión funcional, que no podemos inquirir cuál es su sentido de referencia, y que \(entonces\) una oración con un indicador de modo “ni expresa nada ni sostiene nada”\. Como dice Geach, un indicador de modo no es igual a ninguna otra parte del habla; “… es necesariamente *sui generis*\. Pues cualquier otro signo lógico, si no es superfluo, modifica de alguna manera el contenido de una proposición; en tanto que éste no modifica el contenido \.\.\.”
 
@@ -1032,7 +1032,7 @@ __DAVIDSON__, Donald \(1984\-1990:__130__\)\. *De la verdad y de la interpretaci
 
  He argumentado en contra tanto de Geach como de Dummett, que ningún indicador de modo puede mostrar o afirmar o de __ningún otro modo determinar convencionalmente qué fuerza tiene su emisión__\. Pero si esto es así, no nos quedamos con ninguna idea clara acerca de cuál es el modo que contribuye al significado\. __Ciertamente parece que nos encontramos ante una paradoja__\. El modo debe contribuir de alguna manera al significado \(punto 2 más atrás\), pues resulta claro que __el modo es una característica convencional de las oraciones__\. Sin embargo, __no puede combinarse con o modificar el significado del resto de la oración en ninguna forma conocida\.__
 
- Vayamos en busca del auxilio de los que  ____Austindio en llamar “__realizativos explícitos__”\. Hemos rechazado la idea presentada por David Lewis de que los imperativos sean reducidos a realizativos explícitos, pero ella permanece abierta para explotar analogías\. Austin llamó la atención sobre el hecho de que “… en ocasiones podemos usar la emisión ‘Ve’ para obtener prácticamente lo mismo que obtenemos con la emisión “Te ordeno ir”\. Pero, ¿cómo serán analizados los realizativos explícitos? 
+ Vayamos en busca del auxilio de los que __Austin__dio en llamar “__realizativos explícitos__”\. Hemos rechazado la idea presentada por David Lewis de que los imperativos sean reducidos a realizativos explícitos, pero ella permanece abierta para explotar analogías\. Austin llamó la atención sobre el hecho de que “… en ocasiones podemos usar la emisión ‘Ve’ para obtener prácticamente lo mismo que obtenemos con la emisión “Te ordeno ir”\. Pero, ¿cómo serán analizados los realizativos explícitos? 
 
 
 ## 130
@@ -1958,6 +1958,8 @@ __DAVIDSON__, Donald \(1984\-1990: __210\-211__\)\. *De la verdad y de la interp
 
 __ Sin embargo, por lo general la estructura semánticamente relevante *tiende a* demandar ontología\.__
 
+
+## 211
 __DAVIDSON, Donald \(__1984\-1990:__ 211\)\. __*De la verdad y de la interpretación*\.__ __
 
 Considérese, por ejemplo, la idea de que las citas deben ser tratadas como átomos semánticos, a la par de los nombres propios en cuanto a su carencia de estructura significativa\. Dice Tarski que esta forma de ver la cita “parece ser más natural y en completa concordancia con la forma acostumbrada de usar las comillas” Este autor ofrece un argumento modelo para mostrar que las comillas no pueden ser tratadas como una expresión funcional ordinaria puesto que una cita no nombra una entidad que sea una función de algo nombrado por lo que las comillas encierran\. Sin duda Tarski tiene razón acerca de esto, poro la moraleja de la lección no puede ser que las citas son similares a los nombres propios; en cualquier caso, no lo será si es que puede darse una teoría de la verdad al estilo de Tarski para un lenguaje que contenga citas\. Pues está claro que hay infinitas citas\.
@@ -2086,7 +2088,7 @@ __DAVIDSON__, Donald \(1984\-1990:__220\-221__\)\. *De la verdad y de la interpr
 
  \(T\) “Sócrates vuela” es verdadera si y sólo si Sócrates vuela\.
 
- Si nada se dice de los constituyentes, ¿cómo se las arregla la teoría con casos así? Bueno, una forma podría ser ésta: el vocabulario básico debe ser finito\. En particular, luego, sólo puede haber un número finito de predicados simples y un número finito de nombres propios términos singulares inestructurados, sin contar las variables\)\. … Resulta claro que este método  ____evita\(hasta ahora\) __toda *apelación* al concepto de referencia… ni logra echar luz alguna sobre el mismo\. __
+ Si nada se dice de los constituyentes, ¿cómo se las arregla la teoría con casos así? Bueno, una forma podría ser ésta: el vocabulario básico debe ser finito\. En particular, luego, sólo puede haber un número finito de predicados simples y un número finito de nombres propios términos singulares inestructurados, sin contar las variables\)\. … Resulta claro que este método __evita__\(hasta ahora\) __toda *apelación* al concepto de referencia… ni logra echar luz alguna sobre el mismo\. __
 
 
 ## 221
@@ -2342,6 +2344,8 @@ __DAVIDSON__, Donald \(1984\-1990:__247\)__\. *De la verdad y de la interpretaci
 
  Un crítico famoso dijo que Tolstoy fue “un gran niño moralizador”\. El Tolstoy a que se refiere aquí no es, obviamente, el niño Tolstoy, sino el escritor adulto Tolstoy; ésta es la metáfora\. Ahora, ¿en qué sentido el escritor el escritor Tolstoy es similar a un niño? Quizá lo que vayamos a hacer sea pensar en las clases de objetos que incluye a todos los niños ordinarios y, además, , al adulto Tolstoy y luego preguntarnos qué propiedad especial y sorprendente tienen en común los miembros de esta clase\. EL pensamiento que nos atrae es que con paciencia podríamos llegar a aproximarnos cuanto fuera necesario a la especificación de la propiedad apropiada\. En cualquier caso, podríamos alcanzar esa meta perfectamente si encontráramos palabras que significaran exactamente lo que la palabra metafórica *“niño” significa*…\. Hasta ahora no he hecho más que esbozar crudamente la forma en que el concepto de significado puede haberse filtrado dentro del análisis de la metáfora, y la respuesta que he sugerido es que, __dado que lo que entendemos por semejanza ordinaria acompaña a los que entendemos por significados ordinarios, resulta natural el supuesto de significados inusuales o metafóricos para que ayuden a explicar las semejanzas que promueve la metáfora\.__
 
+
+## 248
 __DAVIDSON, Donald \(__1984\-1990:__248\)\. *De la verdad y de la interpretación*\. …__
 
 __ __Se ha dejado por fuera todo recurso al __significado original de las palabras__\. Dependa o no la metáfora de significados nuevos o extendidos, sin duda __depende en cierta forma de los significados originales__; __una consideración adecuada de la metáfora debe admitir que los significados primarios u originales de las palabras permanecen activos en su disposición metafórica__\.
@@ -2382,7 +2386,9 @@ __DAVIDSON__, Donald \(1984\-1990:__249\-250\)__\. *De la verdad y de la interpr
 
  Esta teoría puede parecer compleja, pero es sorprendentemente similar a la que propuso Frege para considerar la conducta de los términos referentes en las oraciones modales y en las oraciones de *actitudes *proposicionales como creencia y deseo\. __Según Frege, cada término referente tiene dos \(o más\) significados__, uno que fija su referencia en contextos ordinarios y otro que fija su referencia en los contextos especiales creados por los operadores modales o los verbos psicológicos\. __La regla que conecta ambos significados puede expresarse así: el significado de la palabra en los contextos especiales hace que la referencia en dichos contextos sea idéntica al significado en contextos ordinarios\.__
 
-__ DAVIDSON, Donald \(__1984\-1990:__250\-251\)\. *De la verdad y de la interpretación*\. …__
+__ 
+## 250\-251
+DAVIDSON, Donald \(__1984\-1990:__250\-251\)\. *De la verdad y de la interpretación*\. …__
 
  ¿Cómo debemos llamar a este proceso, aprender algo acerca del mundo o aprender algo acerca del lenguaje? Es una __pregunta extraña__, pues lo que se aprende es que una porción del lenguaje refiere una porción del mundo\. Pero todavía resulta fácil distinguir __entre la tarea de aprender el significado de una palabra y usar la palabra una vez que se ha aprendido su significado__\. __Si comparamos estas dos actividades, es natural decir que la primera supone aprender algo acerca del lenguaje, en tanto que la segunda es típicamente aprender algo acerca del mundo\. __Si mi saturnino ha aprendido a usar la palabra “suelo”, puede tratar de decir algo nuevo, que *aquí* hay un suelo\. Si ya domina el arte de la palabra, le habré dicho algo acerca del mundo\.
 
@@ -2474,6 +2480,8 @@ __DAVIDSON__, Donald \(1984\-1990:__260\-261\)__\. *De la verdad y de la interpr
 
  Si esto es cierto, lo que intentamos al “parafrasear” una metáfora no puede ser dar su significado, pues eso se encuentra en su superficie, más bien intentamos evocar aquello que la metáfora nos lleva a atender\. Puedo imaginar a alguien concediendo esto y desechando como si no fuera más que una insistencia en la restricción del uso de la palabra “significado”\. Esto estaría mal\. El error central de __la metáfora *se ataca*__* *__fácilmente cuando toma la forma de una teoría del significado metafórico__
 
+
+## 261
 __DAVIDSON, Donald \(__1984\-1990:__261\)\. *De la verdad y de la interpretación*\. …__
 
  El hecho de que resulte tan difícil decidir exactamente qué se supone que es el contenido, aun en el caso de que las metáforas más simples, tendría que hacernos sospechar de la teoría\. Pienso que la razón de esta dificultad radica en que nosotros imaginamos que hay un contenido a captar cuando de hecho nos concentramos todo el tiempo en lo que la metáfora nos hace notar\. __Si lo que la metáfora nos hace notar fuera de alcance finito y de naturaleza proposicional, esto no causaría problemas por sí mismo__; simplemente proyectaríamos sobre la metáfora el contenido que la metáfora nos llevó a concebir\. Pero en efecto no hay límites para lo que la metáfora atrae a nuestra atención, y __la mayor parte de lo que se nos hace notar es de carácter no proposiciona__l\. Cuando tratamos de decir que “significa” una metáfora, enseguida nos damos cuenta de que lo que queremos mencionar no tiene fin \*… ¿Cuántos hechos o proposiciones transmite una __fotografía? __¿Ninguno, infinitos o un gran hecho indefinible? No es una buena pregunta\. Una imagen no vale lo que mil palabras, ni ninguna otra cantidad de ellas\. Las palabras no son moneda apropiada para intercambiar por una imagen\.

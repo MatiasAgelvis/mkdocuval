@@ -104,6 +104,8 @@ __MOESCHLER J\., y A\. REBOUL__ \(1994\-1999:__23’__\) *Diccionario enciclopé
 
 NB: se observará que, para que la pragmática pueda atribuirse un objeto, es necesario hacer la distinción entre *enunciado\-tipo* y *enunciado\-ocurrencia\. *Si no, el pragmatista se vería limitado al análisis de los enunciados\-ocurrencia particulares, cuya descripción, aunque compleja, difícilmente sería completa\.
 
+
+## 23
 MOESCHLER J\., y A\. REBOUL \(1994\-1999:23’’\) *Diccionario enciclopédico de pragmática\. *
 
  Si a la oración se le asocia un *significado*, al enunciado se le asocia no un significado, sino un sentido \(cfr\. Ducrot 1980 a, 1984, capítulo 8\)\. Hay que entender aquí el significado de la oración como el producto de indicaciones lingüísticas que la componen \(las *instrucciones *en la terminología de Ducrot, cfr § 1\.1\.3\); se calcula por el componente lingüístico…En cambio, el sentido del enunciado, es el significado de la oración más las indicaciones contextuales o situacionales calculables a partir del componente retórico EL recurso a las leyes discursivas es fundamentalmente competencia del componente retórico, cuyo producto corresponde al sentido del enunciado\.
@@ -258,6 +260,8 @@ __MOESCHLER J\. y A\.  REBOUL, A\. A\. \(1999:28\-29\)\. __*Diccionario enciclo
 
  d\. Si tu as soif, il y a de la bière dans le frigo\.   \[“Si tienes sed, hay cerveza en el frigorífico”\]
 
+
+## 29
 MOESCHLER J\., y A\. REBOUL \(1994\-1999:29\) *Diccionario enciclopédico de pragmática\. *
 
  __Instrucción e inferencia__
@@ -276,6 +280,8 @@ La consecuencia de estos hechos es que la relación entre sistema lingüístico 
 
 ![descripción-valusersvalmoredesktopreboul-0p.-27_pagina_2.png](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/2.png)
 
+
+## 30\-31
 MOESCHLER J\., y A\. REBOUL \(1994\-1999:30\-31\) *Diccionario enciclopédico de pragmática\. *
 
 P\. 30\-31 __LAS APUESTAS DE LA PRAGMÁTICA__
@@ -400,22 +406,30 @@ Los aspectos no vericondicionales del enunciado corresponden al conjunto de las 
 
 \(23 a\) y \(23 b\) implicitan conversacionalmente \(23 c\): \(23 c\) es pues un aspecto no vericondicional de la proposición \(está implicitado a la vez por en enunciado positivo y por su correspondiente negativo\); en cambio \(23 a\) implica \(23 d\), y \(23 b\) no impica \(23 d\): \(23 d\) es pues un aspecto vericondicional de la proposición\.
 
+
+## 34
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*34’’*__*\) Diccionario enciclopédico de pragmática\. *
 
  La concepción radical de la pragmática plantea pues la hipótesis de que la pragmática describe los aspectos no vericondicionales del sentido\. De ahí la definición de la pragmática dada por Gazdar \(1979\): la pragmática = el sentido — Las condiciones de verdad\. La finalidad de esta definición es la siguiente: \(i\) conservar una semántica vericondicional asociada a la sintaxis de las lenguas naturales; \(ii\) simplificar la descripción lingüística, limitando lo más posible la extensión del ámbito de la semántica a los aspectos vericondicionales del enunciado…
 
+
+## 35
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*35*__*\) Diccionario enciclopédico de pragmática\. *
 
  __2\.3\. PRAGMÁTICA: ¿LINGÜÍSTICA, SOCIOLINGÜÍSTICA O PSICOLINGÜÍSTICA?__
 
 La tercera apuesta de la pragmática tiene que ver con su ámbito de pertenencia: ¿la pragmática es un componente de la lingüística, de la sociolingüística o de la psicolingüística? Hemos visto qué opciones se presentaban a la pragmática respecto de la lingüística: la pragmática integrada forma parte de la lingüística, la pragmática radical está fuera de la lingüística\. Pero la cuestión es más compleja\. Es posible, en efecto, orientar la pragmática en dos direcciones divergentes, que no se inscriben en la lingüística\.
 
+
+## 35
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*35’*__*\) Diccionario enciclopédico de pragmática\. *
 
 2\.3\.1\. La orientación sociolingüística
 
 Una primera orientación consiste en __rechazar la limitación de la competencia sólo al ámbito lingüístico__\. En la tradición de la etnografía de la comunicación \(cfr\. Gumperz y Hymes 1972, Gumperz 1989\), para la que el enunciado no puede ser separado del marco social y cultural en el que se ha proferido, la competencia lingüística se amplía a la competencia comunicativa: un conjunto de saberes, culturales e interaccionales, y una capacidad para actuar de forma apropiada en contextos o situaciones específica\. En ese marco, la pragmática se inscribiría en la sociolingüística: el estudio de la contextualización del lenguaje \(Gumperz 1989\), de la variación sociolingüística \(Lavob, 1976, 1978\), de los ritos de la interacción \(Goffman 1973, 1974, 1987\) prima sobre el estudio del sistema\. En resumen, en el estudio del lenguaje el acento se pone en sus __funciones__ y no en sus __estructuras\. __
 
+
+## 36
 __*MOESCHLER J\., y A\. REBOUL \(1994\-1999:36\) Diccionario enciclopédico de pragmática\. *__
 
  __2\.3\. PRAGMÁTICA: ¿LINGÜÍSTICA, SOCIOLINGÜÍSTICA O PSICOLINGÜÍSTICA?__
@@ -426,6 +440,8 @@ A esta primera corriente, centrada sobre hechos de actuación, se puede oponer u
 
  El __estudio psicolingüístico__ plantea el problema de la relación entre lenguaje \(y más concretamente usos de lenguaje\) y cognición\. Un gran número de trabajos sobre temas específicamente lingüísticos \(como la anáfora pronominal\) intentan verificar las hipótesis \(lingüísticas o psicolingüísticas\) sobre la naturaleza de los procesos utilizados por los sujetos hablantes para, por ejemplo, resolver una anáfora pronominal\. En el centro de tales discusiones se encuentra, en especial, el debate codificado e inferencia \(cfr\. Charolles 1990\) , y Charolles y Sprenger\-Charolles 1989\)\.
 
+
+## 36
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*36*__*\) Diccionario enciclopédico de pragmática\. *
 
  En resumen, a la pragmática, integrada o no lingüística, le conciernen muy de cerca cuestiones abordadas por disciplinas próximas a la lingüística\. Como la sociolingüística y la psicolingüística, pero procedentes de tradiciones científicas y metodológicamente diferentes\.
@@ -434,6 +450,8 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*36*__*\) Diccionario enciclo
 
  
 
+
+## 36
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*36*__*\) Diccionario enciclopédico de pragmática\. *
 
 P\. 37  __2\.4\. SÍNTESIS__
@@ -442,6 +460,8 @@ P\. 37  __2\.4\. SÍNTESIS__
 
 … En el marco de las teorías lingüísticas de tradición chomskiana, la pragmática, como teoría de la actuación, está separada de la lingüística: su papel es describir por un lado los mecanismos no lingüísticos vinculados a la interpretación de los enunciados en contexto y, por otro, en cuanto ámbito teórico específico, la relación entre objeto de la lingüística \(la relación forma\-significado\) y los hechos de actuación\.
 
+
+## 37
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*37*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 P\. 37\-38 __2\.4\. SÍNTESIS__
@@ -462,6 +482,8 @@ __3\. TIPOS DE TEORÍAS PRAGMÁTICAS__
 
 … todavía no hemos examinado la arquitectura general de las teorías en las que se integra \[la pragmática\]\. Discutiremos tres tipos de teorías: \(i\) las teorías lineales, \(ii\) las teorías en Y; \(iii\) las teorías cognitivistas\.
 
+
+## 38
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*38’*__*\) Diccionario enciclopédico de pragmática\.\.\. * 
 
 3\.1 TEORÍAS LINEALES
@@ -470,10 +492,14 @@ Estas teorías provienen de la tradición neo\-positivista o logicista del anál
 
 \(i\) La __sintaxis__ tiene por objeto las relaciones o modos de combinaciones entre unidades de la lengua\. Tiene como función la producción de reglas de buena formación sintáctica\. Una sintaxis se compone de un axioma y esquemas de reglas\. En las gramáticas sintagmáticas clásicas, el axioma es la oración \(s\) y los esquemas de regla de reescritura \(o reglas sintagmáticas\) introducen categorías sintagmáticas como el sintagma nominal \(SN\), el sintagma verbal \(SV\), categorías léxicas como el nombre \(N\), el verbo \(V\) y el adjetivo \(A\) y categorías no léxicas como el determinante \(Det\), lo que muestran las reglas sintagmáticas siguientes: S® SN  SV, SN ®  Det \(A\)  N, SV ® V \(SN\) \(los paréntesis indican los constituyentes opcionales\)\.
 
+
+## 38
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*38*__*\) Diccionario enciclopédico de pragmática…*
 
 * *![descripción-valusersvalmoredesktopmoeschles-p.-39-fig.-6.png](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/5.png)
 
+
+## 38\-39
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*38\-39*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 P\. 38\-39
@@ -484,6 +510,8 @@ P\. 38\-39
 
 *Estas *definiciones han dado un lugar y un orden de tratamiento a estos ámbitos: el tratamiento sintáctico precede al tratamiento semántico, el cual precede al tratamiento pragmático\. En otros términos, la salida de la sintaxis constituye la entrada de la pragmática\. En cuanto a la salida de la pragmática, ésta describe el valor de acción del enunciado\.
 
+
+## 38\-39
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*38\-39*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
  Se puede calificar este tipo de teoría como *lineal *\(el orden de tratamiento es fundamental\) y de *modular*, ya que cada uno de los ámbitos es autónomo e independiente\. La figura 6 representa el esquela tipo de esta clase de modelo:
@@ -492,22 +520,30 @@ Enunciado E ↓ __sintaxis__ descripción↓  sintáctica de E↓ __semántica__
 
 La descripción sintáctica de E es el result ado de un tratamiento sintáctico \(por ejemplo bajo la forma de estructura arborecente de constituyentes\); el contenido informativo es definido por las condiciones de verdad asignadas a la proposición expresada por E; por último, el valor de acción de E consiste en asignar a E una fuerza *ilocucionaria*: a cada enunciado le corresponde la realización de uno y sólo un acto de lenguaje\. Las condiciones que determinan la asignación de un valor de acción a E son definidas como  otras tantas condiciones de apropiedad \(se dirá que un acto de lenguaje es __apropiado en un contexto\)\.__
 
+
+## 40
 __*MOESCHLER J\., y A\. REBOUL \(1994\-1999:40\) Diccionario enciclopédico de pragmática\.\.\. *__
 
 P\. 40 3\.2 __TEORÍAS EN Y__
 
 Las teorías lineales \(cfr\. Van Dijk 1977\) han sido criticadas por los partidarios de la pragmática integrada \(cfr\. Anscombre y Ducrot 1983\)\. En el marco de la pragmática integrada, no  hay un tratamiento lineal del enunciado, sino una conjunción de informaciones lingüísticas \(pertenecientes al componente lingüístico\) y de informaciones extra\-lingüísticas \(pertenecientes al componente retórico\) El componente lingüístico es el lugar de aplicación de las instrucciones vinculadas a los morfemas y a otras unidades léxicas; la unidad tratada es el objeto teórico de la oración, cuyo tratamiento lingüístico proporciona el significado\. La conjunción del significado de la oración y de las informaciones extra\-lingüísticas produce el sentido del enunciado, que es, pues, la salida del componente retórico\. Se puede representar este tipo de teoría por un esquema en Y \(de ahí el término «teoría en Y», tomado de Berrendonner 1981\): 
 
+
+## 40
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*40*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 ![descripción-valusersvalmoredesktopreboul-fig.-7-p.-42.png](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/6.png)
 
+
+## 40\-41
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*40\-41*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 En el marco de las teorías en Y, ya no hay orden lineal entre la sintaxis, semántica y pragmática \(la pragmática —o retórica— está integrada en la semántica\)\. No obstante, subsiste un orden: las «circunstancias de elocución» \(o contexto de enunciación\) solo intervienen después de que se ha atribuido un significado a la oración, siendo el significado la salida del componente lingüístico\.
 
  *Hay pues* dos etapas en la interpretación de los enunciados\. La primera etapa es estrictamente lingüística, ya que no se requiere ningún conocimiento extra\-lingüístico\. Esta etapa es el resultado de lo que hemos llamado *instrucciones*\. El significado sólo puede ser formulado bajo la forma de variables \(«extraiga una conclusión no\-R de P pero Q tal que no\-R es extraída de Q y R de P», «interprete casi P como teniendo la misma orientación argumentativa que P» etc\.\); estas variables únicamente estarían __saturadas__ a la salida del tratamiento retórico \(pragmático\)\. Se ve pues en qué consiste la autonomía lingüística del análisis pragmático: si existe una contradicción entre la salida del componente lingüístico y la salida del componente retórico, es que una __ley discursiva__ ha sido utilizada para modificar el significado\.
 
+
+## 41
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*41*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 Por ejemplo, un locutor que enuncia \(24\) cuando lleva mucho dinero consigo no podrá ser acusado de mentir:
@@ -518,6 +554,8 @@ En efecto, una ley discursiva \(le ley litotes, cfr\. Ducrot 1972\) explica la p
 
  NB: La distinción entre salida del componente lingüístico y salida del componente retórico no es asimilable a la distinción *sentido literal* \(o sentido de la oración\) y *sentido derivado* \(o sentido de la enunciación\)\. La diferencia se sitúa, en términos de oposición variables/constantes\.
 
+
+## 41
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*41*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 P\. 41 __TEORÍAS COGNITIVAS__
@@ -532,18 +570,24 @@ __MOESCHLER J\., y A\. REBOUL__ \(1994\-1999:__41’__\) *Diccionario enciclopé
 
  El punto importante es aquí la divergencia entre la gramática \(teoría sintáctica\) y la pragmática\. Los dos ámbitos competen a la investigación cognitiva \(la teoría gramatical está vinculada por un lado con la gramática universal y por otro a las teorías del aprendizaje, mientras que la pragmática trata de procesos inferenciales y de constitución del contexto\) y tienen el lenguaje por objeto\. …
 
+
+## 42
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*42*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 P\. 42 __TEORÍAS COGNITIVAS__
 
 Se ve pues una primera diferencia con los otros dos tipos de teorías: la teoría modular es cognitivista, y la pragmática no es del ámbito de la lingüística \(ésta se limita a la fonología, a la sintaxis y a la semántica\)\. Pero sobreviene otras diferencias\. Se deben principalmente a la relación entre sistema periférico y sistema central\. La teoría modular de Sperber y Wilson plantea la hipótesis de que la salida del sistema de tratamiento lingüístico está representada por una forma lógica que corresponde a una interpretación parcial e incompleta del enunciado\. Una interpretación está completa cuando la pragmática ha atribuido un referente a las variables, ha asignado una fuerza ilocucionaria al enunciado, ha anulado la ambigüedad del enunciado, ha enriquecido la forma lógica ya sea al nivel de sus implicaciones, ya sea al nivel de su explicitación\. El proceso de tratamiento pragmático es pes último y se aplica a la salida del sistema lingüístico\. Pero la interacción entre sistema periférico y sistema central es  más compleja que en las teorías lineales\.  La figura 3 mostraba que algunas informaciones, codificadas lingüísticamente, desencadenan procesos pragmáticos \(procedimientos\)\. En resumen, la versión cognitivista constituye una solución intermedia entre los dos primero tipos de teorías:
 
+
+## 42
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*42*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 P\. 42 __TEORÍAS COGNITIVAS \(Fig\. 8\)__
 
 ![descripción-valusersvalmoredesktopreboul-y-moeschler-fig-8-p.-42.png](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/7.png)
 
+
+## 54
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*54*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 __TEORÍA DE LOS ACTOS DE HABLA __[__\[1\]__](#Xc217c44f9d6f9d647df03178eb8b64fb8f54252)__\*__
@@ -556,12 +600,16 @@ Con Austin nace verdaderamente el interés por los actos del lenguaje en la épo
 
 Se pueden distinguir dos etapas en la teoría de los actos de habla tal y como fue desarrollada por Austin: la primera que es relativa a la distinción entre las afirmaciones que realizan un acto y las que describen la realidad; en la segunda, las afirmaciones que describen la realidad se conviertes en un caso \(muy\) particular de las afirmaciones que realizan un acto\. Sin embargo, estas dos etapas no están realmente diferenciadas en el tiempo y, en el conjunto de este párrafo, vamos a examinar el gran texto fundacional que Austin dedicó a este fenómeno, es decir *William James Lectures*, presentadas en Harvard en 1995, publicadas bajo el título *How to do Things with Words* en 1962\.
 
+
+## 54
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*54*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 2\.1\.1\. Relativos y constatativos
 
 La finalidad fundamental de Austin, en las *William James Lectures*, es mostrar la contradicción que se esconde tras la convicción, ampliamente extendida en el medio filosófico anglosajón de la época, de que las afirmaciones en particular, y en el lenguaje en general, tienen como función describir un estado de hechos y, por tanto, son verdadera o falsas\. El hecho de que numerosos enunciados, incluso afirmativos, no puedan legítimamente ser considerados como verdaderos o falsos condujo, desde esta óptica, a considerarlos como seudo\-afirmaciones\. El postulado del carácter fundamentalmente descriptivo del lenguaje, que Austin llama la *ilusión «descriptiva», *se vuelve a poner en cuestión a partir de una distinción entre las afirmaciones que son efectivamente descripciones y que Austin llama *constatativas*, y las afirmaciones que no son descripciones\. Austin dedica sus primeros trabajos a aislar y a describir esta segunda clase de afirmaciones\.
 
+
+## 54\-55
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*54\-55*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 P\. 54\-55
@@ -588,6 +636,8 @@ __MOESCHLER J\., y A\. REBOUL__ \(1994\-1999:__55__\) *Diccionario enciclopédic
 
 Sin embargo, para que la acción que corresponde a un enunciado realizativo sea efectivamente realizada, no basta con que se pronuncie la oración: es necesario también que __las circunstancias de esta enunciación sean apropiadas\.__
 
+
+## 55
 __*MOESCHLER J\., y A\. REBOUL \(1994\-1999:55’\) *__*Diccionario enciclopédico de pragmática\.\.\. *
 
 2\.1\.2\. Éxito y fracaso de los realizativos
@@ -602,13 +652,17 @@ Se dirá más bien que el enunciado es infortunado o que el acto ha fracasado\. 
 
 Nota p\. 43\-44 “Austin tiene como fin cuestionar la idea según la cual los enunciados en general son descriptivos y sirven para describir el mundo, es decir, son verdaderos o falsos, Reinach pretende desarrollar el análisis husserliano de los actos mentales y del uso de los signos\. Esta diferencia fundamental tiene consecuencias importantes sobre la manera de abordar el fenómeno de los actos sociales\. 
 
+
+## 44
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*44*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 ¿*Qué es un *acto social? Sencillamente, es un acto que tiene como característica ser realizado por el lenguaje y que se ejecuta por el simple hecho de decir algo\. La palabra misma, en este caso, crea obligaciones y derechos que, Reinach insiste en este punto, no se confunden con derechos o deberes __morales__\.  \[“te prometo que vendré mañana”\]
 
 … la explicación que da Reinach de lo que es un acto social supera con mucho esta simple constatación\. En efecto, su estudio se basa, por un lado, en un análisis de la naturaleza misma de estos derechos y obligaciones y, por otro lado, en las particularidades de la experiencia vinculada a los actos sociales\. … No son ni actos físicos ni actos psíquicos \[los actos sociales\], i\.e\. no se confunden con una simple experiencia… El contenido de las obligaciones es, ya sea enteramente, ya sea parcialmente, un acto\. En efecto, una obligación puede tener como objeto el acto mismo, o consecuencias del acto\. Por otro lado, se distinguirá la obligación de hacer algo para alguien de la obligación de hacer algo… Por último, los derechos y las obligaciones tienen causas y estas causas son los actos sociales\. 
 
- __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*55\-56*__*\) Diccionario enciclopédico de pragmática\.\.\.*
+ 
+## 55\-56
+__*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*55\-56*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.1\.2\. Éxito y fracaso de los realizativos
 
@@ -624,6 +678,8 @@ Los enunciados que Austin ha tenido en cuenta hasta entonces son realizativos *e
 
 \(26\) Je viendrai \[“Vendré”\]
 
+
+## 56
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*56*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 Mientras que no hay ninguna duda de que \(25\) es una promesa, \(26\) puede ser una promesa, una predicción, una amenaza, etc\.  En el caso de los realizativos implícitos, no hay fracaso o realización incompleta del acto, sino ambigüedad del enunciado\.
@@ -634,6 +690,8 @@ Hay un gran número de casos de violación de esta regla, por ejemplo el caso de
 
  
 
+
+## 56
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*56*__*\) Diccionario enciclopédico de pragmática\.\.*
 
 B\.1\. El procedimiento tiene que ser ejecutado por todos los participantes correctamente\.
@@ -648,6 +706,8 @@ En este caso, una fórmula realizativa no basta por sí misma ara ejecutar el ac
 
 __Ґ1__\. Cuando el procedimiento supone en aquellos casos que recurren a él ciertos sentimientos, pensamientos o intenciones, cuando debe provocar a continuación un determinado comportamiento por parte de uno u otro de los participantes, es necesario que la persona que toma parte en el procedimiento \(y con ello lo invoca\) tenga, de hecho, esos pensamientos, sentimientos o intenciones, y que los participantes tengan la intención de adoptar el comportamiento implicado\.
 
+
+## 56\-57
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*56\-57*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 Austin da ejemplos de faltas a esta condición en lo que concierne a los sentimientos, los pensamientos o las intenciones Se pueden dar los siguientes ejemplos:
@@ -670,6 +730,8 @@ Para las intenciones
 
 \(pronunciado por un locutor que no tiene ninguna intención de desplazarse\)\.
 
+
+## 56\-57
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*56\-57*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 Ӷ\.\.2\. Los participantes deben adoptar el comportamiento implicado por el procedimiento en la continuación de los acontecimientos\.
@@ -678,12 +740,16 @@ La violación de cada una de estas reglas corresponde a un tipo particular de fr
 
 ![descripción-valusersvalmoredesktopaustin-1970-52-moeschler-p.-56.png](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/8.png)
 
+
+## 58
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*58*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.1\.3 Éxito versus verdad, realizativos versus constatativos
 
 Austin, en esta etapa, se encuentra en el punto en que ha puesto en cuestión la ilusión «descriptiva», introduciendo, en el interior de la clases de las afirmaciones, una distinción entre las afirmaciones que describen realmente y que son susceptibles de ser verdaderas o falsas, llamadas __constatativas __y las afirmaciones que no describen sino mediante las cuales se realizan actos y que son susceptibles de ser afortunados o infortunadas, llamadas __realizativas\.__ Los enunciados constatativos son verdaderos si existe un estado de cosas que los verifica, falsos en el caso contrario; los enunciados realizativos son afortunados si cumplen ciertas condiciones, infortunados en el caso contrario\.
 
+
+## 58\-59
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*58\-59*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
  Llegado a este punto, sin embargo, Austin constata que decir, desde esta óptica, que un enunciado realizativo es afortunado si se cumplen ciertas condiciones, equivale a decir que un enunciado realizativo es afortunado si ciertas afirmaciones son verdaderas, las afirmaciones que, precisamente, describen o se refieren a estas condiciones\. ¿Hay que abandonar, entonces, la distinción realizativo/constatativo? Austin se niega a esto y defiende la distinción con un argumento fuerte\. Según él, si se puede decir que algunas afirmaciones tienen que ser verdaderas para que un realizativo sea afortunado, esto no significa que un realizativo se reduzca a un constatativo\. En efecto, incluso si se admite que hay un aspecto descriptivo en un realizativo explícito, la descripción en cuestión no es verificada por un estado de cosas independientemente de ellas: es el éxito del aspecto realizativo de la afirmación el que hace verdadero su aspecto descriptivo\.
@@ -696,6 +762,8 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*58\-59*__*\) Diccionario enc
 
 ¿Qué relación hay entre el enunciado *Je cours* \[“Corro”\] y el hecho de correr, entre el enunciado *Je m'excuse* \[“Me disculpo”\] y el hecho de disculparse? En el caso de \(30\), el hecho de que yo me disculpe depende directamente de mi enunciación de \(31\)\.
 
+
+## 59
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*59*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 La distinción constatativo/realizativo se reduce pues, en última instancia, a la distinción entre decir y hacer\.
@@ -710,6 +778,8 @@ La distinción constatativo/realizativo se reduce pues, en última instancia, a 
 
  
 
+
+## 59
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*59'*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 Pero la relación de implicación que existe entre una afirmación determinada y una o varias afirmación\(es\) no es uniforme\. Puede adoptar tres aspectos, que se distinguirán principalmente en el nivel de las relaciones que mantienen las negaciones de las afirmaciones en cuestión\.
@@ -722,6 +792,8 @@ Pero la relación de implicación que existe entre una afirmación determinada y
 
 En efecto, no se puede decir, como apunta Austin: Tous les hommes rougisemente, mais pas n'importe lesquels \[“Todos los hombres se sonrojan, pero no cualesquiera”\]\. *Si una afirmación* a conlleva a una afirmación b, entonces la negación de b conlleva a la negación de a\.
 
+
+## 60\-61
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*60\-61*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 \(ii\) Una afirmación puede __dar a entender__ una o varias afirmación\(es\)
@@ -742,6 +814,8 @@ Aquí, en cambio, si una afirmación a da entender una afirmación b, la negaci�
 
 … La relación es sencilla: la aserción de una proposición da a entender la creencia en la verdad de esta proposición\.
 
+
+## 60\-61
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*60\-61’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 \(iii\) Una afirmación puede __presuponer__ una o varias afirmación\(es\)\.
@@ -762,6 +836,8 @@ Cuando la afirmación presupuesta es falsa, Austin considera que hay fracaso de 
 
  Si nos remitimos a las afirmaciones cuya verdad está vinculada al éxito del realizativo, se observará que la relación entre el realizativo y la verdad de las afirmaciones que se refieren a las condiciones de su éxito será, según se trate de las condiciones A\.1 y A\.2\., o de la condición Γ\.1, respectivamente, la presuposición y el dar a entender\. En cambio, se podrá decir que la relación entre el éxito del realizativo y la condición Γ\.2 corresponde a la implicación propiamente dicha, en la que una proposición conlleva otra\. 
 
+
+## 61
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*61*__*\) Diccionario enciclopédico de pragmática… \*\*\*\*\*\**
 
  Nos encontramos, pues, ante el hecho de que __las consideraciones sobre la verdad o la falsedad pueden alcanzar a los realizativos__, Pero hay más: __ consideraciones sobre la fortuna y el infortunio pueden alcanzar a las afirmaciones consideradas hasta aquí como constatativas\. __
@@ -774,7 +850,9 @@ Austin se encuentra así confrontando el problema de distinguir realizativos y c
 
  Empieza por examinar la hipótesis según la cual un realizativo estaría siempre __en primera persona del presente de indicativo, voz activa__, para observar que algunos realizativos tienen características bien diferentes\.
 
- __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*73*__*\) Diccionario enciclopédico de pragmática…*
+ 
+## 73
+__*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*73*__*\) Diccionario enciclopédico de pragmática…*
 
  __LA TAXONOMIA SEARLIANA DE ACTOS DE LOS ACTOS ILOCUCIONARIOS__
 
@@ -808,6 +886,8 @@ Comparemos, por orden de fuerza creciente, los ejemplos \(59\), \(60\) y \(61\)
 
 \(61\) Je veux que nous allions au cinéma \[“Quiero que vayamos al cine”\]
 
+
+## 74
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*74’’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 TAXONOMÍA SEARLIANA DE LOS ACTOS ILOCUCIONARIOS
@@ -818,6 +898,8 @@ TAXONOMÍA SEARLIANA DE LOS ACTOS ILOCUCIONARIOS
 
 \(7\) Las __relaciones con respecto del discurso:__ esto concierne principalmente a los expositivos de la clasificación austiniana, es decir, los verbos tipo *répondre, conclure, objeter \[“responder, concluir, objetar*”\], etc\. Se les puede añadir conectores como *cependant, par ailleurs *\[“sin embargo, por otro lado”\], etc\.
 
+
+## 75
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*75*__*\) Diccionario enciclopédico de pragmática…*
 
 \(8\) Las __diferencias en el contenido proposicional que son determinadas por mecanismos vinculados a la fuerzas ilocucionaria: __ pensemos en la diferencia entre la relación, que concierne a estados de cosas pasadas o presentes, pero no futuros, y la predicción, que concierne a estados de cosas futuras\.
@@ -830,6 +912,8 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*75*__*\) Diccionario enciclo
 
 \(12\) El __estilo de la realización del acto:__ se puede pensar en las diferencias entre *annocer *\[“anunciar”\] y *confier *\[“confiar”\]\.
 
+
+## 75\-76
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*75\-76*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.3\.2 __La alternativa searliana a la clasificación austiniana__
@@ -838,6 +922,8 @@ Searle hace algunas críticas a la clasificación austiniana de los actos ilocuc
 
 \(i\) los __representativos: __el locutor se compromete con la verdad de la proposición expresada \(es la finalidad ilocucionaria\); las palabras se ajustan al mundo; el estado psicológico es la creencia: el grado de compromiso depende del verbo utilizado; el test de un representativo es la respuesta a la pregunta ¿*Se puede decir literalmente del enunciado que es verdadero o falso*? Su estructura sintáctica profunda es Yo verbo ilocucionario que \+ S; Se observará que este análisis corresponde a la hipótesis realizativa propuesta por Ross \(1970\)
 
+
+## 76
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*76*__*\) Diccionario enciclopédico de pragmática\.\.\. \*\*\*\*\**
 
 \(ii\) los __directivos: __la finalidad ilocucionaria de los directivos es que el locutor pretende hacer que el interlocutor haga algo; la dirección de ajuste va del mundo a las palabras; la actitud correspondiente a la condición de sinceridad es el deseo; el contenido proposicional es que el interlocutor tiene que hacer lago; la estructura sintáctica profunda es Yo te verbo ilocucionario que tu VP \(en futuro\);
@@ -846,12 +932,16 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*76*__*\) Diccionario enciclo
 
 \(iv\) los __expresivos: __la finalidad ilocucionaria de los expresivos es expresar el estado psicológico, especificado por la condición de sinceridad, en relación con el estado de cosas especificado en el contenido proposicional; en los expresivos, no hay dirección de ajuste y la verdad de la proposición expresada se presupone; la estructura profunda es Yo te verbo ilocucionario de yo/tú VP;
 
+
+## 76
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*76’*__*\) Diccionario enciclopédico de pragmática\.\.\.\*\*\*\*\**
 
 \(v\) los __declarativos:__ tienen como característica provocar la verdad de su contenido proposicional; son los que representan al comienzo de la teoría de los actos de habla la clase de los realizativos; implican una institución extralingüística así como estatus respectivos muy específicos para el locutor y el interlocutor; la dirección de ajuste es doble, va tanto del sentido palabras\-mundo como en el sentido mundo\-palabras; la estructura sintáctica profunda es Yo verbo ilocucionario NP1 \+ NP2\.
 
 En resumen, los verbos ilocucionarios no son siempre marcadores de finalidad ilocucionaria sino que marcan otras características del acto ilocucionario\. __Según Searle, la conclusión más importante, al término de esta clasificación, es que no hay, como querrían Wittgenstein y sus sucesores, un número infinito de juegos del lenguaje, sino una ausencia de claridad en lo que se refiere a los criterios utilizados para delimitar los juegos del lenguaje\.__
 
+
+## 77
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*77*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 __3__\. __LA TEORÍA DE LOS ACTOS DE HABLA Y LA TEORÍA DE LA RELEVANCIA__
@@ -866,6 +956,8 @@ __ __Sperber y Wilson critican tres puntos de vista de la teoría clásica de lo
 
 \(iii\) el aspecto convencionalista de la teoría clásica d ellos actos de lenguaje\.
 
+
+## 77\-78
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*77\-78*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 3\.1 LA TEORÍA CLÁSICA: VÍNCULO ENTRE LA ANTI\-VERICONDICIIONALIDAD, LA IMPORTANCIA TAXONÓMICA Y EL CONVENCIONALISMO\.
@@ -874,28 +966,38 @@ __3\.1\.1__\. __El carácter anti\-vericondicionalista de la teoría de los acto
 
 Recordemos que para Austin , y después para Searle, una de las finalidades de la teoría de los actos de habla es poner en tela de juicio «la ilusión descriptiva», es decir, el postulado según el cual todas las afirmaciones *son utilizadas* para describir estados e cosas en el mundo y son por ello susceptibles de ser verdaderas o falsas\. El primer movimiento de Austin había sido aislar, en el interior de afirmaciones, una clase de enunciados llamados realizativos que tienen forma afirmativa pero que, lejos de servir para describir estados de cosas, realizan un acto cualquiera y que, por ello, no tienen valor de verdad o falsedad, sino de éxito o fracaso\. Después, en un segundo momento, Austin señala que hay verdad o falsedad en los realizativos y éxito o fracaso en los constatativos\. Dicho de otra manera, la frontera entre los constatativos, afirmaciones aparentemente descriptivas, y los realizativos, afirmaciones que sirven para realizar una acción, tiene que ser flexible, y esta flexibilidad, para Austin, consiste en considerar que los constatativos sirven también para realizar actos que él llamará desde entonces ilocucionarios\.
 
+
+## 78
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*78*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
  Searle, por su parte, supone toda frontera y considera que un enunciado, desde el momento en que expresa una oración gramatical completa, corresponde *ipso facto* a la realización de un acto ilocucionario\. Desde ese momento, lo que prima en la interpretación de un enunciado, ya no es la verdad o falsedad de la proposición que expresa, sino el acto ilocucionario que realiza\. Se puede además expresar la misma proposición en enunciados diferentes y realizando actos ilocucionarios diferentes\.
 
+
+## 78
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*78*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 3\.1\.2\. __La taxonomía de los actos ilocucionarios__
 
 Desde el momento en que todo enunciado que corresponde a una oración gramatical completa realiza un acto ilocucionario, es crucial que el interlocutor, en su interpretación del enunciado, sea capaz de determinar de qué acto ilocucionario se trata y cuales son las consecuencias de esta acto para sus propias acciones futuras o para lo que él puede esperar del locutor\. Así a la necesidad teórica que puede haber de describir completamente el fenómeno de los actos ilocucionarios estableciendo la clasificación a partir de un cierto número de criterios precisos, se añade la necesidad de dar cuenta de la manera en la que opera esta interpretación\. Se observará que es el locutor quien tiene la intensión de realizar tal o cual acto ilocucionario y que, por esto, un enunciado que corresponde a un acto ilocucionario dado tiene que expresar esta intención del locutor: la recuperación de esta intención por el interlocutor es incluso una de las condiciones del éxito del acto\.
 
+
+## 78\-79
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*78\-79*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
  __3\.1\.3\. El convencionalismo de la teoría de los actos de habla__
 
 Si los enunciados, en tanto realizan un acto de lenguaje comunican *ipso facto* la intención del locutor de realizar este acto, y si el éxito del acto depende del reconocimiento de esta intención por el interlocutor, el mecanismo por el que se hace este reconocimiento tiene que ser relativamente *sencillo*\. Para Searle, así como para Austin, la manera en que se hace este reconocimiento para tanto por la forma sintáctica de la oración como por las palabras que la componen y determinadas formas sintácticas asociadas a determinadas palabras corresponden a tal o cual acto ilocucionario\. Es el carácter convencional de la teoría de los actos de habla\. Bien es cierto que Searle ni Austin pretenden que toda realización de un acto ilocucionario pueda hacerse exclusivamente mediante el recurso de una forma fija, pero para Austin, y más tarde para Searle, quien enunció el principio, siempre hay un enunciado explícito que habría podido ser utilizado en vez de y en lugar del enunciado ambiguo efectivamente producido para realizar el acto ilocucionario considerado\.
 
- __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*79*__*\) Diccionario enciclopédico de pragmática\.\.\.\*\*\*\**
+ 
+## 79
+__*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*79*__*\) Diccionario enciclopédico de pragmática\.\.\.\*\*\*\**
 
 3\.1\.4\. El papel central de la teoría de los actos ilocucionarios
 
 __Se ve así el papel central de la clasificación de los actos de habla: su importancia se desprende de la idea según la cual todo enunciado que expresa una oración gramatical completa realiza  *ipso facto* un acto ilocucionario\. __Condiciona a su vez en cierta medida la hipótesis convencionalista de Searle y Austin\. En efecto sólo tiene sentido clasificar los actos ilocucionarios si se puede hacer corresponder a los diferentes actos así organizados los enunciados, y es sobre la base de su forma lingüística como asociamos los enunciados a tal o cual acto ilocucionario perteneciente a tal o cual clase\.
 
+
+## 79
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*79*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
   __3\.2\. CRÍTICA DE LA CLASIFICACIÓN DE LOS ACTOS ILOCUCIONARIOS__
@@ -908,10 +1010,14 @@ Sperber y Wilson ponen el ejemplo de la predicación:
 
  \(63\) Le locuteur prédit qu’il fera plus chaud demain\. \[“El locutor predice que mañana hará más calor”\]
 
+
+## 79\-63
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*79\-63*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 En la teoría clásica de los actos de habla, se diría que, para que el interlocutor haya entendido el enunciado \(62\) tiene que haber entendido algo así como \(63\)\. Según Sperber y Wilson, sin embargo, no es el caso: lo que es importante, según ellos, en la interpretación de \(62\) no es que el interlocutor haya realizado \(63\), que haya entendido que el locutor tenía la intención de hacer una predicción, sino simplemente, que *haya entendido* que el enunciado comunica algo a propósito de un acontecimiento futuro\. Esto, como se observará, no significa que el interlocutor no entienda nunca \(63\), sino más bien que entender \(63\) no es indispensable para la comprensión de \(62\)\.
 
+
+## 80
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*80*__*\) Diccionario enciclopédico de pragmática\.\.*
 
 *Así h*abría pues, dos conjuntos de actos de habla: los que deben ser identificados a la vez por el locutor y el interlocutor para ser realizados y los que son realizados sin que tal identificación sea necesario\.
@@ -922,6 +1028,8 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*80*__*\) Diccionario enciclo
 
 El primer grupo de actos, el de los actos institucionales, no compete a la lingüística, no más por otro lado, que a la pragmática, sino sin duda al estudio de las instituciones\. Los actos necesitan muy a menudo circunstancias institucionales bien determinadas \(estatuto, pertinencia a tal o cual cuerpo, etc\.\) para realizarlos con éxito\. El segundo grupo, en cambio, compete a la lingüística o a la pragmática, pero no exige en absoluto la clasificación de los actos ilocucionarios, puesto que la identificación no es indispensable para la realización de los actos que lo constituyen\.
 
+
+## 80\-81
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*80\-81*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 3\.3\. LOS ACTOS DE HABLA EN LA TEORÍA DE LA RELEVANCIA
@@ -938,10 +1046,14 @@ Consideremos los ejemplos \(64\), \(65\) y \(66\):
 
 Si \(64\) es un acto de *dire que*, \(65\) es un acto de *dire de* \[“decir que“\], y \(66\) un acto de *demander si* \[“preguntar si”\]
 
+
+## 81
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*81*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 Sperber y Wilson … observan que, mientras que los actos institucionales cambian según las culturas y las lenguas \(algunos actos no existen en algunas culturas\), los actos de *dire de* \[“pedir que”\], *dire que \[“decir que”\] y *demander si *\[“preguntar si”\] son universales\. …*Desde esta óptica, al acto de *dire que \[“decir que”\] *sería una generalización de la clase de los asertivos *Dire de* \[“pedir que”\] una generalización de los directivos y *demander si \[“preguntar si*”\] una interrogativa de los directivos*\.  *… un vistazo sobre algunos ejemplos permite ver que las diversas condiciones indicadas por Searle para las clases de actos ilocucionarios en su teoría no son siempre respetados\.
 
+
+## 80\-81
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*80\-81*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 P\. 80\-81 __3\.3\. LOS ACTOS DE HABLA EN LA TEORÍA DE LA RELEVANCIA__
@@ -958,12 +1070,16 @@ Consideremos los siguientes ejemplos, tomados más o menos directamente de Sperb
 
 \(70\) Ce libre est magnifique\. “Este libro es magnífico”
 
+
+## 81
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*81*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 \(67\) es un enunciado irónico y podemos dudar de que sea efectivamente un acto de *dire de* \[“pedir que”\]\. \(68\) es una pregunta retórica y, por ello, no es verdaderamente un acto de *demander si *\[“preguntar si”\]\. \(69\) es más un acto de *dire de* \[“pedir que”\] que un acto de *deire que* \[“decir que”\] y \(70\) podría ser una exclamación o una afirmación\.
 
 Así que hay que abandonar una correspondencia término a término entre la forma sintáctica y el acto realizado con la tipología tradicional de los actos de lenguaje con sus condiciones de sinceridad en particular\.
 
+
+## 82
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*82*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 3\.3\. LOS ACTOS DE HABLA EN LA TEORÍA DE LA RELEVANCIA
@@ -974,6 +1090,8 @@ Más que una correspondencia término a término entre forma sintáctica y tipo 
 
  *Dire à l’interlocuteur de *P \[“pedir al interlocutor que P”\]  es comunicar que el pensamiento expresado por P es presentado como la descripción de un estado de cosas deseado\.
 
+
+## 82
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*82’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
  *Demander si P *\[“preguntar si  P”\], es
@@ -984,12 +1102,16 @@ b\) Si la respuesta es  abierta, comunicar que hay una determinada forma de com
 
 Así el pensamiento de Sperber y Wilson reducen el gran número de actos de la teoría clásica de los actos de habla a tres básicos que a la vez no son institucionales y deben ser identificados como tales para que la interpretación del enunciado sea satisfactoria\. Además, su teoría es una teoría verdicondicional que combina la realización de los actos y la verdad de las proposiciones\.
 
+
+## 82
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*82’’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 3\.4\. Conclusión
 
 Se podría tener la ilusión de que la teoría de los actos de habla propuesta por S & W en el marco de la teoría de la relevancia corresponde a una simple vuelta atrás, hacia la teoría que se emparentaría con la de Gardiner, reduciendo los actos a las pocas formas sintácticas que se pueden identificar fácilmente\. En realidad, no es así en absoluto: es precisamente la estrecha unión convencional entre forma lingüística y acto de habla la que pone en cuestión su teoría\.
 
+
+## 83
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*83*__*\) Diccionario enciclopédico de pragmática…*
 
 __Capítulo 22\. PREGMÁTICA INTEGRADA Y PRAGMÁTICA COGNITIVA__
@@ -1000,6 +1122,8 @@ Actualmente, existen dos paradigmas principales en pragmática, a los que denomi
 
 \(ii\) La pragmática cognitiva plantea la hipótesis de que las operaciones vinculadas al procesamiento pragmático de los enunciados no están especializadas \(adaptadas al sistema lingüístico\) sino que se inscriben en el sistema central del pensamiento\. …
 
+
+## 83
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*83*__*\) Diccionario enciclopédico de pragmática\.\.\. *
 
 Analogías
@@ -1008,6 +1132,8 @@ Analogías
 
 \(b\) Las dos atribuyen una parte importante a la noción de instrucción, ya sea en el sentido de esquema interpretativo, ya sea en el sentido de información procedimental\.
 
+
+## 83
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*83*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
  __Diferencias__
@@ -1018,6 +1144,8 @@ __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*83*__*\) Diccionario enciclo
 
 \(c\) La pragmática integrada es no\-vericondicional porque sus tesis tienen como objetivo mostrar las diferencias entre el lenguaje natural y lenguaje formal; la pragmática cognitiva es, por el contrario, una teoría vericondicional: los aspectos vericondicionales de los enunciados no se limitan a la semántica, y la pragmática tiene por objeto, entre otros, la atribución de un valor de verdad a los enunciados\.
 
+
+## 84
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*84*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 1\. PRAGMÁTICA INTEGRADA
@@ -1028,10 +1156,14 @@ La pragmática integrada puede ser caracterizada por las siguientes tesis\.
 
 \(ii\) La lengua no constituye solamente un conjunto de posibles gramaticales: condiciones lingüísticas muy precisas constriñen los encadenamientos entre enunciados\. Hablaremos de __estructuralismo del discurso ideal__ para remitir a toda aproximación al discurso definida por un conjunto de reglas de adecuada formación secuencial\.
 
+
+## 84
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*84’*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 \(iii\) Si la pragmática está integrada a la semántica \(o al código lingüístico\), esto implica que el estudio del «sentido» de la enunciación comporta dos aspectos: el significado de la oración \(ámbito lingüístico\) y el sentido  del enunciado \(ámbito pragmático o retórico\)\. La distinción entre __significado __y __sentido__ es necesaria si queremos distinguir, en la construcción del sentido, el papel de los elementos lingüísticos del de los elementos no lingüísticos\.
 
+
+## 84\-85
 __*MOESCHLER J\., y A\. REBOUL*__* \(1994\-1999:*__*84\-85*__*\) Diccionario enciclopédico de pragmática\.\.\.*
 
 Pragmática integrada
@@ -1042,10 +1174,14 @@ Pragmática integrada
 
 \(v\) La enunciación, es decir, la actividad en el origen de la producción de los enunciados, ponen en juego una estructura compleja de instancias de discurso, con funciones diferentes\. Así distinguiremos al *locutor* y el *enunciador* del sujeto *hablante empírico, * y entre las actualizaciones del locutor, distinguiremos el *locutor* como tal del locutor como ser del mundo\. La teoría de la enunciación implicad por la pragmática integrada es por tanto __polifónica\.__
 
+
+## 85
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:85\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 \(vi\) El modelo teórico de la pragmática integrada se inscribe en una __epistemología de la simulación__\. El postulado básico consiste en distinguir el ámbito de la realidad, para el cual los hechos F \(o salidas del modelo M\) son accesibles, del proceso de simulación \(científico\)\. El proceso de simulación consiste en construir un modelo teórico M’ análogo al modelo M en el origen de los hechos observables\. M’ tendrá como fin la producción de los hechos F’ a los hechos F\.
 
+
+## 85
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:85\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 1\.1\. ESTRUCTURA Y ENUNCIACIÓN, LENGUA Y DISCURSO
@@ -1058,6 +1194,8 @@ El estructuralismo ha sido definido en lingüística a partir de dos postulados 
 
 \(ii\) La autonomía del lenguaje con respecto a la realidad: el signo lingüístico no tiene como función relacionar una expresión con un objeto del mundo \(un referente\) sino un *significante* \(una imagen acústica\) con un *significado* \(un concepto\)\. A una concepción de la lengua como nomenclatura se opone así una concepción de la lengua como sistema \(Saussure\)\.
 
+
+## 87
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:87\) *__*Diccionario enciclopédico de pragmática…*
 
 *1\.1\.3\. *__*Lengua y discurso*__
@@ -1066,12 +1204,16 @@ La oposición entre el sistema de la lengua y su empleo en el discurso es igualm
 
 \(i\) La enunciación histórica \(historia\), o «modo de enunciación que excluye toda forma lingüística “autobiográfica”», tiene como tiempos principales el aoristo \(pretérito indefinido\), el imperfecto, el condicional y el pluscuamperfecto; quedan excluidos el presente y la primera persona\.
 
+
+## 88
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:88\) *__*Diccionario enciclopédico de pragmática…*
 
 \(ii\) La enunciación discursiva \(discurso\) emplea, en cambio, todas las personas y todos los tiempos, excepto el aoristo\. Esta implica la presencia de un locutor y de un oyente, así como la intención del primero de influir al segundo a través de su acto de comunicación\.
 
 Aquí, de nuevo, los planos de enunciación \(historia, discurso\)* *no se definen partiendo de criterios* externos a la lengua\. La oposición entre *lengua *y *discurso* no está pues motivada ni estructural ni funcionalmente\. La *enunciación* es claramente un componente funcional de la estructura y, *__*si la pragmática tiene por vocación el estudio del uso de las estructuras lingüísticas, no cabe integrarla en la lingüística*__*\.*
 
+
+## 85\-96
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:85\-96\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 1\.6\. SINTESIS
@@ -1084,6 +1226,8 @@ Así, la pragmática integrada, definida como una teoría semántica no veri\-co
 
 \(iii\) Indicaciones sobre los puntos de vista \(enunciadores\) expresados en la oración\.
 
+
+## 96\-97
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:96\-97\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\. PRAGMÁTICA COGNITIVA
@@ -1104,6 +1248,8 @@ La interpretación de un enunciado no sería un acto gratuito y recibiría, en c
 
 La __relevancia__ puede definirse entonces como una noción comparativa determinada por dos factores principales: el *esfuerzo cognitivo* \(el coste de procedimiento\) y el efecto *contextual:*
 
+
+## 97
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:97\) *__*Diccionario enciclopédico de pragmática…*
 
 Relevancia
@@ -1120,6 +1266,8 @@ Relevancia
 
 \(iii\) *Reforzamiento* de la fuerza con la cual se mantiene una proposición\.
 
+
+## 98
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:98\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 Relevancia
@@ -1134,6 +1282,8 @@ La teoría de la relevancia puede resumirse partiendo de las cuatro tesis siguie
 
 \(iv\) El uso de un enunciado puede ser __descriptivo__ \(la forma proposicional del enunciado constituye una descripción del pensamiento del locutor\) o __interpretativo__ \(la forma proposicional del enunciado constituye una interpretación del pensamiento del locutor\)\.
 
+
+## 98\-99
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:98\-99\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.1 MODELO DEL CÓDIGO Y MODELO DE LA INFERENCIA
@@ -1150,6 +1300,8 @@ El modelo de la comunicación que ha prevalecido en lingüística estructural y 
 
 ![](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/9.jpeg)
 
+
+## 99\-8\-99
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:99\-8\-99\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  2\.1\.1\.  __Modelo del código__
@@ -1158,16 +1310,22 @@ La característica principal del modelo del código es una concepción simétric
 
 Son las perturbaciones que pueden afectar el canal, perturbaciones a las que denominamos técnicamente «ruidos»\.
 
+
+## 99
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:99\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
   Pero si el modelo del código tiene un fuerte poder explicativo, tiene el inconveniente de tener un __débil poder descriptivo__\. No explica en absoluto cómo un auditor consigue recuperar la intención informativa del locutor\. La razón principal de este hecho es que si la comunicación es un asunto de código, es también un asunto de inferencia\. Por lo que es necesario completar el modelo del código con un modelo de inferencia\.
 
+
+## 99
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:99\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 __2\.1\.2__\.  __Modelo de inferencia__
 
 __El modelo de la inferencia puede ser asociada a la teoría de las *implicaturas * de Grice__ \(1975\)\. Las implicaturas corresponden a la parte no literal del enunciado que es el objeto del acto de comunicación\. E la teoría de Grice, dependiendo de que estén o no desencadenadas por máximas de conversación \(máximas e cantidad, de calidad, de relevancia y de modo\), las implicaturas se denominan *conversacionales o convencionales*\., las implicaturas se denominan *conversacionales o convencionales\.*
 
+
+## 100
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:100\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  La idea de inferencia, asociada a las implicaturas conversacionales, se puede explicitar por el siguiente procedimiento:
@@ -1188,12 +1346,16 @@ __6\.  __L quiere por lo tanto que I piense Q\.
 
 __7\.  __Por lo tanto L ha implicitado Q\.
 
+
+## 100\-101
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:100\-101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 Para calificar la relación de P a Q, hablaremos de __inferencia pragmática no demostrativa__\. La inferencia es pragmática porque no  está desencadenada solamente por las formas o los significados de la oración, sino por la conjunción de informaciones lingüísticas y de informaciones no lingüísticas \(máximas, informaciones de segundo plano\)\. De igual modo, es no demostrativa, porque no hay ninguna garantía de que, dado P, Q se infiera obligatoriamente\.
 
  Un modelo de la inferencia es pues un modelo que explica, a partir del enunciado y de otras informaciones, \(situación, contexto, máximas de conversación\), como recuperar las implicaturas\. De una manera más general, diremos que un modelo de la inferencia es un sistema que une un conjunto de premisas a una conclusión\.
 
+
+## 100\-101
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:100\-101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 La teoría de S / W se distingue de la teoría de Grice en los siguientes puntos:
@@ -1204,7 +1366,9 @@ La teoría de S / W se distingue de la teoría de Grice en los siguientes puntos
 
 \(iii\) *Las inferencias* no tienen como único objeto las implicaturas del enunciado, sino también el enriquecimiento de su  forma lógica \(su explicitación\)\.
 
- __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
+ 
+## 101
+__*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.2\. REPRESENTACIÓN Y COMPUTACIÓN
 
@@ -1212,16 +1376,22 @@ En la teoría de la relevancia, la interpretación de los enunciados es al mismo
 
 ![](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/10.jpeg)
 
+
+## 101
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.2\.1 Representación
 
 La dimensión representacional del procesamiento de los enunciados está vinculada a la parte creativa de su interpretación\. Si la interpretación es una cuestión de inferencia, también depende fundamentalmente de la capacidad \(cognitiva\) el interlocutor para construir un contexto suficiente para la relevancia, es decir, un contexto que permita producir una __interpretación coherente con el principio de relevancia__\. En un interpretación dada, un enunciado es coherente con el principio de relevancia si y sólo si el locutor ha podido racionalmente contar con que sea ´óptimamente relevante para el oyente en esta interpretación\. La consecuencia de esto es que la interpretación obtenida es la primera, cuyos efectos compensan el esfuerzo de procesamiento, y no la que produce mayor número de efectos\. En efecto, el criterio de coherencia con el principio de relevancia explicita por qué, desde el momento en que se obtiene una interpretación, el proceso de procesamiento se detiene y no continúa hasta el infinito: basta con que el rendimiento esfuerzo\-efecto sea suficiente para obtener una interpretación coherente con el principio de la relevancia\. …
 
+
+## 101
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  La interpretación obtenida no es por lo tanto el simple hecho del enunciado sino el resultado de la combinación del enunciado y de hipótesis, a saber, de proposiciones provistas de una cierta fuerza de creencias, que componen el __contexto__\. El contexto del enunciado tiene pues como propiedad singular, en la teoría de  la relevancia, el no ser dado por la situación, sino __construido\. __En oras palabras, constituye una variable y no una constante\.
 
+
+## 101\-102
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:101\-102\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  __2\.2\.2   Computación__
@@ -1230,6 +1400,8 @@ La dimensión computacional del procesamiento del enunciado está en el origen d
 
  El componente computacional \(o sistema deductivo\) sólo contiene __reglas deductivas de eliminación\. __ Una regla deductiva es una regla de eliminación si y sólo si produce información nueva, i\.e\. __implicaciones no triviales__\. Las  __reglas de introducción__, por su parte, autorizan la redundancia o iteración, y producen de esta manera __implicaciones triviales\.__ 
 
+
+## 102
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:102\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  A este efecto, comparemos la regla de eliminación de la implicación material \(o mas comúnmente *modus ponnes*\) con la regla de la introducción de la conjunción et \[“Y”\]:
@@ -1258,6 +1430,8 @@ sortie P et P  \(Max es bavard et Max est bavard\)
 
 salida P y P \[“Max es charlatán y Max es charlatán”\]
 
+
+## 102
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:102\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.2\. Computación
@@ -1266,20 +1440,28 @@ La razón para conservar solamente las reglas de eliminación es el sistema dedu
 
  Una segunda propiedad del sistema deductivo \(junto a las reglas de eliminación\) es distinguir __reglas analíticas__ de las  __reglas sintéticas__\. Por definición, una regla analítica sólo contiene una premisa como entrada, mientras que una regla sintética contiene dos\.
 
+
+## 102\-103
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:102\-103\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 Por ejemplo, la regla de eliminación de la conjunción \(et\) \[“Y”\] es analítica, mientras que el *modus tollendo* *ponnes* \(eliminación de ou \[“o”\] es sintética:
 
+
+## 103
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:103\) *__*Diccionario enciclopédico de pragmática\.\.\.\. *
 
  La distinción entre reglas analíticas y sintéticas permite obligar a reglas de eliminación implicadas en las implicaciones contextuales a ser reglas sintéticas\. Además, como reglas de deducción implicadas en el proceso inferencial son reglas de eliminación, las implicaciones que resultan de su implicación son tan triviales \(una implicación es trivial si se produce a través de una regla de introducción=\. Una implicación contextual es por lo tanto sintética y no trivial, lo que significa, desde el punto de vista comunicacional, que consiste en la información nueva\.
 
+
+## 103
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:103\) *__*Diccionario enciclopédico de pragmática\.\.\. *
 
 2\.3 EXPLICITACIÓN E IMPLICITACIÓN
 
 Una de las características de los enfoques pragmáticos clásicos, como la teoría searliana de los actos de habla o la teoría griceana de las implicaturas, es distinguir entre los aspectos explícitos del sentido y sus aspectos implícitos\. Las diferencias entre el *sentido literal* e *implicatura*\(Grice\), entre *sentido de la oración y sentido de la *enunciación *del locutor* \(Searle\), o entre *acto secundario y acto primario* son reflejo de ello\. Estas distinciones nadie las discute actualmente, pero la cuestión es saber si son necesarias para describir el proceso de comprensión de los enunciados\. En las teorías clásicas el sentido implícito se deriva del sentido literal y de otras informaciones \(de segundo plano según Searle, contextuales para Grice\) asociadas a reglas pragmáticas \(condiciones de felicidad de los actos ilocucionarios, máximas de conversación\)\. La decodificación del sentido literal es por lo tanto un paso obligado, y la decisión de proseguir o no el proceso interpretativo está fundamentalmente vinculada al principio de cooperación y a un diagnóstico de acto viciado\. Una de las consecuencias de las teorías clásicas, discutida por la teoría de la relevancia, es que la comunicación literal constituiría el estado normal de la comunicación y que *a fortiori*, la comunicación indirecta, o no literal, sería un caso marcado, i\.e\. no preferente; los actos de habla indirectos, las metonimias, la ironía, los usos aproximativos serían casos de no\-respeto de reglas pragmáticas\.
 
+
+## 104
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:104\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  Los ejemplos siguientes ilustran tales situaciones, y más concretamente los casos de metáfora, de actos de habla indirectos, de ironía y de enunciado impreciso:
@@ -1292,6 +1474,8 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:104\) *__*Diccionario encicl
 
  d\. Il parâit qu’un charchur CNRS ne gangne que 10000 francs \[“Parece ser que un investigador del CNRS sólo gane 10000 francos”\]
 
+
+## 104
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:104\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  Sperber y Wilson y la teoría de la relevancia no discuten la diferencia entre dimensión literal y dimensión no literal del sentido\. Para la dimensión fundamental de la comunicación no es para ellos la literalidad\. Plantean, en efecto, la hipótesis de que no existe solución de continuidad entre comunicación literal y comunicación no literal y la hipótesis de que es la comunicación literal la que construye el caso marcado\. A este respecto se podrá comparar los enunciados en \(12\) con los enunciados en \(11\) para convencernos de ello:
@@ -1306,24 +1490,32 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:104\) *__*Diccionario encicl
 
 Las dos dimensiones del sentido que acabamos de recordar son denominadas respectivamente *explicitación e implicitación* por Sperber y Wilson\.
 
+
+## 104\-105
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:104\-105\) *__*Diccionario enciclopédico de pragmática\.\.\. *
 
 2\.3\.1\. EXPLICITACIÓN
 
 Las explicitaciones \[*explicaturas* en la más común traducción\] son el desarrollo de la forma lógica del enunciado y no corresponden por ello al sentido literal\. Por *desarrollo de una forma lógica* debemos entender la asignación de referente a los anafóricos y a los deícticos, la determinación de la actitud proposicional del locutor, etc\., en resumen, todo enriquecimiento de la forma lógica producido por la combinación del enunciado, de informaciones sobre la situación, de hipótesis contextuales accesibles a la memoria y de procesos inferenciales\.
 
+
+## 105
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:105\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  Por ejemplo, los enunciados en \(13\) tienen como formas lógicas \(14\) y como explicitaciones \(15\):
 
 ![](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/11.png)
 
+
+## 105
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:105’\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 Las explicitaciones corresponden al proceso de desarrollo \(o de enriquecimiento\) de la forma lógica del enunciado producido por el sistema periférico lingüístico\.
 
 Vemos por lo tanto que el paso de \(13\) a \(15\) no puede hacerse partiendo solamente de las informaciones dadas en \(14\)\. La explicitación de los enunciados es un componente fundamental del proceso de interpretación pragmática y no puede reducirse a un simple proceso de descodificación\. Se trata mucho más, es decir, de un proceso de desarrollo de enriquecimiento de la forma lógica\.
 
+
+## 105\-106
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:105\-106\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 2\.3\.2\. Implicitación 
@@ -1338,6 +1530,8 @@ Tomemos el ejemplo siguiente
 
 Para comprender la respuesta de María, es necesario recurrir a conocimientos denominados *enciclopédicos*, como \(17\) que, asociado a su explicitación \(18\), produce la *implicitación contextual* \(19\)\.  \(17\) es una *premisa implicitada, *\(19\) es una *conclusión implicitada\.*
 
+
+## 106
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:106\) *__*Diccionario enciclopédico de pragmática\.\.\.\.*
 
 \(17\)        Une Mercedes est una voiture de luxe                            \[“Un Mercedes es un coche de lujo”\]\.
@@ -1350,6 +1544,8 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:106\) *__*Diccionario encicl
 
 NB: La definición dada de la *implicitación* no abarca la noción griceana de *implicatura*\. En efecto, las implicaturas son *convencionales* cuando están vinculadas a una forma lingüística particular \(son no separables\), no hacen intervenir ningún cálculo inferencial particular \(no son calculables\) son automáticamente asociadas a la expresión lingüística y son no anulables;  las implicaturas son *conversacionales *cuando son separables, calculables, no convencionales, y anulables, es decir, cuando son desencadenadas por la explotación o la transgresión de las máximas de conversación\. La teoría de la relevancia no distingue estos dos tipos de implicaturas, porque la interpretación pragmática no es desencadenada por la explotación o por la violación de las máximas, sino por el principio de la relevancia\. Además, la teoría de Grice supone que las implicaturas \(convencionales o conversacionales\) corresponden a los aspectos no vericondicionales de los enunciados\. En pragmática de la relevancia, que es una teoría pragmática vericondicional, las implicitaciones, igual que las explicitaciones, tienen propiedades vericondicionales\.
 
+
+## 106\-107
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:106\-107\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 La distinción entre *premisa implicitada *y *conclusión implicitada* es vital para la teoría de la relevancia\. Las premisas implicitadas remiten a la hipótesis que el interlocutor debe convocar con el fin de obtener una interpretación coherente con el principio de la relevancia\. En segundo lugar, las conclusiones implicitadas tienen la propiedad de __no estar totalmente determinadas__\. Si lo que María quería comunicar en \(16\) correspondía  a \(19\), podríamos preguntarnos legítimamente por qué no ha enunciado simplemente \(19\), es decir comunicando literalmente su pensamiento\. La respuesta es que María, en \(169, comunica más que en \(19\)\. dados \(20\) y \(21\), tan accesibles como \(17\)\. maría comunica, sin duda más débilmente que con \(19\), igualmente \(22\) y \(23\):
@@ -1364,12 +1560,16 @@ La distinción entre *premisa implicitada *y *conclusión implicitada* es vital 
 
  
 
+
+## 107
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:107\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 Si las implicitaciones \(y más concretamente las conclusiones implicitadas\) no están completamente determinadas, éstas varían entre sí en cuanto fuerza\. Así pues, María comunica sin duda más intensamente \(19\) que \(22\) ó \(23\) por razones vinculadas al tema del diálogo\. Pero sería inconsecuente decir que no comunica \(22\) ó \(23\): estas implicitaciones son por el contrario lo que fundamenta su respuesta indirecta\. Si María sólo hubiera tenido la intención de comunicar \(19\), habría respondido directamente, por ejemplo con \(24\):
 
 \(24 Je ne conduirai jamais une Mercedes \[“No conduciré nunca un Mercedes”\]
 
+
+## 107\-108
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:107\-108\) *__*Diccionario enciclopédico de pragmática… \*\*\*\*\**
 
 DESCRIPCIÓN E INTERPRETACIÓN
@@ -1382,12 +1582,16 @@ Una de las propiedades principales de las lenguas naturales es que constituyen s
 
  b\. “La rose rouge” es un syntagme nominal “La rosa roja” es un sintagma nominal”\]
 
- __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:108\) *__*Diccionario enciclopédico de pragmática\.\.\.*
+ 
+## 108
+__*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:108\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  __2\.4\.2\. Uso descriptivo y uso interpretativo__
 
 La teoría de la relevancia ha otorgado un estatuto central a esta oposición, que abarca las nociones de *descripción *y de *interpretación\. *Más concretamente , hablaremos de *uso descriptivo *y de *uso interpretativo*  de una forma proposicional\. Una forma proposicional tiene un uso descriptivo cuando representa un estado de cosas\. En este caso, la forma proposicional del enunciado es una descripción del enunciado es una descripción de un cierto estado del mundo\. Pero una forma proposicional puede ser una representación de otra cosa que no sea un estado de hechos: puede representar otra representación de forma proposicional \(por ejemplo un pensamiento\) en virtud de la similitud entre dos formas proposicionales\. La primera representación es en ese caso una interpretación de la segunda y diremos que es utilizada interpretativamente\. 
 
+
+## 108
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:108’\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
  La noción central aquí es la similitud entre formas proposicionales, y más concretamente de __similitud interpretativa__\. Diremos que dos formas proposicionales se asemejan interpretativamente si comparten sus implicaciones analíticas y contextuales\. La similitud interpretativa es una noción comparativa, y es susceptible de gradación\. Podemos considerar tres situaciones tipo:
@@ -1398,10 +1602,14 @@ __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:108’\) *__*Diccionario enc
 
 \(iii\)   La comunicación literal corresponde a la situación extrema, y excepcional, en la que las formas proposicionales comparten todas sus implicaciones analíticas y contextuales\. La comunicación literal no se considera como cualitativamente superior, pero constituye un caso marcado de comunicación\.
 
+
+## 109
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:109\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
                   Los diferentes tipos de similitud interpretativa sitúan por lo tanto de los estudios sobre el empleo del lenguaje los casos en que la similitud interpretativa es parcial, como en el caso de la comunicación no literal\. El recurso a la noción de similitud interpretativa, como a la distinción entre uso descriptivo y uso interpretativo, explica que, en la teoría de la relevancia, el sentido literal no tiene rango teórico\. En efecto, si tal fuera el caso, esto implicaría que el estado normal de la comunicación correspondería a la comunicación literal, situación que constituye en  la teoría de la relevancia un polo extremo de similitud interpretativa\.\.
 
+
+## 15
 __*MOESCHLER J\., y A\. REBOUL \(*__*1994\-1999*__*:15\) *__*Diccionario enciclopédico de pragmática\.\.\.*
 
 ![](Moeschler_y_Reboul_2000_Diccionario_enciclopedico/12.png)
