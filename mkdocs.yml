@@ -34,7 +34,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Tema Nocturno
-  favicon: images/dualbook.png
+  favicon: assets/images/dualbook.png
   icon:
     logo: material/book-open
 

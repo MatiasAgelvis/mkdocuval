@@ -9,24 +9,37 @@
 }
 
 .md-main {
-    background: url(assets/images/ll_.png), url(assets/images/base.png);
+    background: url(assets/images/va.svg), url(assets/images/base.png);
     background-size: contain, auto;
     background-repeat: no-repeat, repeat;
     background-position: bottom right;
 }
 
+.white-shadow {
+    text-shadow: -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
+}
+
+/*
 @media screen and (max-width: 500px), 
        screen and (max-height: 600px) {
     .md-main {
         background: url(assets/images/base.png);
     }
 }
+*/
 
 .md-button {
     background-color: var(--md-primary-bg-color);
     /*background-color: var(--md-accent-fg-color);*/
     border-color: var(--md-accent-fg-color);
     color: var(--md-accent-bg-color);
+}
+
+body {
+    min-height: max(740px, 100%);
 }
 
 /* Hide navigation */
