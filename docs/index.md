@@ -1,12 +1,14 @@
 ---
+template: home.html
 title: Inicio
 hide:
   - toc
   - navigation
 ---
 
-# __Sitio web del profesor Valmore Agelvis__
-## Prof. Dr. Valmore Agelvis
+# Prof. Dr. Valmore Agelvis
+## Sitio web
+(Universidad de los Andes, Venezuela)
 
 [ :fontawesome-solid-comment-alt: Blog](blog){ .md-button .md-button--primary }
-[ :fontawesome-solid-archive: Fichero](fichas){ .md-button .md-button--primary}
+[ :fontawesome-solid-archive: Fichero](fichas){ .md-button }
