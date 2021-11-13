@@ -11,6 +11,7 @@ copyright: Copyright &copy; 2021 Valmore y Matias Agelvis.
 
 theme:
   name: material
+  custom_dir: overrides
   language: es
   features:
     - navigation.instant
