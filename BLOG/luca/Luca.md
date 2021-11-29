@@ -30,11 +30,11 @@ Umberto Eco escribió un par de libros sobre este asunto del significado. En el 
 Luca Paguro es un niño que desea saciar su curiosidad y encuentra en Alberto Scorfaro un adyuvante. Se trata de dos niños que se transforman en niños comunes una que dejan de tener contacto con el agua. Luca recibe una *revelación* en un cártel de una moto Vespa. Ambos deciden adquirir una y dedicarse a recorrer el mundo. La revelación que menciono tiene más que ver con un deseo que introduce un giro en la vida de alguien que de una epifanía. Greimas y Fontanille [(6)](#refs) hablan de la semiótica de las pasiones para mostrar la manera cómo un sujeto no sintáctico, un sujeto con cuerpo y sensaciones, busca fundirse con aquello que considera *perfecto* (Vespa "Es lo mejor que han hecho los humanos" para Alberto y Luca) y que le impulsa al devenir. Ambos niños comparten esa *revelación* y descubren, junto a otra niña (Giulia), que pueden adquirir la moto si ganan un triatlón que se realizará en el pueblo. El asunto es que el espíritu que Alberto Scorfaro había insuflado en Luca pronto se hace pequeño y sin mucho sentido para Luca cuando descubre que "dormir bajo los peces" no era en realidad peces sino el cosmos, las estrellas de un universo mayor e infinito. Luca se entera de que eso es información y que la escuela la proporciona. Entra entonces en conflicto con Alberto y rompen porque la nueva *revelación* de Luca es mucho más atractiva que la de la Vespa. Esto se resuelve en un par de diálogos que tienen los protagonistas:
 
 > [00:50’] 
- Alberto: Queremos la Vespa para valernos solos. No necesitamos la escuela. No necesitamos a nadie… Los monstruos marinos no podemos ir a la escuela.
- [1:05’] 
- Giulia: Mi padre caza monstruos marinos. Luca, debes irte de aquí.
- Luca: Pero creí que éramos *relegados*
- Giulia: Arriesgas la vida por una Vespa?
+ Alberto: Queremos la Vespa para valernos solos. No necesitamos la escuela. No necesitamos a nadie… Los monstruos marinos no podemos ir a la escuela.  
+ [1:05’]  
+ Giulia: Mi padre caza monstruos marinos. Luca, debes irte de aquí.  
+ Luca: Pero creí que éramos *relegados*  
+ Giulia: Arriesgas la vida por una Vespa?  
 
 Finalmente, los chicos participan y ganan el triatlón, pero en plena competencia llueve y se ven descubiertos con el pueblo entero. Una vez descubiertos el pueblo los proclama vencedores y deciden tolerar las diferencias que lo separan. Lo demás es rutina narrativa: Luca va a la escuela con la anuencia de sus padres y Alberto se queda como ayudante de pescador. Lo que promueve el film *Luca* es la grandeza de mira, el no conformismo y la tolerancia. Alberto creía como totalidad (Portoroso y la Vespa), Luca mira aún más alto, al saber, a la educación formal. Son esas dos cosas lo que el film quiere dar a entender: la tolerancia a lo diferente y aquello está más allá de lo inmediato, lo trascendente.
 
