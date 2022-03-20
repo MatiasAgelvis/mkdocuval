@@ -1,6 +1,6 @@
-![][image-1]
 # Cinderella, un cuento de autoayuda envuelto en un cuento de hadas en tono de musical
  (EE. UU./GB 2021, Sony/Columbia y distribuida por Amazon Studios basada en cuento tradicional folclórico).
+![][image-1]
 
  Este es un film que privilegia los discursos emergentes de autoayuda, feminismo, movimiento por la diversidad sexual y la lucha contra la discriminación. Tales son los temas que este film toma bajo el paraguas del cuento clásico. Se trata de una película de la cultura de masas, que se ampara en el conocido cuento para forjar una versión libre con asuntos de actualidad. Lo que menos importa aquí es el cuento de hadas, su contenido tradicional, su esquema cognitivista, ahora el centro del cuento está en la puesta en perspectiva de un conjunto de tensiones sociales que se han venido abriendo su espacio narrativo con las luchas que promueve el derecho de la diversidad en todo orden de las prácticas sociales. 
 

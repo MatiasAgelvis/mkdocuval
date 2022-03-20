@@ -1,5 +1,4 @@
-# Cry Macho
-## La saga de la tolerancia en dos filmes de Clint Eastwood
+# Cry Macho: La saga de la tolerancia en dos filmes de Clint Eastwood
 
 ![](crymacho/crymacho.png)
 
