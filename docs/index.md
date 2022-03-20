@@ -14,7 +14,7 @@ hide:
 <p class="white-shadow">Universidad de los Andes, Venezuela</p>
 <!-- Universidad de los Andes, Venezuela -->
 
-[ :fontawesome-solid-comment-alt: Blog](blog){ .md-button .md-button--primary }
-[ :fontawesome-solid-archive: Fichero](fichas){ .md-button }
+[ :fontawesome-solid-comment: Blog](blog){ .md-button .md-button--primary }
+[ :fontawesome-solid-box-archive: Fichero](fichas){ .md-button }
 
 <!-- ![Placeholder](assets/images/va.svg){ align=right } -->
