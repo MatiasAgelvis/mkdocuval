@@ -1,4 +1,4 @@
-# Luca
+# Luca, la Vespa o la Escuela
 > Disney-Pixar 2021 (EE. UU.). Dirigida por Enrico Casarosa. Ha recaudado más de 50 millones de dólares en taquilla.
 
 ![](luca/portada.jpg)
