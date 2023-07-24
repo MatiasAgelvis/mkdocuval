@@ -68,4 +68,4 @@ This project is licensed under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE).
 
 ---
 
-Thank you for visiting the Valmore Agelvis' Website Repository! We hope you find the content informative and enjoyable. For any queries or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com). Happy browsing!
+Thank you for visiting the Valmore Agelvis' Website Repository! We hope you find the content informative and enjoyable. For any queries or feedback, feel free to reach out to us at [contact](https://matiasagelvis.com/contact). Happy browsing!
