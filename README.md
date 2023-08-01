@@ -17,6 +17,8 @@ The website is built using the following technologies:
 - Python: The core language used for scripting and automation.
 - Material for MkDocs: A clean and simple Material Design theme for MkDocs, providing an elegant look to the website.
 
+The articles are hosted in this github repo and [Box](https://app.box.com/s/7s15qgb64wr6bpqhng7cgdunkzqlk9e3)
+
 ## Getting Started
 
 ### Installation
