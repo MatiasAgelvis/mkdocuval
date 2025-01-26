@@ -58,8 +58,16 @@ def get_regex_pattern(string):
     pattern_A = r'([\*_]{0,5}%s.*?\((?:[\*_]){0,5}\d{4}(?:\\?-[0-9]{4})?\D*?(?:[\*_]){0,5}\D*?:\D*?(?:[\*_]){0,4}\D*?([0-9]+(?:\s{0,2}\\?(?:-|y|,)\s{0,2}[0-9]+){0,3})\D*?\))' % name
     # matches the postfix anotated titles
     pattern_B = r'([\*_]{0,5}%s(?:.*?\n{0,3}){0,3}[pP]\\?\s{0,3}\.\s{0,3}([0-9]+(?:\\?-[0-9]+){0,3}))' % name
-    
-    return pattern_A if re.search(pattern_A, string) else pattern_B
+    # matches simple page notation
+    pattern_C = r'([\*_]*[pP]\\?\s*\.\s*[\*_]*(\d+).*?)'
+
+    if re.search(pattern_A, string):
+        return pattern_A
+    elif re.search(pattern_B, string):
+        return pattern_B
+    else:
+        print('pattern_C\n'*10)
+        return pattern_C
 
 
 # for some reason when mammoth exports md to a directory
@@ -93,8 +101,8 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     content = re.sub(pattern, r'\n## \2\n\1', content, flags=flags)
     # remove heading white spaces
     # content = content.lstrip()
-    
-    # write to a new 
+
+    # write to a new
     output_path = os.path.dirname(file).replace('_', ' ') + '.md'
     title = os.path.basename(os.path.dirname(file)).replace('_', ' ')
     with open(output_path, 'w+') as output_file:
