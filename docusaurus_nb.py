@@ -21,7 +21,7 @@ os.makedirs(MD_path, exist_ok=True)
 
 
 def filename(path):
-    return os.path.basename(path.rsplit('.')[0])
+    return os.path.basename(path.rsplit('.', 1)[0])
 
 
 # **Convert all odt to docx with pandoc**
