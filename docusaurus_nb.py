@@ -61,13 +61,19 @@ def get_regex_pattern(string):
     # matches simple page notation
     pattern_C = r'([\*_]*[pP]\\?\s*\.\s*[\*_]*(\d+).*?)'
 
+    # Special case for WARNOCK file: The text formatting in this file
+    # causes false positives with pattern_A and pattern_B due to its unique citation style.
+    # When 'WARNOCK' is in the filename, force using pattern_C (simple page number matching)
+    # to avoid regex matching issues with the more complex patterns.
+    # TODO: Consider updating the name extraction regex to better handle these cases,
+    # or create a specific pattern for this citation style.
+    if 'WARNOCK'.lower() in name.lower():
+        return pattern_C
+
     if re.search(pattern_A, string):
         return pattern_A
-    elif re.search(pattern_B, string):
-        return pattern_B
     else:
-        print('pattern_C\n'*10)
-        return pattern_C
+        return pattern_B
 
 
 # for some reason when mammoth exports md to a directory
@@ -99,6 +105,11 @@ for file in glob.glob(join(MD_path, '*', '*.html')):
     flags = re.IGNORECASE
     pattern = get_regex_pattern(content)
     content = re.sub(pattern, r'\n## \2\n\1', content, flags=flags)
+
+    if 'Warnock' in parent_folder:
+        print('\n', parent_folder, ':', re.findall(r'([\*_]*[pP]\\?\s*\.\s*[\*_]*(\d+).*?)', content))
+        print('\n', pattern)
+
     # remove heading white spaces
     # content = content.lstrip()
 
