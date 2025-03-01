@@ -50,6 +50,35 @@ mkdocs gh-deploy --force
 
 This command will build the site and publish it to the `gh-pages` branch of the repository, making it publicly accessible.
 
+### Docker Development
+
+To build and run the website using Docker, follow these commands:
+
+```bash
+# Build the Docker image
+docker build -t mkdocuval:latest .
+
+# Run the container with local file sync
+docker run --name mkdocs-container -v $(pwd):/app -p 8000:8000 mkdocuval:latest
+
+# Stop the container
+docker stop mkdocs-container
+
+# Start an existing container
+docker start mkdocs-container
+
+# Remove the container
+docker rm mkdocs-container
+
+# List running containers
+docker ps
+
+# List all containers (including stopped)
+docker ps -a
+```
+
+The website will be available at `http://localhost:8000`. Any changes made to local files will be reflected immediately in the container due to volume mounting (`-v` flag).
+
 ### Local Development
 
 To serve the website locally for development and testing purposes, use the following command:
