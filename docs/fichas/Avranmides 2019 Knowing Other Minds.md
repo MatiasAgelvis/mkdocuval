@@ -1,0 +1,437 @@
+# Avranmides 2019 Knowing Other Minds
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes\. En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+__Capítulo 6__
+
+P\. 107
+
+__ __Hay muchas cosas que llegamos a conocer y, presumiblemente, hay muchas maneras de llegamos a conocerlas\. Hay una cosa que puedo conocer cómo son las cosas en el mundo que me rodea, el mundo que contiene mesas, sillas, piezas de metal y similares\. A menudo llego a conocer estas cosas por percepción, simplemente las veo\. Otra cosa que puedo saber es que sufres, estás enfadado, deprimido y cosas por el estilo\. No está tan claro cómo llego a este conocimiento\. La historia de la filosofía está plagada de intentos de dar cuenta de este último conocimiento apelando a la analogía o a algún tipo de inferencia sobre la mejor explicación del comportamiento de otra persona \.1 Sin embargo, más recientemente se ha tendido a pensar que a veces conocemos la mente de otra persona del mismo modo que conocemos el mundo de los objetos, a través de la percepción \.2
+
+ La idea de que puedo conocer la mente de otro mediante la percepción es una idea que tiene una profunda historia en la tradición fenomenológica3; tiene una historia mucho más superficial en la tradición analítica\. En este artículo me ocuparé de la literatura analítica\. Incluso aquí seré selectiva\. El relato que voy a discutir se debe a Fred Dretske y se desarrolla en varios lugares \-\-entre ellos, su libro *Seeing and Knowing*, y su artículo “*Perception and Oter Minds*”\. Hay otras formas de defender la idea de que obtenemos nuestro conocimiento de otras mentes a través de la percepción, pero en este artículo sólo trataré la teoría de Dretske\.4
+
+__AVRAMIDEZ, Anita__\. \(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 107\-108
+
+ Aunque la idea de que obtenemos nuestro conocimiento del mundo de los cuerpos a través de la percepción es incontrovertible, la idea misma de que obtenemos nuestro conocimiento de los estados mentales de otra persona a través de la percepción se ha considerado, hasta hace poco –al menos en nuestra tradición analítica\-\-, bastante escandalosa\. Algunos han sostenido que hay toda la diferencia del mundo entre ver que, por ejemplo, *Tom es pelirrojo* y ver que, por ejemplo, *Tom tiene dolor*\. Si no puedo ver que *Tom tiene dolor*, esto se interpondría en el camino de un modelo perceptivo de nuestro conocimiento de que *Tom tiene dolor\.*5
+
+ Este artículo se divide en tres secciones\. En la sección uno, expondré el relato de Dretske sobre nuestro conocimiento perceptivo de la mente ajena\. En la sección dos, considero una caracterización de nuestras vidas mentales\. Tomaré mi discusión en esta sección para proporcionar lo que podría pensarse como una condición de adecuación en cualquier explicación del conocimiento que pretenda ser conocimiento de la vida mental de otro\. En la sección tres, consideraré si el relato perceptivo expuesto por Dretske puede considerarse que cumple esta condición de adecuación\. Sugeriré que no puede y también identificaré lo que entiendo que es la razón por la que no puede\. Concluiré que el relato perceptivo de Dretske sobre nuestro conocimiento de los cuerpos no puede ampliarse para darnos conocimiento de otras mentes\.
+
+ __AVRAMIDEZ, Anita__\. \(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.*
+
+ Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 108  Dretske Account
+
+ Aunque Dretske está convencido de que conocemos las mentes de los demás de la misma forma que conocemos el color del pelo, deja claro de que no está convencido de que sea la única forma de conocer a los demás\.6 Ver que otra persona sufre, por ejemplo, es una forma de saber lo que se siente\. Pero es una forma de saber que muchos han rechazado en conexión con la mente de otro\. Lo que Dretske quiere contrarrestar es la idea de que no podemos llegar a conocer la mente de otra persona del mismo modo que llegamos a conocer las cosas en el mundo de los cuerpos –mediante la percepción—porque la mente de otra persona es inobservable\. Sostener que la mente de otro es inobservable es sostener que uno puede ver la sonrisa pero no el pensamiento ‘detrás’ de la sonrisa, que uno puede ver el puño cerrado pero no la ira\.7 Dretske no se opone a la idea de que uno no puede ver el pensamiento o sentimientos del otro; lo que rechaza es es la idea de que el hecho de que no podemos ver los pensamientos del otro se interponga en el camino de una explicación perceptiva de nuestro conocimiento de las mentes\.
+
+__AVRAMIDEZ, Anita__\. \(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.*
+
+ Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 108
+
+ Algunos consideran que la naturaleza inobservable del estado mental de otra persona nos obliga a dar una explicación inferencial de nuestro conocimiento de la mente de otra persona\. Si nos preguntamos cómo sabe Jane que Tom sufre, muchos proponen que Jane ve la mueca de Tom y deduce por analogía o apelando a la mejor explicación que Tom siente dolor\.8 Dretske rechaza la idea de que se requiera tal inferencia y afirma que es posible que Jane sepa que Tom siente dolor viendo lo que siente9, Dretske sostiene que el hecho de que los estados mentales de otra persona sean inobservables no impide que una persona vea que otra persona, por ejemplo, siente dolor\.
+
+
+## 109
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 109
+
+ A continuación, esbozaré el relato de Dretske sobre el hecho de ver algo así —lo que él denomina __ver epistémico__— y explicaré qué tiene este relato que le permite contar también como un relato del conocimiento\. El relato está diseñado para ser bastante general \(es decir, es un relato de nuestra visión y, por tanto, de nuestro conocimiento tanto del mundo que nos rodea como de otras mentes\), pero me centraré en el modo en que Dretske lo considera un __relato de nuestra vi__sión y, por tanto, de nuestro conocimiento de cosas como Tom siente dolor\.
+
+ Consideremos ahora la afirmación “Jane ve que Tom sufre” Dretske esboza un conjunto de condiciones que considera necesarias y suficientes para que alguien, S, vea que alguien, b, tiene una determinada característica, P\. Son las siguientes:
+
+Un sujeto S ve que b es P si:
+
+1. Si b es P
+2. S ve \(en sentido simple\) b
+3. Las condiciones en las que S ve \(en sentido simple\)
+
+B son tales que b no se vería
+
+ El aspecto que tiene ahora para S si no fuera P
+
+1. S, creyendo que las condiciones son las descritas en \(iii\), considera b es P
+
+A subetc S sees that b is P: \(i\) bisP
+
+\(ii\)  S sees \(in the simple sense\) b
+
+\(iii\) The conditions under which S \(simple\) sees b are such that b would not
+
+Look the way it looks to S unless it was P
+
+\(iii\)S believe the conditions are as described in \(iii\), takes b to be P\.
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 109
+
+ Se trata de lo que Dretske denomina visión epistémica, es decir, visión que implica creencia\. Para Dretske, no toda visión es epistémica\. Distingue la visión epistémica de la no epistémica\. Esta última es simple en el sentido de que no implica creencia\. La visión simple implica una relación simple con una cosa: “ver un bicho es como pisar un bicho”\. La visión epistémica, por otra parte, implica un “contenido de creencia positiva”\.10 Obsérvese que la explicación de Dretske de la visión simple en la condición \(ii\)\. Otra cosa a tener en cuenta sobre la condición \(ii\) es que, para Dretske, b en este esquema significa una persona, por ejemplo, Tom\. Esto es todo lo que diré sobre la condición \(ii\) \(aunque más adelante diré algo más sobre la afirmación de Dretske de que lo que S ve es una persona\)\.11\.Consideraré que la condición \(i\) es relativamente sencilla\. La condición \(iv\) es importante, pero no tiene una relevancia central para la condición en la que quiero centrar mi discusión es \(iii\), ya que hace la mayor parte del trabajo de este relato\.
+
+ Sólo me referiré brevemente a ella en lo que sigue\.12 La condición en la que quiero centrar mi discusión es \(iii\), ya que hace la mayor parte del trabajo en este relato\.
+
+
+## 110
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 110
+
+ La condición \(iii\) es compleja y merece más discusión de la que me puedo permitir aquí\. Lo que quiero hacer es resaltar ciertos rasgos de esta condición, rasgos que son cruciales para entender cómo ver da lugar a conocer\. Según Dretske, si S sabe que P y lo sabe sobre la base de ver b, entonces debe darse el caso de que: b no tendría el aspecto que tiene ahora para S a menos que b fuera P\. En otras palabras, para que S sepa que b es P sobre la base del aspecto de b, entonces el aspecto de b debe implicar la falsedad de lo siguiente; aunque b tiene un aspecto que llevaría a penar que b es P, y es la fuerza de esta condición la que nos permite decir que S no sólo ve que b es P, sino que sabe que b es P\. Diré algo más sobre esto dentro de un momento, pero antes quiero explorar un poco dos nociones importantes que aparecen en la condición \(iii\), y que contribuyen de manera importante al conocimiento de S’s en este caso\. Estas son:
+
+ La condición de la apariencia: El aspecto de b para S, y
+
+ La condición de las condiciones: las condiciones en las que S ve a b
+
+ The Looks Condition: The way b looks to S, and
+
+ The Condition condition: The conditions under which S sees b
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 110
+
+ Permítanme comenzar desgranando la condición de apariencia en relación con un ejemplo que utiliza Dretske\. Dretske nos permite que pensemos en una barra de metal que está caliente y sugiere que hay dos formas de saber que una barra de metal está caliente: la primera es un termómetro colocado en ella; la segunda es mirar la barra y ver cómo brilla de la forma característica del metal caliente\. La primera es una forma indirecta de saberlo, mientras que la segunda es directa\. Si llegamos a saber que la barra de metal está caliente viéndola brillar de modo característico del metal caliente, podemos decir que no sólo es un caso de visión epistémica, sino un caso de visión primaria; no tiene nada de indirecto y, por tanto, cuenta como observación de primera mano, o como testimonio directo de los sentidos\. La visión epistémica primaria de distingue de la visión epistémica secundaria, que consiste en saber que la barra está caliente leyendo el indicador de temperatura\.
+
+ El caso de la barra de metal caliente es interesante tanto por sí mismo como por la forma en que Dretske lo utiliza para ilustrar cómo cree que funcionan las cosas en el caso de otras mentes\. Dretske cree que hay una forma de saber que, por ejemplo, Otto tiene dolor de cabeza que es similar a la segunda forma de saber que la barra de metal está caliente: igual que S puede ver que una barra de metal está caliente de forma epistémica primaria\.
+
+
+## 111
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 111
+
+ En ambos casos, S basa su información de ver lo que ve en el aspecto de las cosas\. En un caso, lo que S ve es el resplandor del metal, que constituye el aspecto del metal caliente; en el otro, lo que S ve es el comportamiento de Otto, que constituye el aspecto de las personas con dolor de cabeza\. La condición \(iii\) establece que las cosas no tendrán el aspecto que tienen al menos que fueran de una determinada manera; Otto no tendría el aspecto que tiene \(pálido, agonizante, por ejemplo\) a menos que le doliera la cabeza\.
+
+ Permítanme pasar ahora a la segunda idea de la condición \(iii\): la condición de las condiciones\. La condición del aspecto y la condición de las condiciones funcionan juntas de un modo interesante e importante: el aspecto de las cosas es indicativo de cómo son las cosas sólo en determinadas condiciones\. Dretske a veces se refiere a las condiciones mencionadas en \(iii\) como condiciones de fondo\. Señala dos cosas importantes sobre estas condiciones de fondo: \(i\) una condición de fondo es lógica y casualmente independiente de las características y propiedades de b y de que b sea P: y \(ii\) las variaciones en las condiciones de fondo afectan al aspecto que b tiene para S\.14
+
+¿Cuáles pueden ser estas condiciones? Dretske menciona las siguientes:
+
+La distancia entre S y b
+
+El angulo desde el que S ve a b
+
+Las condiciones de iluminación
+
+El estado de los ojos y el sistema nervioso de S
+
+ Dretske admite que puede haber otras condiciones, pero afirma que esta lista contiene las variables más evidentes\.
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 111
+
+ Sólo si se dan ciertas condiciones podemos considerar que el aspecto de las cosas es lo que Dretske denomina un __indicador fiable__ de cómo son\. La noción del indicador fiable desempeña un papel crucial en la obra de Dretske, y gran parte de lo que voy a argumentar en este artículo se basará en la comprensión de esta noción\. Para que el aspecto de b sea un indicador fiable de P, las condiciones deben ser tales que b no tendría el aspecto que tiene y que b tenga el aspecto que tiene es una condición suficiente para que b sea P\. En respuesta a una queja prevista de que la regularidad aquí es demasiado fuerte, y sólo necesita ser altamente probable o probable, Dretske responde que se requiere una fiabilidad del 100 por cien para que uno pueda decir realmente que puede ver que v es P\. Como dice Dretske en un lugar, “Ver que b es P no es un logro que deje espacio para la cualificación “ pero, por supuesto, b a veces se ve así bajo estas condiciones cuando no es P”15\. ‘También es importante señalar que para que la indicación sea fiable no es necesario: \(i\) siempre que b tenga el aspecto que b tiene ahora esa cosa es P\. La indicación fiable se refiere a cosas concretas en condiciones concretas\.
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 112
+
+ Así, pues, el aspecto de algo por sí sólo no sirve como indicador fiable y no puede por sí solo conducir al conocimiento\. Lo que convierte la forma en que alguien mira en algo que puede producir conocimiento son las condiciones que se dan cuando S ve b\. Dretske ofrece una analogía bastante bonita: “Parece como si fuera P” equivale a “Puedo ver que es P” como “Jaque” equivale a “Jaque mate”\. Es decir, el segundo miembro de cada conjunto señala que lo que ha sucedido en el primer miembro se ha producido “en un connjunto de circunstancias especialmente decisivas”\.16 Si las condiciones se cumplen realmente, uno ve y, por tanto, sabe que P\.17
+
+ Entendiendo la condición \(iii\), podemos comprender cómo esta condición opera en conjunción con la condición \(iv\) para producir el conocimiento de que b es P\. Aunque la condición \(iii\) nos dice que b es un indicador fiable de P, —junto a las condiciones \(i\) y \(ii\)— no basta para ver que algo es así o para saber que lo que es\. Para ello, se requiere una cierta creencia, y esto es lo que introduce la condición \(iv\)\. Si se cumplen las condiciones \(i\) y \(ii\), y si S considera que b es P basándose en la creencia de que las cosas son como se describen en \(iii\), entonces S ve y, por o tanto, sabe que b es P\.
+
+
+## 112
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\.* Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 112
+
+ La idea de un indicador fiable va unida a la de una razón concluyente\. Cuando la base de uno para creer que P indica de manera fiable que P, uno tiene lo que Dretske llama una razón concluyente para su creencia de que b es P\. Saber que b es P es estar en condiciones de responder a la pregunta: ¿cómo sabes que b es P? Una forma de responder a esta pregunta es decir que se puede ver que b es P\. Pero hay que tener cuidado\. Que uno tenga o no una razón concluyente no tiene nada que ver con ningún mecanismo psicológico o fisiológico que produzca la creencia de que b es P\. Si uno sabe que b es P como resultado de lo que ve, entonces lo que se requiere por parte de S es que vea b, y que considere que b es P creyendo que las condiciones son las descrita en la condición \(iii\)\. Lo que hace que la Condición \(iii\) es decirnos que deben prevalecer ciertas condiciones tales que b no tendría el aspecto que tiene ahora a menos que fuera P\. Esto no requiere que S haga ningún razonamiento, ni consciente ni inconsciente\. El hecho de tener o no una razón es independiente de que alguien la utilice como tal\. 18
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 112\-113
+
+ Antes de seguir Adelante quiero hacer dos comentarios sobre este relato que serán relevantes para la discusión que sigue
+
+1. Es importante para Dretske que lo que S ve es que Otto tiene dolor de cabeza, pero S no ve el dolor de cabeza de Otto\.
+2. Dretske afirma que su análisis de la visión epistémica primaria produce el conocimiento de lo que Otto está sintiendo, pero no produce el conocimiento de que Otto no es un zombi\.
+
+I\.Es básicamente el punto que Dretske se propuso defender: el hecho de que no pueda ver el dolor de cabeza de Otto no se opone a una explicación perceptiva del conocimiento que uno tiene de lo que Otto siente\. Lo que se ve es a Otto, una persona, y también se ve que a Otto le duele la cabeza\. II\. Introduce aquí otro aspecto importante del trabajo e Dretske que, a efectos de este trabajo, aceptaré\. Que el análisis no permite saber que Otto no es un zombi se deduce directamente del hecho de que no se cumple la condición \(iii\): Otto tendría el mismo aspecto que tiene aunque fuera un zombi\. Lo que ocurre con los zombis es que carecen de mentalidad y, al mismo tiempo, tienen el mismo aspecto de alguien que si tiene pensamientos y sentimientos\. Es a la vez un aspecto distintivo y muy controvertido de la explicación perceptiva de Dretske que hace que nuestro conocimiento aquí sea limitado de esta manera\. Muchos argumentarían que si uno sabe que Otto tiene dolor de cabeza y sabe que su Otto tiene dolor de cabeza entonce sabe que Otto no es un zombi, entonces uno puede emplear un principio epistemológico de cierre para concluir que Otto no es un zombi\. Dretske, sin embargo, rechaza este principio\.19 Me limitaré aquí a seguir a Dretske y aceptar que el modelo perceptivo permite conocer lo que otro siente/piensa, pero no da razones concluyentes para pensar que el solipsismo es falso\. 20\.21Lo importante es que, del hecho de que no pueda ver ni saber que Otto no es un zombi, no se sigue que no pueda ver y, por tanto, saber que Otto no es un zombi\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 114 La duda cavelliana
+
+ Como acabamos de ver, el modelo que utiliza Dretske para desarrollar su explicación perceptiva de nuestro conocimiento de la mente de otra persona se basa en la analogía con la percepción de una barra de metal caliente\. Lo que quiero ahora es considerar si hay algún punto de la desanalogía con una varilla de metal podría plantear algunas dudas sobre la idoneidad del modelo perceptivo de Dretske para aplicarlo a nuestro conocimiento de la mente de otra persona\. Y quiero considerar aquí una posible desanalogía explorando primero brevemente algunos rasgos de lo que es tener mente, ser un individuo que piensa y siente\. Se trata de establecer lo que antes he denominado una condición de adecuación en cualquier nuestro conocimiento perceptivo, que luego amplía para explicar nuestro conocimiento de otra mente\. Lo que me interesa saber es si la explicación que obtiene es adecuada a su objeto de estudio: la mente de otro\. Para formular aquí la condición de adecuación requerida, quiero pasar a considerar el lugar de la duda en relación con la mente de otro\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 114
+
+ La duda en relación con otro puede plantearse de varias maneras\. Quiero centrarme en un tipo concreto de duda que analiza Stanley Cavell en su llibro *The Claim of Reason*\. __Cavell señala cómo nuestras relaciones con los demás están plagadas de dudas e inseguridad__\. A este respecto Cavell considera la duda escéptica radical en relación con los demás, y la compara y contraste con la __duda escéptica__ en relación con el mundo exterior de los cuerpos \(por “escepticismo radical” Cavell se refiere a una duda omnipresente del tipo que se produce al considerar las operaciones de un demonio maligno\)\. Según Cavell, el escepticismo radical sobre las mentes de los demás es una visión menos “lunática” que el escepticismo radical sobre el mundo externo \(Cavell 1979:447\) A modo de explicación, Cavell señala que, en el caso del escepticismo sobre el mundo externo, puedo —como si fuera Humo— salir de mi estudio y, por tanto, “salir del estado de ánimo”; en el caso del escepticismo sobre otras maneras, sin embargo, aunque pueda escapar, esta huida puede no ser necesariamente hacia los demás, sino que sólo puede equivaler a una extensión de mi propio narcisismo \(1979:454\)\. Cavell utiliza esto para mostrar que existe la intuición de que puedo “vivir mi escepticismo” en el caso de los demás, pero no en el caso del mundo exterior\. Sobre esto escribe: ‘La razón es que no hay alternativa humana a la posibilidad de la tragedia’\. A este respecto, menciona Otelo, de Shakespeare, y el modo en que todos estamos, en cierta medida, plagados de “problemas”\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 114
+
+ La observación de Cavell sobre la duda en relación con los demás es acertada, pero yo discreparía de su vinculación con el escepticismo radical\. Una cosa es no estar seguro de si el amigo de uno es verdadero o si Tom me quiere, o incluso de su Sally está temblando porque está enfadada, y otra muy distinta pensar que el amigo de uno o Tom o Sally es un zombi y que uno está solo en el universo\. La observación de Cavell sobre nuestras relaciones con los demás no tiene por qué interpretarse como una demostración de que hay algo menos “lunático” en el escepticismo sobre otras mentes que en el escepticismo sobre el mundo exterior\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 115
+
+ Uno puede sostener que el escepticismo de otras mentes es una postura lunática, y al mismo tiempo reconocer las observaciones de Cavell sobre nuestras relaciones con los demás\. Dejando de lado el escepticismo radical, lo que quiero sugerir es que el lugar adecuado para situar la duda que Cavell \(acertadamente\) identifica es en relación con nuestro conocimiento de que otro piensa y siente\. Aquí podemos hacer uso de la distinción que establece Dretske \(vide supra\) entre el conocimiento de otra persona está, digamos, sufriendo y el conocimiento de que no son zombis o autómatas sin sentimientos\. Aunque Cavell asocia la duda que él identifica con la duda radical del escéptico, creo que deberíamos situar esa duda en un lugar bastante diferente\. Propongo que esta duda está más asociada con el conocimiento de lo que otro piensa y siente, que Dretske ha demostrado que puede mantenerse bastante separado del conocimiento de que los demás no son zombis\. La duda que Cavell ha identificado es más ordinaria de lo que él admite, aunque no por ser tan ordinaria nos resulta menos perturbadora\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 115
+
+ Marie McGinn lo expresa muy bien cuando observa que el contenido real de la asimetría entre el escepticismo sobre el mundo externo y el escepticismo sobre otras mentes es que ya estamos decepcionados con nuestro conocimiento de los demás; la decepción no depende de la construcción de casos extraños por parte del filósofo \(McGinn 1998:48\)\. __Entiendo lo que McGinn quiere decir es que nuestra decepción con los demás no es la decepción de pensar que pueden ser zombis, sino la descepción que proviene de saber que pueden engañarnos y traicionarnos sobre lo que realmente sienten__\. 
+
+ En lo siguiente me referiré a la duda cavelliana y entenderé por tal una duda que se manifiesta en relación con nuestro conocimiento de lo que piensan y sienten los demás\. En otras palabras, tomaré prestada de Cavell la idea de un cierto tipo de duda en relación con los demás, pero entenderé esta idea de una manera diferente como la entiende Cavell\. En lo que sigue, me referiré a la duda cavelliana, y con ella me referiré a un tipo de duda que afecta a nuetro conocimiento de otras mentes\. Es importante destacar que la duda cavelliana no es algo que afecta a nuestro conocimiento de los cuerpos\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 115
+
+ En relación con la duda cavelliana, cabe señalar una observación hecha por Wittgenstein en sus últimos escritos sobre filosofía de ka psicología \(28e\): __Consideremos que no sólo no comprendemos a otra persona cuando oculta sentimientos, sino que con frecuencia tampoco lo hacemos cuando no los oculta, es más, cuando hace todo lo posible por hacerse comprender__”\. La duda cavelliana está relacionada con la idea de que los filósofos y otros consideran desconcertante: la idea de que la vida mental de un individuo es, en algún sentido que debemos comprender, interior, Considero que tanto la posibilidad de la que necesitamos tener en cuenta cuando reconocemos la propia alteridad de otra mente\. __Propongo__, por tanto, que una condición de adecuación de __cualquier explicación de nuestro conocimiento de la vida mental de otra persona es que sea tal que pueda acomodarse a la duda cavelliana__\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 116 3\. __Evaluar el relato perceptivo de Dretske a la luz de la duda cavelliana__
+
+ La observación de la duda cavelliana en relación con la cuestión de lo que otro está pensando y sintiendo es, como he sugerido, algo que debe reflejarse en cualquier explicación que pretenda ser una explicación adecuada de nuestro conocimiento de otras mentes\. Ahora quiero evaluar la explicación perceptiva de Dretske de nuestro conocimiento y preguntar si es adecuada en este sentido\.
+
+Como ya he explicado, Dretske se propone mostrar que nada se opone a que digamos que el mundo en que llegamos a nuestro conocimiento de los demás es, al menos en parte, el mismo\. Podemos llegar al conocimiento de ambos mediante la percepción\. Sin embargo, si bien es cierto que Dretske quiere subrayar aquí una similitud, reconoce cierta diferencia en la materia que pretende acomodar introduciendo algunas modificaciones en el relato de la visión epistémica primaria cuando se aplica a otras mentes\. En lo que sigue examinaré lo que Dretske dice aquí y me preguntaré si las modificaciones que introduce en el relato del conocimiento en el caso de otras mentes son suficientes para dar cabida a la duda cavelliana\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+__P\. __116
+
+Volvamos a la analogía con las barras de metal: la idea es que, del mismo modo que concluyo que la barra de metal está caliente viéndola brillar del modo característico del metal caliente, puedo ver que Tom está enfadado viendo su aspecto, que es característico de \.\.\. Aquí podríamos hacer una pausa y considerar cómo deberíamos completar esta frase\. En el caso de una persona, Tom, parece haber alternativas para completar la frase:
+
+\(a\) \.\.\. Puedo ver que Tom, está enfadado por su aspecto, que es característico de las personas que están enfadadas\.
+
+\(b\) \.\.\. Veo que Tom está enfadado por su aspecto, que es caracterísitico de Tom cuando está enfadado\.
+
+El hecho de que aquí tengamos estas alternativas para completar la frase refleja una diferencia con el caso de la barra de metal\. En el caso de la barra de metal, no necesitamos considerar una distinción como la que se refleja en \(a\) y \(b\)\. Sin embargo, en el caso de las personas y su ira, Dretske considera que esta distinción es importante\- 22 Según Dretske, no se da el caso de que el aspecto de Tom sea característico de las personas en general; sólo es característico de Tom\. Cuando se trata de trozos de metal, no necesitamos individualizar de este modo\. Por tanto, ver que alguien está enfadado y ver que la barra de metal está caliente no son estrictamente análogos\. Dretske lo reconoce y recomienda una ligera modificación del relato perceptivo en su aplicación a las personas debemos aceptar que lo que vemos es característico sólo de los individuos\. La observación de Dretske aquí llama la atención sobre la particularidad implicada cuando o que vemos son personas\. Sin embargo, no hay nada en la observación de Dretske que hable de la duda cavelliana, y no hay nada en la modificación propuesta que pueda dar cabida a esa duda\.
+
+
+## 117
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 117
+
+ Dretske observa otra diferencia entre la percepción de cosas como barras de metal y la percepción de personas\. Esta diferencia surge de su análisis de la pericia en relación con el conocimiento a través de la visión\. Dretske considera a dos personas, A y B, y sugiere que A puede llegar a conocer cosas de modo que B no puede por varias razones\. He aquí algunas: i\) A está atento y B no; ii\) B es daltónico y A no; 23 o iii\) A puede ser más experto que B en el tema en cuestión\. Una vez más consideremos una analogía: si yo soy experto en mariposas, puedo saber al ver que se trata de una almirante rojo, mientras que usted no\. Está claro que no todos tenemos esa experiencia\. Dretske cree que lo mismo ocurre cuando se trata de ver los estados mentales de otras personas\. Para ello se necesita experiencia, y no todos la tenemos\. Si comparamos la pericia necesaria para ver que la barra de metal está caliente, hay razones para pensar que la pericia en el segundo caso está más extendida que el primero\. Si esto es cierto, podríamos concluir que la pericia puede ser limitada o estar muy extendida\. 24 Así pues, admitiré que Dretske no reconoce explícitamente este punto, pero parece deducirse de lo que dice\. Admitiré, por tanto, que la pericia se sitúa en un espectro que va de lo limitado a lo generalizado, y que esto se ajusta a dos cosas: las personas pueden variar en su capacidad de pericia, y la pericia puede ser más fácil o más difícil de conseguir, dependiendo de aquello en lo que uno se proponga experto\.
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 117\-118
+
+ Ahora me gustaría analizar hasta qué punto está extendida la pericia cuando nos planteamos conocer los pensamientos y sentimientos de los demás: ¿es esta pericia limitada o está ampliamente compartida? Veamos si podemos construir las respuesta de Dretske a esta pregunta basándonos en algunas cosas que escribe\. Dretske señala que las personas son familiarmente diferentes con otras personas\. Como dice en un lugar: la mayoría de las personas son “especiales” en cierto grado con respecto otra personas \(Dretske: 1969:182\)\. Según él, este __especialismo__ se debe al hecho de que algunas personas tienen relación más duradera con una determinada persona que otras, lo que les da oportunidad de observar a esa persona en más variadas circunstancias\.
+
+
+## 118
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 118
+
+ Esta variación en la familiaridad con los demás se refleja en la variación que encontraos en la capacidad de las personas para ver los estados mentales de los demás: cuanto más familiarizada está una persona con la otra, cuanto mayor es la oportunidad de observar a esta persona en diferentes circunstancias, más capaz es una persona de llegar a saber viendo lo que esa persona está pensando y sintiendo\. Dretske considera el caso de ver que su mujer se aburre\. Sostiene que puede ver que su mujer \(y no cualquiera\) está aburrida y, además, que puede ver que está aburrida sólo en determinadas circunstancias \(y no en cualquier circunstancia\): Dretske puede ver que su mujer se aburre en la fiesta de Gerry\. Dretske concluye de ello que la pericia funciona de forma diferente en el caso de las personas y en el caso de las barras de metal\. Escribe:
+
+Al contrario que los objetos inanimados, \[los seres humanos\] son capaces, dentro de ciertos límites, de controlar su aspecto: pueden expresar su \[aburrimiento\] de forma diferente en un grupo de amigos que entre extraños\. Un trozo de metal caliente no tiene aspecto diferente por el mero hecho de estar en presencia de una persona distinguida, pero una persona \[aburrida\] puede alterar su aspecto \.\.\. cuando se encuentra en esa compañía\. 25
+
+__AVRAMIDEZ, Anita __\(2019\)\. *Percepción, fiabilidad y otras mentes*\. En *Knowing Otre Minds\. *Anita Avramidez y Mattew Parrot Editors\. UK: Oxford University Press\.
+
+P\. 118
+
+ Dretske identifica aquí lo que en las personas requiere la adquisición de un tipo muy particular de pericia: las personas son “capaces de controlar su aspecto”\. Además, Dretske entiende esta capacidad que tienen las personas de controlar su aspecto de una forma muy particular, como queda claro en lo que dice a continuación: una persona, digamos Sally, puede cambiar su aspecto dependiendo de circunstancias en las que se encuentre de la compañía que tenga\. Este es sel tipo de cosas que puede saber un experto en Sally, alguien que sea un especialista en ella, como su marido o pareja\. En el caso de las personas, determinadas circunstancias y presencia de otras personas determinadas darán lugar a miradas diferentes, y los expertos así lo entienden\. No ocurre lo mismo con los cuerpos inanimados\. Un experto o especialista con respecto a otra persona es alguien que entiende cómo una persona concreta se ve afectada por sus circunstancias\. Una pericia con respecto a otra persona es posible, pero debido a lo que cuesta adquirirla, parece que no es tan fácil de conseguir\. En lugar, Dretske sugiere que sólo los amigos íntimos y las personas con las que tenemos un __conocimiento especialmente íntimo__ y prolongado pueden ver que, por ejemplo, estamos deprimidos\.26
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 119
+
+ Dretske ha identificado aquí una importante desanalogía entre la percepción de la mente ajena y la percepción de los cuerpos\. A diferencia de la anterior observación de Dretske sobre la diferencia, ésta parece ofrecer una buena explicación de lo que da lugar a la duda cavelliana\. A primera vista, puede pensarse que el hecho de que las personas puedan controlar su apariencia da lugar a problemas de confianza y traición, así como a problemas de falso aislamiento y falsa compañía\. Pero, como acabo de explicar, Dretske no sólo cita como un hecho que las personas puedan controlar su apariencia, sino también ofrece una interpretación muy particular de este hecho\. Cabe preguntarse si el hecho de que las personas puedan controlar su aspecto, tal como lo entiende Dretske, puede utilizarse para explicar lo que da lugar a la duda cavelliana\. Permítanme ahora examinar con un poco más de detalle lo que Dretske escribe en el pasaje antes citado\.
+
+ En ese pasaje, Dretske llama nuestra atención sobre el hecho indudable de que las personas son más complejas que los objetos inanimados y que, en consecuencia, es má difícil llegar a conocer los estados mentales de una persona a través de la percepción que llegar a conocer los cuerpos a través de la percepción\. Dretske propone que esta dificultad puede tener en cuenta en la explicación de ver los pensamientos y sentimientos de otra persona si tenemos en cuenta dos cosas\. La primera es el hecho de que la diferencia entre las personas que perciben pueden afectar a su capacidad de ver las cosas\. Esto es así tanto si se trata de la percepción de los cuerpos como de la mente de otra persona: los expertos pueden ver más que los no expertos\. Lo segundo que hay que tener en cuenta es que, cuando el objeto de estudio es otra persona, hay que tener en cuenta una mayor variedad de condiciones de fondo\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 119
+
+ En la cita anterior, Dretske señala que las personas pueden alterar su apariencia dependiendo de las circunstancias y de la compañía en la que se encuentran\. Si recordamos la condición \(iii\) de la explicación de la visión epistémica primaria propuesta por Dretske, las condiciones en las que una persona ve a otra desempeña un papel importante para que su aspecto sea un indicador fiable de su forma de pensar y sentir\. Es porque el modo en que alguien mira se produce en un conjunto decisivo de circunstancias por lo que podemos pasar de la «comprobación» de una afirmación de mirar al «jaque mate» de una afirmación de ver\. Lo que Dretske señala ahora es que, mientras que en el caso de los cuerpos, como las barras de metal, las circunstancias incluyen aspectos como la orientación de la cabeza del observador, las condiciones de iluminación y la posición del objeto observado, en el caso de las personas, las importantísimas circunstancias también incluirán información sobre cómo responderá esta persona al encontrarse en esta situación y con estas personas\. Dretske debe tener en cuenta cómo responderá su mujer no sólo al estar con un grupo grande de personas\. Dretske debe tener en cuenta cómo responderá su mujer no sólo al estar en una fiesta cualquiera, sino en la fiesta de Gerry; no sólo cómo responderá al estar con un grupo grande de personas, sino al estar con estas personas\. 27 Lo que convierte a una persona en experta en, por ejemplo, los pensamientos y sentimientos de Sally es el hecho de que es capaz de tener en cuenta una serie de condiciones más precisas que las que necesitarían pera convertir a alguien en experto en cuerpos\. No todo el mundo está en condiciones de poder tener en cuenta estas condiciones, y esto explica en parte porque sólo los que son « especialistas» con respecto a una persona en particular están en condiciones de saber al ver que esa persona está aburrida\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 120
+
+ Es el hecho de que estas condiciones adicionales deban cumplirse en el caso de ver lo que otro piensa y siente lo que hace que el conocimiento en este caso sea difícil de obtener\. Dretske nos ha dado una explicación perceptiva de nuestro conocimiento de otras mentes que requieren una pericia que no todo el mundo está en condiciones de adquirir con respecto a otro\. Parece responsable concluir que la experiencia respecto a otras personas aerá algo limitada\. De ello se deduce que las circunstancias en las que alguien puede afirmar que ve —y por tanto sabe— que otra persona está afectada, aburrida, etc\., serán igualmente limitadas\.
+
+ Sin embargo, si bien es cierto que la experiencia es difícil de conseguir, también lo es que no es imposible\. Lo que tengo que hacer para adquirirla es hacerme amigo de los demás, o casarme con ellos, o encontrar la manera de conocerlos bien\. Podríamos decir que conocer a otras personas no es totalmente distinto de adquirir conocimientos especializados en botánica o zoología\. Cualquier limitación en la forma en que adquirimos nuestros conocimientos es sólo una limitación práctica\. En principio, pordríamos convertirnos en expertos y llegar a conocer la vida mental de otra persona mediante la percepción\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 121
+
+ Ahora podemos preguntarnos s el hecho de que la pericia con respecto a otras personas sea limitada puede utilizarse para explicar la duda cavelliana\. ¿Puede achacarse la observación de Cavell sobre la confianza y la traición a una falta de percia en el sentido de Dretske? ¿Es que Otelo no era lo bastante especialista en el caso de Desdémona? ¿Es cierto lo que explica su tragedia? Si la falta de pericia es la explicación de la duda cavelliana, la adquisición de pericia debería ayudar a superar la duda\. Podríamos decir entonces que Otelo podría haber sido más experto en lo que respecta a Desdémona y, de ese modo, podría haber evitado la tragedia\. Pero no está nada claro que sea así\. Al fin y al cabo, Otelo estaba casado con Desdémona y, aunque a menudo se dice que el amor es ciego \(y los celos son cegadores\), llevó a cabo la acción de matar a Desdémona porque estaba seguro de sus conclusiones sobre su comportamiento\. La duda cavellina está más arraigada que algo que pueda superrse con un conocimiento especializado; no puede superarse adquiriendo conocimientos especializado más extenso o más íntimo del otro\. De hecho, lo que Cavell quiere decir es que esta duda es endémica a las relaciones humanas y no puede superarse adquiriendo conocimientos especializados ni de ninguna forma\. Como escribe Cavell, «no hay alternativa humana a la posibilidad de la tragedia»\.
+
+ 
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 121
+
+ También cabe preguntarse si el grado de pericia que Dretske identifica como necesario para que veamos lo que otros piensan y sienten se corresponde con la facilidad con la que \(intuitivamente, al menos\) tomamos este conocimiento como disponible cuando lo está\. Los filósofos defienden una explicación perceptiva de nuestro conocimiento suelen decirnos que podemos ver lo que otra persona está pensando y sintiendo: «Me di cuenta de que estaba avergonzada», «¿Cómo no te diste cuenta de que estaba enfadada?», «Su enfado estaba a la vista de todos», y cosas por el estilo\. Cuando los filósofos nos señalan lo que decimos habitualmente, no destacan que sólo decimos que sólo decimos esas cosas de las personas con las que tenemos una relación íntima o sólo cuando las conocemos especialmente bien\. El hecho es que es tan probable que digamos de un completo desconocido con el que acabamos de entablar conversación como de nuestra pareja de muchos años que podemos ver que está avergonzado, molesto, enfadado y cosas por el estilo\. 29 Pero si esto es correcto, según la explicación perceptiva de Dretske estamos muy equivocados cuando hablamos así\.
+
+ Que la teoría de Dretske arroje este resultado es especialmente extraño, dado que el propio Dretske afirma que el lenguaje ordinario es algo que los filósofos deberían respetar\.30
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 121
+
+ Ahora quiero sugerir una razón por la que Dretske identifica como una diferencia entre conocimiento de los cuerpos y el conocimiento de otras mentes puede considerarse insuficiente para explicar la duda cavelliana en relación con otras mentes\. El hecho de que las personas tengan aspecto diferente en determinadas circunstancias y en compañías de determinadas personas pretende captar la diferencia entre las personas y los objetos inanimados; pretende explicar lo que Dretske quiere decir cuando escribe que as personas «son, dentro de ciertos límites, capaces de controlar su aspecto»\. Dretske nos da aquí una imagen de personas individuales que responden de formas diferentes en entornos diferentes, una diferencia de respuesta que debe entender alguien que quiera saber por percepción que otra persona está avergonzada, enfadada o algo parecido\. Del mismo modo que con el tiempo se aprende que, si la cabeza no está orientada en la dirección correcta o si hay un objeto entre el perceptor y lo percibido, la percepción no se produce, con el tiempo se aprende que Sally se aburre en las fiestas de Gerry\. En efecto, lo que se aprende en ciertas situaciones y ciertas situaciones y ciertas persona provocarán —si se puede decir que «desencadenarán»— ciertas respuestas en una persona concreta\. Dretske no utiliza el término «desencadenante», pero se puede pensar que acepta el espíritu de lo que propone aquí\. Lo que Dretske escribe es que las personas pueden «expresar su \[aburrimiento\] de forma diferente en un grupo de amigos que entre ellos»\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 122
+
+ Sin embargo, es posible entender de otro modo lo que quiere decir cuando se afirma que las personas son capaces de controlar su aspecto\. Esta forma diferente de entender está relacionada con otra forma de entender lo que queremos decir cuando afirmamos que las personas expresan sus pensamientos y sentimientos de forma diferente en distintos entornos sociales\. Esta otra forma de entender conecta la expresión con la autoexpresión y el control que uno tiene sobre su aspecto con la acción voluntaria\. Cuando se dice que una persona es capaz de controlar su aspecto, se piensa que puede expresar voluntariamente su estado mental a otra persona o no\. El asunto «depende de ella» \(de alguna manera que dejare intencionalmente vaga, aunque confío en que la idea se entienda suficientemente bien\)\. La idea de control voluntario y autoexpresión son las dos caras de una moneda: una persona se expresa en lo que hace voluntariamente\. Cuando Tom percibe la expresión de Sally, puede llegar a saber lo que ésta siente\. Sin embargo, la expresión del estado mental de Sally que Tom percibe no está provocada simplemente por su entorno, sino que, al menos en parte, se debe a Sally\. Esto es lo que aprendemos al percibir el comportamiento de otras personas\. Esto requiere cierta pericia, sin duda, pero no es una pericia especializada que deba entenderse en el sentido de pericia especializada asociada al reconocimiento de las mariposas Almirante Rojo\. 
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 122
+
+ Este tipo de pericia que la mayoría de nosotros llegamos a tener como parte del desarrollo normal; no es algo que aprendamos, si nos interesa, más tarde en la vida\. Por supuesto, a algunos se nos da mejor comprender a las personas que a otros, pero la habilidad viene dada por el desarrollo ordinario de cada uno\. Al igual que con nuestro desarrollo moral, todos somos igualmente capaces de alcanzar esta pericia \(si quieres llamarla así\): no es una habilidad limitada\. Del mismo modo que entiendo la forma en que controlamos y expresamos nuestra vida mental de forma diferente a Dretske, entiendo nuestra pericia en este sentido de forma diferente\. Hay una historia que contar sobre cómo desarrollamos la pericia que tenemos respecto a conocer a los demás, pero esta historia no se basa únicamente en observar las condiciones de nuestro entorno y convertirnos en expertos sobre la respuesta que estas condiciones desencadenarán en un individuo\. Más bien, la historia que contemos incluirá un reconocimiento de la forma en que respondemos naturalmente a los demás, así como lo que esa respuesta suscita en cada uno de nosotros\. Esa respuesta natural y lo que suscita en nosotros forma parte de nuestra educación como personas adultas y de nuestra comprensión de las demás personas\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 122
+
+ Este desarrollo puede dar lugar a que seamos capaces de ver que los demás piensan y sienten de determinadas maneras, pero parte de lo que aprendemos es cuando podemos confiar en lo que vemos y cuando no\. También nos lleva a comprender que la posibilidad de desconfianza y traición en nuestras relaciones con los demás no puede erradicarse\. Si podemos confiar en lo que vemos cuando se trata de otras personas es algo que siempre hay que evaluar teniendo en cuenta todo lo que sabemos sobre esa persona y esas circunstancias\. Pero este proceso de aprender a discriminar, evaluar y confiar no es lo mismo que aprender que ciertas miradas, en ciertas personas, sirven como indicadores fiables de sus estados mentales\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 123
+
+ La idea de un indicador fiable es el núcleo del relato perceptivo de Dretske sobre nuestro conocimiento tanto de los cuerpos como de otras mentes, La forma en que Dretske entiende las nociones de control y expresión encaja con su idea de lo que se necesita para ser un indicador fiable, mientras mi interpretación alternativa de estas nociones no se ajusta a esta idea\. Debe quedar claro que lo que estoy rechazando es sólo la idea de un relato perceptivo de nuetro conocimiento de la mente de otro, tal como se desarrolla en la obra de Dretske\. Puede haber —de hecho, las hay— otras maneras de formular un relato perceptivo\.32 Nada de lo que digo aquí debe interpretarse como una oposición a todos los relatos perceptivos de nuestro conocimiento de otra mente\. Pero necesitamos una explicación que haga justicia al grado en que podemos conocer a otros y al grado en que no podemos, El modelo de Dretske, basado en la idea de indicación fiable, puede permitir que no siempre veamos lo que piensan y sienten los demás, per la imagen que ofrece a los casos en los que sí podemos hace que los demás lo sean, al menos en principio y al menos parte del tiempo, totalmente dignos de confianza y fiables\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 123
+
+ En resumen\. Estoy de acuerdo con Dretske e que nuestras relaciones con otros individuos de mente no son estrictamente análogas a nuestras relaciones con los cuerpos inanimados \(o «meros»\) del mundo; sin embargo, no estoy de acuerdo con el diagnóstico que hace Dretske de la diferencia en este caso\. Mientras que Dretske considera que la diferencia es una cuestión del grado de complejidad de las condiciones en las que las personas parecen ser de una determinada manera, yo creo que la diferencia en más profunda que esto\. Es más, creo que esta profunda diferencia debe reflejarse en el relato que hacemos de nuestro conocimiento de este caso puede ser perceptivo, pero la explicación tendrá que desarrollarse de forma diferente a como lo hace Dretske en su explicación\. Aunque no hay tiempo para discutir aquí posibles explicaciones perceptivas alternativas, quiero terminar diciendo algo más sobre mis razones para pensar que la idea de Dretske de que__ el comportamiento de uno es indicador fiable de su vida mental es errónea__\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 124
+
+ Para expresar mis argumentos, quiero considerar dos tipos de fingimiento\. El primero es lo que llamaré __fingimiento\-actuación__\. A S le parece que Tom está sufriendo pero sólo está actuando\. La pretensión fingida es como las manzanas que se pintan para que parezcan naranjas o los falsos fajos de leña\. La pretensión fingida no es un problema para la teoría de Dretske porque puede ser posible identificar correctamente el conjunto de circunstancias de modo que podamos decir que tenemos razones para pensar que la mirada de Tom no es indicador fiable de sus sentimientos \(digamos que estamos en un teatro\)\. 
+
+ Pero la pretensión de actuar puede distinguirse de otra forma de pretensión que podría decirse que es precursora de la pretensión de actuar\. Es plausible afirmar que la pretensión de actuar sólo se produce una vez se ha comprendido y dominado lo que denominaré pretensión básica\.
+
+ La pretensión básica es una idea que desempeña un papel importante en una historia de lo justo que H\.P\. Grice desarrolló es su día para explicar la conexión entre el significado natural y no natural\.33 Lo que esta historia de lo justo revela es una forma de pensar sobre la pretensión \(lo que yo llamo «pretensión básica»\) que creo que no es compatible con la explicación de Dretske sobre cómo llegamos a conocer estados mentales de los demás\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 124
+
+ El ejemplo que Grice utiliza para contar su historia es el de pasar de una expresión que naturalmente significa \(o indica\) dolor a otra que no significa naturalmente \(que alguien sufre\) dolor\. Los casos de significado natural para Grice incluyen: nubes negras, manchas en la cara, síntomas de enfermedad y ciertas formas de comportamiento como gemidos y chillidos\. Grice utiliza el enunciado de la frase «Me duele» como ejemplo de expresión no natural del dolor, pero también podemos considerar la mirada del dolor en lugar de un enunciado\.
+
+ Grice identifica cinco etapas en el camino del significado natural al no natural\. Las etapas segunda a quinta se refieren al reconocimiento de la expresión por parte del otro, y las dejaré a un lado\. La primera etapa es la que concierne a la criatura o al individuo que expresa\. Grice describe así lo que ocurre en esta primera etapa: la criatura/individuo llega a producir un cierto tipo de comportamiento que es tal que su producción no voluntaria sería una prueba de que esa criatura siente dolor\. Ese comportamiento es lo que llamaríamos «fingir» o «engañar»\. Grice dice de este comportamiento que lo producimos voluntariamente precisamente porque su producción no voluntaria se tomaría como prueba de que la criatura/individuo se encuentra en un determinado estado, con el efecto de que otras criaturas reaccionarían ante la criatura/individuo en cuestión como lo harían si ese comportamiento se produjera involuntariamente\.34
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 124
+
+ Al reflexionar sobre la progresión de un individuo hacia la producción de expresiones con significado no natural, Grice se plantea la siguiente e interesante cuestión: si lo que X quiere es que Y llegue a creer que X siente dolor, ¿por qué no soltar simplemente un bramido natural? ¿Por qué pasar por el complicado proceso de producir una expresión no natural del dolor? Grice ofrece dos posibles razones a modo de explicación\.
+
+ En primer lugar, puede considerarse poco masculino —o «creatural»— que X produzca de forma natural una expresión natural de dolor\. En segundo lugar, puede que alguien sólo desee comunicar ciertos aspectos de lo que siente\. Como una expresión de dolor no natural está «más vagamente conectada» con el dolor que una natural, su producción no indica todas las características del dolor\. 35 Ahora bien, uno podría evitar tanto la falta de criatura de un gemido como el control de la comunicación del alcance del propio dolor si su expresión no fuera natural sino producida voluntariamente\. En otras palabras, uno puede evitar estas cosas si puede controlar la expresión de sus sentimientos y emociones\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 125
+
+ Cabe añadir aquí que el control de la expresión de los propios sentimientos y emociones es una parte bastante importante del comportamiento de la persona madura\. Puede que un niño pequeño deje escapar sus emociones, pero parte de crecimiento consiste en aprender que no es necesario —de hecho, no debería— hacerlo\. Y es una vez que el niño madura y adquiere el control de sus emociones cuando la duda cavelliana se convierte en un problema\. La tragedia de Otelo no ocurriría entre niños muy pequeños\. Pero son las emociones y los sentimientos de los niños pequeños los que encajan en el modelo de Dretske, no los de los adultos maduros\. El aspecto de un niño pequeño puede ser un indicador fiable de sus sentimientos, y más vale que así sea para que pueda aprender su lenguaje y desenvolverse en el mundo de los demás\. Y es necesario que, cuando los adultos estén cerca de un bebé en proceso de aprendizaje, mantengan al mínimo todo tipo de fingimiento\.\. Per llega un momento en el que el niño necesita saber la verdad sobre los demás, y esto implica aprender que el aspecto de otra persona puede no ser una indicación fiable de lo que piensa y siente\. El control voluntario que los individuos tienen sobre la expresión de su vida mental es algo que a Dretske deja de lado cuando sugiere que el aspecto que b tiene sobre S en determinadas circunstancias puede servir como indicador fiable de sus pensamientos y sentimientos\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+P\. 125
+
+ Dretske señala correctamente que no vemos el sentimiento de otra persona, sino que la vemos a ella\.36 Lo que no se aprecia es el hecho es el hecho de que ella es un agente voluntario que puede controlar la expresión de sus emociones\. Supongo que eso es lo que quiere decir Bruce Aune cuando escribe: «La cuestión de cómo justificar la existencia de la \[presunta regularidad \.\.\.entre la mirada y el sentimiento correspondiente\] es precisamente de lo que trata el problema filosófico de las otras mentes» \(Aune 1971:388\) Mientras que Dretske sostiene con optimi<a id="anchor"></a>smo que uno puede ser lo suficientemente especialista en los demás como para ser capaz, en determinadas circunstancias, de tomar su mirada como indicadores fiables de sus sentimientos y emociones, yo estoy con Cavell y otros en señalar con pesimismo que el especialismo con respecto a los demás es un testamento\. La razón de mi pesimismo tiene que ver con la naturaleza de la persona cuyos estados mentales uno intenta percibir\. Las personas son individuos que controlan voluntariamente la expresión de sus emociones\. Concluyo con pesimismo que esta característica de las personas obstaculiza al menos la percepción directa de sus sentimientos y emociones; el comportamiento de una persona no puede considerarse un indicador fiable de sus pensamientos y sentimientos\. El modelo de Dretske para conocer los estados mentales de los demás es demasiado simplista y no reconoce una asimetría crucial entre el aspecto de los objetos y de las personas\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+NOTAS
+
+1\. Desde finales del siglo XX también se apela a la teoría \(teoría\-teoría de la mente\) y a ponerse en el lugar del otro \(teoría de la simulación\)\.
+
+2\. Digo "más recientemente", pero hay que señalar que la sugerencia se encuentra ya en 1919, en un artículo de Nathalie Duddington\. Duddington defiende la idea de que nuestro conocimiento de otras mentes es "tan directo e inmediato como nuestro conocimiento de las cosas físicas" \(1919: p\. 147\)\.
+
+3\. Una figura influyente aquí es Max Scheler; véase Scheler \(1954\)\.
+
+4\. Otra forma de defender la idea puede encontrarse en la obra de John McDowell\. Véase especialmente McDowell \(1982\)\. Tanto la obra de Dretske como la de McDowell informan la defensa de esta idea en la obra de Quassim Cassam \(2007: Cap\. 5\)\.
+
+5 \.Thomas Reid es citado con aprobación por Alvin Plantinga al insistir en que las mentes son "invisibles, intangibles, inodoras e inaudibles"\. Véase Plantinga \(1966\)\. Como quedará claro, la explicación perceptiva de Dretske no se compromete a ver mentes\.
+
+6\. En un lugar Dretske sugiere que otra forma en que podríamos obtener conocimiento aquí es a través del testimonio\. Véase Gomes \(2015\) para una defensa de la idea de que llegamos a conocer la mente de otro a través del testimonio\.
+
+7\. Los ejemplos proceden de Dretske \(1973: 36\)\.
+
+8\. Para una defensa detallada del argumento de la analogía, véase Hyslop \(1995\) y Hyslop y Jackson \(1972\); y para la defensa del argumento de la mejor explicación, véase Pargetter \(1984\)\.
+
+9\. Lo que deja abierta la posibilidad de que la inferencia esté implicada en la percepción misma\. Hasta donde yo sé, Dretske no ofrece ningún argumento contra otras formas de llegar a lo que sabemos; simplemente defiende una alternativa que permite que sepamos que Tom tiene, digamos, dolor de la misma forma que sabemos que Tom es gordo o calvo: viendo que lo es\.
+
+10 \.Cf\. Dretske \(1969: 17\)\.
+
+11\. Lo que Dretske quiere distinguir es entre ver a una persona que está, digamos, enfadada y ver una mente que está enfadada\. Dretske escribe "Es evidente que nadie pretende ver que la mente de otra persona está avergonzada, enfadada o pensando; los ejemplos \[dados\] son ejemplos de ver que él o ella está avergonzado, distraído o enfadado" \(1969: 183\)\. La condición \(ii\) habla de la simple visión de una persona\.
+
+12\. No hay que subestimar la importancia de la condición \(iv\)\. Si S no cree que las condiciones son las descritas en la condición \(iii\), entonces aunque se cumpla la condición \(iii\) \-junto con las condiciones \(i\) y \(ii\)\- no podemos decir que S pueda ver que P\. Además, también debe darse el caso de que la creencia de S de que b es P sea el resultado de la creencia de S de que las condiciones están descritas en la condición \(iii\)\.
+
+13\. La relación aquí expresa una regularidad empírica, no una vinculación lógica\.
+
+14\. Esta definición plantea algunas dificultades al relato de Dretske en relación con otras personas\. Véase la nota 27, más abajo\.
+
+15\. Dretske \(1969: 87\)\.
+
+16\. Véase Dretske \(1969: 123\-4\)\.
+
+17\. Nótese que esta explicación está diseñada para permitir que los bebés y los animales no humanos puedan contar como poseedores de conocimiento\.
+
+18\. Véase Dretske \(1969: 120\-1\)\. Lo que se requiere por parte de quien afirma conocer por estos medios es una confianza razonable en que se cumplen las condiciones, y ninguna razón para pensar que alguna de las condiciones no se cumple\. En caso de duda acerca de una de las condiciones, sólo se puede hacer una afirmación sobre el aspecto de las cosas\. Según Drestke, hay una diferencia entre describir el aspecto de las cosas y describir lo que uno ve, pero la diferencia radica en las creencias que uno aporta a la situación y no en el aspecto de las cosas\.
+
+19\. Para un debate sobre la cuestión del cierre, véanse Dretske \(2005\) y Hawthorne \(2005\)\.
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+20\. Con respecto al mundo externo, Dretske escribe: "Puedo ver que hay galletas en el tarro, pero no puedo ver que exista un mundo externo"\. Traducido al caso del escepticismo de otras mentes, tenemos: "Puedo ver que a Otto le duele la cabeza, pero no puedo ver que el solipsismo es falso"\. El punto de Dretske es que mientras hay una manera de saber que hay galletas en el tarro y que Otto tiene dolor \(puedo ver que estas cosas son así\), no hay manera de saber que hay un mundo externo o que el solipsismo es falso\.
+
+21\. En cuanto a hasta dónde puede llegar nuestro conocimiento, el modelo de Dretske está en desacuerdo, por ejemplo, con el de McDowell \(véase McDowell 1982\)\. Según Dretske, que los demás no sean zombis es una cuestión de "protoconocimiento"\. Para más información sobre la noción de protoconocimiento de Dretske, véase Dretske \(1969: Cap\. 3, Sec\. ii\) y Avramides \(2015\)\.
+
+22\. La propuesta de Dretske parece contradecir la de Paul Ekman y otros, según la cual las emociones son rasgos evolutivos universales de la especie humana\.
+
+23\. Es interesante señalar que una variante relevante del daltonismo en el caso de otras mentes podría ser el autismo\. Alguien que sufre de autismo puede no estar en condiciones de saber al ver que otra persona se encuentra en un determinado estado mental\. Para más información sobre el autismo con respecto a otras mentes, véase Avramides \(2013\)\. Para más información sobre la relatividad perceptiva, véase Dretske \(1969: Cap\. 5\)\.
+
+24\. Utilizo los ejemplos de pericia en relación con los almirantes rojos y las barras de metal caliente para identificar dos extremos de un espectro\. Por supuesto, se puede discrepar sobre cuánta pericia se requiere en un caso concreto de conocimiento, pero lo que quiero decir es que se puede identificar un espectro \(si se desea, se pueden modificar los ejemplos\)\.
+
+25\. Dretske \(1969: 186–7\)\.
+
+26\. See Dretske \(1964: 41\)\. 
+
+27\. En una nota a pie de página, Dretske señala que el entorno social no es una condición previa tal y como él la define\. Esto se debe a que el entorno social influye en el aspecto de b alterando un estado, una condición o el carácter de b\. Tal y como Dretske define una condición de fondo, debe ser causalmente independiente del carácter o la condición de b\. Por lo que veo, Dretske reconoce aquí una dificultad para su definición de condición de fondo\. Sigue queriendo que el entorno social actúe del mismo modo que las condiciones de fondo para garantizar que el aspecto de una persona sea un indicador fiable de lo que piensa y siente\.
+
+28\. Permitir, es decir, tener en cuenta las diferencias en la parte del perceptor\.
+
+29\. Tales observaciones favorecen los universales propuestos por Ekman\. Véase la nota 22\.
+
+30\. Véase, por ejemplo, Dretske \(1973: 34\)\. En una entrevista en línea, Dretske llega a referirse a sí mismo como un seguidor de Austin y Wittgenstein en lo que respecta a ser un filósofo del lenguaje ordinario\. Sin duda, Dretske respondería diciendo que su intención es defender el lenguaje ordinario sólo hasta cierto punto\.
+
+31\. Dretske podría replicar que hay otras formas de llegar a conocer los pensamientos y sentimientos de los demás y que él sólo quería señalar que es posible, en \(aunque raras\) ocasiones, llegar a conocerlos a través de la percepción\. Pero esto no concuerda con su pretendida intención de seguir el lenguaje ordinario; tampoco concuerda con su afirmación de que conocemos las mentes de los demás del mismo modo que conocemos el color del pelo de alguien\.
+
+32\. Una alternativa obvia se encuentra en la obra de John McDowell\. Véase McDowell \(1982\)\. Véase también el artículo de Will McNeill en este volumen \(capítulo 9\)\. Tal vez tengamos que pensar en otra forma de preservar las virtudes de un relato perceptivo evitando al mismo tiempo la imagen de Dretske de cómo deberíamos entenderlo\.
+
+33\. See Grice \(1989: section II\)\. 34 See Grice \(1989: 292–3\)\. 
+
+34\. See Grice \(1989:292\-3\)
+
+35\. Grice \(1989: 295\)\. 36 Cf\. footnote 11, above\. 
+
+__AVRAMIDEZ, Anita \(2019*\)\. *__*Percepción, fiabilidad y otras men*tes En *Knowing Otre Minds\.* Avramidez y Mattew Parrot Editors\. United Kingdom; Oxford University Press\.
+
+Este archive está hecho con fines didácticos\. Es la traducción del artículo de Anita Avramidez y fue publicado según se indica en la fuente de cada ficha\. 
+
+Es necesario someter las ideas de Dretske a observación, en lo que respecta a la manera en que aborda las maneras en las que los hablantes fingen, simulan gesticulaciones que enmarañan la verdad de lo que intencionalmente dicen\. Esta falta de sinceridad es el punto central de su exposición\. Habría que recordar lo expuesto por Austin en ¿*Cómo hacer cosas con las palabras*; allí se deja de lado la categoría *verdad* lógica por la expresión *condición de felicidad* para separar esa categoría que entorpece el análisis pragmático\.
+
