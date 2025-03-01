@@ -1,4 +1,4 @@
-# Lyons 1997 Semántica lingüística
+# Lyons 1997 Semántica lingüística
 
 
 ## 27\-28
