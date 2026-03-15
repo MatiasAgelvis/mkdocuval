@@ -67,7 +67,7 @@ def get_regex_pattern(string):
     # to avoid regex matching issues with the more complex patterns.
     # TODO: Consider updating the name extraction regex to better handle these cases,
     # or create a specific pattern for this citation style.
-    if 'WARNOCK'.lower() in name.lower():
+    if any(keyword in name.lower() for keyword in ['warnock', 'cuenca']):
         return pattern_C
 
     if re.search(pattern_A, string):
