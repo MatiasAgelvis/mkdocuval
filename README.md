@@ -59,7 +59,7 @@ To build and run the website using Docker, follow these commands:
 docker build -t mkdocuval:latest .
 
 # Run the container with local file sync
-docker run --name mkdocs-container -v $(pwd):/app -p 8000:8000 mkdocuval:latest
+docker run -d --name mkdocs-container -v "$(pwd)":/app -p 8000:8000 mkdocuval:latest
 
 # Stop the container
 docker stop mkdocs-container
