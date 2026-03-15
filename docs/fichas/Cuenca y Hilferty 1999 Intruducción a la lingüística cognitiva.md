@@ -2,6 +2,8 @@
 
  __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 14
 P\. 14
 
 Gibbs sugiere … que la lingüística cognitiva merece especialmente el adjetivo cognitiva porque incorpora un gran abanico de datos de otras disciplinas cognitiva y sobre todo porque “busca activamente las correspondencias entre el pensamiento conceptual, la experiencia corpórea y la estructura lingüística”, al tiempo que “intenta descubrir los contenidos reales de la cognición humana” \(1996:49\) y no solo la arquitectura del lenguaje y del conocimiento humano\.
@@ -10,22 +12,30 @@ Gibbs sugiere … que la lingüística cognitiva merece especialmente el adjetiv
 
 __*Cuenca, M\.J\. y J\. Hilferty \(1999\)\. *__*Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.*
 
+
+## 14
 *P\. 14*
 
 Adriens \(1993;142: *“Proces linguistics: , en R\.A\. Geiger & B\. Rudzka\-Ostym \(eds\.\), 141\-170\)* define así el concepto de ciencia cognitiva: es un paradigma de científico que intenta conjugar una serie de campos existentes \(la inteligencia artificial, la psicología, la ciencia neurológica, la filosofía, la lingüística y la antropología\) en un esfuerzo conjunto para estudiar el dominio complejo de la cognición/inteligencia en su sentido más amplio \(incluyendo, por ejemplo, problemas de representación del conocimiento, procesamiento, aprendizaje, razonamiento y resolución de problemas\)
 
+
+## 15
 P\. 15 
 
 En líneas generales, la lingüística cognitiva adopta un punto de vista filosófico que Lakoff y Johnson han denominado __experiencialismo__ o realismo experiencial, en contraposición al __objetivismo__\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 15
 P\. 15
 
  El pensamiento es abstracto e independiente de las limitaciones del cuerpo humano, de su sistema perceptual y nervioso\. Por el contrario, para el __experiencialista__ el pensamiento ―es decir, las estructuras que constituyen nuestros sistemas conceptuales― surge de a experiencia corpórea y tienen sentido según dicha experiencia\. En lo que en inglés se denomina *embordimente* y que podríamos traducir como carácter corpóreo del lenguaje\. El núcleo de nuestros sistemas conceptuales se basa directamente en la percepción, el movimiento corporal y en la experiencia física y social\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 16
 P\. 16
 
 Para los __objetivistas__ el pensamiento es “lógico”, en el sentido filosófico término: puede ser formalizado de manera precisa por sistemas como los de la matemática\. Sin embargo, para los __experimentalistas__, el pensamiento es imaginativo, lo cual explica la capacidad para el pensamiento abstracto, que nos lleva más allá de lo que podemos percibir\. La estructura conceptual sólo puede describirse usando “modelos cognitivos”, no a partir de valores de verdad como los utilizados por la lógica proposicional\.
@@ -54,6 +64,8 @@ Experiencialista
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 17
 P\. 17
 
 Trasladando esta versión general de la cognición al lenguaje, el problema básico se plantea en los términos siguientes: ¿ es el lenguaje una capacidad diferenciada y autónoma respecto a la cognición humana o, por el contrario, interactúa con los demás sistemas cognitivos y no se puede entender ni se debe estudiar aislando de ellos?
@@ -62,12 +74,16 @@ Trasladando esta versión general de la cognición al lenguaje, el problema bás
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 17
 P\. 17
 
 El experiencialismo subraya la importancia del cuerpo humano en la comprensión de los conceptos, de os más palpables a los más intangibles\. Es lo que se conoce como __naturaleza corpórea o corporeización__ del lenguaje\. Al involucrar el cuerpo como foco central de la experiencia se puede explicar con mayor facilidad el fenómeno de la intercomprensión entre las personas\. El lenguaje se sirve de las otras estructuras compartidas, convencionalizándolas entre los hablante de una comunidad de hable\. Por supuesto, existen diferencias conceptuales convencionalizadas entre individuos, pero eso no quiere decir que las estructuras__ __conceptuales convencionalizadas sean inconmensurables\.__ __Por el contrario, somos capaces de dar sentido a la intención comunicativa de los demás precisamente porque las estructuras que poseemos son conmensurables y compatibles con las de nuestros interlocutores \(cfr, Clark 1996\)\. De este modo, el lenguaje se contempla como un vehículo de comunicación que como una Torre de Babel de idiolectos\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 18
 P\. 18
 
  De la perspectiva experiencialista … se derivan varias implicaciones teóricas de importancia crucial\. En primer lugar, el lenguaje no constituye según asumen de manera má o menos explícita modelos como el generativismo, una capacidad cognitiva separada de las demás, sino que se relaciona directamente con otros procesos cognitivos que comparte estructura y habilidades como las siguientes:
@@ -82,6 +98,8 @@ P\. 18
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 18
 P\. 18\-19
 
 Postulados básicos de la lingüística cognitivas \(I\)
@@ -94,6 +112,8 @@ __b__\. __La categorización__, como proceso mental de organización del pensami
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 18
 P\. 18 Postulados básicos de la lingüística cognitiva \(II\)
 
 __c__\. El lenguaje tiene un carácter inherentemente simbólico\. Por lo tanto, su función primera es significar\. De ello se deduce que no es correcto separar el componente gramatical del semántico: la gramática no constituye un nivel formal y autónomo de representación, sino que también es simbólica y significativa\.
@@ -104,6 +124,8 @@ __e__\. Se impone una caracterización dinámica del lenguaje que difumina las f
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 23
 P\. 23 
 
 a\. La teoría de prototipos … se fundamenta en una concepción no tradicional de categorización basada en la aceptación de categorías difusas, definidas por haces de rasgos y relaciones de semejanza de familia \(y no por condiciones necesarias y suficientes\), y constituidas por miembros prototípicos y miembros periféricos\.
@@ -112,6 +134,8 @@ b\. Con el nombre de semántica cognitiva nos referimos a diferentes propuestas 
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 24
 P\. 24
 
 c\. La teoría de la metáfora \(Lakoff y Johnson y Turner\) parte de la hipótesis de que la metáfora no es sólo una figura literaria, sino que es un mecanismo cognitivo que utiliza para procesar la información abstracta a partir de conceptos más concretos, simples y familiares\. La metáfora —y también la metonimia— impregna el uso cotidiano del lenguaje\. Bajo este prima, el estudio de la metáfora y de la metonimia de la mano de Lakoff y sus colaboradores, se ha extendido al análisis del discurso y, en especial, a temas con implicaciones sociológicas y políticas\.
@@ -120,22 +144,30 @@ c\. La teoría de la metáfora \(Lakoff y Johnson y Turner\) parte de la hipóte
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 24
 P\. 24
 
 d\. La gramática cognitiva de Langacker, considera que la gramática es un conjunto organizado de unidades simbólicas —el resultado de la asociación de un polo semántico y un polo fonológico—\. Lo importante de su propuesta es que no identifica en concepto de unidad simbólica unicamente con la palabra o signo lingüístico sino que extiende a todos los niveles del lenguaje, incluso a la sintaxis\. En consecuencia, la forma nunca se extiende como totalmente independiente del significado y de la función, de manera que cualquier cambio funcional se vincula a modificaciones en la conceptualización y se relaciona con el diferente tipo de implicación del hablante en la estructuración gramatical del contenido que comunica …\. Además, el léxico, la morfología y la sintaxis se conciben como un continuum de aspecto interrelacionados y no como componentes separados\.
 
+
+## 25
 P\. 25
 
 e\. La gramática de construcciones, emparentada con la gramática cognitiva, ha sido definida principalmente por Fillmore y Kay\. Se constituye alrededor del concepto de *construcción* … como unidad básica de la gramática y punto de partida de un marco teórico especialmente adecuado para explicar estructuras idiosincrásicas, idiomáticas\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 25
 P\. 25
 
 f\. La teoría de la gramaticalización se ocupa del cambio lingüístico\. Aunque vinculada al funcionalismo anglosajón y a estudios relacionados con la tipología lingüística, su base común con la lingüística cognitiva es más que evidente: sus representantes conciben las lenguas como entidades dinámicas, en proceso de cambio continuo activado por el uso\. Entre las diferentes propuestas que confluyen en dicha teoría, mencionaremos la que se centre en la iteración entre la gramática, el significado y la función \(hipótesis de ka gramática emergente de Hopper & Thompson 1985 y Happer 1987\), lo que aplica el concepto de metáfora al cambio lingüístico \(Sweetser 1990, Heine et al\. 1991, etc\.\) y la que asocia el cambio semántico con la implicación del sujeto hablante en el contenido que transmite \(hipótesis de la subjetivación de Trangott 1989, 1990, 1995, etc\.\)\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 26
 P\. 26
 
  Lakoff nos ofrece este ejemplo de *Lo que las categorías revelan sobre la mente*, subtítulo del libro *Women, Fire and Dangerous Things*, basándose en el trabajo de Dixon \(1982\)\. En dyirbal, los sustantivos van precedidos por una de las siguientes palabras, que indican la clasificación de la entidad: *bayi, balan, balam y bala*\.
@@ -150,6 +182,8 @@ P\. 26
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 26
 P\. 26\-27
 
  A partir de esta clasificación, Dixon propuso una serie de principios que parecían funcionar en dicha lengua australiana:
@@ -160,6 +194,8 @@ b\. *El principio de mitos y creencias*\. “Si un usuario tienen la caracterís
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 27
 P\. 27\-28
 
 c\. *El principio de propiedad importante*: Si un subgrupo de nombres tiene una propiedad particular importante que el resto del grupo no tiene, los miembros del subgrupo se asignarán a una clase diferente a la de los demás con el fin de *marcar* esta propiedad; la propiedad importante más usual es la *peligrosidad \(apud\. Lakoff 1987a:94\)\.*
@@ -186,12 +222,16 @@ f\. *Lo demás*
 
 __*Cuenca, M\.J\. y J\. Hilferty \(1999\)\. *__*Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.*
 
+
+## 27
 *P\. 27*
 
 *c\. *El principio de propiedad importante: “Si un subgrupo de nombres tiene propiedad particular importante que el resto del grupo no tiene, los miembros del subgrupo se asignarán a una clase diferente a la de las demás con el fin de * marcar esta propiedad*, la propiedad importante más usual es la *peligrosidad”… *Este tercer principio explica, entre otras cosas, que algunos peces que son peligrosos se clasifiquen en la clase presidida por las mujeres, y no en la de los hombre o animales\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 29
 P\. 29
 
 El congnitivismo en el panorama lingüístico actual
@@ -206,20 +246,28 @@ En segundo lugar, es “no formal” —lo que no implica que no sea “formaliz
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 29
 P\. 29
 
  La lingüística cognitiva defiende que muchas características de la forma lingüística __ni son arbitrarias ni tampoco son siempre predecibles__ a partir del significado, __sino que están motivadas__\. En palabras de Lakoff \(1987a:463\) “muchos aspectos de la estructura sintáctica son motivados por la estructura de modelos cognitivos o son consecuencia de ellos\.
 
+
+## 30
 P\. 30 Por último, la lingüística cognitiva está basada en el __uso__ porque su fuente fundamental de datos son producciones reales y no la intuición lingüística\. Le interesa estudiar la lengua real, las lenguas reales, y no la idealización que intente dar cuenta de la capacidad del lenguaje\. Por ello, no deja fuera de su objeto de estudio las construcciones idiomáticas y todos aquellos fenómenos que parecen no seguir los principios “generales” de la gramática, es decir, lo que en términos generativos se conoce como gramática periférica y aspectos de la actuación\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 30
 P\. 30
 
  En síntesis, el foco de interés del cognitivismo son la función, el significado y el __uso__, lo cual no quiere decir que se desentienda de la forma, ya que este es el vehículo por el que se manifiestan y concretan los aspectos del significado\. Con ello, las diferentes propuestas cognitivas se alinean en el denominado funcionalismo y con la lingüística textual o análisis del discurso\.
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 32
 P\. 32
 
 Categorización\. Qué es categorizar? Dicha comprensión de la realidad es posible a partir de un conjunto de operaciones cognitivas complejas, y al mismo tiempo elementales, que denominaremos __categorización__\. La categorización es un mecanismo organizacional de la información obtenida a partir de la aprehensión de la realidad, que es, en si misma, variada y multiforme\. La categorización nos permite simplificar la infinitud de lo real a partir de dos procedimientos elementales de signo contrario o, mejor dicho, complementarios: __la generalización o abstracción y la discriminización__\.
@@ -230,6 +278,8 @@ Putnam 1990:122 habla de “*descontar las diferencias de creencias*”, que aun
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\.__ Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 32
 P\. 32
 
  Mediante la *categorización* agrupamos elementos diferentes en conjuntos, lo cual nos permite pensar, percibir, actuar e incluso hablar\. Dicha categorización tiene unas bases comunes a todo el género humano\.
@@ -238,6 +288,8 @@ P\. 32
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 33
 P\. 33\-35
 
  Sin embargo, la cuestión fundamental no es tanto qué es categorizar sino cómo se lleva a cabo dicho proceso mental inconsciente y cuál es la estructura interna de las categorías resultantes\.
@@ -246,6 +298,8 @@ P\. 33\-35
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 35
 P\. 35\-36
 
 La pertenencia de un elemento a una categoría se establece a partir del grado se similitud con el prototipo, aunque los atributos comunes entre el elemento en cuestión y el prototipo no deben entenderse como condiciones necesarias y suficientes de toda categoría\. Las categorías que se pueden definir por condición necesarias y suficientes no son más que un grupo, y aun reducido, de las categorías existentes\.
@@ -254,6 +308,8 @@ La pertenencia de un elemento a una categoría se establece a partir del grado s
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.
 
+
+## 36
 P\. 36
 
  Cuando hablamos de __prototipo __estamos concretando una abstracción que realmente remite a los juicios sobre el grado de prototipicidad\. El prototipo no sería más que un fenómeno de superficie que toma diferentes formas según la categoría que estudiamos; es, básicamente, el producto de nuestras representaciones mentales del mundo, de __*nuestros modelos cognitivos idealizados*__… \(simplificaciones y comprensiones esquemáticas de la realidad percibida\), no respecto al mundo real o al conocimiento que de el pueda tener un individuo\. Los efectos prototípicos surgen precisamente de interrelaciones imperfectas entre realidad y modelo cognitivo idealizado…
@@ -262,24 +318,26 @@ P\. 36
 
 __*Cuenca, M\.J\. y J\. Hilferty \(1999\)\. *__*Introducción a la lingüística cognitiva\. Barcelona\. Ariel\.*
 
+
+## 37
 *P\. 37*
 
 * *Los efectos de prototipicidad se concretan en aspectos psicológicos observables, derivados de la mayor __simplicidad cognitiva y formal de los miembros prototípicos__ \(aquellos donde encajan la realidad percibida y el modelo\): velocidad en el procesamiento, rapidez y orden en la adquisición de un determinado elemento por parte de los niños, frecuencia de aparición de un elemento en el discurso, brevedad formal \(obsérvese que las madres no prototípicas se denominan con palabras derivadas o con sintagmas que incluyen un adjetivo\), etc\.
 
  Otro concepto que modifica o, mejor dicho, enriquece la teoría de prototipos tal y como se formuló inicialmente, es el de __semejanza de familia__, que se ha tomado de Ludwing Wittgenstein\. Para Wittgenstein de las *Investigaciones filosóficas*, las categorías no son discretas y absolutas, como establecía la tradición filosófica aristotélica, sino difusas y contingentes\. La relación entre miembros de una categoría es como existe entre los miembros de una familia: María se parece a su madre y ésta se parece a su padre —el abuelo de María—, pero María y su abuelo materno no tienen por qué parecerse, puesto que los puntos de contacto entre las tres generaciones pueden ser distintos\.
 
-
-## 38
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona: Ariel\.
 
+
+## 38
 P\. 38
 
  Trasladando el concepto de semejanza de familia a la teoría de prototipos resulta que las líneas de asociación entre los miembros de una categoría no se establecen necesariamente entre ejemplares de la entidad y el prototipo, sino que es posible que un elemento se integre en la categoría de semejanza con otro que, éste sí, tenga algún atributo común con la imagen mental del prototipo\. No es necesario que todos los miembros de una categoría tenga algún atributo común entre sí, ni tan siquiera algún atributo común con el prototipo, sino que las posibilidades asociativas son múltiples\. Pesemos el el concepto de *madre \.*\.\. *madre política*\. De hecho, la *suegra* no es madre de la persona con la que mantiene dicha relación de parentesco por ninguno de los rasgos que definen la maternidad\. La posibilidad de denominarla *madre* —con una base probablemente”eufemística”, eso sí— sólo puede atribuirse a una relación de semejanza de familia, una suerte de propiedad transitiva por la que la madre del consorte pasa a entenderse como madre de uno \(más o menos “periférica” según el caso\) o, al menos, pasa a denominarse así\.
 
-
-## 40
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona: Ariel\.
 
+
+## 40
 P\. 40
 
  Los efectos de prototipicidad no sólo se constatan con pruebas psicológicas, como el listado de atributos asociados por el hablante a un elemento o clase o puntuación relativa de ejemplos de la misma categoría \(una puntuación relativa de acuerdo con el distinto grado de representatividad\), sino que también se puede observar en el lenguaje natural\. Así, cuando queremos destacar que un elemento es prototípico en su categoría, solemos utilizar expresiones de intensivas como “esto es chocolate chocolate”, como si existiera un “chocolate que no es chocolate”; por otro lado, se ha observado el uso que explican la no correspondencia exacta entre un elemento y el prototipo de la categoría a la cual pertenece, como “en sentido estricto”, “desde un punto de vista científico”, “técnicamente hablando”, “en términos generales”, “aproximadamente”, etc\. Así, podemos decir \(2a\), pero no tiene sentido \(2b\), dado que una gallina sí que es un miembro prototípico de la categoría ave:
@@ -290,10 +348,10 @@ P\. 40
 
 Pruebas como ésta demuestran que *pingüino y gallina*, aunque científicamente son aves, no se conciben como miembros igualmente representativos de tal categoría\.
 
-
-## 74
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona: Ariel\.
 
+
+## 74
 P\. 74 
 
 Modelos cognitivos idealizados
@@ -302,6 +360,8 @@ Modelos cognitivos idealizados
 
 __Cuenca, M\.J\. y J\. Hilferty \(1999\)\. __Introducción a la lingüística cognitiva\. Barcelona: Ariel\.
 
+
+## 75
 P\. 75
 
  La cuestión central … es que los efectos de prototipicidad parecen provenir de la falta de “ajuste” que puede existir entre una entidad categorizada y la información que contiene lo que, siguiendo a Lakoff \(1987a\), llamamos un __modelo cognitivo idealizado__\. … Puesto que esos esquemas de conocimiento son fragmentos de todo el alcance de nuestro conocimiento, no siempre dan cuenta de casos especiales\. Es decir, aunque los modelos cognitivos idealizados se componen de conocimiento enciclopédico, sólo son representaciones parciales de todo lo que sabemos acerca de la organización del mundo\.
