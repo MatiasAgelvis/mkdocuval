@@ -38,7 +38,18 @@ To update the website's content, use the following command:
 bash odt_to_html.sh
 ```
 
-This script automates the conversion of odt files to HTML format, which is then used to generate the index cards in Markdown.
+This runs the main conversion pipeline:
+
+- `ODT/` is the source folder for the original `.odt` files.
+- `docusaurus_nb.py` converts each `.odt` file to `DOCX/<name>.docx` using Pandoc.
+- The same script then converts each `DOCX/` file to Markdown via Mammoth.
+- Mammoth outputs HTML inside `docs/fichas/<name>/`, and the script rewrites that into final `docs/fichas/<name>.md`.
+
+So the practical flow today is:
+
+`ODT/` → `DOCX/` → `docs/fichas/*.md`
+
+Note: the `PDF/` directory is created by the script, but the current active pipeline does not generate PDF files automatically.
 
 ### Deployment
 
