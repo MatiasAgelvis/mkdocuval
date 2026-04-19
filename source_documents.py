@@ -5,7 +5,9 @@ from pathlib import Path
 from card_models import BaseMetadata
 
 PAGE_DOT_PATTERN = r"^\s*([\*_]*[pP]\\?\.\s*[\*_]*\d+(?:\s*[-–—]\s*\d+)?(?:\s*\.)?)"
-PARENTHESIS_YEAR_PAGE_PATTERN = r"^\s*([A-ZÁÉÍÓÚÜÑ][^()]{1,180}?\(\d{4}(?:-\d{4})?\s*:\s*\(?\d+(?:['’]?(?:\s*[-–—]\s*\d+(?:['’]?)?)*)(?:\s*y\s*ss)?\)?\))"
+# Handles typical year+page citations like "PUTNAM, H. (1990:16-17)." and "PUTNAM, H. (1990:17)."
+# Rare variants such as "PUTNAM, H. (1990:13-14 y 15)." are intentionally left as tolerated mismatches.
+PARENTHESIS_YEAR_PAGE_PATTERN = r"^\s*([A-ZÁÉÍÓÚÜÑ][^()]{1,180}?\(\d{4}(?:-\d{4})?\s*:\s*\(?\d+(?:['’]?(?:\s*[-–—]\s*\d+(?:['’]?)?)*)(?:\s*y\s*ss)?\)?\)(?:\.)?)"
 
 
 @dataclass(kw_only=True)
