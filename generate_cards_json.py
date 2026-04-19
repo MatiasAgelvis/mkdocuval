@@ -8,14 +8,16 @@ import re
 import tempfile
 import warnings
 import zipfile
+from dataclasses import asdict, dataclass, field
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
+from typing import Optional
 
 import mammoth
 import pypandoc
 
-from card_models import Card, CardMetadata, ImageRef
+from card_models import BaseMetadata, Card, CardMetadata, ImageRef
 from source_documents import SourceDocumentConfig, find_source_configs
 
 SUPPORTED_INPUT_EXTENSIONS = {".odt", ".docx"}
@@ -85,6 +87,20 @@ def normalize_whitespace(text: str) -> str:
     text = text.replace("\u202F", " ")
     return text
 
+
+@dataclass(frozen=True)
+class BookGroupKey:
+    title: Optional[str]
+    author: Optional[str]
+    book: Optional[str]
+    year: Optional[str]
+
+
+@dataclass
+class BookGroup(BaseMetadata):
+    cards: list[Card] = field(default_factory=list)
+
+
 def html_to_plain_text(html: str) -> str:
     parser = HTMLTextExtractor()
     parser.feed(html)
@@ -144,6 +160,8 @@ def parse_card_marker(marker: str, config: SourceDocumentConfig) -> CardMetadata
             if page_match:
                 metadata.page = page_match.group(1)
             else:
+                # Known limitation: rare page markers like "13-14 y 15" are not parsed here.
+                # These cases are accepted as tolerable mismatches to keep the parser simpler.
                 page_match = re.search(r":\s*\(?\s*(\d+(?:-\d+)?)(?:\s*y\s*ss)?(?:\D|$)", marker)
                 if page_match:
                     metadata.page = page_match.group(1)
@@ -264,17 +282,27 @@ def main() -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     image_root.mkdir(parents=True, exist_ok=True)
 
-    cards: list[Card] = []
+    books: list[BookGroup] = []
+    group_index: dict[BookGroupKey, BookGroup] = {}
+    total_cards = 0
+
     for config, source_path in source_configs:
         if args.verbose:
             print(f"Processing {source_path}")
-        cards.extend(build_cards_for_source(source_path, config, image_root))
+        for card in build_cards_for_source(source_path, config, image_root):
+            key = BookGroupKey(card.title, card.author, card.book, card.year)
+            if key not in group_index:
+                group = BookGroup(card.title, card.author, card.book, card.year)
+                books.append(group)
+                group_index[key] = group
+            group_index[key].cards.append(card)
+            total_cards += 1
 
-    output_data = {"cards": [card.to_dict() for card in cards]}
+    output_data = {"books": [asdict(group) for group in books]}
     output_path.write_text(json.dumps(output_data, ensure_ascii=False, indent=2), encoding="utf-8")
 
     if args.verbose:
-        print(f"Wrote {len(cards)} cards to {output_path}")
+        print(f"Wrote {total_cards} cards to {output_path}")
         print(f"Images stored under {image_root}")
 
 
