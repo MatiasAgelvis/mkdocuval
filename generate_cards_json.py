@@ -17,7 +17,7 @@ from typing import Optional
 import mammoth
 import pypandoc
 
-from card_models import BaseMetadata, Card, CardMetadata, ImageRef
+from card_models import BaseMetadata, Card, ImageRef
 from source_documents import SourceDocumentConfig, find_source_configs
 
 SUPPORTED_INPUT_EXTENSIONS = {".odt", ".docx"}
@@ -101,6 +101,14 @@ class BookGroup(BaseMetadata):
     cards: list[Card] = field(default_factory=list)
 
 
+@dataclass
+class CardSection:
+    content: str
+    marker: Optional[str] = None
+    page: Optional[str] = None
+    year: Optional[str] = None
+
+
 def html_to_plain_text(html: str) -> str:
     parser = HTMLTextExtractor()
     parser.feed(html)
@@ -139,43 +147,17 @@ def extract_text_and_images_from_docx_bytes(docx_bytes: bytes, image_dir: Path) 
     return text, images
 
 
-def parse_card_marker(marker: str, config: SourceDocumentConfig) -> CardMetadata:
-    metadata = CardMetadata(
-        title=config.title,
-        author=config.author,
-        book=config.book,
-        year=config.year,
-        page=config.extra.get("page"),
-        raw_marker=marker.strip() if marker else None,
-    )
+def normalize_capture(value: Optional[str]) -> Optional[str]:
+    if value is None:
+        return None
 
-    if marker:
-        if not metadata.year:
-            year_match = re.search(r"\b(\d{4}(?:-\d{4})?)\b", marker)
-            if year_match:
-                metadata.year = year_match.group(1)
-
-        if not metadata.page:
-            page_match = re.search(r"[pP]\.?\s*(\d+(?:-\d+)?)", marker)
-            if page_match:
-                metadata.page = page_match.group(1)
-            else:
-                # Known limitation: rare page markers like "13-14 y 15" are not parsed here.
-                # These cases are accepted as tolerable mismatches to keep the parser simpler.
-                page_match = re.search(r":\s*\(?\s*(\d+(?:-\d+)?)(?:\s*y\s*ss)?(?:\D|$)", marker)
-                if page_match:
-                    metadata.page = page_match.group(1)
-
-        if not metadata.title:
-            cleaned = re.sub(r"\(?\d{4}(?:-\d{4})?\)?", "", marker)
-            cleaned = re.sub(r"[pP]\.?\s*\d+(?:-\d+)?", "", cleaned)
-            cleaned = re.sub(r"[()\[\]]", "", cleaned).strip(" :-–—")
-            metadata.title = cleaned or config.title
-
-    return metadata
+    normalized = value.strip()
+    if normalized.startswith("(") and normalized.endswith(")"):
+        normalized = normalized[1:-1].strip()
+    return normalized or None
 
 
-def split_text_into_cards(text: str, config: SourceDocumentConfig) -> list[tuple[str, str]]:
+def split_text_into_cards(text: str, config: SourceDocumentConfig) -> list[CardSection]:
     regex = re.compile(config.split_pattern, flags=re.IGNORECASE | re.MULTILINE)
     matches = list(regex.finditer(text))
     if not matches:
@@ -183,19 +165,27 @@ def split_text_into_cards(text: str, config: SourceDocumentConfig) -> list[tuple
             f"Split pattern did not match any markers for {config.filename!r}. "
             "Treating document as a single card. Check the regex pattern."
         )
-        return [("", text.strip())]
+        return [CardSection(content=text.strip())]
 
-    cards: list[tuple[str, str]] = []
+    cards: list[CardSection] = []
     for index, match in enumerate(matches):
-        marker = match.group(1)
+        groups = match.groupdict()
+        marker = normalize_capture(groups.get("marker")) or match.group(0).strip()
         start = match.end()
         end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
-        cards.append((marker, text[start:end].strip()))
+        cards.append(
+            CardSection(
+                marker=marker,
+                page=normalize_capture(groups.get("page")),
+                year=normalize_capture(groups.get("year")),
+                content=text[start:end].strip(),
+            )
+        )
 
     if matches[0].start() > 0:
         preamble = text[: matches[0].start()].strip()
         if preamble:
-            cards[0] = (cards[0][0], f"{preamble}\n\n{cards[0][1]}")
+            cards[0].content = f"{preamble}\n\n{cards[0].content}"
 
     return cards
 
@@ -214,23 +204,22 @@ def build_cards_for_source(source_path: Path, config: SourceDocumentConfig, imag
 
     cards: list[Card] = []
     base_id = slugify(Path(config.filename).stem)
-    for index, (marker, content) in enumerate(sections, start=1):
-        metadata = parse_card_marker(marker, config)
+    for index, section in enumerate(sections, start=1):
         card_id = base_id if len(sections) == 1 else f"{base_id}-{index}"
         card_images = [
             image for image in images
-            if image.placeholder_id is not None and f"[[IMAGE:{image.placeholder_id}]]" in content
+            if image.placeholder_id is not None and f"[[IMAGE:{image.placeholder_id}]]" in section.content
         ]
         cards.append(
             Card(
                 id=card_id,
-                title=metadata.title,
-                author=metadata.author,
-                book=metadata.book,
-                year=metadata.year,
-                page=metadata.page,
-                raw_marker=metadata.raw_marker,
-                content=content,
+                title=config.title,
+                author=config.author,
+                book=config.book,
+                year=section.year or config.year,
+                page=section.page or config.extra.get("page"),
+                raw_marker=section.marker,
+                content=section.content,
                 source_path=str(source_path.as_posix()),
                 source_format=source_path.suffix.lower().lstrip("."),
                 images=card_images,
