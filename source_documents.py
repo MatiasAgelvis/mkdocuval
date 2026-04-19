@@ -4,10 +4,17 @@ from pathlib import Path
 
 from card_models import BaseMetadata
 
-PAGE_DOT_PATTERN = r"^\s*([\*_]*[pP]\\?\.\s*[\*_]*\d+(?:\s*[-–—]\s*\d+)?(?:\s*\.)?)"
-# Handles typical year+page citations like "PUTNAM, H. (1990:16-17)." and "PUTNAM, H. (1990:17)."
-# Rare variants such as "PUTNAM, H. (1990:13-14 y 15)." are intentionally left as tolerated mismatches.
-PARENTHESIS_YEAR_PAGE_PATTERN = r"^\s*([A-ZÁÉÍÓÚÜÑ][^()]{1,180}?\(\d{4}(?:-\d{4})?\s*:\s*\(?\d+(?:['’]?(?:\s*[-–—]\s*\d+(?:['’]?)?)*)(?:\s*y\s*ss)?\)?\)(?:\.)?)"
+PAGE_DOT_PATTERN = r"^\s*(?P<marker>[\*_]*[pP]\\?\.\s*[\*_]*(?P<page>\d+(?:\s*[-–—]\s*\d+)?)(?:\s*\.)?)"
+# Handles typical year+page citations like "PUTNAM, H. (1990:16-17)." and variants such as
+# "PUTNAM, H. (1990:13-14 y 15)." by capturing the page text exactly as matched.
+PARENTHESIS_YEAR_PAGE_PATTERN = r"^\s*(?P<marker>[A-ZÁÉÍÓÚÜÑ][^()]{1,180}?\((?P<year>\d{4}(?:-\d{4})?)\s*:\s*(?P<page>\(?[^)\n]+?\)?)\)(?:\.)?)"
+# Levinson 2004 mixes markers like "LEVINSON, S. C. (2004:30)." with
+# "LEVINSON, S. (2004 (2000): 31)." and also contains in-body citations that
+# should not be treated as split markers.
+LEVINSON_2004_PATTERN = r"^\s*(?P<marker>LEVINSON,\s*S\.(?:\s*C\.)?\s*\((?P<year>\d{4})(?:\s*\(\d{4}\))?\s*:\s*(?P<page>\d+(?:[’'])?(?:\s*[-–—]\s*\d+(?:[’'])?)?)\)?(?:\.)?)"
+# Warnock mixes standalone page lines with running headers such as
+# "Truth p.43" and "Conocimiento y otras mentes p. 25".
+WARNOCK_PAGE_PATTERN = r"^\s*(?:[^\n]{0,80}?\s+)?(?P<marker>[Pp]\.?\s*(?P<page>\d+(?:\s*[-–—]\s*\d+)?))(?:\s+[^\n]{0,80})?\s*$"
 
 
 @dataclass(kw_only=True)
@@ -100,7 +107,7 @@ class SourceDocument(Enum):
     )
     LEVINSON_2004 = SourceDocumentConfig(
         filename="Levinson 2004 Significados presumibles.odt",
-        split_pattern=PARENTHESIS_YEAR_PAGE_PATTERN,
+        split_pattern=LEVINSON_2004_PATTERN,
         title="Significados presumibles",
         author="Levinson",
         book="Significados presumibles",
@@ -180,7 +187,7 @@ class SourceDocument(Enum):
     )
     RORTY_1991 = SourceDocumentConfig(
         filename="Rorty 1991 Contigengencia, ironía y solidaridad.odt",
-        split_pattern=PAGE_DOT_PATTERN,
+        split_pattern=PARENTHESIS_YEAR_PAGE_PATTERN,
         title="Contigengencia, ironía y solidaridad",
         author="Rorty",
         book="Contigengencia, ironía y solidaridad",
@@ -204,7 +211,7 @@ class SourceDocument(Enum):
     )
     WARNOCK_1989 = SourceDocumentConfig(
         filename="Warnock 1989 J.L. Austin.odt",
-        split_pattern=PAGE_DOT_PATTERN,
+        split_pattern=WARNOCK_PAGE_PATTERN,
         title="J.L. Austin",
         author="Warnock",
         book="J.L. Austin",
