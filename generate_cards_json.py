@@ -37,7 +37,7 @@ def convert_odt_to_docx_bytes(odt_path: Path) -> bytes:
 def extract_raw_text_from_docx_bytes(docx_bytes: bytes) -> str:
     with io.BytesIO(docx_bytes) as docx_file:
         result = mammoth.extract_raw_text(docx_file)
-    return result.value
+    return normalize_whitespace(result.value)
 
 
 def get_image_extension(content_type: str) -> str:
@@ -73,11 +73,17 @@ class HTMLTextExtractor(HTMLParser):
 
     def get_text(self) -> str:
         text = unescape("".join(self.parts))
+        text = normalize_whitespace(text)
         text = re.sub(r"[ \t]+", " ", text)
         text = re.sub(r"(?:\n[ \t]*){2,}", "\n\n", text)
         text = re.sub(r" *\n *", "\n", text)
         return text.strip()
 
+
+def normalize_whitespace(text: str) -> str:
+    text = text.replace("\u00A0", " ")
+    text = text.replace("\u202F", " ")
+    return text
 
 def html_to_plain_text(html: str) -> str:
     parser = HTMLTextExtractor()
